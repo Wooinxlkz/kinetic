@@ -138,6 +138,7 @@ function TextSlot({
                   key={index}
                   custom={index * CASCADE_STAGGER}
                   variants={CASCADE_LETTER_VARIANTS}
+                  style={{ y: "0%" }}
                   className="inline-block whitespace-pre will-change-[opacity,filter,transform]"
                 >
                   {char}

@@ -1,1 +1,11 @@
-{"version":4,"routes":{"/components/motion":{},"/components/blocks":{}},"dynamicRoutes":{"/components/[category]":{"dataRoute":null,"dataRouteRegex":null,"fallback":null,"fallbackRevalidate":false,"fallbackSourceRoute":"/components/[category]","routeRegex":"^\\/components\\/([^/]+?)(?:\\/)?$","allowHeader":[]}},"notFoundRoutes":[],"preview":{"previewModeId":"88aed5f1655620575fdd7630ba77ad1c","previewModeSigningKey":"dd6c00f0967d54a0a711a97cadfdd5ffa487d338210863e2a2459dd0b29642fc","previewModeEncryptionKey":"da7a49a77554de979e7221e6beffa4ced5ab798490bc136c56ffe30c390d5b64"}}
+{
+  "version": 4,
+  "routes": {},
+  "dynamicRoutes": {},
+  "notFoundRoutes": [],
+  "preview": {
+    "previewModeId": "a508a37a359fef8cc81eb03dc8c4f1af",
+    "previewModeSigningKey": "060d3914403f213e2882b1edd32282c8f3bdc7b9cad17b8806dec6795633e7fa",
+    "previewModeEncryptionKey": "724b1453cd9bac4047f84880b25ec5b91f5796442bf15d2030ba60fd3460c1e6"
+  }
+}

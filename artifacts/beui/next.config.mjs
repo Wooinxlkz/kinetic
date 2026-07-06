@@ -83,6 +83,8 @@ const LEGACY_COMPONENT_REDIRECTS = [
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
+  // Hide the Next.js dev overlay indicator button from the UI.
+  devIndicators: false,
   // Force webpack to process motion (and its framer-motion dep) through its
   // own pipeline instead of treating it as a pre-compiled external. This gives
   // webpack a single unified React reference and produces proper vendor chunks,
