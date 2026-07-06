@@ -118,8 +118,8 @@ export default async function RootLayout({ children }: { children: React.ReactNo
             </main>
             <SiteDock />
             <PreferencesPanel />
-            {process.env.NODE_ENV === "production" && <Analytics />}
-            {process.env.NODE_ENV === "production" && <SpeedInsights />}
+            {process.env.NEXT_PUBLIC_VERCEL_ENV && <Analytics />}
+            {process.env.NEXT_PUBLIC_VERCEL_ENV && <SpeedInsights />}
             <GoogleAnalytics measurementId={googleAnalyticsId} />
           </PreferencesProvider>
         </ThemeProvider>

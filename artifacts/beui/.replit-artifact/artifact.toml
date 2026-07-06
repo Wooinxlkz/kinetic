@@ -11,7 +11,7 @@ paths = [ "/" ]
 localPort = 19069
 
 [services.development]
-run = "pnpm --filter @workspace/beui run dev"
+run = "pnpm --filter @workspace/beui run build && pnpm --filter @workspace/beui run start"
 
 [services.production]
 build = [ "pnpm", "--filter", "@workspace/beui", "run", "build" ]
