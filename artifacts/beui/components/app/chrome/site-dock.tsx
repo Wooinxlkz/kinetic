@@ -116,8 +116,8 @@ export function SiteDock() {
               wrapperClassName="h-full w-full items-center justify-center"
             >
               <ThemeToggle
-                variant="rectangle"
-                start="bottom-up"
+                variant="circle"
+                start="bottom-right"
                 className="flex h-full w-full items-center justify-center"
                 iconClassName="h-4 w-4"
               />

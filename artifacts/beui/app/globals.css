@@ -212,6 +212,24 @@
         overflow-x: clip;
         -webkit-font-smoothing: antialiased;
         text-rendering: optimizeLegibility;
+        /* Smooth color fallback when View Transition API is not active.
+           VT suspends CSS transitions during its own animation so this
+           never double-plays — it only fires on browsers/paths without VT. */
+        transition: background-color 0.25s ease, color 0.25s ease;
+    }
+    /* Extend the smooth color transition to common surface elements so cards,
+       borders, and muted text also cross-fade instead of snapping. */
+    *:where(:not([data-beui-vt] *)) {
+        transition-property: background-color, border-color, color;
+        transition-duration: 0.25s;
+        transition-timing-function: ease;
+    }
+    /* Never let the color transition fight motion/transform animations. */
+    [style*="transform"],
+    [style*="will-change"],
+    .will-change-transform,
+    .will-change-\[opacity\,filter\,transform\] {
+        transition-property: background-color, border-color, color;
     }
     ::selection {
         background: color-mix(in oklch, var(--accent) 30%, transparent);
