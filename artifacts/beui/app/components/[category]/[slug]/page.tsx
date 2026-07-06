@@ -60,7 +60,7 @@ export async function generateMetadata({
     : `/${comp.slug}.json`;
 
   const title = `${comp.name} · React motion component`;
-  const ogTitle = `${title} · beUI`;
+  const ogTitle = `${title} · Kinetic UI`;
   const pageUrl = `/components/${cat.slug}/${comp.slug}`;
   const imageUrl = `/api/og?component=${comp.slug}`;
   const keywords = componentKeywords(cat, comp);
@@ -75,7 +75,7 @@ export async function generateMetadata({
       description: metaDescription,
       url: pageUrl,
       type: "article",
-      siteName: "beUI",
+      siteName: "Kinetic UI",
       images: [
         {
           url: imageUrl,
@@ -137,7 +137,7 @@ export default async function ComponentPage({
       <JsonLd
         data={[
           breadcrumbJsonLd([
-            { name: "beUI", path: "/" },
+            { name: "Kinetic UI", path: "/" },
             { name: cat.name, path: `/components/${cat.slug}` },
             { name: comp.name, path: `/components/${cat.slug}/${comp.slug}` },
           ]),

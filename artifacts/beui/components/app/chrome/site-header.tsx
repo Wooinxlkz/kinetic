@@ -64,7 +64,7 @@ export function SiteHeader({
             className="group flex items-center gap-2.5 text-sm font-semibold tracking-tight text-foreground"
           >
             <Image
-              src="/beui-mark.png"
+              src="/kinetic-mark.svg"
               alt=""
               aria-hidden="true"
               width={24}
@@ -72,7 +72,7 @@ export function SiteHeader({
               priority
               className="h-6 w-6 rounded-lg"
             />
-            <span>beUI</span>
+            <span>Kinetic UI</span>
           </Link>
           <nav className="hidden items-center gap-0.5 md:flex">
             <Link

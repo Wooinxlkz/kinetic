@@ -7,20 +7,20 @@ import { THEME_CSS } from "@/lib/theme-css";
 export const metadata: Metadata = {
   title: "Theme setup",
   description:
-    "One-time theme setup for beUI components: install the shadcn token layer, or paste the beUI theme CSS into your globals.css.",
+    "One-time theme setup for Kinetic UI components: install the shadcn token layer, or paste the Kinetic UI theme CSS into your globals.css.",
   alternates: { canonical: "/docs/theme" },
   openGraph: {
-    title: "Theme setup · beUI",
+    title: "Theme setup · Kinetic UI",
     description:
-      "One-time theme setup for beUI components: shadcn tokens or the beUI theme CSS.",
+      "One-time theme setup for Kinetic UI components: shadcn tokens or the Kinetic UI theme CSS.",
     url: "/docs/theme",
     type: "article",
-    siteName: "beUI",
+    siteName: "Kinetic UI",
     images: ["/api/og"],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Theme setup · beUI",
+    title: "Theme setup · Kinetic UI",
     images: ["/api/og"],
   },
 };

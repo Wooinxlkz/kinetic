@@ -4,22 +4,22 @@ import { MotionPatterns } from "./motion-patterns";
 export const metadata: Metadata = {
   title: "Motion Patterns",
   description:
-    "The motion tokens and patterns behind beUI: easing, springs and timing used across every component.",
+    "The motion tokens and patterns behind Kinetic UI: easing, springs and timing used across every component.",
   alternates: {
     canonical: "/docs/motion-patterns",
   },
   openGraph: {
-    title: "Motion Patterns · beUI",
+    title: "Motion Patterns · Kinetic UI",
     description:
-      "The motion tokens and patterns behind beUI: easing, springs and timing used across every component.",
+      "The motion tokens and patterns behind Kinetic UI: easing, springs and timing used across every component.",
     url: "/docs/motion-patterns",
     type: "article",
-    siteName: "beUI",
+    siteName: "Kinetic UI",
     images: ["/api/og"],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Motion Patterns · beUI",
+    title: "Motion Patterns · Kinetic UI",
     images: ["/api/og"],
   },
 };

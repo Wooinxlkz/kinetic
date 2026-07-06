@@ -8,10 +8,10 @@ import {
 import { SITE_URL } from "@/lib/site";
 
 export const SITE = SITE_URL;
-export const SITE_NAME = "beUI";
-export const SITE_TAGLINE = "The motion toolkit for React & Next.js";
+export const SITE_NAME = "Kinetic UI";
+export const SITE_TAGLINE = "The UI component toolkit for React & Next.js";
 export const SITE_DESCRIPTION =
-  "The motion toolkit for React and Next.js. Free, open-source, shadcn-compatible components built on Framer Motion and Tailwind CSS. Copy-paste the source or install with the shadcn CLI.";
+  "The UI component toolkit for React and Next.js. Free, open-source, shadcn-compatible components built on Framer Motion and Tailwind CSS. Copy-paste the source or install with the shadcn CLI.";
 export const AUTHOR = "Saurabh";
 
 const abs = (path: string) => (path.startsWith("http") ? path : `${SITE}${path}`);
@@ -37,7 +37,7 @@ const BASE_KEYWORDS = [
   "best framer motion components",
   "Tailwind CSS component",
   "shadcn registry",
-  "beUI",
+  "Kinetic UI",
 ];
 
 /**
@@ -91,14 +91,14 @@ export function siteJsonLd(): JsonLdSchema[] {
       name: SITE_NAME,
       url: SITE,
       slogan: SITE_TAGLINE,
-      logo: abs("/beui-mark.png"),
+      logo: abs("/kinetic-mark.svg"),
     },
     {
       "@context": "https://schema.org",
       "@type": "SoftwareApplication",
       "@id": `${SITE}/#app`,
       name: SITE_NAME,
-      alternateName: "beUI motion toolkit",
+      alternateName: "Kinetic UI component toolkit",
       slogan: SITE_TAGLINE,
       description: SITE_DESCRIPTION,
       url: SITE,

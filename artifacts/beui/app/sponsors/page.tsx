@@ -6,20 +6,20 @@ import { PressLink } from "@/components/app/press-link";
 export const metadata: Metadata = {
   title: "Sponsors",
   description:
-    "Support beUI's development through GitHub Sponsors or directly with crypto.",
+    "Support Kinetic UI's development through GitHub Sponsors or directly with crypto.",
   alternates: { canonical: "/sponsors" },
   openGraph: {
-    title: "Sponsors · beUI",
+    title: "Sponsors · Kinetic UI",
     description:
-      "Support beUI's development through GitHub Sponsors or directly with crypto.",
+      "Support Kinetic UI's development through GitHub Sponsors or directly with crypto.",
     url: "/sponsors",
     type: "website",
-    siteName: "beUI",
+    siteName: "Kinetic UI",
     images: ["/api/og"],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Sponsors · beUI",
+    title: "Sponsors · Kinetic UI",
     images: ["/api/og"],
   },
 };
@@ -56,10 +56,10 @@ export default function SponsorsPage() {
         Sponsors
       </p>
       <h1 className="mt-2 text-3xl font-semibold tracking-tight text-foreground">
-        Support beUI
+        Support Kinetic UI
       </h1>
       <p className="mt-3 text-muted-foreground">
-        beUI is free and open source. If it's saved you time, consider
+        Kinetic UI is free and open source. If it's saved you time, consider
         supporting its development.
       </p>
 

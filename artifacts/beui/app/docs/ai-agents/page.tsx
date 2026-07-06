@@ -6,20 +6,20 @@ import { CodeBlock } from "@/components/app/docs/code-block";
 export const metadata: Metadata = {
   title: "AI Agents",
   description:
-    "Connect the beUI MCP server, or use the agent-friendly endpoints (llms.txt, JSON registry, raw source) to consume components programmatically.",
+    "Connect the Kinetic UI MCP server, or use the agent-friendly endpoints (llms.txt, JSON registry, raw source) to consume components programmatically.",
   alternates: { canonical: "/docs/ai-agents" },
   openGraph: {
-    title: "AI Agents · beUI",
+    title: "AI Agents · Kinetic UI",
     description:
-      "Connect the beUI MCP server, or use the agent-friendly endpoints (llms.txt, JSON registry, raw source) to consume components programmatically.",
+      "Connect the Kinetic UI MCP server, or use the agent-friendly endpoints (llms.txt, JSON registry, raw source) to consume components programmatically.",
     url: "/docs/ai-agents",
     type: "article",
-    siteName: "beUI",
+    siteName: "Kinetic UI",
     images: ["/api/og"],
   },
   twitter: {
     card: "summary_large_image",
-    title: "AI Agents · beUI",
+    title: "AI Agents · Kinetic UI",
     images: ["/api/og"],
   },
 };

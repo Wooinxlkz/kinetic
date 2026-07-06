@@ -4,7 +4,7 @@ import { SITE_DESCRIPTION, SITE_NAME } from "@/lib/seo";
 export default function manifest(): MetadataRoute.Manifest {
   return {
     name: SITE_NAME,
-    short_name: "beUI",
+    short_name: "Kinetic UI",
     description: SITE_DESCRIPTION,
     start_url: "/",
     display: "standalone",
@@ -12,9 +12,9 @@ export default function manifest(): MetadataRoute.Manifest {
     theme_color: "#151515",
     icons: [
       {
-        src: "/beui-mark.png",
+        src: "/kinetic-mark.svg",
         sizes: "any",
-        type: "image/png",
+        type: "image/svg+xml",
         purpose: "any",
       },
     ],

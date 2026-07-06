@@ -26,8 +26,8 @@ export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   applicationName: SITE_NAME,
   title: {
-    default: "beUI · The motion toolkit for React & Next.js",
-    template: "%s · beUI",
+    default: "Kinetic UI · The UI component toolkit for React & Next.js",
+    template: "%s · Kinetic UI",
   },
   description: SITE_DESCRIPTION,
   authors: [{ name: AUTHOR, url: "https://github.com/starc007" }],
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "beUI · The motion toolkit for React & Next.js",
+    title: "Kinetic UI · The UI component toolkit for React & Next.js",
     description: SITE_DESCRIPTION,
     type: "website",
     url: "/",
@@ -55,13 +55,13 @@ export const metadata: Metadata = {
         url: "/api/og",
         width: 1200,
         height: 630,
-        alt: "beUI · The motion toolkit for React & Next.js",
+        alt: "Kinetic UI · The UI component toolkit for React & Next.js",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "beUI · The motion toolkit for React & Next.js",
+    title: "Kinetic UI · The UI component toolkit for React & Next.js",
     description: SITE_DESCRIPTION,
     images: ["/api/og"],
   },
@@ -102,7 +102,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
   return (
     <html lang="en" suppressHydrationWarning className={cn(inter.variable, mono.variable, pixel.variable)}>
       <head>
-        <link rel="icon" type="image/png" href="/beui-mark.png" />
+        <link rel="icon" type="image/svg+xml" href="/kinetic-mark.svg" />
         <link rel="alternate" type="text/plain" title="llms.txt" href="/llms.txt" />
         <link rel="alternate" type="application/json" title="Component registry" href="/r" />
         <link rel="alternate" type="application/json" title="shadcn registry" href="/registry.json" />

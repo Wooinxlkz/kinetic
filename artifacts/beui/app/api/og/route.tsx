@@ -13,7 +13,7 @@ export async function GET(request: Request) {
     : undefined;
   const category =
     component?.category ?? (categorySlug ? findCategory(categorySlug) : undefined);
-  const title = component?.name ?? (category ? `${category.name} components` : "beUI");
+  const title = component?.name ?? (category ? `${category.name} components` : "Kinetic UI");
   const description =
     component?.description ??
     category?.description ??
