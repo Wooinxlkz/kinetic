@@ -1,0 +1,1 @@
+- [pnpm + Next.js motion fix](pnpm-nextjs-motion.md) — motion@11 vendor chunks fail under pnpm symlinks; fix with transpilePackages + allowedDevOrigins.

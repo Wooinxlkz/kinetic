@@ -1,0 +1,22 @@
+kind = "web"
+previewPath = "/"
+title = "beui — UI Components"
+version = "1.0.0"
+id = "artifacts/beui"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 19069
+
+[services.development]
+run = "pnpm --filter @workspace/beui run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/beui", "run", "build" ]
+run = "pnpm --filter @workspace/beui run start"
+
+[services.env]
+PORT = "19069"
+BASE_PATH = "/"
