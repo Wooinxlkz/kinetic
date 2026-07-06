@@ -1,0 +1,14 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "sq1FIHGsqNKtqLpvX5Fap"
+uri = "file://attached_assets/kinetic-logo-v1.png"
+type = "image"
+title = "kinetic K logo bold italic dark rounded square"
+
+[[generated]]
+id = "JswKePZwg01Hq6lwRiXBN"
+uri = "file://attached_assets/kinetic-logo-v2.png"
+type = "image"
+title = "kinetic K logo clean rounded dark app icon"

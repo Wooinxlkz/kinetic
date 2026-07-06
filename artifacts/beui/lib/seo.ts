@@ -91,7 +91,7 @@ export function siteJsonLd(): JsonLdSchema[] {
       name: SITE_NAME,
       url: SITE,
       slogan: SITE_TAGLINE,
-      logo: abs("/kinetic-mark.svg"),
+      logo: abs("/kinetic-mark.png"),
     },
     {
       "@context": "https://schema.org",

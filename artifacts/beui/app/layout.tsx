@@ -102,7 +102,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
   return (
     <html lang="en" suppressHydrationWarning className={cn(inter.variable, mono.variable, pixel.variable)}>
       <head>
-        <link rel="icon" type="image/svg+xml" href="/kinetic-mark.svg" />
+        <link rel="icon" type="image/png" href="/kinetic-mark.png" />
         <link rel="alternate" type="text/plain" title="llms.txt" href="/llms.txt" />
         <link rel="alternate" type="application/json" title="Component registry" href="/r" />
         <link rel="alternate" type="application/json" title="shadcn registry" href="/registry.json" />

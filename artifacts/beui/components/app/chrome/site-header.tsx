@@ -64,7 +64,7 @@ export function SiteHeader({
             className="group flex items-center gap-2.5 text-sm font-semibold tracking-tight text-foreground"
           >
             <Image
-              src="/kinetic-mark.svg"
+              src="/kinetic-mark.png"
               alt=""
               aria-hidden="true"
               width={24}
