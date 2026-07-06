@@ -1,11 +1,1 @@
-{
-  "version": 4,
-  "routes": {},
-  "dynamicRoutes": {},
-  "notFoundRoutes": [],
-  "preview": {
-    "previewModeId": "88aed5f1655620575fdd7630ba77ad1c",
-    "previewModeSigningKey": "dd6c00f0967d54a0a711a97cadfdd5ffa487d338210863e2a2459dd0b29642fc",
-    "previewModeEncryptionKey": "da7a49a77554de979e7221e6beffa4ced5ab798490bc136c56ffe30c390d5b64"
-  }
-}
+{"version":4,"routes":{"/components/motion":{},"/components/blocks":{}},"dynamicRoutes":{"/components/[category]":{"dataRoute":null,"dataRouteRegex":null,"fallback":null,"fallbackRevalidate":false,"fallbackSourceRoute":"/components/[category]","routeRegex":"^\\/components\\/([^/]+?)(?:\\/)?$","allowHeader":[]}},"notFoundRoutes":[],"preview":{"previewModeId":"88aed5f1655620575fdd7630ba77ad1c","previewModeSigningKey":"dd6c00f0967d54a0a711a97cadfdd5ffa487d338210863e2a2459dd0b29642fc","previewModeEncryptionKey":"da7a49a77554de979e7221e6beffa4ced5ab798490bc136c56ffe30c390d5b64"}}

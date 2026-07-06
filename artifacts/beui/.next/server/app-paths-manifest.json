@@ -1,3 +1,6 @@
 {
-  "/page": "app/page.js"
+  "/page": "app/page.js",
+  "/playground/page": "app/playground/page.js",
+  "/components/[category]/page": "app/components/[category]/page.js",
+  "/sponsors/page": "app/sponsors/page.js"
 }
