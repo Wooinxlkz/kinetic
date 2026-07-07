@@ -24,8 +24,8 @@ export async function GET(request: Request) {
       ? category.name
       : "Motion components";
   const command = component
-    ? `npx shadcn add @beui/${component.slug}`
-    : "npx shadcn add @beui/...";
+    ? `npx shadcn add @kineticui/${component.slug}`
+    : "npx shadcn add @kineticui/...";
 
   return new ImageResponse(
     ogImage({ title, description, label, command }),

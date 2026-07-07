@@ -1,7 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
-  <rect width="32" height="32" rx="7" fill="#151515"/>
-  <path
-    d="M9 7h3.5v7.2l5.8-7.2H22l-6.2 7.6L22.4 25H18.6l-5.1-8.1-1 1.2V25H9V7z"
-    fill="white"
-  />
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="180" rx="40" fill="#FF3C00"/>
+  <g stroke="white" stroke-width="25" stroke-linecap="round">
+    <!-- Horizontal axis -->
+    <line x1="16" y1="90" x2="60" y2="90"/>
+    <line x1="120" y1="90" x2="164" y2="90"/>
+    <!-- 60° rotated axis -->
+    <line x1="16" y1="90" x2="60" y2="90" transform="rotate(60 90 90)"/>
+    <line x1="120" y1="90" x2="164" y2="90" transform="rotate(60 90 90)"/>
+    <!-- 120° rotated axis -->
+    <line x1="16" y1="90" x2="60" y2="90" transform="rotate(120 90 90)"/>
+    <line x1="120" y1="90" x2="164" y2="90" transform="rotate(120 90 90)"/>
+  </g>
 </svg>

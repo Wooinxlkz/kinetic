@@ -4,7 +4,6 @@ import { registry } from "@/lib/registry";
 import { Hero } from "@/components/app/landing/hero";
 import { InstallCommand } from "@/components/app/docs/install-command";
 import { LandingComponentCard } from "@/components/app/landing/landing-component-card";
-import { SiteFooter } from "@/components/app/chrome/site-footer";
 import { Testimonials } from "@/components/app/landing/testimonials";
 import { WorkCta } from "@/components/app/landing/work-cta";
 
@@ -117,7 +116,6 @@ export default function Home() {
 
       <WorkCta />
 
-      <SiteFooter />
     </div>
   );
 }

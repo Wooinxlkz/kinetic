@@ -1,17 +1,17 @@
 import type { Metadata } from "next";
-import { ArrowUpRight } from "lucide-react";
-import { CopyButton } from "@/components/app/docs/copy-button";
-import { PressLink } from "@/components/app/press-link";
+import { ArrowUpRight, Heart } from "lucide-react";
+import { MembershipGrid } from "@/components/app/membership/membership-grid";
+import { FaqSection } from "@/components/app/membership/faq-section";
 
 export const metadata: Metadata = {
-  title: "Sponsors",
+  title: "Membership",
   description:
-    "Support Kinetic UI's development through GitHub Sponsors or directly with crypto.",
+    "Support Kinetic UI and unlock early access, source files, and more. Free forever with optional Pro and Sponsor tiers.",
   alternates: { canonical: "/sponsors" },
   openGraph: {
-    title: "Sponsors · Kinetic UI",
+    title: "Membership · Kinetic UI",
     description:
-      "Support Kinetic UI's development through GitHub Sponsors or directly with crypto.",
+      "Support Kinetic UI and unlock early access, source files, and more.",
     url: "/sponsors",
     type: "website",
     siteName: "Kinetic UI",
@@ -19,69 +19,53 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Sponsors · Kinetic UI",
+    title: "Membership · Kinetic UI",
     images: ["/api/og"],
   },
 };
 
-const GITHUB_SPONSORS_URL = "https://github.com/sponsors/starc007";
-
-function truncateAddress(address: string) {
-  return address.length > 14
-    ? `${address.slice(0, 6)}...${address.slice(-6)}`
-    : address;
-}
-
-function AddressRow({ label, address }: { label: string; address: string }) {
+export default function MembershipPage() {
   return (
-    <div className="flex items-center justify-between gap-4 rounded-xl border border-border px-4 py-3">
-      <div className="min-w-0">
-        <p className="text-xs font-medium text-muted-foreground">{label}</p>
-        <p className="mt-0.5 truncate font-mono text-sm text-foreground">
-          {truncateAddress(address)}
+    <div className="mx-auto max-w-5xl px-4 py-16">
+      {/* Header */}
+      <div className="mb-14 flex flex-col items-center gap-4 text-center">
+        <div className="inline-flex items-center gap-1.5 rounded-full border border-border bg-card px-3 py-1 text-xs font-semibold uppercase tracking-wider text-muted-foreground">
+          <Heart className="h-3 w-3 text-accent" />
+          Membership
+        </div>
+        <h1 className="text-4xl font-bold tracking-tight text-foreground sm:text-5xl">
+          Built in the open,{" "}
+          <span className="text-muted-foreground font-normal">
+            sustained by you
+          </span>
+        </h1>
+        <p className="max-w-lg text-base text-muted-foreground leading-relaxed">
+          Every component is free and MIT-licensed. Membership keeps the project
+          alive and unlocks extras for developers who want more.
         </p>
       </div>
-      <CopyButton text={address} eventName="copy_sponsor_address" eventLabel={label} />
-    </div>
-  );
-}
 
-export default function SponsorsPage() {
-  const evmAddress = process.env.SPONSOR_EVM_ADDRESS;
-  const solAddress = process.env.SPONSOR_SOL_ADDRESS;
+      {/* Plans */}
+      <MembershipGrid />
 
-  return (
-    <div className="mx-auto max-w-xl px-4 py-16">
-      <p className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
-        Sponsors
-      </p>
-      <h1 className="mt-2 text-3xl font-semibold tracking-tight text-foreground">
-        Support Kinetic UI
-      </h1>
-      <p className="mt-3 text-muted-foreground">
-        Kinetic UI is free and open source. If it's saved you time, consider
-        supporting its development.
-      </p>
+      {/* FAQ */}
+      <FaqSection />
 
-      <PressLink
-        href={GITHUB_SPONSORS_URL}
-        target="_blank"
-        rel="noreferrer noopener"
-        className="group mt-8 inline-flex items-center justify-center gap-2 rounded-full bg-primary px-7 py-3.5 text-sm font-semibold text-primary-foreground transition-colors hover:bg-primary/90"
-      >
-        Sponsor on GitHub
-        <ArrowUpRight className="h-4 w-4 transition-transform duration-200 group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
-      </PressLink>
-
-      {evmAddress || solAddress ? (
-        <div className="mt-10 space-y-3">
-          <p className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
-            Crypto
-          </p>
-          {evmAddress ? <AddressRow label="EVM" address={evmAddress} /> : null}
-          {solAddress ? <AddressRow label="Solana" address={solAddress} /> : null}
-        </div>
-      ) : null}
+      {/* Bottom CTA */}
+      <div className="mt-24 flex flex-col items-center gap-4 text-center">
+        <p className="text-sm text-muted-foreground">
+          Just want to say thanks?
+        </p>
+        <a
+          href="https://github.com/sponsors/starc007"
+          target="_blank"
+          rel="noreferrer noopener"
+          className="group inline-flex items-center gap-1.5 text-sm font-medium text-foreground underline-offset-4 hover:underline"
+        >
+          One-time sponsorship on GitHub
+          <ArrowUpRight className="h-3.5 w-3.5 transition-transform duration-200 group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
+        </a>
+      </div>
     </div>
   );
 }

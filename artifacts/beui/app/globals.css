@@ -202,8 +202,13 @@
         cursor: pointer;
     }
     html {
-        color-scheme: light dark;
+        /* Default to light; .dark below flips native elements (scrollbar, inputs)
+           to dark in sync with the CSS class — no JS or next-themes enableColorScheme needed. */
+        color-scheme: light;
         overflow-x: clip;
+    }
+    html.dark {
+        color-scheme: dark;
     }
     body {
         background: var(--background);
@@ -212,24 +217,24 @@
         overflow-x: clip;
         -webkit-font-smoothing: antialiased;
         text-rendering: optimizeLegibility;
-        /* Smooth color fallback when View Transition API is not active.
-           VT suspends CSS transitions during its own animation so this
-           never double-plays — it only fires on browsers/paths without VT. */
-        transition: background-color 0.25s ease, color 0.25s ease;
     }
-    /* Extend the smooth color transition to common surface elements so cards,
-       borders, and muted text also cross-fade instead of snapping. */
-    *:where(:not([data-beui-vt] *)) {
+    /* Smooth color cross-fade on surface elements when the theme switches
+       WITHOUT a View Transition (reduced-motion, older browsers).
+       - Zero-specificity :where() means any element with its own transition wins.
+       - SVG, canvas, video, and img are excluded: they don't use background-color /
+         border-color / color for theme colors, and including them adds thousands of
+         extra selector matches on animation-heavy pages.
+       - When data-beui-vt is on <html>, the :not() kills every descendant match,
+         so transitions are suppressed during VT — no !important needed. */
+    html:not([data-beui-vt]) body {
+        transition: background-color 0.3s ease, color 0.3s ease;
+    }
+    /* Chain all :not() clauses directly — no whitespace, which would create
+       unintended descendant combinators and break the compound exclusion. */
+    *:where(:not([data-beui-vt] *):not(svg):not(svg *):not(canvas):not(video):not(img)) {
         transition-property: background-color, border-color, color;
-        transition-duration: 0.25s;
+        transition-duration: 0.3s;
         transition-timing-function: ease;
-    }
-    /* Never let the color transition fight motion/transform animations. */
-    [style*="transform"],
-    [style*="will-change"],
-    .will-change-transform,
-    .will-change-\[opacity\,filter\,transform\] {
-        transition-property: background-color, border-color, color;
     }
     ::selection {
         background: color-mix(in oklch, var(--accent) 30%, transparent);

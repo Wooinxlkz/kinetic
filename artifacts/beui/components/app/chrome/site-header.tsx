@@ -64,12 +64,13 @@ export function SiteHeader({
             className="group flex items-center gap-2.5 text-sm font-semibold tracking-tight text-foreground"
           >
             <Image
-              src="/kinetic-mark.png"
+              src="/kinetic-mark.svg"
               alt=""
               aria-hidden="true"
               width={24}
               height={24}
               priority
+              unoptimized
               className="h-6 w-6 rounded-lg"
             />
             <span>Kinetic UI</span>
@@ -117,7 +118,7 @@ export function SiteHeader({
                   : "text-muted-foreground hover:text-foreground",
               )}
             >
-              Sponsors
+              Membership
             </Link>
             <a
               href="https://pro.beui.dev"
@@ -153,7 +154,7 @@ export function SiteHeader({
             </button>
           </Tooltip>
           <PressLink
-            href="https://github.com/starc007/ui-components"
+            href="https://github.com/Wooinxlkz"
             target="_blank"
             rel="noreferrer noopener"
             className="group inline-flex items-center gap-1.5 rounded-2xl border border-border bg-card/20 px-3 py-2 text-xs font-medium text-foreground hover:border-(--color-border-strong)"

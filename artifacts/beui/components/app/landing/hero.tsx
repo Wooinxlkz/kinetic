@@ -26,7 +26,7 @@ export function Hero() {
         className="flex justify-center"
       >
         <PressLink
-          href="https://github.com/starc007/ui-components"
+          href="https://github.com/Wooinxlkz"
           target="_blank"
           rel="noreferrer noopener"
           className="group mb-7 inline-flex min-h-9 items-center gap-2 rounded-full border border-border bg-card px-3 text-xs font-medium text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent"

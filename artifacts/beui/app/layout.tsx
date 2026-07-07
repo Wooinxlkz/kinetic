@@ -11,6 +11,7 @@ import { PreferencesPanel } from "@/components/app/preferences/preferences-panel
 import { SiteHeader } from "@/components/app/chrome/site-header";
 import { SiteDock } from "@/components/app/chrome/site-dock";
 import { SiteFrame } from "@/components/app/chrome/site-frame";
+import { SiteFooter } from "@/components/app/chrome/site-footer";
 import { KeyboardShortcuts } from "@/components/app/chrome/keyboard-shortcuts";
 import { JsonLd } from "@/components/app/analytics/json-ld";
 import { getGithubStarCount } from "@/lib/github";
@@ -102,20 +103,22 @@ export default async function RootLayout({ children }: { children: React.ReactNo
   return (
     <html lang="en" suppressHydrationWarning className={cn(inter.variable, mono.variable, pixel.variable)}>
       <head>
-        <link rel="icon" type="image/png" href="/kinetic-mark.png" />
+        <link rel="icon" type="image/svg+xml" href="/kinetic-mark.svg" />
+        <link rel="icon" type="image/png" href="/kinetic-mark.png" sizes="32x32" />
         <link rel="alternate" type="text/plain" title="llms.txt" href="/llms.txt" />
         <link rel="alternate" type="application/json" title="Component registry" href="/r" />
         <link rel="alternate" type="application/json" title="shadcn registry" href="/registry.json" />
       </head>
-      <body className="min-h-screen antialiased">
+      <body className="flex min-h-screen flex-col antialiased">
         <JsonLd data={siteJsonLd()} />
         <ThemeProvider>
           <PreferencesProvider>
             <KeyboardShortcuts />
             <SiteHeader githubStarCount={githubStarCount} />
-            <main className="pt-14 pb-32">
+            <main className="flex-1 pt-14 pb-8">
               <SiteFrame>{children}</SiteFrame>
             </main>
+            <SiteFooter />
             <SiteDock />
             <PreferencesPanel />
             {process.env.NEXT_PUBLIC_VERCEL_ENV && <Analytics />}

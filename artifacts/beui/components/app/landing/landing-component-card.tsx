@@ -13,7 +13,10 @@ export function LandingComponentCard({
   const Preview = getPreview(category, component.slug);
 
   return (
-    <article className="group/card relative h-64">
+    <article
+      className="group/card relative h-64"
+      style={{ contentVisibility: "auto", containIntrinsicBlockSize: "16rem" }}
+    >
       <Link
         href={`/components/${category}/${component.slug}`}
         aria-label={`View ${component.name}`}

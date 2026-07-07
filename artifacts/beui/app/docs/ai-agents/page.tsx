@@ -92,7 +92,7 @@ for (const file of entry.files) {
 await runShell(['bun', 'add', ...entry.dependencies]);`;
 
 const SHADCN_SNIPPET = `# Official registry namespace (shadcn directory)
-npx shadcn@latest add @beui/animated-toast-stack
+npx shadcn@latest add @kineticui/animated-toast-stack
 
 # Direct URL, no namespace needed
 npx shadcn@latest add https://beui.dev/r/animated-toast-stack.json`;

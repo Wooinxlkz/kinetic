@@ -1,26 +1,3 @@
 uploads = []
+generated = []
 outputs = []
-
-[[generated]]
-id = "sq1FIHGsqNKtqLpvX5Fap"
-uri = "file://attached_assets/kinetic-logo-v1.png"
-type = "image"
-title = "kinetic K logo bold italic dark rounded square"
-
-[[generated]]
-id = "JswKePZwg01Hq6lwRiXBN"
-uri = "file://attached_assets/kinetic-logo-v2.png"
-type = "image"
-title = "kinetic K logo clean rounded dark app icon"
-
-[[generated]]
-id = "awGTCL3QXhDFr2DLnBlwg"
-uri = "file://attached_assets/kinetic-logo-sheet.png"
-type = "image"
-title = "kinetic UI 6 logo options reference sheet"
-
-[[generated]]
-id = "fiV8cJDlK7q9FN6dS8Zoo"
-uri = "file://attached_assets/kinetic-logo-pixel-variants.png"
-type = "image"
-title = "kinetic UI pixel K logo 6 variants"

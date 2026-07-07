@@ -2,26 +2,32 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Check, Copy, Home, LayoutGrid, Mail } from "lucide-react";
-import { useTheme } from "next-themes";
-import { useEffect, useState } from "react";
+import { Check, Copy, FileText, Home, LayoutGrid, Mail } from "lucide-react";
+import { useEffect, useRef, useState } from "react";
 import { Dock, DockItem, DockSeparator } from "@/components/motion/dock";
 import { ActionSwapIcon } from "@/components/motion/action-swap";
-import { ThemeToggle } from "@/components/motion/theme-toggle";
+import { ThemeToggle, useThemeToggle } from "@/components/motion/theme-toggle";
 import { Tooltip } from "@/components/motion/tooltip";
 import { GithubIcon } from "@/components/app/icons";
 
 export function SiteDock() {
   const pathname = usePathname();
-  const { resolvedTheme } = useTheme();
-  const [mounted, setMounted] = useState(false);
+  const { isDark, mounted } = useThemeToggle();
   const [emailHovered, setEmailHovered] = useState(false);
   const [emailCopied, setEmailCopied] = useState(false);
-  useEffect(() => setMounted(true), []);
-  const isDark = mounted && resolvedTheme === "dark";
+
+  // Randomly alternate the VT variant between "rectangle" and "circle" after
+  // each toggle. isFirstChange skips the initial mount flush of isDark.
+  const [vtVariant, setVtVariant] = useState<"rectangle" | "circle">("rectangle");
+  const isFirstChange = useRef(true);
+  useEffect(() => {
+    if (isFirstChange.current) { isFirstChange.current = false; return; }
+    setVtVariant(Math.random() < 0.5 ? "rectangle" : "circle");
+  }, [isDark]);
 
   const isHome = pathname === "/";
   const isComponents = pathname.startsWith("/components");
+  const isResume = pathname === "/resume";
 
   return (
     <div className="pointer-events-none fixed inset-x-0 bottom-6 z-40 flex justify-center px-4">
@@ -65,7 +71,7 @@ export function SiteDock() {
               wrapperClassName="h-full w-full items-center justify-center"
             >
               <Link
-                href="https://github.com/starc007/ui-components"
+                href="https://github.com/Wooinxlkz"
                 target="_blank"
                 rel="noreferrer noopener"
                 aria-label="GitHub"
@@ -75,9 +81,24 @@ export function SiteDock() {
               </Link>
             </Tooltip>
           </DockItem>
-          <DockItem aria-label="Email">
+          <DockItem aria-label="Resume" active={isResume}>
             <Tooltip
-              content={emailCopied ? "Copied!" : "saurabh10102@gmail.com"}
+              content="Resume"
+              side="top"
+              wrapperClassName="h-full w-full items-center justify-center"
+            >
+              <Link
+                href="/resume"
+                aria-label="Resume"
+                className="flex h-full w-full items-center justify-center"
+              >
+                <FileText className="h-4 w-4" />
+              </Link>
+            </Tooltip>
+          </DockItem>
+          <DockItem aria-label="Copy email">
+            <Tooltip
+              content={emailCopied ? "Copied!" : "Copy email"}
               side="top"
               wrapperClassName="h-full w-full items-center justify-center"
             >
@@ -88,7 +109,7 @@ export function SiteDock() {
                 onPointerEnter={() => setEmailHovered(true)}
                 onPointerLeave={() => setEmailHovered(false)}
                 onClick={() => {
-                  navigator.clipboard.writeText("saurabh10102@gmail.com");
+                  navigator.clipboard.writeText("nulltrace@example.com");
                   setEmailCopied(true);
                   setTimeout(() => setEmailCopied(false), 2000);
                 }}
@@ -116,8 +137,8 @@ export function SiteDock() {
               wrapperClassName="h-full w-full items-center justify-center"
             >
               <ThemeToggle
-                variant="circle"
-                start="bottom-right"
+                variant={vtVariant}
+                start="bottom-up"
                 className="flex h-full w-full items-center justify-center"
                 iconClassName="h-4 w-4"
               />

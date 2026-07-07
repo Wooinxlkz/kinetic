@@ -1,6 +1,5 @@
-import { enrichTweet } from "react-tweet";
-import type { Tweet } from "react-tweet/api";
 import { cn } from "@/lib/utils";
+import type { Testimonial } from "@/components/app/landing/testimonials-data";
 
 function VerifiedBadge() {
   return (
@@ -16,49 +15,42 @@ function VerifiedBadge() {
 }
 
 export function TestimonialCard({
-  tweet,
+  item,
   compact = false,
 }: {
-  tweet: Tweet;
+  item: Testimonial;
   compact?: boolean;
 }) {
-  const t = enrichTweet(tweet);
-  const verified = t.user.is_blue_verified || t.user.verified;
-  // Swap Twitter's 48px `_normal` avatar for the crisper 73px `_bigger`.
-  const avatar = t.user.profile_image_url_https.replace("_normal", "_bigger");
-
   return (
-    <a
-      href={t.url}
-      target="_blank"
-      rel="noreferrer noopener"
+    <div
       className={cn(
-        "group block rounded-3xl border border-border bg-card transition-colors duration-200 hover:border-border-strong",
+        "block rounded-3xl border border-border bg-card",
         compact ? "h-full w-[330px] whitespace-normal p-4" : "p-5",
       )}
     >
       <div className="flex items-center gap-3">
-        {/* biome-ignore lint/performance/noImgElement: external Twitter avatar, not worth a next/image remotePatterns entry */}
+        {/* Local hand-drawn avatar — white bg, contain so the face isn't cropped */}
         <img
-          src={avatar}
-          alt=""
+          src={item.avatar}
+          alt={item.name}
           width={40}
           height={40}
-          loading="lazy"
+          loading="eager"
           className={cn(
-            "shrink-0 rounded-full object-cover",
+            "shrink-0 rounded-full bg-white object-contain",
             compact ? "h-9 w-9" : "h-10 w-10",
           )}
         />
+
         <div className="min-w-0">
           <div className="flex items-center gap-1">
             <span className="truncate font-medium text-foreground">
-              {t.user.name}
+              {item.name}
             </span>
-            {verified ? <VerifiedBadge /> : null}
+            {item.verified ? <VerifiedBadge /> : null}
           </div>
           <span className="block truncate text-sm text-muted-foreground">
-            @{t.user.screen_name}
+            @{item.handle}
           </span>
         </div>
       </div>
@@ -71,22 +63,8 @@ export function TestimonialCard({
             : "mt-4 text-[15px] leading-relaxed",
         )}
       >
-        {t.entities.map((item, i) => {
-          if (item.type === "media") return null;
-          if (item.type === "text") {
-            return (
-              // biome-ignore lint/suspicious/noArrayIndexKey: tweet parts are positional and stable
-              <span key={i}>{item.text}</span>
-            );
-          }
-          return (
-            // biome-ignore lint/suspicious/noArrayIndexKey: tweet parts are positional and stable
-            <span key={i} className="text-accent">
-              {item.text}
-            </span>
-          );
-        })}
+        {item.content}
       </p>
-    </a>
+    </div>
   );
 }

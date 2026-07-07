@@ -7,17 +7,25 @@ import { Tabs, TabsList, TabsTrigger } from "@/components/motion/tabs";
 import { registry } from "@/lib/registry";
 import { cn } from "@/lib/utils";
 
-const PM_COMMANDS = {
-  bun: "bunx --bun",
-  npm: "npx",
-  pnpm: "pnpm dlx",
-  yarn: "yarn dlx",
+type PMConfig = {
+  /** The executable prefix shown / used before "shadcn add <pkg>" */
+  prefix: string;
+  /** When true, "shadcn" is already part of the prefix — don't append it again */
+  shadcnInPrefix: boolean;
+};
+
+const PM_COMMANDS: Record<string, PMConfig> = {
+  bun:  { prefix: "bunx --bun",         shadcnInPrefix: false },
+  npm:  { prefix: "npx",                shadcnInPrefix: false },
+  pnpm: { prefix: "pnpm dlx",           shadcnInPrefix: false },
+  yarn: { prefix: "yarn dlx",           shadcnInPrefix: false },
+  deno: { prefix: "deno run -A npm:shadcn", shadcnInPrefix: true },
 } as const;
 
 type PM = keyof typeof PM_COMMANDS;
 const PMS = Object.keys(PM_COMMANDS) as PM[];
 
-const REGISTRY_NAMESPACE = "@beui";
+const REGISTRY_NAMESPACE = "@kineticui";
 const CYCLE_MS = 1800;
 
 const COMPONENT_SLUGS = registry.flatMap((cat) =>
@@ -27,6 +35,14 @@ const COMPONENT_SLUGS = registry.flatMap((cat) =>
       : [comp.slug],
   ),
 );
+
+function buildCommand(pm: PM, slug: string): string {
+  const { prefix, shadcnInPrefix } = PM_COMMANDS[pm];
+  if (shadcnInPrefix) {
+    return `${prefix} add ${REGISTRY_NAMESPACE}/${slug}`;
+  }
+  return `${prefix} shadcn add ${REGISTRY_NAMESPACE}/${slug}`;
+}
 
 export function InstallCommand({
   className,
@@ -47,7 +63,9 @@ export function InstallCommand({
   }, [slug]);
 
   const currentSlug = slug ?? COMPONENT_SLUGS[nameIndex];
-  const copyValue = `${PM_COMMANDS[pm]} shadcn add ${REGISTRY_NAMESPACE}/${currentSlug}`;
+  const copyValue = buildCommand(pm, currentSlug);
+  const { prefix, shadcnInPrefix } = PM_COMMANDS[pm];
+  const prefixParts = prefix.split(" ");
 
   return (
     <div
@@ -87,15 +105,21 @@ export function InstallCommand({
       <div className="overflow-x-auto">
         <div className="min-w-max px-5 py-4 font-mono text-[13px] whitespace-nowrap">
           <span className="select-none text-[#6e7781] dark:text-[#8b949e]">{"$ "}</span>
+          {/* First word of prefix (the executable) */}
           <span className="text-[#1f6feb] dark:text-[#ffa657]">
-            {PM_COMMANDS[pm].split(" ")[0]}
+            {prefixParts[0]}
           </span>
-          {PM_COMMANDS[pm].split(" ")[1] && (
+          {/* Remaining prefix words (flags / sub-commands) */}
+          {prefixParts.slice(1).length > 0 && (
             <span className="text-[#6f42c1] dark:text-[#d2a8ff]">
-              {" "}{PM_COMMANDS[pm].split(" ")[1]}
+              {" "}{prefixParts.slice(1).join(" ")}
             </span>
           )}
-          <span className="text-[#24292f] dark:text-[#e6edf3]">{" shadcn "}</span>
+          {/* "shadcn" word — only when not already in the prefix */}
+          {!shadcnInPrefix && (
+            <span className="text-[#24292f] dark:text-[#e6edf3]">{" shadcn"}</span>
+          )}
+          {" "}
           <span className="text-[#0550ae] dark:text-[#79c0ff]">add</span>
           <span className="text-[#24292f]/70 dark:text-[#e6edf3]/60">{" "}{REGISTRY_NAMESPACE}/</span>
           <ActionSwapCascadeText

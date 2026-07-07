@@ -45,6 +45,7 @@ export function Marquee({
             animationDuration: `${speed}s`,
             animationDirection: reverse ? "reverse" : "normal",
             gap,
+            willChange: "transform",
           }}
           className={cn(
             "flex shrink-0 items-center",

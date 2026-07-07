@@ -22,7 +22,7 @@ export function ogImage({
   title = "beUI",
   description = "The motion toolkit for React & Next.js. Built on Framer Motion and Tailwind.",
   label = "Motion components",
-  command = "npx shadcn add @beui/...",
+  command = "npx shadcn add @kineticui/...",
 }: OgOptions = {}): ReactElement {
   const big = title.length > 18 ? 84 : 108;
   return (

@@ -1,6 +1,6 @@
 kind = "web"
 previewPath = "/"
-title = "beui — UI Components"
+title = "Kinetic — UI Components"
 version = "1.0.0"
 id = "artifacts/beui"
 router = "path"

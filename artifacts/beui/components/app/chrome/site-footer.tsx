@@ -12,30 +12,30 @@ const blockComponents = allBlocks.slice(-FOOTER_LIMIT).reverse();
 
 export function SiteFooter() {
   return (
-    <footer className="border-t border-border px-4 pt-14 pb-10">
+    <footer className="border-t border-border px-4 pt-14 pb-6">
       <div className="mx-auto max-w-7xl">
         {/* Main grid */}
         <div className="grid grid-cols-2 gap-10 md:grid-cols-[1.5fr_1fr_1fr_1fr]">
           {/* Brand */}
           <div className="col-span-2 md:col-span-1">
-            <p className="font-pixel text-lg font-medium text-foreground">beUI</p>
+            <p className="font-pixel text-lg font-medium text-foreground">Kinetic UI</p>
             <p className="mt-2 max-w-[220px] text-sm leading-6 text-muted-foreground">
               The motion toolkit for React & Next.js. Copy-paste via shadcn registry.
             </p>
             <p className="mt-5 text-xs text-muted-foreground">
               Created by{" "}
               <Link
-                href="https://x.com/saurra3h"
+                href="https://x.com/syncinitstation"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="font-medium text-foreground underline-offset-2 hover:underline"
               >
-                Saurabh
+                Nulltrace
               </Link>
             </p>
             <div className="mt-5 flex items-center gap-3">
               <Link
-                href="https://github.com/starc007/ui-components"
+                href="https://github.com/Wooinxlkz"
                 target="_blank"
                 rel="noreferrer noopener"
                 aria-label="GitHub"
@@ -44,10 +44,10 @@ export function SiteFooter() {
                 <GithubIcon className="h-4 w-4" />
               </Link>
               <Link
-                href="https://x.com/saurra3h"
+                href="https://x.com/syncinitstation"
                 target="_blank"
                 rel="noreferrer noopener"
-                aria-label="X / Twitter"
+                aria-label="X social"
                 className="text-muted-foreground transition-colors hover:text-foreground"
               >
                 <svg viewBox="0 0 24 24" className="h-4 w-4" fill="currentColor" aria-hidden="true">
@@ -124,7 +124,7 @@ export function SiteFooter() {
                   rel="noreferrer noopener"
                   className="text-sm font-medium text-accent transition-colors hover:text-accent/80"
                 >
-                  beUI Pro
+                  Kinetic UI Pro
                 </Link>
               </li>
               <li>
@@ -137,7 +137,7 @@ export function SiteFooter() {
               </li>
               <li>
                 <Link
-                  href="https://github.com/starc007/ui-components"
+                  href="https://github.com/Wooinxlkz"
                   target="_blank"
                   rel="noreferrer noopener"
                   className="text-sm text-muted-foreground transition-colors hover:text-foreground"
@@ -150,17 +150,17 @@ export function SiteFooter() {
                   href="/sponsors"
                   className="text-sm text-muted-foreground transition-colors hover:text-foreground"
                 >
-                  Sponsor
+                  Membership
                 </Link>
               </li>
               <li>
                 <Link
-                  href="https://x.com/saurra3h"
+                  href="https://x.com/syncinitstation"
                   target="_blank"
                   rel="noreferrer noopener"
                   className="text-sm text-muted-foreground transition-colors hover:text-foreground"
                 >
-                  X / Twitter
+                  X social
                 </Link>
               </li>
               <li>
@@ -176,8 +176,8 @@ export function SiteFooter() {
         </div>
 
         {/* Bottom bar */}
-        <div className="mt-14 border-t border-border pt-6">
-          <p className="text-xs text-muted-foreground">© 2026 beUI. MIT License.</p>
+        <div className="mt-10 border-t border-border pt-4">
+          <p className="text-xs text-muted-foreground">© 2026 Kinetic UI — Nulltrace Team.</p>
         </div>
       </div>
     </footer>
