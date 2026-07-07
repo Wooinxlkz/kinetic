@@ -2065,6 +2065,2184 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/r/action-swap/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/action-swap>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/action-swap/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/action-swap-blur/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/action-swap-blur>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/action-swap-blur/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/action-swap-cascade/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/action-swap-cascade>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/action-swap-cascade/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/action-swap-roll/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/action-swap-roll>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/action-swap-roll/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/animated-badge/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/animated-badge>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/animated-badge/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/animated-number/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/animated-number>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/animated-number/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/animated-toast-stack/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/animated-toast-stack>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/animated-toast-stack/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/bloom-menu/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/bloom-menu>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/bloom-menu/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/bottom-sheet/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/bottom-sheet>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/bottom-sheet/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/bouncy-accordion/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/bouncy-accordion>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/bouncy-accordion/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/button/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/button>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/button/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/button-base/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/button-base>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/button-base/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/button-magnetic/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/button-magnetic>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/button-magnetic/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/button-stateful/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/button-stateful>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/button-stateful/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/checkbox/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/checkbox>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/checkbox/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/command-palette/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/command-palette>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/command-palette/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/cylinder-carousel/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/cylinder-carousel>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/cylinder-carousel/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/dock/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/dock>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/dock/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/drawer/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/drawer>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/drawer/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/dynamic-island/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/dynamic-island>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/dynamic-island/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/expandable-action-bar/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/expandable-action-bar>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/expandable-action-bar/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/expandable-tabs/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/expandable-tabs>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/expandable-tabs/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/feedback-widget/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/feedback-widget>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/feedback-widget/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/file-upload/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/file-upload>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/file-upload/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/input/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/input>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/input/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/loader/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/loader>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/loader/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/marquee/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/marquee>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/marquee/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/morphing-modal/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/morphing-modal>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/morphing-modal/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/not-found/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/not-found>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/not-found/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/not-found-glitch/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/not-found-glitch>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/not-found-glitch/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/not-found-magnetic/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/not-found-magnetic>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/not-found-magnetic/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/not-found-spotlight/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/not-found-spotlight>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/not-found-spotlight/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/not-found-stacked/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/not-found-stacked>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/not-found-stacked/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/not-found-terminal/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/not-found-terminal>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/not-found-terminal/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/number/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/number>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/number/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/number-ticker/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/number-ticker>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/number-ticker/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/otp-input/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/otp-input>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/otp-input/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/overflow-actions/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/overflow-actions>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/overflow-actions/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/parallax/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/parallax>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/parallax/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/prediction-market/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/prediction-market>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/prediction-market/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/radio/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/radio>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/radio/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/range-slider/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/range-slider>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/range-slider/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/scroll-animation/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/scroll-animation>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/scroll-animation/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/scroll-progress/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/scroll-progress>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/scroll-progress/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/scroll-reveal/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/scroll-reveal>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/scroll-reveal/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/scroll-to/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/scroll-to>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/scroll-to/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/select/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/select>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/select/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/select-morph/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/select-morph>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/select-morph/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/shader-background/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/shader-background>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/shader-background/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/shared-layout-bg/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/shared-layout-bg>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/shared-layout-bg/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/smooth-scroll/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/smooth-scroll>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/smooth-scroll/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/swap/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/swap>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/swap/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/swipeable-list/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/swipeable-list>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/swipeable-list/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/switch/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/switch>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/switch/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/table/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/table>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/table/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/table-async/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/table-async>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/table-async/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/table-editable/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/table-editable>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/table-editable/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/tabs/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/tabs>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/tabs/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/text-animation/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/text-animation>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/text-animation/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/text-cascade/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/text-cascade>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/text-cascade/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/text-reveal/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/text-reveal>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/text-reveal/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/text-shimmer/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/text-shimmer>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/text-shimmer/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/theme-toggle/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/theme-toggle>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/theme-toggle/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/tilt-card/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/tilt-card>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/tilt-card/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/tooltip/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/tooltip>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/tooltip/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/r/wallet-card/raw": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "text/plain; charset=utf-8",
+        "link": "</r/wallet-card>; rel=\"alternate\"; type=\"application/json\"",
+        "x-robots-tag": "noindex",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/wallet-card/raw"
+      },
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/[slug]/raw",
+      "dataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/r/action-swap": {
       "initialHeaders": {
         "access-control-allow-methods": "GET, OPTIONS",
@@ -6097,2192 +8275,14 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/r/action-swap/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/action-swap>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/action-swap/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/action-swap-blur/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/action-swap-blur>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/action-swap-blur/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/action-swap-cascade/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/action-swap-cascade>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/action-swap-cascade/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/action-swap-roll/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/action-swap-roll>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/action-swap-roll/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/animated-badge/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/animated-badge>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/animated-badge/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/animated-number/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/animated-number>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/animated-number/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/animated-toast-stack/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/animated-toast-stack>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/animated-toast-stack/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/bloom-menu/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/bloom-menu>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/bloom-menu/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/bottom-sheet/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/bottom-sheet>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/bottom-sheet/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/bouncy-accordion/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/bouncy-accordion>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/bouncy-accordion/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/button/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/button>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/button/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/button-base/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/button-base>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/button-base/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/button-magnetic/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/button-magnetic>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/button-magnetic/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/button-stateful/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/button-stateful>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/button-stateful/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/checkbox/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/checkbox>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/checkbox/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/command-palette/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/command-palette>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/command-palette/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/cylinder-carousel/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/cylinder-carousel>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/cylinder-carousel/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/dock/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/dock>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/dock/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/drawer/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/drawer>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/drawer/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/dynamic-island/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/dynamic-island>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/dynamic-island/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/expandable-action-bar/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/expandable-action-bar>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/expandable-action-bar/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/expandable-tabs/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/expandable-tabs>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/expandable-tabs/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/feedback-widget/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/feedback-widget>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/feedback-widget/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/file-upload/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/file-upload>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/file-upload/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/input/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/input>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/input/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/loader/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/loader>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/loader/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/marquee/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/marquee>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/marquee/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/morphing-modal/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/morphing-modal>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/morphing-modal/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/not-found/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/not-found>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/not-found/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/not-found-glitch/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/not-found-glitch>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/not-found-glitch/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/not-found-magnetic/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/not-found-magnetic>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/not-found-magnetic/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/not-found-spotlight/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/not-found-spotlight>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/not-found-spotlight/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/not-found-stacked/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/not-found-stacked>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/not-found-stacked/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/not-found-terminal/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/not-found-terminal>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/not-found-terminal/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/number/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/number>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/number/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/number-ticker/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/number-ticker>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/number-ticker/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/otp-input/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/otp-input>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/otp-input/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/overflow-actions/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/overflow-actions>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/overflow-actions/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/parallax/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/parallax>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/parallax/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/prediction-market/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/prediction-market>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/prediction-market/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/radio/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/radio>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/radio/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/range-slider/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/range-slider>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/range-slider/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/scroll-animation/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/scroll-animation>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/scroll-animation/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/scroll-progress/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/scroll-progress>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/scroll-progress/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/scroll-reveal/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/scroll-reveal>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/scroll-reveal/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/scroll-to/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/scroll-to>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/scroll-to/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/select/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/select>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/select/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/select-morph/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/select-morph>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/select-morph/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/shader-background/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/shader-background>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/shader-background/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/shared-layout-bg/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/shared-layout-bg>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/shared-layout-bg/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/smooth-scroll/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/smooth-scroll>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/smooth-scroll/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/swap/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/swap>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/swap/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/swipeable-list/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/swipeable-list>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/swipeable-list/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/switch/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/switch>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/switch/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/table/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/table>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/table/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/table-async/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/table-async>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/table-async/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/table-editable/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/table-editable>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/table-editable/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/tabs/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/tabs>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/tabs/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/text-animation/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/text-animation>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/text-animation/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/text-cascade/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/text-cascade>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/text-cascade/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/text-reveal/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/text-reveal>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/text-reveal/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/text-shimmer/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/text-shimmer>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/text-shimmer/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/theme-toggle/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/theme-toggle>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/theme-toggle/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/tilt-card/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/tilt-card>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/tilt-card/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/tooltip/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/tooltip>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/tooltip/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/wallet-card/raw": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "text/plain; charset=utf-8",
-        "link": "</r/wallet-card>; rel=\"alternate\"; type=\"application/json\"",
-        "x-robots-tag": "noindex",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/[slug]/layout,_N_T_/r/[slug]/raw/layout,_N_T_/r/[slug]/raw/route,_N_T_/r/wallet-card/raw"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r/[slug]/raw",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/r/registry.json": {
+    "/r": {
       "initialHeaders": {
         "access-control-allow-methods": "GET, OPTIONS",
         "access-control-allow-origin": "*",
         "cache-control": "public, max-age=300, s-maxage=3600",
         "content-type": "application/json",
-        "link": "</r>; rel=\"alternate\"; type=\"application/json\", </llms.txt>; rel=\"describedby\"; type=\"text/plain\"",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/registry.json/layout,_N_T_/r/registry.json/route,_N_T_/r/registry.json"
+        "link": "</llms.txt>; rel=\"describedby\"; type=\"text/plain\"",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/route,_N_T_/r"
       },
       "experimentalBypassFor": [
         {
@@ -8296,7 +8296,7 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/r/registry.json",
+      "srcRoute": "/r",
       "dataRoute": null,
       "allowHeader": [
         "host",
@@ -8339,38 +8339,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/r": {
-      "initialHeaders": {
-        "access-control-allow-methods": "GET, OPTIONS",
-        "access-control-allow-origin": "*",
-        "cache-control": "public, max-age=300, s-maxage=3600",
-        "content-type": "application/json",
-        "link": "</llms.txt>; rel=\"describedby\"; type=\"text/plain\"",
-        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/route,_N_T_/r"
-      },
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/r",
-      "dataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/theme.css": {
       "initialHeaders": {
         "access-control-allow-methods": "GET, OPTIONS",
@@ -8402,7 +8370,15 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/components": {
+    "/r/registry.json": {
+      "initialHeaders": {
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-origin": "*",
+        "cache-control": "public, max-age=300, s-maxage=3600",
+        "content-type": "application/json",
+        "link": "</r>; rel=\"alternate\"; type=\"application/json\", </llms.txt>; rel=\"describedby\"; type=\"text/plain\"",
+        "x-next-cache-tags": "_N_T_/layout,_N_T_/r/layout,_N_T_/r/registry.json/layout,_N_T_/r/registry.json/route,_N_T_/r/registry.json"
+      },
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -8414,10 +8390,9 @@
           "value": "multipart/form-data;.*"
         }
       ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/components",
-      "dataRoute": "/components.rsc",
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/r/registry.json",
+      "dataRoute": null,
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -8452,7 +8427,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/components/blocks": {
+    "/components": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -8466,33 +8441,8 @@
       ],
       "initialRevalidateSeconds": 3600,
       "initialExpireSeconds": 31536000,
-      "srcRoute": "/components/[category]",
-      "dataRoute": "/components/blocks.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/components/motion": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/components/[category]",
-      "dataRoute": "/components/motion.rsc",
+      "srcRoute": "/components",
+      "dataRoute": "/components.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -9552,7 +9502,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/docs/motion-patterns": {
+    "/components/blocks": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -9566,8 +9516,33 @@
       ],
       "initialRevalidateSeconds": 3600,
       "initialExpireSeconds": 31536000,
-      "srcRoute": "/docs/motion-patterns",
-      "dataRoute": "/docs/motion-patterns.rsc",
+      "srcRoute": "/components/[category]",
+      "dataRoute": "/components/blocks.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/components/motion": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": 3600,
+      "initialExpireSeconds": 31536000,
+      "srcRoute": "/components/[category]",
+      "dataRoute": "/components/motion.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -9602,7 +9577,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/playground": {
+    "/docs/motion-patterns": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -9616,8 +9591,8 @@
       ],
       "initialRevalidateSeconds": 3600,
       "initialExpireSeconds": 31536000,
-      "srcRoute": "/playground",
-      "dataRoute": "/playground.rsc",
+      "srcRoute": "/docs/motion-patterns",
+      "dataRoute": "/docs/motion-patterns.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -9643,6 +9618,31 @@
       "initialExpireSeconds": 31536000,
       "srcRoute": "/docs/theme",
       "dataRoute": "/docs/theme.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/playground": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": 3600,
+      "initialExpireSeconds": 31536000,
+      "srcRoute": "/playground",
+      "dataRoute": "/playground.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -9729,31 +9729,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/r/[slug]": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "routeRegex": "^/r/([^/]+?)(?:/)?$",
-      "dataRoute": null,
-      "fallback": null,
-      "dataRouteRegex": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/r/[slug]/raw": {
       "experimentalBypassFor": [
         {
@@ -9779,7 +9754,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/components/[category]": {
+    "/r/[slug]": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -9791,10 +9766,10 @@
           "value": "multipart/form-data;.*"
         }
       ],
-      "routeRegex": "^/components/([^/]+?)(?:/)?$",
-      "dataRoute": "/components/[category].rsc",
+      "routeRegex": "^/r/([^/]+?)(?:/)?$",
+      "dataRoute": null,
       "fallback": null,
-      "dataRouteRegex": "^/components/([^/]+?)\\.rsc$",
+      "dataRouteRegex": null,
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -9820,6 +9795,31 @@
       "dataRoute": "/components/[category]/[slug].rsc",
       "fallback": false,
       "dataRouteRegex": "^/components/([^/]+?)/([^/]+?)\\.rsc$",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/components/[category]": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "routeRegex": "^/components/([^/]+?)(?:/)?$",
+      "dataRoute": "/components/[category].rsc",
+      "fallback": null,
+      "dataRouteRegex": "^/components/([^/]+?)\\.rsc$",
       "allowHeader": [
         "host",
         "x-matched-path",

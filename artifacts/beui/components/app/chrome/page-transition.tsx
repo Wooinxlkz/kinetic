@@ -2,31 +2,35 @@
 
 import { AnimatePresence, motion, useReducedMotion } from "motion/react";
 import { usePathname } from "next/navigation";
-import { useRef, type ReactNode } from "react";
+import { useLayoutEffect, useRef, useState, type ReactNode } from "react";
 import { EASE_OUT } from "@/lib/ease";
 
 export function PageTransition({ children }: { children: ReactNode }) {
   const pathname = usePathname();
   const reduce = useReducedMotion();
   const ref = useRef<HTMLDivElement>(null);
+  // Skip enter animation on first load so LCP element is visible immediately.
+  // After mount, navigations animate normally.
+  //
+  // useLayoutEffect (not useEffect): fires synchronously before the browser
+  // paints, so the mounted→true re-render completes before Framer Motion
+  // starts tracking the element. Without this, a layout-switch remount
+  // (e.g. Components → Playground changes SiteFrame's tree structure) could
+  // cause the effect to fire AFTER paint with a new `initial` value, leaving
+  // the motion.div stuck at opacity:0 on the Playground page.
+  const [mounted, setMounted] = useState(false);
+  useLayoutEffect(() => { setMounted(true); }, []);
 
   return (
-    // initial={false} on AnimatePresence: the first child that enters after
-    // any mount (including remounts caused by SiteFrame switching between
-    // sidebar / no-sidebar layouts) skips its enter animation and renders
-    // immediately at the `animate` state. Subsequent key-changes (real
-    // navigations) still run the full exit + enter sequence.
-    //
-    // Previously we tracked a `mounted` boolean to achieve the same goal,
-    // but it caused a race in React 18 concurrent mode: useEffect fires
-    // after paint, which could re-render the motion.div with a new `initial`
-    // value while Framer Motion's enter bookkeeping was still in flight —
-    // leaving the element stuck at opacity:0 on the Playground page.
+    // mode="wait": exit finishes (80 ms) before enter starts, eliminating
+    // the blank-gap where the old page vanished but the new one hadn't yet
+    // appeared. The fast exit makes the total feel snappier than the current
+    // instant-disappear + blank + slow-fade-in sequence.
     <AnimatePresence mode="wait" initial={false}>
       <motion.div
         ref={ref}
         key={pathname}
-        initial={reduce ? { opacity: 0 } : { opacity: 0, y: 8 }}
+        initial={mounted ? (reduce ? { opacity: 0 } : { opacity: 0, y: 8 }) : false}
         animate={reduce ? { opacity: 1 } : { opacity: 1, y: 0 }}
         exit={reduce
           ? { opacity: 0, transition: { duration: 0.06 } }
