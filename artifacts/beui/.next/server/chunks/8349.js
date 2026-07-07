@@ -1,0 +1,1 @@
+"use strict";exports.id=8349,exports.ids=[8349],exports.modules={88349:(a,b,c)=>{c.r(b),c.d(b,{NotFoundGlitchPreview:()=>f});var d=c(45262),e=c(96441);function f(){return(0,d.jsx)("div",{className:"w-full",children:(0,d.jsx)(e.NotFoundGlitch,{})})}}};

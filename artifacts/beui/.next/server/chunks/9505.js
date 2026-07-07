@@ -1,0 +1,1 @@
+"use strict";exports.id=9505,exports.ids=[9505],exports.modules={79505:(a,b,c)=>{c.d(b,{A:()=>d});let d=(0,c(7388).A)("circle-alert",[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["line",{x1:"12",x2:"12",y1:"8",y2:"12",key:"1pkeuh"}],["line",{x1:"12",x2:"12.01",y1:"16",y2:"16",key:"4dfq90"}]])}};

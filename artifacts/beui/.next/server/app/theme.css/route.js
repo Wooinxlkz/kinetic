@@ -1,4 +1,4 @@
-(()=>{var a={};a.id=887,a.ids=[887],a.modules={261:a=>{"use strict";a.exports=require("next/dist/shared/lib/router/utils/app-paths")},9454:(a,b,c)=>{"use strict";a.exports=c(44870)},10846:a=>{"use strict";a.exports=require("next/dist/compiled/next-server/app-page.runtime.prod.js")},23033:()=>{},29294:a=>{"use strict";a.exports=require("next/dist/server/app-render/work-async-storage.external.js")},32106:(a,b,c)=>{"use strict";c.d(b,{_:()=>d});let d=`@custom-variant dark (&:where(.dark, .dark *));
+(()=>{var a={};a.id=3887,a.ids=[3887],a.modules={261:a=>{"use strict";a.exports=require("next/dist/shared/lib/router/utils/app-paths")},9454:(a,b,c)=>{"use strict";a.exports=c(44870)},10846:a=>{"use strict";a.exports=require("next/dist/compiled/next-server/app-page.runtime.prod.js")},23033:()=>{},29294:a=>{"use strict";a.exports=require("next/dist/server/app-render/work-async-storage.external.js")},32106:(a,b,c)=>{"use strict";c.d(b,{_:()=>d});let d=`@custom-variant dark (&:where(.dark, .dark *));
 
 :root {
     /* Base palette */

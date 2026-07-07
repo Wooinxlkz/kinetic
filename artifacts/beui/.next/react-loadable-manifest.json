@@ -127,7 +127,7 @@
   "../../node_modules/.pnpm/shiki@4.3.1/node_modules/shiki/dist/langs-bundle-full-4noeO3oH.mjs -> @shikijs/langs/berry": {
     "id": 79936,
     "files": [
-      "static/chunks/9936.84bba7747edc88ee.js"
+      "static/chunks/7555.deb062a1a0454929.js"
     ]
   },
   "../../node_modules/.pnpm/shiki@4.3.1/node_modules/shiki/dist/langs-bundle-full-4noeO3oH.mjs -> @shikijs/langs/bibtex": {
@@ -193,7 +193,7 @@
   "../../node_modules/.pnpm/shiki@4.3.1/node_modules/shiki/dist/langs-bundle-full-4noeO3oH.mjs -> @shikijs/langs/clarity": {
     "id": 44076,
     "files": [
-      "static/chunks/4076.0467765116878752.js"
+      "static/chunks/1695.b1251f8953bd81c9.js"
     ]
   },
   "../../node_modules/.pnpm/shiki@4.3.1/node_modules/shiki/dist/langs-bundle-full-4noeO3oH.mjs -> @shikijs/langs/clojure": {
@@ -1893,7 +1893,7 @@
   "../../node_modules/.pnpm/shiki@4.3.1/node_modules/shiki/dist/themes.mjs -> @shikijs/themes/material-theme-ocean": {
     "id": 70584,
     "files": [
-      "static/chunks/584.ab4ef4bb2c3212a9.js"
+      "static/chunks/8203.8316875e2d6c9b42.js"
     ]
   },
   "../../node_modules/.pnpm/shiki@4.3.1/node_modules/shiki/dist/themes.mjs -> @shikijs/themes/material-theme-palenight": {
@@ -2001,7 +2001,7 @@
   "../../node_modules/.pnpm/shiki@4.3.1/node_modules/shiki/dist/themes.mjs -> @shikijs/themes/snazzy-light": {
     "id": 72616,
     "files": [
-      "static/chunks/2616.b90b0ef5b1a147f9.js"
+      "static/chunks/235.7e7f9b665f903cf8.js"
     ]
   },
   "../../node_modules/.pnpm/shiki@4.3.1/node_modules/shiki/dist/themes.mjs -> @shikijs/themes/solarized-dark": {
@@ -2013,7 +2013,7 @@
   "../../node_modules/.pnpm/shiki@4.3.1/node_modules/shiki/dist/themes.mjs -> @shikijs/themes/solarized-light": {
     "id": 5970,
     "files": [
-      "static/chunks/5970.6a0999c3b00e37c6.js"
+      "static/chunks/3589.693282814a531b09.js"
     ]
   },
   "../../node_modules/.pnpm/shiki@4.3.1/node_modules/shiki/dist/themes.mjs -> @shikijs/themes/synthwave-84": {
@@ -2050,6 +2050,415 @@
     "id": 606,
     "files": [
       "static/chunks/606.71e3c1791173e895.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./blocks/bloom-menu.preview": {
+    "id": 36426,
+    "files": [
+      "static/chunks/6426.df38bf34c835349e.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./blocks/command-palette.preview": {
+    "id": 64076,
+    "files": [
+      "static/chunks/4076.c06a227ba1b0a9cd.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./blocks/dynamic-island.preview": {
+    "id": 64329,
+    "files": [
+      "static/chunks/612-b95cfc5faa728165.js",
+      "static/chunks/4329.a7d7c04bcba89008.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./blocks/expandable-action-bar.preview": {
+    "id": 41659,
+    "files": [
+      "static/chunks/1659.6603ac1235b8a65f.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./blocks/expandable-tabs.preview": {
+    "id": 58835,
+    "files": [
+      "static/chunks/8835-1fa8005b1761aa63.js",
+      "static/chunks/5522.81f93db6208523ae.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./blocks/feedback-widget.preview": {
+    "id": 74736,
+    "files": [
+      "static/chunks/4736-65dbcba0408053f7.js",
+      "static/chunks/683.c50d5627e6937522.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./blocks/file-upload.preview": {
+    "id": 869,
+    "files": [
+      "static/chunks/869-e8f2b1b05653cbbb.js",
+      "static/chunks/6513.a38cba8874d9c26a.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./blocks/not-found-glitch.preview": {
+    "id": 81505,
+    "files": [
+      "static/chunks/1505.910e303fbfe85347.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./blocks/not-found-magnetic.preview": {
+    "id": 44158,
+    "files": [
+      "static/chunks/4158.d2e94b1c0e4cdbf0.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./blocks/not-found-spotlight.preview": {
+    "id": 78737,
+    "files": [
+      "static/chunks/8737.d2d5126518600770.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./blocks/not-found-stacked.preview": {
+    "id": 58586,
+    "files": [
+      "static/chunks/8586.327060124049e985.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./blocks/not-found-terminal.preview": {
+    "id": 85911,
+    "files": [
+      "static/chunks/5911.329222c7749c7542.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./blocks/otp-input.preview": {
+    "id": 83439,
+    "files": [
+      "static/chunks/612-b95cfc5faa728165.js",
+      "static/chunks/3439.c280b7fea42a07ac.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./blocks/overflow-actions.preview": {
+    "id": 85372,
+    "files": [
+      "static/chunks/5372.b402f9bde5c5e802.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./blocks/prediction-market.preview": {
+    "id": 64333,
+    "files": [
+      "static/chunks/612-b95cfc5faa728165.js",
+      "static/chunks/4333-b0397788a7796b5b.js",
+      "static/chunks/2365.8fb93cdd3d8335e1.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./blocks/swap.preview": {
+    "id": 29237,
+    "files": [
+      "static/chunks/9237-69eaeb1da054f24f.js",
+      "static/chunks/1501.0d4212687d9580ba.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./blocks/swipeable-list.preview": {
+    "id": 1388,
+    "files": [
+      "static/chunks/612-b95cfc5faa728165.js",
+      "static/chunks/1388.ee32ad77ff9f7790.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./blocks/wallet-card.preview": {
+    "id": 97680,
+    "files": [
+      "static/chunks/7680-990cbc43c4ae88eb.js",
+      "static/chunks/4488.969dd866ac5b1875.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/action-swap-blur.preview": {
+    "id": 49793,
+    "files": [
+      "static/chunks/9793.086b0089a50f0c7b.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/action-swap-cascade.preview": {
+    "id": 46386,
+    "files": [
+      "static/chunks/6386.52f5b09b39a278e7.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/action-swap-roll.preview": {
+    "id": 66819,
+    "files": [
+      "static/chunks/6819.e2fbb4091abcdeee.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/action-swap.preview": {
+    "id": 98407,
+    "files": [
+      "static/chunks/8407.33ea9452a44c710c.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/animated-badge.preview": {
+    "id": 22301,
+    "files": [
+      "static/chunks/2301.ac314874ea4cb67d.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/animated-number.preview": {
+    "id": 94422,
+    "files": [
+      "static/chunks/612-b95cfc5faa728165.js",
+      "static/chunks/4422.86e67f302ac1ec7f.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/animated-toast-stack.preview": {
+    "id": 61150,
+    "files": [
+      "static/chunks/1150-889bfbfc36028a9f.js",
+      "static/chunks/1962.0777c1530f6cb02c.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/bottom-sheet.preview": {
+    "id": 12376,
+    "files": [
+      "static/chunks/2376.49d7f7c026f1265c.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/bouncy-accordion.preview": {
+    "id": 93045,
+    "files": [
+      "static/chunks/3045.875113bc88b508a8.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/button-base.preview": {
+    "id": 26215,
+    "files": [
+      "static/chunks/6215.8f15d6ba40a42a42.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/button-magnetic.preview": {
+    "id": 82918,
+    "files": [
+      "static/chunks/2918.b8d9148c9f2eff79.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/button-stateful.preview": {
+    "id": 55500,
+    "files": [
+      "static/chunks/5500.392a79789edae211.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/checkbox.preview": {
+    "id": 22616,
+    "files": [
+      "static/chunks/2616.a76bb34b43d631cf.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/cylinder-carousel.preview": {
+    "id": 52410,
+    "files": [
+      "static/chunks/612-b95cfc5faa728165.js",
+      "static/chunks/553-08a191ef7790cd46.js",
+      "static/chunks/2410.637f9e2153e30e38.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/dock.preview": {
+    "id": 49710,
+    "files": [
+      "static/chunks/9710.ee8d176900550c09.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/drawer.preview": {
+    "id": 2624,
+    "files": [
+      "static/chunks/2624.3904932fd686ce0b.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/input.preview": {
+    "id": 24884,
+    "files": [
+      "static/chunks/612-b95cfc5faa728165.js",
+      "static/chunks/4884.f5d749c79e102d13.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/loader.preview": {
+    "id": 37145,
+    "files": [
+      "static/chunks/7145-b275242e2cd17c5c.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/marquee.preview": {
+    "id": 63453,
+    "files": [
+      "static/chunks/3453.d7b41a558aed60dc.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/morphing-modal.preview": {
+    "id": 15970,
+    "files": [
+      "static/chunks/5970.3f1b3ab1216f7970.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/number-ticker.preview": {
+    "id": 41047,
+    "files": [
+      "static/chunks/612-b95cfc5faa728165.js",
+      "static/chunks/1047.c07d3658ba857567.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/number.preview": {
+    "id": 66576,
+    "files": [
+      "static/chunks/612-b95cfc5faa728165.js",
+      "static/chunks/6576.ea24f9833645b3cf.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/parallax.preview": {
+    "id": 35036,
+    "files": [
+      "static/chunks/2851-05317f7ceb3c582f.js",
+      "static/chunks/5036.0aa24ddd1345696c.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/radio.preview": {
+    "id": 98841,
+    "files": [
+      "static/chunks/8841.e2bf9951da755711.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/range-slider.preview": {
+    "id": 92692,
+    "files": [
+      "static/chunks/2692.3ca9d9ce5659c026.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/scroll-progress.preview": {
+    "id": 90225,
+    "files": [
+      "static/chunks/2851-05317f7ceb3c582f.js",
+      "static/chunks/1832-63644b0814cde62b.js",
+      "static/chunks/225.3c098896b61831c7.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/scroll-reveal.preview": {
+    "id": 11905,
+    "files": [
+      "static/chunks/1905.f7d13f1f1c853b99.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/scroll-to.preview": {
+    "id": 35611,
+    "files": [
+      "static/chunks/1832-63644b0814cde62b.js",
+      "static/chunks/5611.1434a174d2eaa73b.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/select-morph.preview": {
+    "id": 82157,
+    "files": [
+      "static/chunks/2157.1b81956e79ef8901.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/select.preview": {
+    "id": 1459,
+    "files": [
+      "static/chunks/1459.b18c77f22bc481b4.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/shader-background.preview": {
+    "id": 5949,
+    "files": [
+      "static/chunks/553-08a191ef7790cd46.js",
+      "static/chunks/5949.a4352a1f326c39c8.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/shared-layout-bg.preview": {
+    "id": 25193,
+    "files": [
+      "static/chunks/5193.5331214dca2ad451.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/smooth-scroll.preview": {
+    "id": 42785,
+    "files": [
+      "static/chunks/1832-63644b0814cde62b.js",
+      "static/chunks/2785.f6708349a1d8fff2.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/switch.preview": {
+    "id": 77015,
+    "files": [
+      "static/chunks/612-b95cfc5faa728165.js",
+      "static/chunks/7015.90227b804db8a057.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/table-async.preview": {
+    "id": 70286,
+    "files": [
+      "static/chunks/6629-db025fcba1a44c89.js",
+      "static/chunks/7497-4e649e25fb95751a.js",
+      "static/chunks/286.c010d4e24cc191d5.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/table-editable.preview": {
+    "id": 41938,
+    "files": [
+      "static/chunks/612-b95cfc5faa728165.js",
+      "static/chunks/6629-db025fcba1a44c89.js",
+      "static/chunks/7497-4e649e25fb95751a.js",
+      "static/chunks/1938.8d0496134d2807ec.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/table.preview": {
+    "id": 82249,
+    "files": [
+      "static/chunks/6629-db025fcba1a44c89.js",
+      "static/chunks/7497-4e649e25fb95751a.js",
+      "static/chunks/2249.52abf8f8c1e608b9.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/tabs.preview": {
+    "id": 37027,
+    "files": [
+      "static/chunks/7027.0a5a3cfc27db254b.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/text-animation.preview": {
+    "id": 38279,
+    "files": [
+      "static/chunks/8279.fcdad542dc37224e.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/text-cascade.preview": {
+    "id": 98760,
+    "files": [
+      "static/chunks/8760.48a96831aa3dbab8.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/text-reveal.preview": {
+    "id": 23940,
+    "files": [
+      "static/chunks/3940.810e85ce5b8ffe64.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/text-shimmer.preview": {
+    "id": 80584,
+    "files": [
+      "static/chunks/584.a476ef6f401949a8.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/theme-toggle.preview": {
+    "id": 12691,
+    "files": [
+      "static/chunks/2691.03af75d1113439f5.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/tilt-card.preview": {
+    "id": 25254,
+    "files": [
+      "static/chunks/5254.b4c1359b5b50b9ae.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/tooltip.preview": {
+    "id": 9936,
+    "files": [
+      "static/chunks/9936.d0476dccea794980.js"
     ]
   }
 }

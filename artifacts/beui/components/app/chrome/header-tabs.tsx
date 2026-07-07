@@ -31,9 +31,17 @@ export function HeaderTabs({ onNavigate }: { onNavigate?: () => void }) {
     >
       <TabsList>
         {SPACES.map((s) => (
-          <TabsTrigger key={s.value} value={s.value} className="text-xs">
-            {s.label}
-          </TabsTrigger>
+          // display:contents makes this div invisible to layout while still
+          // capturing pointer events so we can prefetch before the click lands.
+          <div
+            key={s.value}
+            style={{ display: "contents" }}
+            onPointerEnter={() => router.prefetch(s.href)}
+          >
+            <TabsTrigger value={s.value} className="text-xs">
+              {s.label}
+            </TabsTrigger>
+          </div>
         ))}
       </TabsList>
     </Tabs>
