@@ -28,18 +28,21 @@ async function request(path: string, init?: RequestInit): Promise<AuthUser> {
   return data as AuthUser;
 }
 
+// NOTE: these live under /auth/*, not /api/auth/*. The /api path prefix is
+// reserved for the separate Express API-server artifact in this workspace,
+// so beui's own Next.js route handlers must avoid that prefix.
 export function fetchCurrentUser(): Promise<AuthUser> {
-  return request("/api/auth/me", { method: "GET" });
+  return request("/auth/me", { method: "GET" });
 }
 
 export function signIn(email: string, password: string): Promise<AuthUser> {
-  return request("/api/auth/login", { body: JSON.stringify({ email, password }) });
+  return request("/auth/login", { body: JSON.stringify({ email, password }) });
 }
 
 export function signUp(name: string, email: string, password: string): Promise<AuthUser> {
-  return request("/api/auth/signup", { body: JSON.stringify({ name, email, password }) });
+  return request("/auth/signup", { body: JSON.stringify({ name, email, password }) });
 }
 
 export async function signOutRequest(): Promise<void> {
-  await fetch("/api/auth/logout", { method: "POST", credentials: "same-origin" });
+  await fetch("/auth/logout", { method: "POST", credentials: "same-origin" });
 }

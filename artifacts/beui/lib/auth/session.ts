@@ -39,6 +39,11 @@ export async function getSessionUser(): Promise<User | null> {
     .limit(1);
 
   if (!session || session.expiresAt.getTime() < Date.now()) {
+    if (session) {
+      // Session row is expired — remove it and clear the stale cookie.
+      await db.delete(sessionsTable).where(eq(sessionsTable.id, token));
+    }
+    jar.delete(SESSION_COOKIE_NAME);
     return null;
   }
 

@@ -218,6 +218,42 @@ type RouteHandlerConfig<Route extends AppRouteHandlerRoutes = AppRouteHandlerRou
   type __Unused = __Check
 }
 
+// Validate ../../app/auth/login/route.ts
+{
+  type __IsExpected<Specific extends RouteHandlerConfig<"/auth/login">> = Specific
+  const handler = {} as typeof import("../../app/auth/login/route.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../app/auth/logout/route.ts
+{
+  type __IsExpected<Specific extends RouteHandlerConfig<"/auth/logout">> = Specific
+  const handler = {} as typeof import("../../app/auth/logout/route.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../app/auth/me/route.ts
+{
+  type __IsExpected<Specific extends RouteHandlerConfig<"/auth/me">> = Specific
+  const handler = {} as typeof import("../../app/auth/me/route.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../app/auth/signup/route.ts
+{
+  type __IsExpected<Specific extends RouteHandlerConfig<"/auth/signup">> = Specific
+  const handler = {} as typeof import("../../app/auth/signup/route.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
 // Validate ../../app/llms.txt/route.ts
 {
   type __IsExpected<Specific extends RouteHandlerConfig<"/llms.txt">> = Specific

@@ -296,7 +296,8 @@
     "configFileName": "next.config.mjs",
     "serverExternalPackages": [
       "react-docgen-typescript",
-      "typescript"
+      "typescript",
+      "pg"
     ],
     "transpilePackages": [
       "motion",
