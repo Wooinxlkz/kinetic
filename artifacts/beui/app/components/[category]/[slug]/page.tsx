@@ -20,6 +20,7 @@ import {
   TabsTrigger,
 } from "@/components/motion/tabs";
 import { NewBadge } from "@/components/app/docs/new-badge";
+import { MotionBadge, isMotionFile } from "@/components/app/docs/motion-badge";
 import { ComponentCard } from "@/components/app/docs/component-card";
 import { JsonLd } from "@/components/app/analytics/json-ld";
 import { getPreview, previews } from "@/components/previews";
@@ -166,6 +167,7 @@ export default async function ComponentPage({
           {comp.name}
         </h1>
         {comp.badge === "new" ? <NewBadge className="mt-1" /> : null}
+        {isMotionFile(comp.file) ? <MotionBadge className="mt-1" /> : null}
       </div>
       <p className="mt-2 max-w-2xl text-muted-foreground">
         {comp.description}
@@ -220,6 +222,7 @@ export default async function ComponentPage({
                 name={rel.name}
                 description={rel.description}
                 badge={rel.badge}
+                file={rel.file}
               />
             ))}
           </div>

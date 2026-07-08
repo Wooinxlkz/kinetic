@@ -537,10 +537,52 @@
       "namedRegex": "^/components(?:/)?$"
     },
     {
+      "page": "/docs",
+      "regex": "^/docs(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/docs(?:/)?$"
+    },
+    {
       "page": "/docs/ai-agents",
       "regex": "^/docs/ai\\-agents(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/docs/ai\\-agents(?:/)?$"
+    },
+    {
+      "page": "/docs/ai-agents/mcp",
+      "regex": "^/docs/ai\\-agents/mcp(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/docs/ai\\-agents/mcp(?:/)?$"
+    },
+    {
+      "page": "/docs/ai-agents/registry",
+      "regex": "^/docs/ai\\-agents/registry(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/docs/ai\\-agents/registry(?:/)?$"
+    },
+    {
+      "page": "/docs/changelog",
+      "regex": "^/docs/changelog(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/docs/changelog(?:/)?$"
+    },
+    {
+      "page": "/docs/installation",
+      "regex": "^/docs/installation(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/docs/installation(?:/)?$"
+    },
+    {
+      "page": "/docs/motion/easing",
+      "regex": "^/docs/motion/easing(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/docs/motion/easing(?:/)?$"
+    },
+    {
+      "page": "/docs/motion/springs",
+      "regex": "^/docs/motion/springs(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/docs/motion/springs(?:/)?$"
     },
     {
       "page": "/docs/motion-patterns",

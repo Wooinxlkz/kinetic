@@ -1,15 +1,20 @@
 export type ColorTheme =
-  | "default"
-  | "violet"
-  | "blue"
-  | "green"
-  | "amber"
+  | "sun"
+  | "honey"
   | "blood-orange"
+  | "coral"
+  | "copper"
   | "rose"
-  | "red"
-  | "teal"
+  | "berry"
+  | "orchid"
+  | "violet"
   | "indigo"
-  | "lime";
+  | "storm"
+  | "electric"
+  | "jade"
+  | "lime"
+  | "sand"
+  | "default";
 
 type Vars = Record<string, string>;
 type Theme = { name: string; swatch: string; light: Vars; dark: Vars };
@@ -88,11 +93,93 @@ function brand(opts: {
 }
 
 export const THEMES: Record<ColorTheme, Theme> = {
-  default: {
-    name: "Mono",
-    swatch: "oklch(40% 0 0)",
-    light: BASE_LIGHT,
-    dark: BASE_DARK,
+  // ── Warm / bright ───────────────────────────────────────────────────────────
+  sun: {
+    // #fde12d — vivid bright yellow
+    name: "Sun",
+    swatch: "oklch(90% 0.19 100)",
+    ...brand({
+      light: { hue: "oklch(72% 0.18 96)", onHue: "oklch(20% 0.04 96)" },
+      dark: { hue: "oklch(90% 0.19 100)", onHue: "oklch(18% 0.04 100)" },
+      tintL: "oklch(72% 0.18 96 / 0.5)",
+      tintD: "oklch(90% 0.19 100 / 0.55)",
+    }),
+  },
+  honey: {
+    // #f5cb5c — warm golden yellow
+    name: "Honey",
+    swatch: "oklch(83% 0.15 82)",
+    ...brand({
+      light: { hue: "oklch(70% 0.15 80)", onHue: "oklch(20% 0.03 80)" },
+      dark: { hue: "oklch(83% 0.15 82)", onHue: "oklch(18% 0.03 80)" },
+      tintL: "oklch(70% 0.15 80 / 0.5)",
+      tintD: "oklch(83% 0.15 82 / 0.55)",
+    }),
+  },
+  "blood-orange": {
+    name: "Blood Orange",
+    swatch: "#E93202",
+    ...brand({
+      light: { hue: "#E93202", onHue: "oklch(99% 0 0)" },
+      dark: { hue: "oklch(68% 0.24 38)", onHue: "oklch(15% 0 0)" },
+      tintL: "oklch(56% 0.24 38 / 0.5)",
+      tintD: "oklch(68% 0.24 38 / 0.55)",
+    }),
+  },
+  coral: {
+    // Warm peachy coral — sits between blood-orange and rose
+    name: "Coral",
+    swatch: "oklch(68% 0.18 30)",
+    ...brand({
+      light: { hue: "oklch(62% 0.18 28)", onHue: "oklch(99% 0 0)" },
+      dark: { hue: "oklch(74% 0.16 30)", onHue: "oklch(15% 0 0)" },
+      tintL: "oklch(62% 0.18 28 / 0.5)",
+      tintD: "oklch(74% 0.16 30 / 0.55)",
+    }),
+  },
+  copper: {
+    // Warm metallic brownish-amber — earthy and rich
+    name: "Copper",
+    swatch: "oklch(60% 0.12 50)",
+    ...brand({
+      light: { hue: "oklch(54% 0.12 50)", onHue: "oklch(99% 0 0)" },
+      dark: { hue: "oklch(70% 0.12 52)", onHue: "oklch(15% 0 0)" },
+      tintL: "oklch(54% 0.12 50 / 0.5)",
+      tintD: "oklch(70% 0.12 52 / 0.55)",
+    }),
+  },
+  // ── Pink / purple ────────────────────────────────────────────────────────────
+  rose: {
+    name: "Rose",
+    swatch: "oklch(58% 0.2 12)",
+    ...brand({
+      light: { hue: "oklch(58% 0.2 12)", onHue: "oklch(99% 0 0)" },
+      dark: { hue: "oklch(70% 0.17 12)", onHue: "oklch(15% 0 0)" },
+      tintL: "oklch(58% 0.2 12 / 0.5)",
+      tintD: "oklch(70% 0.17 12 / 0.55)",
+    }),
+  },
+  berry: {
+    // #af3b6e — deep magenta / berry
+    name: "Berry",
+    swatch: "oklch(46% 0.19 348)",
+    ...brand({
+      light: { hue: "oklch(46% 0.19 348)", onHue: "oklch(99% 0 0)" },
+      dark: { hue: "oklch(68% 0.16 348)", onHue: "oklch(15% 0 0)" },
+      tintL: "oklch(46% 0.19 348 / 0.5)",
+      tintD: "oklch(68% 0.16 348 / 0.55)",
+    }),
+  },
+  orchid: {
+    // Vibrant purple-rose — between violet and berry
+    name: "Orchid",
+    swatch: "oklch(54% 0.19 320)",
+    ...brand({
+      light: { hue: "oklch(50% 0.19 320)", onHue: "oklch(99% 0 0)" },
+      dark: { hue: "oklch(68% 0.17 320)", onHue: "oklch(15% 0 0)" },
+      tintL: "oklch(50% 0.19 320 / 0.5)",
+      tintD: "oklch(68% 0.17 320 / 0.55)",
+    }),
   },
   violet: {
     name: "Violet",
@@ -104,76 +191,7 @@ export const THEMES: Record<ColorTheme, Theme> = {
       tintD: "oklch(72% 0.16 290 / 0.55)",
     }),
   },
-  blue: {
-    name: "Blue",
-    swatch: "oklch(55% 0.18 255)",
-    ...brand({
-      light: { hue: "oklch(55% 0.18 255)", onHue: "oklch(99% 0 0)" },
-      dark: { hue: "oklch(70% 0.15 255)", onHue: "oklch(15% 0 0)" },
-      tintL: "oklch(55% 0.18 255 / 0.5)",
-      tintD: "oklch(70% 0.15 255 / 0.55)",
-    }),
-  },
-  green: {
-    name: "Green",
-    swatch: "oklch(56% 0.14 150)",
-    ...brand({
-      light: { hue: "oklch(56% 0.14 150)", onHue: "oklch(99% 0 0)" },
-      dark: { hue: "oklch(72% 0.15 150)", onHue: "oklch(15% 0 0)" },
-      tintL: "oklch(56% 0.14 150 / 0.5)",
-      tintD: "oklch(72% 0.15 150 / 0.55)",
-    }),
-  },
-  amber: {
-    name: "Amber",
-    swatch: "oklch(74% 0.15 70)",
-    ...brand({
-      light: { hue: "oklch(74% 0.15 70)", onHue: "oklch(20% 0.02 70)" },
-      dark: { hue: "oklch(80% 0.15 75)", onHue: "oklch(18% 0.02 75)" },
-      tintL: "oklch(74% 0.15 70 / 0.5)",
-      tintD: "oklch(80% 0.15 75 / 0.55)",
-    }),
-  },
-  "blood-orange": {
-    name: "Blood Orange",
-    swatch: "oklch(60% 0.19 40)",
-    ...brand({
-      light: { hue: "oklch(60% 0.19 40)", onHue: "oklch(99% 0 0)" },
-      dark: { hue: "oklch(72% 0.17 42)", onHue: "oklch(15% 0 0)" },
-      tintL: "oklch(60% 0.19 40 / 0.5)",
-      tintD: "oklch(72% 0.17 42 / 0.55)",
-    }),
-  },
-  rose: {
-    name: "Rose",
-    swatch: "oklch(58% 0.2 12)",
-    ...brand({
-      light: { hue: "oklch(58% 0.2 12)", onHue: "oklch(99% 0 0)" },
-      dark: { hue: "oklch(70% 0.17 12)", onHue: "oklch(15% 0 0)" },
-      tintL: "oklch(58% 0.2 12 / 0.5)",
-      tintD: "oklch(70% 0.17 12 / 0.55)",
-    }),
-  },
-  red: {
-    name: "Red",
-    swatch: "oklch(55% 0.22 25)",
-    ...brand({
-      light: { hue: "oklch(55% 0.22 25)", onHue: "oklch(99% 0 0)" },
-      dark: { hue: "oklch(68% 0.19 25)", onHue: "oklch(15% 0 0)" },
-      tintL: "oklch(55% 0.22 25 / 0.5)",
-      tintD: "oklch(68% 0.19 25 / 0.55)",
-    }),
-  },
-  teal: {
-    name: "Teal",
-    swatch: "oklch(55% 0.12 185)",
-    ...brand({
-      light: { hue: "oklch(55% 0.12 185)", onHue: "oklch(99% 0 0)" },
-      dark: { hue: "oklch(72% 0.13 185)", onHue: "oklch(15% 0 0)" },
-      tintL: "oklch(55% 0.12 185 / 0.5)",
-      tintD: "oklch(72% 0.13 185 / 0.55)",
-    }),
-  },
+  // ── Cool / dark ──────────────────────────────────────────────────────────────
   indigo: {
     name: "Indigo",
     swatch: "oklch(50% 0.2 275)",
@@ -182,6 +200,40 @@ export const THEMES: Record<ColorTheme, Theme> = {
       dark: { hue: "oklch(70% 0.16 275)", onHue: "oklch(15% 0 0)" },
       tintL: "oklch(50% 0.2 275 / 0.5)",
       tintD: "oklch(70% 0.16 275 / 0.55)",
+    }),
+  },
+  storm: {
+    // Deep dramatic blue-grey — cool and cinematic
+    name: "Storm",
+    swatch: "oklch(48% 0.10 258)",
+    ...brand({
+      light: { hue: "oklch(42% 0.10 258)", onHue: "oklch(99% 0 0)" },
+      dark: { hue: "oklch(66% 0.12 258)", onHue: "oklch(15% 0 0)" },
+      tintL: "oklch(42% 0.10 258 / 0.5)",
+      tintD: "oklch(66% 0.12 258 / 0.55)",
+    }),
+  },
+  electric: {
+    // Vivid neon azure — bright and energetic
+    name: "Electric",
+    swatch: "oklch(58% 0.22 242)",
+    ...brand({
+      light: { hue: "oklch(52% 0.22 240)", onHue: "oklch(99% 0 0)" },
+      dark: { hue: "oklch(68% 0.20 242)", onHue: "oklch(15% 0 0)" },
+      tintL: "oklch(52% 0.22 240 / 0.5)",
+      tintD: "oklch(68% 0.20 242 / 0.55)",
+    }),
+  },
+  // ── Earth / neutral ──────────────────────────────────────────────────────────
+  jade: {
+    // Rich deep forest green — not boring, more jewel-toned
+    name: "Jade",
+    swatch: "oklch(52% 0.14 162)",
+    ...brand({
+      light: { hue: "oklch(48% 0.14 162)", onHue: "oklch(99% 0 0)" },
+      dark: { hue: "oklch(66% 0.14 162)", onHue: "oklch(15% 0 0)" },
+      tintL: "oklch(48% 0.14 162 / 0.5)",
+      tintD: "oklch(66% 0.14 162 / 0.55)",
     }),
   },
   lime: {
@@ -193,6 +245,24 @@ export const THEMES: Record<ColorTheme, Theme> = {
       tintL: "oklch(72% 0.18 130 / 0.5)",
       tintD: "oklch(80% 0.18 130 / 0.55)",
     }),
+  },
+  sand: {
+    // #eae6e1 — warm cream / off-white
+    name: "Sand",
+    swatch: "oklch(78% 0.06 78)",
+    ...brand({
+      light: { hue: "oklch(58% 0.08 78)", onHue: "oklch(99% 0 0)" },
+      dark: { hue: "oklch(80% 0.06 78)", onHue: "oklch(18% 0.02 78)" },
+      tintL: "oklch(58% 0.08 78 / 0.5)",
+      tintD: "oklch(80% 0.06 78 / 0.55)",
+    }),
+  },
+  // ── Mono (last) ─────────────────────────────────────────────────────────────
+  default: {
+    name: "Mono",
+    swatch: "oklch(40% 0 0)",
+    light: BASE_LIGHT,
+    dark: BASE_DARK,
   },
 };
 

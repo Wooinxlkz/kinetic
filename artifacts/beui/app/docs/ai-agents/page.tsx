@@ -130,7 +130,7 @@ export default function AIAgentsPage() {
         files into the user&apos;s project.
       </p>
 
-      <h2 className="mt-10 text-xl font-semibold tracking-tight text-foreground">
+      <h2 id="mcp-server" className="mt-10 text-xl font-semibold tracking-tight text-foreground">
         MCP server
       </h2>
       <p className="mt-2 text-muted-foreground">
@@ -170,7 +170,7 @@ export default function AIAgentsPage() {
         .
       </p>
 
-      <h2 className="mt-10 text-xl font-semibold tracking-tight text-foreground">
+      <h2 id="endpoints" className="mt-10 text-xl font-semibold tracking-tight text-foreground">
         Endpoints
       </h2>
       <ul className="mt-4 divide-y divide-border rounded-2xl border border-border bg-card">
@@ -205,7 +205,7 @@ export default function AIAgentsPage() {
         ))}
       </ul>
 
-      <h2 className="mt-10 text-xl font-semibold tracking-tight text-foreground">
+      <h2 id="agent-flow" className="mt-10 text-xl font-semibold tracking-tight text-foreground">
         Agent flow
       </h2>
       <p className="mt-2 text-muted-foreground">
@@ -216,7 +216,7 @@ export default function AIAgentsPage() {
         <CodeBlock code={FETCH_SNIPPET} lang="ts" filename="agent.ts" />
       </div>
 
-      <h2 className="mt-10 text-xl font-semibold tracking-tight text-foreground">
+      <h2 id="shadcn-flow" className="mt-10 text-xl font-semibold tracking-tight text-foreground">
         shadcn flow
       </h2>
       <p className="mt-2 text-muted-foreground">
@@ -228,7 +228,7 @@ export default function AIAgentsPage() {
         <CodeBlock code={SHADCN_SNIPPET} lang="bash" filename="terminal" />
       </div>
 
-      <h2 className="mt-10 text-xl font-semibold tracking-tight text-foreground">
+      <h2 id="entry-shape" className="mt-10 text-xl font-semibold tracking-tight text-foreground">
         Entry shape
       </h2>
       <p className="mt-2 text-muted-foreground">

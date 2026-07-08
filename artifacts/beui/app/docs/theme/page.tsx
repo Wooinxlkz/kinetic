@@ -45,7 +45,7 @@ export default function ThemePage() {
         Two ways:
       </p>
 
-      <h2 className="mt-10 text-xl font-semibold tracking-tight text-foreground">
+      <h2 id="option-1-shadcn-init" className="mt-10 text-xl font-semibold tracking-tight text-foreground">
         Option 1 — shadcn init (recommended)
       </h2>
       <p className="mt-2 text-muted-foreground">
@@ -56,7 +56,7 @@ export default function ThemePage() {
         <CodeBlock code={SHADCN_INIT} lang="bash" filename="terminal" />
       </div>
 
-      <h2 className="mt-10 text-xl font-semibold tracking-tight text-foreground">
+      <h2 id="option-2-paste-theme-css" className="mt-10 text-xl font-semibold tracking-tight text-foreground">
         Option 2 — paste the theme CSS
       </h2>
       <p className="mt-2 text-muted-foreground">

@@ -6,6 +6,7 @@ import { InstallCommand } from "@/components/app/docs/install-command";
 import { LandingComponentCard } from "@/components/app/landing/landing-component-card";
 import { Testimonials } from "@/components/app/landing/testimonials";
 import { WorkCta } from "@/components/app/landing/work-cta";
+import { SiteFooter } from "@/components/app/chrome/site-footer";
 
 const CURATED: { category: string; slug: string }[] = [
   { category: "motion", slug: "button" },
@@ -115,6 +116,10 @@ export default function Home() {
       <Testimonials />
 
       <WorkCta />
+
+      <div className="-mb-32">
+        <SiteFooter />
+      </div>
 
     </div>
   );

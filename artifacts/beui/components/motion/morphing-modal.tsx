@@ -5,7 +5,7 @@ import {
   motion,
   useReducedMotion,
 } from "motion/react";
-import { type ReactNode, useEffect } from "react";
+import { type ReactNode, useEffect, useRef } from "react";
 import { EASE_OUT, SPRING_PANEL } from "@/lib/ease";
 import { cn } from "@/lib/utils";
 
@@ -17,6 +17,8 @@ export interface MorphingModalProps {
   /** "bottom" anchors to the viewport bottom (mobile-like). "center" centers vertically. */
   placement?: "bottom" | "center";
   className?: string;
+  /** Accessible label for the dialog (used as aria-label). */
+  label?: string;
 }
 
 export function MorphingModal({
@@ -25,12 +27,16 @@ export function MorphingModal({
   children,
   placement = "bottom",
   className,
+  label,
 }: MorphingModalProps) {
   const open = viewId !== null;
   const reduce = useReducedMotion();
   const enterY = reduce ? 0 : placement === "bottom" ? 40 : 20;
   const enterScale = reduce ? 1 : 0.97;
+  const panelRef = useRef<HTMLDivElement>(null);
+  const triggerRef = useRef<Element | null>(null);
 
+  // Lock scroll
   useEffect(() => {
     if (!open) return;
     const prev = document.body.style.overflow;
@@ -39,6 +45,50 @@ export function MorphingModal({
       document.body.style.overflow = prev;
     };
   }, [open]);
+
+  // Remember trigger element; focus first focusable child on open; restore on close
+  useEffect(() => {
+    if (open) {
+      triggerRef.current = document.activeElement;
+      // Defer so the panel has rendered
+      const id = setTimeout(() => {
+        const first = panelRef.current?.querySelector<HTMLElement>(
+          'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])'
+        );
+        first?.focus();
+      }, 50);
+      return () => clearTimeout(id);
+    } else {
+      (triggerRef.current as HTMLElement | null)?.focus();
+    }
+  }, [open]);
+
+  // Escape to close + focus trap
+  useEffect(() => {
+    if (!open) return;
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") {
+        e.preventDefault();
+        onClose();
+        return;
+      }
+      if (e.key !== "Tab" || !panelRef.current) return;
+      const focusable = Array.from(
+        panelRef.current.querySelectorAll<HTMLElement>(
+          'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])'
+        )
+      ).filter((el) => !el.hasAttribute("disabled"));
+      if (!focusable.length) return;
+      const first = focusable[0];
+      const last = focusable[focusable.length - 1];
+      if (e.shiftKey ? document.activeElement === first : document.activeElement === last) {
+        e.preventDefault();
+        (e.shiftKey ? last : first).focus();
+      }
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [open, onClose]);
 
   return (
     <div
@@ -68,7 +118,11 @@ export function MorphingModal({
         <AnimatePresence initial={false}>
           {open ? (
             <motion.div
+              ref={panelRef}
               key="panel"
+              role="dialog"
+              aria-modal="true"
+              aria-label={label}
               layout
               initial={{ opacity: 0, y: enterY, scale: enterScale }}
               animate={{ opacity: 1, y: 0, scale: 1 }}

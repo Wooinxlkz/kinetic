@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Check, Copy, FileText, Home, LayoutGrid, Mail } from "lucide-react";
+import { BookOpen, Check, Copy, Home, LayoutGrid, Mail, ScrollText } from "lucide-react";
 import { useEffect, useRef, useState } from "react";
 import { Dock, DockItem, DockSeparator } from "@/components/motion/dock";
 import { ActionSwapIcon } from "@/components/motion/action-swap";
@@ -28,6 +28,7 @@ export function SiteDock() {
   const isHome = pathname === "/";
   const isComponents = pathname.startsWith("/components");
   const isResume = pathname === "/resume";
+  const isDocs = pathname.startsWith("/docs");
 
   return (
     <div className="pointer-events-none fixed inset-x-0 bottom-6 z-40 flex justify-center px-4">
@@ -92,7 +93,22 @@ export function SiteDock() {
                 aria-label="Resume"
                 className="flex h-full w-full items-center justify-center"
               >
-                <FileText className="h-4 w-4" />
+                <ScrollText className="h-4 w-4" />
+              </Link>
+            </Tooltip>
+          </DockItem>
+          <DockItem aria-label="Docs" active={isDocs}>
+            <Tooltip
+              content="Docs"
+              side="top"
+              wrapperClassName="h-full w-full items-center justify-center"
+            >
+              <Link
+                href="/docs"
+                aria-label="Docs"
+                className="flex h-full w-full items-center justify-center"
+              >
+                <BookOpen className="h-4 w-4" />
               </Link>
             </Tooltip>
           </DockItem>

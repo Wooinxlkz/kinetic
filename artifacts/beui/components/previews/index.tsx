@@ -206,6 +206,69 @@ export const previews: Record<string, ComponentType> = {
   "motion/loader": dynamic(() =>
     import("./motion/loader.preview").then((m) => m.LoaderPreview),
   ),
+  "ai/agent-input": dynamic(() =>
+    import("./ai/agent-input.preview").then((m) => m.AgentInputPreview),
+  ),
+  "ai/chat-bubble": dynamic(() =>
+    import("./ai/chat-bubble.preview").then((m) => m.ChatBubblePreview),
+  ),
+  "ai/streaming-text": dynamic(() =>
+    import("./ai/streaming-text.preview").then((m) => m.StreamingTextPreview),
+  ),
+  "ai/tool-card": dynamic(() =>
+    import("./ai/tool-card.preview").then((m) => m.ToolCardPreview),
+  ),
+  "motion/dialog": dynamic(() =>
+    import("./motion/dialog.preview").then((m) => m.DialogPreview),
+  ),
+  "motion/dropdown-menu": dynamic(() =>
+    import("./motion/dropdown-menu.preview").then((m) => m.DropdownMenuPreview),
+  ),
+  "motion/popover": dynamic(() =>
+    import("./motion/popover.preview").then((m) => m.PopoverPreview),
+  ),
+  "motion/progress": dynamic(() =>
+    import("./motion/progress.preview").then((m) => m.ProgressPreview),
+  ),
+  "motion/textarea": dynamic(() =>
+    import("./motion/textarea.preview").then((m) => m.TextareaPreview),
+  ),
+  "motion/skeleton": dynamic(() =>
+    import("./motion/skeleton.preview").then((m) => m.SkeletonPreview),
+  ),
+  "motion/avatar": dynamic(() =>
+    import("./motion/avatar.preview").then((m) => m.AvatarPreview),
+  ),
+  "motion/combobox": dynamic(() =>
+    import("./motion/combobox.preview").then((m) => m.ComboboxPreview),
+  ),
+  "motion/text-morph": dynamic(() =>
+    import("./motion/text-morph.preview").then((m) => m.TextMorphPreview),
+  ),
+  "motion/morphing-text": dynamic(() =>
+    import("./motion/morphing-text.preview").then((m) => m.MorphingTextPreview),
+  ),
+  "motion/magic-card": dynamic(() =>
+    import("./motion/magic-card.preview").then((m) => m.MagicCardPreview),
+  ),
+  "motion/border-beam": dynamic(() =>
+    import("./motion/border-beam.preview").then((m) => m.BorderBeamPreview),
+  ),
+  "motion/orbiting-circles": dynamic(() =>
+    import("./motion/orbiting-circles.preview").then((m) => m.OrbitingCirclesPreview),
+  ),
+  "motion/confetti": dynamic(() =>
+    import("./motion/confetti.preview").then((m) => m.ConfettiPreview),
+  ),
+  "motion/animated-beam": dynamic(() =>
+    import("./motion/animated-beam.preview").then((m) => m.AnimatedBeamPreview),
+  ),
+  "motion/flickering-grid": dynamic(() =>
+    import("./motion/flickering-grid.preview").then((m) => m.FlickeringGridPreview),
+  ),
+  "blocks/hero-video-dialog": dynamic(() =>
+    import("./blocks/hero-video-dialog.preview").then((m) => m.HeroVideoDialogPreview),
+  ),
 };
 
 export function getPreview(category: string, slug: string) {

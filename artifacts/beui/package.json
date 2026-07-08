@@ -9,6 +9,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@workspace/db": "workspace:*",
     "@paper-design/shaders-react": "^0.0.76",
     "@shikijs/transformers": "^4.2.0",
     "@tanstack/react-virtual": "^3.14.4",
@@ -21,9 +22,9 @@
     "motion": "^11.15.0",
     "next": "^15.1.4",
     "next-themes": "^0.4.6",
-    "react": "^19.0.0",
+    "react": "^19.2.0",
     "react-docgen-typescript": "^2.4.0",
-    "react-dom": "^19.0.0",
+    "react-dom": "^19.2.0",
     "react-tweet": "^3.3.1",
     "react-use-measure": "^2.1.7",
     "shiki": "^4.2.0",

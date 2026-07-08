@@ -1,0 +1,66 @@
+The explorers read our own codebase instead of the actual repos. Let me fetch the real source directly.
+
+
+3 actions
+
+Searched the web for "site:github.com magicuidesign/magicui registry components list"
+
+Searched the web for "site:github.com serafimcloud/21st components list ui"
+
+27 actions
+Now I have everything I need. Let me cross-reference both repos against the full beui registry and give you an honest read.
+
+MagicUI — 21,000⭐ component library
+What you already have that they also have (skip these): marquee, dock, number-ticker, text-reveal, scroll-progress, shimmer-button/text, marquee — all covered and your versions are more sophisticated.
+
+✅ Strong YES from MagicUI — nothing like these exists in beui
+Component	Why it's worth it
+Animated Beam	SVG arced beam drawn between two DOM elements — great for "how it works" flow diagrams, AI agent graphs, org charts. Your shader-background doesn't touch this.
+Globe	Interactive WebGL globe with markers and rotation. Very popular in hero sections for "global reach" stories. Nothing in beui is remotely close.
+Orbiting Circles	Elements orbit a central icon — tech-stack showcases, feature carousels. Unique, zero equivalent.
+Icon Cloud	3D sphere of icon/logo images that rotates. Similar niche to orbiting circles but more dense, more impressive.
+Magic Card	Cursor-tracked radial spotlight that follows the mouse inside a card. Distinct from Tilt Card (which tilts the surface — this keeps it flat but lights it).
+Lens	Magnifying glass that enlarges the area under the cursor on any image or content. Unique hover mechanic, nothing like it in beui.
+Confetti	Particle burst on a trigger — celebrating success, completing an onboarding step. Beui has zero "celebration" primitives. Five variants (cannon, fireworks, stars, emoji, custom shapes).
+Animated Beam + Code Comparison	Before/after slider for code or images. Common in docs/marketing.
+File Tree	Animated folder/file tree with spring-expand per node. Useful for docs, developer tools, any file-browser UI.
+Morphing Text	Blurs and cross-dissolves between two completely different words letter-by-letter. Different from your Text Cascade (which rolls letters on a fixed string) — this morphs across entirely different words. Good for hero rotating headlines.
+Smooth Cursor	A spring-following dot that trails the real cursor. Global ambient effect, nothing in beui. Could be a lightweight motion primitive.
+Border Beam	Animated gradient that sweeps clockwise around a card border. Your shimmer is text-level; this is container-level.
+Flickering Grid	Canvas grid where cells randomly flicker on/off. A living background that's more subtle than your shader variants and much cheaper to render.
+⚠️ Worth considering but lower priority from MagicUI
+Component	Honest note
+Word Rotate / Typing Animation	Simple rotating-words and typewriter for hero headings. Your text-cascade sort of covers this territory but these are simpler to use in a headline context. Useful but not urgent.
+Animated List	Spring-staggered entrance for a list of items. Your scroll-reveal does per-element reveal, but a list-specific primitive with configurable delay-per-item is cleaner for notifications/feeds.
+Particles	Ambient canvas particle field. Different vibe from your shader-background — softer, more zen. Lower effort to build, lower uniqueness.
+Tweet Card	Styled tweet embed. Very niche, but used constantly in SaaS landing pages as social proof. If you're targeting marketing/landing page users it matters.
+Terminal	You have a terminal variant inside 404 pages — a standalone animated terminal component would be more broadly useful.
+Progressive Blur	Fades out content at an edge with a gradient blur mask. Common in carousels and long lists to signal "more below."
+❌ Skip from MagicUI
+Rainbow button, pulsating button, neon gradient card, shimmer button, retro grid, dot pattern, aurora text — these are CSS tricks with no meaningful motion layer. Your buttons and shader-background are objectively better. Marquee, dock, scroll-progress are exact duplicates.
+
+21st.dev — marketplace repo
+Honest: this is a platform codebase, not a component library. Most of it is admin panels, Stripe webhooks, auth, and Clerk plumbing. The actual reusable components are thin. That said:
+
+✅ Strong YES from 21st.dev
+Component	Why
+Text Morph	This is the standout. Each character gets its own layoutId so letters physically move and cross-fade to their new positions as the string changes — not just a cascade or roll. The code is 50 clean lines and the effect is genuinely different from anything in beui. Worth porting directly.
+Hero Video Dialog	Animated video lightbox — thumbnail shows, click opens a modal with the video, 8 configurable entry animations (from-bottom, from-center, left-right swaps etc). A concrete block that beui doesn't have and that every marketing page needs.
+Link Preview	Hover a link → a floating card appears with a live screenshot of the target URL (via Microlink API). Uses motion spring for the card position tracking cursor x. Very polished interaction, nothing like it in beui. Depends on a third-party API which is the only caveat.
+❌ Skip from 21st.dev
+Aurora background, shimmer-button, text-shimmer — all duplicates of things beui does better. The rest is platform code (billing dialogs, auth forms, admin tables) that's irrelevant.
+
+Honest priority order if you were to build these
+Animated Beam — highest visual payoff, hardest to build from scratch, distinct category
+Text Morph (from 21st) — 50 lines, port directly, immediately useful
+Confetti — fills a gap (celebration UX) that every app needs and beui has zero answer for
+Globe — very popular for hero sections, high wow factor
+Hero Video Dialog (from 21st) — common block, clean to port
+Magic Card — complements tilt-card nicely, different mechanic
+Orbiting Circles / Icon Cloud — tech-showcase tier, good for docs sites
+Lens — unique hover mechanic, quick to build with useMotionValue
+Border Beam — simple, popular, fills a gap
+Morphing Text — text animation variety, distinct from your cascade/reveal
+Link Preview — dependent on Microlink API, so a bit risky, but genuinely impressive
+File Tree — developer-tool niche, good for docs
+Flickering Grid — cheap canvas effect, solid background alternative

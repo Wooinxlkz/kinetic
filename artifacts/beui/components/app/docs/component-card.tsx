@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { NewBadge } from "@/components/app/docs/new-badge";
+import { MotionBadge, isMotionFile } from "@/components/app/docs/motion-badge";
 
 export function ComponentCard({
   categorySlug,
@@ -7,13 +8,17 @@ export function ComponentCard({
   name,
   description,
   badge,
+  file,
 }: {
   categorySlug: string;
   slug: string;
   name: string;
   description: string;
   badge?: "new";
+  file?: string;
 }) {
+  const showMotion = file ? isMotionFile(file) : false;
+
   return (
     <Link
       href={`/components/${categorySlug}/${slug}`}
@@ -23,7 +28,10 @@ export function ComponentCard({
         <h3 className="truncate font-pixel text-base font-medium text-foreground">
           {name}
         </h3>
-        {badge === "new" ? <NewBadge /> : null}
+        <div className="flex shrink-0 items-center gap-1.5">
+          {badge === "new" ? <NewBadge /> : null}
+          {showMotion ? <MotionBadge /> : null}
+        </div>
       </div>
 
       <div className="mx-2 mb-2 flex min-h-0 flex-1 items-start overflow-hidden rounded-3xl bg-background px-4 py-4 transition-colors duration-300 ease-[cubic-bezier(0.23,1,0.32,1)] group-hover/card:bg-background/80 group-focus-visible/card:bg-background/80">

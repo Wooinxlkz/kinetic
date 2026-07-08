@@ -83,7 +83,7 @@ const LEGACY_COMPONENT_REDIRECTS = [
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  serverExternalPackages: ["react-docgen-typescript", "typescript"],
+  serverExternalPackages: ["react-docgen-typescript", "typescript", "pg"],
   // Hide the Next.js dev overlay indicator button from the UI.
   devIndicators: false,
   // Force webpack to process motion (and its framer-motion dep) through its

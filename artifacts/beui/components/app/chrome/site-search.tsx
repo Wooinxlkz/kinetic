@@ -11,13 +11,22 @@ import {
 import { NewBadge } from "@/components/app/docs/new-badge";
 import { registry } from "@/lib/registry";
 
-const PAGES = [
-  { slug: "ai-agents", name: "AI Agents", href: "/docs/ai-agents" },
-  {
-    slug: "motion-patterns",
-    name: "Motion Guides",
-    href: "/docs/motion-patterns",
-  },
+const PAGES: { slug: string; name: string; href: string; group: string; keywords?: string[] }[] = [
+  // Docs — overview
+  { slug: "docs", name: "Docs", href: "/docs", group: "Docs", keywords: ["overview", "start"] },
+  { slug: "installation", name: "Installation", href: "/docs/installation", group: "Docs", keywords: ["setup", "install", "shadcn", "npm"] },
+  { slug: "changelog", name: "Changelog", href: "/docs/changelog", group: "Docs", keywords: ["releases", "updates", "versions"] },
+  { slug: "theme", name: "Theming", href: "/docs/theme", group: "Docs", keywords: ["colors", "tokens", "css variables"] },
+  // Docs — Motion
+  { slug: "motion-patterns", name: "Motion Guides", href: "/docs/motion-patterns", group: "Docs · Motion", keywords: ["animation", "framer", "patterns"] },
+  { slug: "motion-easing", name: "Easing Reference", href: "/docs/motion/easing", group: "Docs · Motion", keywords: ["cubic bezier", "ease", "curve", "timing"] },
+  { slug: "motion-springs", name: "Spring Config", href: "/docs/motion/springs", group: "Docs · Motion", keywords: ["spring", "bounce", "stiffness", "damping"] },
+  // Docs — AI Agents
+  { slug: "ai-agents", name: "AI Agents", href: "/docs/ai-agents", group: "Docs · AI Agents", keywords: ["llm", "agent", "overview"] },
+  { slug: "ai-agents-mcp", name: "MCP Server", href: "/docs/ai-agents/mcp", group: "Docs · AI Agents", keywords: ["mcp", "model context protocol", "tools"] },
+  { slug: "ai-agents-registry", name: "Registry API", href: "/docs/ai-agents/registry", group: "Docs · AI Agents", keywords: ["registry", "api", "endpoints", "http"] },
+  // Other pages
+  { slug: "resume", name: "Resume", href: "/resume", group: "Pages", keywords: ["cv", "experience", "about"] },
 ];
 
 /** Site search trigger backed by the library's own command palette. */
@@ -41,8 +50,8 @@ export function SiteSearch({ className }: { className?: string }) {
       ...PAGES.map((page) => ({
         id: page.slug,
         label: page.name,
-        group: "Pages",
-        keywords: [page.slug],
+        group: page.group,
+        keywords: [page.slug, ...(page.keywords ?? [])],
         icon: FileText,
         onSelect: () => router.push(page.href),
       })),

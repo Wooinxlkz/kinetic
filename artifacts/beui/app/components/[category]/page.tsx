@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { findCategory, registry } from "@/lib/registry";
-import { ComponentCard } from "@/components/app/docs/component-card";
+import { ComponentFilter } from "@/components/app/docs/component-filter";
 import { JsonLd } from "@/components/app/analytics/json-ld";
 import { breadcrumbJsonLd, categoryJsonLd } from "@/lib/seo";
 
@@ -80,8 +80,6 @@ export default async function CategoryPage({
   const { category } = await params;
   const cat = findCategory(category);
   if (!cat) notFound();
-  const newComponents = cat.components.filter((comp) => comp.badge === "new");
-  const components = cat.components.filter((comp) => comp.badge !== "new");
 
   return (
     <div>
@@ -107,43 +105,12 @@ export default async function CategoryPage({
         {cat.description}
       </p>
 
-      {newComponents.length ? (
-        <section className="mt-10">
-          <p className="font-pixel text-xs font-medium uppercase text-muted-foreground">
-            New
-          </p>
-          <div className="mt-4 grid grid-cols-1 gap-4 sm:grid-cols-2 xl:grid-cols-3">
-            {newComponents.map((comp) => (
-              <ComponentCard
-                key={comp.slug}
-                categorySlug={cat.slug}
-                slug={comp.slug}
-                name={comp.name}
-                description={comp.description}
-                badge={comp.badge}
-              />
-            ))}
-          </div>
-        </section>
-      ) : null}
-
-      <section className="mt-10">
-        <p className="font-pixel text-xs font-medium uppercase text-muted-foreground">
-          All {cat.name}
-        </p>
-        <div className="mt-4 grid grid-cols-1 gap-4 sm:grid-cols-2 xl:grid-cols-3">
-          {components.map((comp) => (
-            <ComponentCard
-              key={comp.slug}
-              categorySlug={cat.slug}
-              slug={comp.slug}
-              name={comp.name}
-              description={comp.description}
-              badge={comp.badge}
-            />
-          ))}
-        </div>
-      </section>
+      {/* Client component handles filtering + grid rendering */}
+      <ComponentFilter
+        categorySlug={cat.slug}
+        categoryName={cat.name}
+        components={cat.components}
+      />
     </div>
   );
 }

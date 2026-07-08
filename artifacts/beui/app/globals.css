@@ -9,6 +9,9 @@
     --card: oklch(97% 0 0);
     --muted-foreground: oklch(50% 0 0);
     --border: oklch(15% 0 0 / 0.06);
+    /* Bg-tint base values — used by the tint effect to color-mix at runtime. */
+    --ui-bg: oklch(99% 0 0);
+    --ui-card: oklch(97% 0 0);
     /* beUI extensions (no shadcn equivalent). */
     --border-strong: oklch(15% 0 0 / 0.12);
     --accent-fg: oklch(15% 0 0);
@@ -51,6 +54,9 @@
     --glass-border: rgb(255 255 255 / 0.08);
     --glass-strong-bg: rgb(28 28 28 / 0.6);
     --glass-thin-bg: rgb(21 21 21 / 0.45);
+    /* Bg-tint base values for dark mode. */
+    --ui-bg: #151515;
+    --ui-card: #1c1c1c;
 }
 
 /* Color theme presets (full token sets) are injected at runtime from
@@ -91,6 +97,25 @@
     --font-pixel:
         var(--font-geist-pixel-square), var(--font-mono), ui-monospace,
         monospace;
+
+}
+
+/* Dynamic border-radius scale.
+   Kept in @theme (not inline) so Tailwind emits var(--radius-lg) in utilities
+   rather than a baked static value — required for runtime JS overrides to work.
+   JS sets --ui-radius on <html>; default 8px matches Tailwind v4's rounded-lg. */
+@theme {
+    --radius-sm: calc(var(--ui-radius, 8px) * 0.25);
+    --radius: calc(var(--ui-radius, 8px) * 0.5);
+    --radius-md: calc(var(--ui-radius, 8px) * 0.75);
+    --radius-lg: var(--ui-radius, 8px);
+    --radius-xl: calc(var(--ui-radius, 8px) * 1.5);
+    --radius-2xl: calc(var(--ui-radius, 8px) * 2);
+    --radius-3xl: calc(var(--ui-radius, 8px) * 3);
+    /* --radius-full is here (not inline) so rounded-full emits var(--radius-full).
+       JS overrides it to a small value on "sharp" preset so pill buttons
+       and full-rounded elements respect the radius scale too. */
+    --radius-full: 9999px;
 }
 
 @theme {
@@ -213,7 +238,7 @@
     body {
         background: var(--background);
         color: var(--foreground);
-        font-family: var(--font-sans);
+        font-family: var(--ui-font-body, var(--font-sans));
         overflow-x: clip;
         -webkit-font-smoothing: antialiased;
         text-rendering: optimizeLegibility;
@@ -309,6 +334,43 @@
     .press:active {
         transform: scale(0.97);
     }
+}
+
+/* ── Motion speed overrides (data-speed on <html>) ───────────────────────── */
+html[data-speed="slow"] *:where(:not([data-beui-vt] *):not(svg):not(svg *):not(canvas):not(video):not(img)) {
+    transition-duration: 0.65s;
+}
+html[data-speed="fast"] *:where(:not([data-beui-vt] *):not(svg):not(svg *):not(canvas):not(video):not(img)) {
+    transition-duration: 0.08s;
+}
+
+/* ── Accent intensity (data-intensity on <html>) ─────────────────────────── */
+html[data-intensity="subtle"] body {
+    filter: saturate(0.55);
+}
+html[data-intensity="vivid"] body {
+    filter: saturate(1.5);
+}
+
+/* ── Thin, elegant scrollbars ─────────────────────────────────────────────── */
+::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+}
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    background: var(--border-strong);
+    border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: var(--muted-foreground);
+}
+/* Firefox */
+html {
+    scrollbar-width: thin;
+    scrollbar-color: var(--border-strong) transparent;
 }
 
 @media (prefers-reduced-motion: reduce) {

@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import ResumeClient from "./ResumeClient";
 
 export const metadata: Metadata = {
-  title: "Saurabh | Design Engineer & Product Builder",
+  title: "Wooinxlkz | Software Engineer & Tool Builder",
   description:
-    "Frontend engineer building tools for developers and crypto products. Works with React, Next.js, and Rust.",
+    "Software engineer building authentication systems, developer tooling, and automation pipelines. Mostly writing TypeScript and Python.",
 };
 
 export default function ResumePage() {

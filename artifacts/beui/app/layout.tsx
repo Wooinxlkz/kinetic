@@ -1,7 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
-import { Inter, JetBrains_Mono } from "next/font/google";
+import { Inter, JetBrains_Mono, Space_Grotesk, Syne, Plus_Jakarta_Sans } from "next/font/google";
 import { GeistPixelSquare } from "geist/font/pixel";
 import "./globals.css";
 import { GoogleAnalytics } from "@/components/app/analytics/google-analytics";
@@ -10,8 +10,9 @@ import { PreferencesProvider } from "@/components/app/preferences/preferences-pr
 import { PreferencesPanel } from "@/components/app/preferences/preferences-panel";
 import { SiteHeader } from "@/components/app/chrome/site-header";
 import { SiteDock } from "@/components/app/chrome/site-dock";
+import { AuthProvider } from "@/components/app/auth/auth-provider";
+import { AuthModal } from "@/components/app/auth/auth-modal";
 import { SiteFrame } from "@/components/app/chrome/site-frame";
-import { SiteFooter } from "@/components/app/chrome/site-footer";
 import { KeyboardShortcuts } from "@/components/app/chrome/keyboard-shortcuts";
 import { JsonLd } from "@/components/app/analytics/json-ld";
 import { getGithubStarCount } from "@/lib/github";
@@ -22,6 +23,9 @@ import { cn } from "@/lib/utils";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const mono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-mono" });
 const pixel = GeistPixelSquare;
+const spaceGrotesk = Space_Grotesk({ subsets: ["latin"], variable: "--font-space-grotesk" });
+const syne = Syne({ subsets: ["latin"], variable: "--font-syne" });
+const plusJakarta = Plus_Jakarta_Sans({ subsets: ["latin"], variable: "--font-plus-jakarta" });
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -101,26 +105,31 @@ export default async function RootLayout({ children }: { children: React.ReactNo
   const googleAnalyticsId = process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS_ID;
 
   return (
-    <html lang="en" suppressHydrationWarning className={cn(inter.variable, mono.variable, pixel.variable)}>
+    <html lang="en" suppressHydrationWarning className={cn(inter.variable, mono.variable, pixel.variable, spaceGrotesk.variable, syne.variable, plusJakarta.variable)}>
       <head>
+        {/* Blocking script — sets data-theme before first paint so no flash of the
+            default mono palette occurs. Must stay in <head>, not <body>. */}
+        <script dangerouslySetInnerHTML={{ __html: `document.documentElement.dataset.theme="blood-orange";` }} />
         <link rel="icon" type="image/svg+xml" href="/kinetic-mark.svg" />
         <link rel="icon" type="image/png" href="/kinetic-mark.png" sizes="32x32" />
         <link rel="alternate" type="text/plain" title="llms.txt" href="/llms.txt" />
         <link rel="alternate" type="application/json" title="Component registry" href="/r" />
         <link rel="alternate" type="application/json" title="shadcn registry" href="/registry.json" />
       </head>
-      <body className="flex min-h-screen flex-col antialiased">
+      <body className="min-h-screen antialiased">
         <JsonLd data={siteJsonLd()} />
         <ThemeProvider>
           <PreferencesProvider>
-            <KeyboardShortcuts />
-            <SiteHeader githubStarCount={githubStarCount} />
-            <main className="flex-1 pt-14 pb-8">
-              <SiteFrame>{children}</SiteFrame>
-            </main>
-            <SiteFooter />
-            <SiteDock />
-            <PreferencesPanel />
+            <AuthProvider>
+              <KeyboardShortcuts />
+              <SiteHeader githubStarCount={githubStarCount} />
+              <main className="pt-14 pb-32">
+                <SiteFrame>{children}</SiteFrame>
+              </main>
+              <SiteDock />
+              <PreferencesPanel />
+              <AuthModal />
+            </AuthProvider>
             {process.env.NEXT_PUBLIC_VERCEL_ENV && <Analytics />}
             {process.env.NEXT_PUBLIC_VERCEL_ENV && <SpeedInsights />}
             <GoogleAnalytics measurementId={googleAnalyticsId} />

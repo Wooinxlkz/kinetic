@@ -2,11 +2,14 @@
 
 import { ArrowUpRight, Star, SwatchBook } from "lucide-react";
 import { useMotionValueEvent, useScroll } from "motion/react";
-import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { GithubIcon } from "@/components/app/icons";
+import { SignInButton } from "@/components/app/auth/sign-in-button";
+import { UserMenu } from "@/components/app/auth/user-menu";
+import { useAuth } from "@/components/app/auth/auth-provider";
+import { KineticMark } from "@/components/app/chrome/kinetic-mark";
 import { MobileNav } from "@/components/app/chrome/mobile-nav";
 import { usePreferences } from "@/components/app/preferences/preferences-provider";
 import { PressLink } from "@/components/app/press-link";
@@ -29,7 +32,8 @@ export function SiteHeader({
 }) {
   const { scrollY } = useScroll();
   const [scrolled, setScrolled] = useState(false);
-  const { setPanelOpen } = usePreferences();
+  const { setPanelOpen, logoColor } = usePreferences();
+  const { user, status } = useAuth();
   const pathname = usePathname();
   const isComponents =
     pathname.startsWith("/components/motion") ||
@@ -63,16 +67,7 @@ export function SiteHeader({
             href="/"
             className="group flex items-center gap-2.5 text-sm font-semibold tracking-tight text-foreground"
           >
-            <Image
-              src="/kinetic-mark.svg"
-              alt=""
-              aria-hidden="true"
-              width={24}
-              height={24}
-              priority
-              unoptimized
-              className="h-6 w-6 rounded-lg"
-            />
+            <KineticMark color={logoColor} size={24} className="h-6 w-6 rounded-lg" />
             <span>Kinetic UI</span>
           </Link>
           <nav className="hidden items-center gap-0.5 md:flex">
@@ -153,6 +148,7 @@ export function SiteHeader({
               <SwatchBook className="h-4 w-4" />
             </button>
           </Tooltip>
+          {status === "authenticated" && user ? <UserMenu /> : <SignInButton />}
           <PressLink
             href="https://github.com/Wooinxlkz"
             target="_blank"
