@@ -12,8 +12,27 @@ const STORAGE_KEY = "beui-grid-mode";
 const NORMAL_GRID = "grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4";
 const BENTO_GRID  = "grid grid-cols-1 gap-4 [grid-auto-rows:17rem] sm:grid-cols-2 sm:grid-flow-dense md:grid-cols-3 xl:grid-cols-4";
 
+// Repeating pattern of tile shapes, mirroring a hand-arranged bento layout
+// (a big square, a couple of wide tiles, some tall ones, small squares to
+// fill gaps). Deterministic — driven by `index`, not `Math.random()` — so
+// server-rendered HTML always matches what the client hydrates, avoiding
+// hydration-mismatch flicker/errors.
+const BENTO_PATTERN: CardVariant[] = [
+  "large",
+  "wide",
+  "tall",
+  "small",
+  "tall",
+  "wide",
+  "small",
+  "default",
+];
+
 function bentoVariant(index: number, total: number): CardVariant {
-  return index === 0 && total >= 3 ? "feature" : "default";
+  // Keep the very first tile "large" as a hero feature, same as before, as
+  // long as there's enough items to fill around it.
+  if (index === 0 && total >= 3) return "large";
+  return BENTO_PATTERN[index % BENTO_PATTERN.length];
 }
 
 // ─── Toggle button ────────────────────────────────────────────────────────────

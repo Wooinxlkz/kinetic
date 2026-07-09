@@ -4,12 +4,22 @@ import type { ComponentEntry } from "@/lib/registry";
 import { NewBadge } from "@/components/app/docs/new-badge";
 import { LazyPreview } from "@/components/app/landing/lazy-preview";
 
-export type CardVariant = "default" | "feature";
+export type CardVariant = "default" | "feature" | "wide" | "tall" | "large" | "small";
 
 const VARIANT_SPAN: Record<CardVariant, string> = {
   default: "",
   feature: "sm:col-span-2 sm:row-span-2",
+  // Bento-mode variants — combined with `grid-auto-flow: dense` on the
+  // parent grid so tiles pack tightly without leaving gaps.
+  wide: "sm:col-span-2",
+  tall: "sm:row-span-2",
+  large: "sm:col-span-2 sm:row-span-2",
+  small: "",
 };
+
+// Variants that occupy more than a single grid cell need the card to fill
+// that cell (h-full) instead of the fixed single-cell height used elsewhere.
+const SPANNING_VARIANTS: ReadonlySet<CardVariant> = new Set(["feature", "wide", "tall", "large"]);
 
 export function LandingComponentCard({
   component,
@@ -20,16 +30,16 @@ export function LandingComponentCard({
   category?: string;
   variant?: CardVariant;
 }) {
-  const feature = variant === "feature";
+  const spanning = SPANNING_VARIANTS.has(variant);
   return (
     <article
       className={cn(
         "group/card relative",
-        feature ? "h-full" : "h-64",
+        spanning ? "h-full" : "h-64",
         VARIANT_SPAN[variant],
       )}
       style={
-        feature
+        spanning
           ? undefined
           : { contentVisibility: "auto", containIntrinsicBlockSize: "16rem" }
       }
