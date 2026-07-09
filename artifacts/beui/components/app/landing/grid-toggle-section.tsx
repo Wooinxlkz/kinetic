@@ -28,10 +28,19 @@ const BENTO_PATTERN: CardVariant[] = [
   "default",
 ];
 
+// Widest breakpoint has 4 columns. Any spanning tile (wide/tall/large)
+// placed among the last few items can be left dangling with nothing after
+// it to fill the gap `grid-flow-dense` would otherwise close — that's what
+// caused an isolated tile with empty space around it. Keeping the tail of
+// the list as single-cell "default" tiles guarantees the last row always
+// packs flush with no leftover empty space.
+const TAIL_SAFE_ZONE = 4;
+
 function bentoVariant(index: number, total: number): CardVariant {
   // Keep the very first tile "large" as a hero feature, same as before, as
   // long as there's enough items to fill around it.
   if (index === 0 && total >= 3) return "large";
+  if (total - index <= TAIL_SAFE_ZONE) return "default";
   return BENTO_PATTERN[index % BENTO_PATTERN.length];
 }
 
