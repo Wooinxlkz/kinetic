@@ -1,6 +1,8 @@
 "use client";
 
+import type { ReactNode } from "react";
 import { useEffect, useState } from "react";
+import Link from "next/link";
 import { cn } from "@/lib/utils";
 import { LandingComponentCard, type CardVariant } from "./landing-component-card";
 import type { ComponentEntry } from "@/lib/registry";
@@ -101,8 +103,19 @@ function GridToggle({
 
 export function GridToggleSection({
   items,
+  eyebrow,
+  title,
+  browseHref,
+  browseLabel,
 }: {
   items: { category: string; component: ComponentEntry }[];
+  /** Small uppercase label shown above the title (e.g. "New"). */
+  eyebrow?: string;
+  /** Section heading, e.g. "Motion primitives." */
+  title?: string;
+  /** Optional "Browse all" style link shown next to the title. */
+  browseHref?: string;
+  browseLabel?: ReactNode;
 }) {
   const [mode, setMode] = useState<GridMode>("normal");
   const [mounted, setMounted] = useState(false);
@@ -121,12 +134,38 @@ export function GridToggleSection({
 
   const bento = mode === "bento";
 
+  const toggle = mounted ? <GridToggle mode={mode} onChange={handleChange} /> : null;
+
   return (
     <>
-      {/* Toggle — rendered inline so the parent can place it in a header */}
-      <div className="flex justify-end pb-4">
-        {mounted && <GridToggle mode={mode} onChange={handleChange} />}
-      </div>
+      {title ? (
+        <div className="mb-2 flex flex-col gap-4 border-t border-border pt-12 md:flex-row md:items-center md:justify-between">
+          <div>
+            {eyebrow ? (
+              <p className="font-pixel text-xs font-medium uppercase text-muted-foreground">
+                {eyebrow}
+              </p>
+            ) : null}
+            <h2 className="mt-2 font-pixel text-3xl font-medium leading-tight text-foreground md:text-4xl">
+              {title}
+            </h2>
+          </div>
+          <div className="flex items-center gap-4 self-start md:self-center">
+            {browseHref ? (
+              <Link
+                href={browseHref}
+                className="inline-flex items-center text-sm font-medium text-muted-foreground hover:text-foreground"
+              >
+                {browseLabel}
+              </Link>
+            ) : null}
+            {toggle}
+          </div>
+        </div>
+      ) : (
+        // Fallback for any usage without a title: keep toggle on its own row.
+        <div className="flex justify-end pb-4">{toggle}</div>
+      )}
 
       <div className={bento ? BENTO_GRID : NORMAL_GRID}>
         {items.map(({ category, component }, i) => (
