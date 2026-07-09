@@ -4,7 +4,7 @@ import type { ComponentEntry } from "@/lib/registry";
 import { NewBadge } from "@/components/app/docs/new-badge";
 import { LazyPreview } from "@/components/app/landing/lazy-preview";
 
-export type CardVariant = "default" | "feature" | "wide" | "tall" | "large" | "small";
+export type CardVariant = "default" | "feature" | "wide" | "tall" | "large" | "small" | "full";
 
 const VARIANT_SPAN: Record<CardVariant, string> = {
   default: "",
@@ -15,11 +15,20 @@ const VARIANT_SPAN: Record<CardVariant, string> = {
   tall: "sm:row-span-2",
   large: "sm:col-span-2 sm:row-span-2",
   small: "",
+  // Used to close out a trailing row that would otherwise have a single
+  // lonely card with empty space next to it — spans the full row width at
+  // any column count (2/3/4), so it never leaves a gap regardless of
+  // screen size.
+  full: "sm:col-span-full",
 };
 
-// Variants that occupy more than a single grid cell need the card to fill
-// that cell (h-full) instead of the fixed single-cell height used elsewhere.
-const SPANNING_VARIANTS: ReadonlySet<CardVariant> = new Set(["feature", "wide", "tall", "large"]);
+// Only variants that also span *rows* need the card to stretch to fill that
+// taller cell (h-full) instead of the fixed single-row height used
+// elsewhere. Variants that only widen the card ("wide", "full") stay at the
+// normal fixed height — this matters because the plain grid (non-bento)
+// doesn't set a fixed row height, so giving a row-span-1 card `h-full`
+// there could collapse it to zero height.
+const SPANNING_VARIANTS: ReadonlySet<CardVariant> = new Set(["feature", "tall", "large"]);
 
 export function LandingComponentCard({
   component,
