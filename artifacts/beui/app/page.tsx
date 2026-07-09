@@ -52,7 +52,8 @@ export default function Home() {
       const da = a.component.launchedAt ?? "";
       const db = b.component.launchedAt ?? "";
       return db.localeCompare(da); // newest first
-    });
+    })
+    .slice(0, 12);
 
   return (
     <div className="relative">
