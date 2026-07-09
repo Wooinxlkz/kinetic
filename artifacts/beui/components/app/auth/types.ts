@@ -4,6 +4,10 @@ export interface AuthUser {
   id: number;
   name: string;
   email: string;
+  username: string;
   avatarColor: string;
+  bio: string | null;
+  avatarUrl: string | null;
+  bannerUrl: string | null;
   createdAt: string;
 }

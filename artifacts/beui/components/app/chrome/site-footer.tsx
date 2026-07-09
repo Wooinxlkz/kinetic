@@ -84,10 +84,10 @@ export function SiteFooter() {
             </ul>
           </div>
 
-          {/* Blocks */}
+          {/* Blocks (labeled "Patterns" in the UI) */}
           <div>
             <p className="mb-4 text-xs font-semibold uppercase tracking-wider text-muted-foreground">
-              Blocks
+              Patterns
             </p>
             <ul className="space-y-2.5">
               {blockComponents.map((c) => (

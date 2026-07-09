@@ -493,6 +493,22 @@
       "namedRegex": "^/components/(?<nxtPcategory>[^/]+?)/(?<nxtPslug>[^/]+?)(?:/)?$"
     },
     {
+      "page": "/icons/[category]",
+      "regex": "^/icons/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPcategory": "nxtPcategory"
+      },
+      "namedRegex": "^/icons/(?<nxtPcategory>[^/]+?)(?:/)?$"
+    },
+    {
+      "page": "/profile/[username]",
+      "regex": "^/profile/([^/]+?)(?:/)?$",
+      "routeKeys": {
+        "nxtPusername": "nxtPusername"
+      },
+      "namedRegex": "^/profile/(?<nxtPusername>[^/]+?)(?:/)?$"
+    },
+    {
       "page": "/r/[slug]",
       "regex": "^/r/([^/]+?)(?:/)?$",
       "routeKeys": {
@@ -531,6 +547,12 @@
       "namedRegex": "^/_not\\-found(?:/)?$"
     },
     {
+      "page": "/auth/generate-switch-token",
+      "regex": "^/auth/generate\\-switch\\-token(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/auth/generate\\-switch\\-token(?:/)?$"
+    },
+    {
       "page": "/auth/login",
       "regex": "^/auth/login(?:/)?$",
       "routeKeys": {},
@@ -549,10 +571,22 @@
       "namedRegex": "^/auth/me(?:/)?$"
     },
     {
+      "page": "/auth/profile",
+      "regex": "^/auth/profile(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/auth/profile(?:/)?$"
+    },
+    {
       "page": "/auth/signup",
       "regex": "^/auth/signup(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/auth/signup(?:/)?$"
+    },
+    {
+      "page": "/auth/switch",
+      "regex": "^/auth/switch(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/auth/switch(?:/)?$"
     },
     {
       "page": "/components",
@@ -591,6 +625,12 @@
       "namedRegex": "^/docs/changelog(?:/)?$"
     },
     {
+      "page": "/docs/help",
+      "regex": "^/docs/help(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/docs/help(?:/)?$"
+    },
+    {
       "page": "/docs/installation",
       "regex": "^/docs/installation(?:/)?$",
       "routeKeys": {},
@@ -619,6 +659,18 @@
       "regex": "^/docs/theme(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/docs/theme(?:/)?$"
+    },
+    {
+      "page": "/icon-source",
+      "regex": "^/icon\\-source(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/icon\\-source(?:/)?$"
+    },
+    {
+      "page": "/icons",
+      "regex": "^/icons(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/icons(?:/)?$"
     },
     {
       "page": "/llms.txt",

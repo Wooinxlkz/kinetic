@@ -40,6 +40,7 @@ export function SiteHeader({
     (pathname.startsWith("/components") &&
       !pathname.startsWith("/components/blocks"));
   const isBlocks = pathname.startsWith("/components/blocks");
+  const isIcons = pathname.startsWith("/icons");
   const isPlayground = pathname.startsWith("/playground");
   const isSponsors = pathname.startsWith("/sponsors");
   const formattedStarCount =
@@ -91,7 +92,18 @@ export function SiteHeader({
                   : "text-muted-foreground hover:text-foreground",
               )}
             >
-              Blocks
+              Patterns
+            </Link>
+            <Link
+              href="/icons/static"
+              className={cn(
+                "rounded-md px-3 py-1.5 text-sm transition-colors",
+                isIcons
+                  ? "text-foreground"
+                  : "text-muted-foreground hover:text-foreground",
+              )}
+            >
+              Icons
             </Link>
             <Link
               href="/playground"
@@ -148,7 +160,16 @@ export function SiteHeader({
               <SwatchBook className="h-4 w-4" />
             </button>
           </Tooltip>
-          {status === "authenticated" && user ? <UserMenu /> : <SignInButton />}
+          {status === "loading" ? (
+            <div
+              aria-hidden="true"
+              className="h-8 w-8 animate-pulse rounded-full border border-border bg-card/40"
+            />
+          ) : status === "authenticated" && user ? (
+            <UserMenu />
+          ) : (
+            <SignInButton />
+          )}
           <PressLink
             href="https://github.com/Wooinxlkz"
             target="_blank"

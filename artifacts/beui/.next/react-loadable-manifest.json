@@ -2269,9 +2269,9 @@
     ]
   },
   "components/previews/index.tsx -> ./motion/bouncy-accordion.preview": {
-    "id": 31251,
+    "id": 75136,
     "files": [
-      "static/chunks/1251.a20282ac6201c64a.js"
+      "static/chunks/5136.e120509557a1da3c.js"
     ]
   },
   "components/previews/index.tsx -> ./motion/button-base.preview": {
@@ -2319,9 +2319,9 @@
     ]
   },
   "components/previews/index.tsx -> ./motion/dialog.preview": {
-    "id": 91344,
+    "id": 66957,
     "files": [
-      "static/chunks/1344.9d05805f2eb604e4.js"
+      "static/chunks/6957.98ca06bc4821058e.js"
     ]
   },
   "components/previews/index.tsx -> ./motion/dock.preview": {
@@ -2413,9 +2413,9 @@
     ]
   },
   "components/previews/index.tsx -> ./motion/popover.preview": {
-    "id": 50778,
+    "id": 91512,
     "files": [
-      "static/chunks/778-1384868489455e5f.js",
+      "static/chunks/1512-9dfa9631de037f0b.js",
       "static/chunks/7379.7bc002939785d65f.js"
     ]
   },
@@ -2587,6 +2587,12 @@
     "id": 59562,
     "files": [
       "static/chunks/9562.7a3ee60bede92738.js"
+    ]
+  },
+  "components/previews/index.tsx -> ./motion/wheel-picker.preview": {
+    "id": 38863,
+    "files": [
+      "static/chunks/8863-b42f8c5815c9b07e.js"
     ]
   }
 }

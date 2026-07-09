@@ -93,7 +93,7 @@ export function PlanCard({ plan, billing, index }: PlanCardProps) {
 
       {/* Header */}
       <div className="mb-4 flex items-start justify-between gap-2">
-        <div>
+        <div className="min-h-16">
           <p className="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
             {plan.name}
           </p>

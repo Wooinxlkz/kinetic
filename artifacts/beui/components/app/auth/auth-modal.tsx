@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence } from "motion/react";
 import {
   Mail, Lock, Eye, EyeClosed, ArrowRight, User, X,
@@ -111,11 +111,16 @@ function SubmitBtn({ label, loading }: { label: string; loading: boolean }) {
 }
 
 /* ──────────────────────────────── Sign-In form ──────────────────────────── */
-function SignInForm({ onSwitch }: { onSwitch: () => void }) {
+function SignInForm({ onSwitch, initialEmail = "" }: { onSwitch: () => void; initialEmail?: string }) {
   const { signIn, close } = useAuth();
   const [showPw, setShowPw] = useState(false);
-  const [email, setEmail] = useState("");
+  const [email, setEmail] = useState(initialEmail);
   const [password, setPassword] = useState("");
+
+  // Keep email in sync if the modal stays mounted and prefillEmail changes
+  useEffect(() => {
+    if (initialEmail) setEmail(initialEmail);
+  }, [initialEmail]);
   const [remember, setRemember] = useState(false);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -288,7 +293,7 @@ function SignUpForm({ onSwitch }: { onSwitch: () => void }) {
 
 /* ─────────────────────────────────── Modal ──────────────────────────────── */
 export function AuthModal() {
-  const { isOpen, defaultTab, close } = useAuth();
+  const { isOpen, defaultTab, prefillEmail, close } = useAuth();
   const [view, setView] = useState<"sign-in" | "sign-up">(defaultTab ?? "sign-in");
 
   const dialogRef = useRef<HTMLDivElement>(null);
@@ -434,7 +439,7 @@ export function AuthModal() {
                     transition={{ duration: 0.18, ease: "easeOut" }}
                   >
                     {view === "sign-in"
-                      ? <SignInForm onSwitch={() => setView("sign-up")} />
+                      ? <SignInForm onSwitch={() => setView("sign-up")} initialEmail={prefillEmail ?? ""} />
                       : <SignUpForm onSwitch={() => setView("sign-in")} />}
                   </motion.div>
                 </AnimatePresence>

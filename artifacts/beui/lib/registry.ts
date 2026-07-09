@@ -18,6 +18,9 @@ export type ComponentEntry = {
   description: string;
   file: string;
   badge?: "new";
+  /** ISO date the component shipped. Drives newest-first order in the landing
+   * "Recently launched" section. Set it when adding a "new" badge component. */
+  launchedAt?: string;
   /** Optional hand-tuned SEO keywords, merged on top of generated ones. */
   keywords?: string[];
   /** Extra source files bundled under this slug (e.g. multi-file components). */
@@ -698,6 +701,7 @@ export const registry: CategoryEntry[] = [
           "Elements orbit a center point at configurable radii, speeds, and phase offsets. Multiple items stay upright throughout via counter-rotation.",
         file: "components/motion/orbiting-circles.tsx",
         badge: "new",
+        launchedAt: "2026-06-20",
         tags: ["visual", "display", "animation"],
         keywords: [
           "orbiting circles react",
@@ -714,6 +718,7 @@ export const registry: CategoryEntry[] = [
           "Canvas particle burst (circles, squares, ribbons) fired from any screen position. Exposes a fireConfetti() function and a ConfettiButton convenience wrapper. Respects prefers-reduced-motion.",
         file: "components/motion/confetti.tsx",
         badge: "new",
+        launchedAt: "2026-06-22",
         tags: ["interaction", "feedback", "display"],
         keywords: [
           "confetti react",
@@ -730,6 +735,7 @@ export const registry: CategoryEntry[] = [
           "SVG beam that connects two DOM elements with an animated traveling spot of light along a static dim track. Supports bezier curvature, reverse direction, and multiple beams.",
         file: "components/motion/animated-beam.tsx",
         badge: "new",
+        launchedAt: "2026-06-25",
         tags: ["visual", "display", "data"],
         keywords: [
           "animated beam react",
@@ -746,6 +752,7 @@ export const registry: CategoryEntry[] = [
           "Canvas grid where each cell independently and randomly updates its opacity, creating a living breathing background texture. Lightweight and customizable.",
         file: "components/motion/flickering-grid.tsx",
         badge: "new",
+        launchedAt: "2026-06-27",
         tags: ["visual", "display", "background"],
         keywords: [
           "flickering grid react",
@@ -755,11 +762,28 @@ export const registry: CategoryEntry[] = [
           "pixel grid react",
         ],
       },
+      {
+        slug: "wheel-picker",
+        name: "Wheel Picker",
+        description:
+          "iOS-style 3D cylinder picker with physics-based flick, touch drag, mouse drag, trackpad wheel, and keyboard navigation. Controlled and uncontrolled. Reduced-motion safe.",
+        file: "components/motion/wheel-picker.tsx",
+        badge: "new",
+        launchedAt: "2026-07-09",
+        tags: ["form", "input", "mobile", "interaction"],
+        keywords: [
+          "ios wheel picker react",
+          "drum picker react",
+          "cylinder picker",
+          "date picker wheel react",
+          "scroll picker react",
+        ],
+      },
     ],
   },
   {
     slug: "blocks",
-    name: "Blocks",
+    name: "Patterns",
     description: "Composed, product-ready widgets built from beUI motion primitives.",
     components: [
       {
@@ -831,6 +855,7 @@ export const registry: CategoryEntry[] = [
         description: "Wallet overview card with an account switcher and search that morph open from their triggers, a cascading balance with a live change pill and privacy toggle, copy-address, and Send / Deposit / Swap / Buy actions.",
         file: "components/motion/wallet-card/index.tsx",
         badge: "new",
+        launchedAt: "2026-07-01",
         tags: ["data", "finance", "display"],
         keywords: [
           "wallet card react",
@@ -853,6 +878,7 @@ export const registry: CategoryEntry[] = [
         description: "A button that morphs open into a menu and blooms iris-out from the center, the grid revealing in every direction with radially staggered items.",
         file: "components/motion/bloom-menu.tsx",
         badge: "new",
+        launchedAt: "2026-07-03",
         tags: ["navigation", "overlay", "interaction"],
       },
       {
@@ -861,6 +887,7 @@ export const registry: CategoryEntry[] = [
         description: "Corner trigger that morphs open into a feedback popup with message entry and animated sending, success and retry states.",
         file: "components/motion/feedback-widget.tsx",
         badge: "new",
+        launchedAt: "2026-07-05",
         tags: ["form", "overlay", "feedback"],
         keywords: [
           "react feedback widget",
@@ -944,6 +971,7 @@ export const registry: CategoryEntry[] = [
           "Thumbnail with an animated play button that opens a fullscreen video dialog. Supports YouTube / Vimeo embed URLs or direct video files. Six configurable entry animations.",
         file: "components/motion/hero-video-dialog.tsx",
         badge: "new",
+        launchedAt: "2026-07-06",
         tags: ["media", "overlay", "display"],
         keywords: [
           "hero video react",
@@ -966,6 +994,7 @@ export const registry: CategoryEntry[] = [
         description: "Auto-resizing chat input with send / stop states, suggestion chips, and staged file attachments — wires directly into any AI SDK.",
         file: "components/ai/agent-input.tsx",
         badge: "new",
+        launchedAt: "2026-07-04",
         tags: ["form", "input", "interaction"],
         keywords: [
           "ai chat input",
@@ -981,6 +1010,7 @@ export const registry: CategoryEntry[] = [
         description: "Animated user and assistant message bubbles with a spring entry, typing indicator, and a composable MessageList for full conversation threads.",
         file: "components/ai/chat-bubble.tsx",
         badge: "new",
+        launchedAt: "2026-07-04",
         tags: ["display", "feedback", "text"],
         keywords: [
           "chat bubble react",
@@ -996,6 +1026,7 @@ export const registry: CategoryEntry[] = [
         description: "Character-by-character text reveal that tracks append-only target strings — simulates live token streaming. Includes a blinking cursor and a word-level TokenStream variant.",
         file: "components/ai/streaming-text.tsx",
         badge: "new",
+        launchedAt: "2026-07-04",
         tags: ["display", "text", "animation"],
         keywords: [
           "streaming text react",
@@ -1011,6 +1042,7 @@ export const registry: CategoryEntry[] = [
         description: "Collapsible card for AI tool invocations — shows the tool name, status (running / done / error) with spring-animated icon transitions, and an expandable input / output body.",
         file: "components/ai/tool-card.tsx",
         badge: "new",
+        launchedAt: "2026-07-04",
         tags: ["display", "data", "feedback"],
         keywords: [
           "ai tool card react",

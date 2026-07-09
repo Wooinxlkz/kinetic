@@ -160,13 +160,37 @@ export interface DialogContentProps {
   className?: string;
   onClose?: () => void;
   maxWidth?: string;
+  /**
+   * "default" is the standard weighty entrance (scale + blur + spring).
+   * "fast" is a lighter, quicker entrance for content-heavy dialogs (e.g.
+   * code viewers) where a slower/blurrier animation reads as sluggish.
+   * Purely a timing/variant choice — behavior and API are unchanged.
+   */
+  speed?: "default" | "fast";
 }
+
+const FAST_PANEL_VARIANTS: Variants = {
+  initial: { opacity: 0, scale: 0.98, y: 6 },
+  animate: {
+    opacity: 1,
+    scale: 1,
+    y: 0,
+    transition: { type: "spring", stiffness: 560, damping: 36, mass: 0.4 },
+  },
+  exit: {
+    opacity: 0,
+    scale: 0.99,
+    y: 4,
+    transition: { duration: 0.1, ease: EASE_OUT },
+  },
+};
 
 export function DialogContent({
   children,
   className,
   onClose,
   maxWidth = "max-w-md",
+  speed = "default",
 }: DialogContentProps) {
   const { open, setOpen, titleId } = useDialog();
   const reduce = useReducedMotion();
@@ -220,7 +244,7 @@ export function DialogContent({
               maxWidth,
               className,
             )}
-            variants={reduce ? REDUCED_PANEL : PANEL_VARIANTS}
+            variants={reduce ? REDUCED_PANEL : speed === "fast" ? FAST_PANEL_VARIANTS : PANEL_VARIANTS}
             initial="initial"
             animate="animate"
             exit="exit"

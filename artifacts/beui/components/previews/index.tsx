@@ -269,6 +269,9 @@ export const previews: Record<string, ComponentType> = {
   "blocks/hero-video-dialog": dynamic(() =>
     import("./blocks/hero-video-dialog.preview").then((m) => m.HeroVideoDialogPreview),
   ),
+  "motion/wheel-picker": dynamic(() =>
+    import("./motion/wheel-picker.preview").then((m) => m.WheelPickerPreview),
+  ),
 };
 
 export function getPreview(category: string, slug: string) {

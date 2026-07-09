@@ -5,7 +5,7 @@ import { Tabs, TabsList, TabsTrigger } from "@/components/motion/tabs";
 
 const SPACES = [
   { value: "components", label: "Components", href: "/components/motion" },
-  { value: "blocks", label: "Blocks", href: "/components/blocks" },
+  { value: "blocks", label: "Patterns", href: "/components/blocks" },
 ];
 
 /** Top-level space switcher — the library's own Tabs in controlled mode, driven by the route. */

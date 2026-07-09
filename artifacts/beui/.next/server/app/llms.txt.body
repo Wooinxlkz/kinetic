@@ -54,6 +54,7 @@
 - [Confetti](https://beui.dev/r/confetti): Canvas particle burst (circles, squares, ribbons) fired from any screen position. Exposes a fireConfetti() function and a ConfettiButton convenience wrapper. Respects prefers-reduced-motion.
 - [Animated Beam](https://beui.dev/r/animated-beam): SVG beam that connects two DOM elements with an animated traveling spot of light along a static dim track. Supports bezier curvature, reverse direction, and multiple beams.
 - [Flickering Grid](https://beui.dev/r/flickering-grid): Canvas grid where each cell independently and randomly updates its opacity, creating a living breathing background texture. Lightweight and customizable.
+- [Wheel Picker](https://beui.dev/r/wheel-picker): iOS-style 3D cylinder picker with physics-based flick, touch drag, mouse drag, trackpad wheel, and keyboard navigation. Controlled and uncontrolled. Reduced-motion safe.
 - [Multi-chain Swap](https://beui.dev/r/swap): Cross-chain swap widget with chain + token selectors, morphing views, animated flip and quote.
 - [Dynamic Island](https://beui.dev/r/dynamic-island): iOS-style island pill that morphs between live activity views with bouncy shell resize and blur crossfades.
 - [Command Palette](https://beui.dev/r/command-palette): ⌘K palette with fuzzy filter, spring-animated active row and glass surface.

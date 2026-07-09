@@ -3,7 +3,7 @@ import { ArrowRight } from "lucide-react";
 import { registry } from "@/lib/registry";
 import { Hero } from "@/components/app/landing/hero";
 import { InstallCommand } from "@/components/app/docs/install-command";
-import { LandingComponentCard } from "@/components/app/landing/landing-component-card";
+import { GridToggleSection } from "@/components/app/landing/grid-toggle-section";
 import { Testimonials } from "@/components/app/landing/testimonials";
 import { WorkCta } from "@/components/app/landing/work-cta";
 import { SiteFooter } from "@/components/app/chrome/site-footer";
@@ -42,11 +42,17 @@ export default function Home() {
     return comp ? [{ category, component: comp }] : [];
   });
 
-  const newComponents = registry.flatMap((category) =>
-    category.components
-      .filter((component) => component.badge === "new")
-      .map((component) => ({ category: category.slug, component })),
-  );
+  const newComponents = registry
+    .flatMap((category) =>
+      category.components
+        .filter((component) => component.badge === "new")
+        .map((component) => ({ category: category.slug, component })),
+    )
+    .sort((a, b) => {
+      const da = a.component.launchedAt ?? "";
+      const db = b.component.launchedAt ?? "";
+      return db.localeCompare(da); // newest first
+    });
 
   return (
     <div className="relative">
@@ -63,7 +69,7 @@ export default function Home() {
 
       {newComponents.length ? (
         <section className="mx-auto max-w-7xl px-4 pb-16">
-          <div className="mb-8 flex flex-col gap-4 border-t border-border pt-12 md:flex-row md:items-center md:justify-between">
+          <div className="mb-2 flex flex-col gap-4 border-t border-border pt-12 md:flex-row md:items-center md:justify-between">
             <div>
               <p className="font-pixel text-xs font-medium uppercase text-muted-foreground">
                 New
@@ -73,20 +79,12 @@ export default function Home() {
               </h2>
             </div>
           </div>
-          <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4">
-            {newComponents.map(({ category, component }) => (
-              <LandingComponentCard
-                key={`${category}-${component.slug}`}
-                component={component}
-                category={category}
-              />
-            ))}
-          </div>
+          <GridToggleSection items={newComponents} />
         </section>
       ) : null}
 
       <section className="mx-auto max-w-7xl px-4 pb-16">
-        <div className="mb-8 flex flex-col gap-4 border-t border-border pt-12 md:flex-row md:items-center md:justify-between">
+        <div className="mb-2 flex flex-col gap-4 border-t border-border pt-12 md:flex-row md:items-center md:justify-between">
           <div>
             <p className="font-pixel text-xs font-medium uppercase text-muted-foreground">
               Components
@@ -102,15 +100,7 @@ export default function Home() {
             Browse all <ArrowRight className="ml-1 h-3.5 w-3.5" />
           </Link>
         </div>
-        <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4">
-          {curatedComponents.map(({ category, component }) => (
-            <LandingComponentCard
-              key={`${category}-${component.slug}`}
-              component={component}
-              category={category}
-            />
-          ))}
-        </div>
+        <GridToggleSection items={curatedComponents} />
       </section>
 
       <Testimonials />

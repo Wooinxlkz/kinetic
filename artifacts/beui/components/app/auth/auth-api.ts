@@ -46,3 +46,41 @@ export function signUp(name: string, email: string, password: string): Promise<A
 export async function signOutRequest(): Promise<void> {
   await fetch("/auth/logout", { method: "POST", credentials: "same-origin" });
 }
+
+/** Generates (or refreshes) a switch token for the currently signed-in user.
+ *  Must be called while the session is still active (before sign-out). */
+export async function generateSwitchTokenRequest(): Promise<string> {
+  const res = await fetch("/auth/generate-switch-token", {
+    method: "POST",
+    credentials: "same-origin",
+  });
+  const data = await res.json();
+  if (!res.ok) {
+    throw new AuthApiError(
+      (data && typeof data.error === "string" && data.error) || "Failed to generate switch token",
+    );
+  }
+  return (data as { token: string }).token;
+}
+
+/** Attempts an instant account switch using a stored switch token.
+ *  Returns the signed-in user and a fresh rotated switch token on success.
+ *  Throws AuthApiError if the token is expired or invalid — caller falls back
+ *  to the password flow. */
+export async function switchWithTokenRequest(
+  token: string,
+): Promise<{ user: AuthUser; switchToken: string }> {
+  const res = await fetch("/auth/switch", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    credentials: "same-origin",
+    body: JSON.stringify({ token }),
+  });
+  const data = await res.json();
+  if (!res.ok) {
+    throw new AuthApiError(
+      (data && typeof data.error === "string" && data.error) || "Switch failed",
+    );
+  }
+  return data as { user: AuthUser; switchToken: string };
+}

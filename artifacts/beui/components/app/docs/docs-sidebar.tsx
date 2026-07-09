@@ -14,6 +14,7 @@ import {
   Bot,
   Server,
   Database,
+  HelpCircle,
   type LucideIcon,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
@@ -30,6 +31,7 @@ const SECTION_NAV: Record<string, NavGroup[]> = {
         { label: "Installation",  href: "/docs/installation",  icon: Package },
         { label: "Theme Setup",   href: "/docs/theme",         icon: Palette },
         { label: "Changelog",     href: "/docs/changelog",     icon: History },
+        { label: "Help & Support", href: "/docs/help",         icon: HelpCircle },
       ],
     },
   ],

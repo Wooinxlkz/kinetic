@@ -62,7 +62,19 @@ export function MobileNav() {
                   : "text-muted-foreground hover:text-foreground",
               )}
             >
-              Blocks
+              Patterns
+            </Link>
+            <Link
+              href="/icons/static"
+              onClick={() => setOpen(false)}
+              className={cn(
+                "rounded-md px-3 py-1.5 text-sm transition-colors",
+                pathname.startsWith("/icons")
+                  ? "text-foreground"
+                  : "text-muted-foreground hover:text-foreground",
+              )}
+            >
+              Icons
             </Link>
             <Link
               href="/playground"

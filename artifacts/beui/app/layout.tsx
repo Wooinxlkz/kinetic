@@ -10,8 +10,13 @@ import { PreferencesProvider } from "@/components/app/preferences/preferences-pr
 import { PreferencesPanel } from "@/components/app/preferences/preferences-panel";
 import { SiteHeader } from "@/components/app/chrome/site-header";
 import { SiteDock } from "@/components/app/chrome/site-dock";
+import { MorphPanel } from "@/components/app/chrome/morph-panel";
 import { AuthProvider } from "@/components/app/auth/auth-provider";
 import { AuthModal } from "@/components/app/auth/auth-modal";
+import { Suspense } from "react";
+import { ReferralProvider } from "@/components/app/referrals/referral-context";
+import { ReferralsDialog } from "@/components/app/referrals/referrals-dialog";
+import { ReferralTracker } from "@/components/app/referrals/referral-tracker";
 import { SiteFrame } from "@/components/app/chrome/site-frame";
 import { KeyboardShortcuts } from "@/components/app/chrome/keyboard-shortcuts";
 import { JsonLd } from "@/components/app/analytics/json-ld";
@@ -121,14 +126,24 @@ export default async function RootLayout({ children }: { children: React.ReactNo
         <ThemeProvider>
           <PreferencesProvider>
             <AuthProvider>
-              <KeyboardShortcuts />
-              <SiteHeader githubStarCount={githubStarCount} />
-              <main className="pt-14 pb-32">
-                <SiteFrame>{children}</SiteFrame>
-              </main>
-              <SiteDock />
-              <PreferencesPanel />
-              <AuthModal />
+              <ReferralProvider>
+                <Suspense fallback={null}><ReferralTracker /></Suspense>
+                <KeyboardShortcuts />
+                <SiteHeader githubStarCount={githubStarCount} />
+                <main className="pt-14 pb-32">
+                  <SiteFrame>{children}</SiteFrame>
+                </main>
+                <SiteDock />
+                {/* Kinetic AI panel — fixed bottom-right, independent of the dock */}
+                <div className="pointer-events-none fixed bottom-6 right-6 z-40 flex flex-col items-end justify-end">
+                  <div className="pointer-events-auto">
+                    <MorphPanel />
+                  </div>
+                </div>
+                <PreferencesPanel />
+                <AuthModal />
+                <ReferralsDialog />
+              </ReferralProvider>
             </AuthProvider>
             {process.env.NEXT_PUBLIC_VERCEL_ENV && <Analytics />}
             {process.env.NEXT_PUBLIC_VERCEL_ENV && <SpeedInsights />}

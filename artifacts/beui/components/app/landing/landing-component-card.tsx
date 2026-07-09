@@ -1,26 +1,45 @@
 import Link from "next/link";
+import { cn } from "@/lib/utils";
 import type { ComponentEntry } from "@/lib/registry";
 import { NewBadge } from "@/components/app/docs/new-badge";
 import { LazyPreview } from "@/components/app/landing/lazy-preview";
 
+export type CardVariant = "default" | "feature";
+
+const VARIANT_SPAN: Record<CardVariant, string> = {
+  default: "",
+  feature: "sm:col-span-2 sm:row-span-2",
+};
+
 export function LandingComponentCard({
   component,
   category = "motion",
+  variant = "default",
 }: {
   component: ComponentEntry;
   category?: string;
+  variant?: CardVariant;
 }) {
+  const feature = variant === "feature";
   return (
     <article
-      className="group/card relative h-64"
-      style={{ contentVisibility: "auto", containIntrinsicBlockSize: "16rem" }}
+      className={cn(
+        "group/card relative",
+        feature ? "h-full" : "h-64",
+        VARIANT_SPAN[variant],
+      )}
+      style={
+        feature
+          ? undefined
+          : { contentVisibility: "auto", containIntrinsicBlockSize: "16rem" }
+      }
     >
       <Link
         href={`/components/${category}/${component.slug}`}
         aria-label={`View ${component.name}`}
         className="absolute inset-0 z-20 rounded-3xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-background"
       />
-      <div className="relative flex h-full flex-col overflow-hidden rounded-3xl bg-card transition-colors duration-300 ease-[cubic-bezier(0.23,1,0.32,1)] contain-[paint]">
+      <div className="relative flex h-full flex-col overflow-hidden rounded-3xl border border-border bg-card transition-colors duration-300 ease-[cubic-bezier(0.23,1,0.32,1)] contain-[paint] group-hover/card:border-foreground/20">
         <div className="flex shrink-0 items-center justify-between gap-3 px-4 py-3">
           <h3 className="truncate font-pixel text-base font-medium text-foreground">
             {component.name}
