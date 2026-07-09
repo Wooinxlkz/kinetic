@@ -28,18 +28,24 @@ export function CodePanel({
 
   useEffect(() => {
     let cancelled = false;
-    highlighter().then((hl) => {
-      if (cancelled) return;
-      setHtml(
-        hl.codeToHtml(code, {
-          lang: "tsx",
-          themes: { light: "github-light", dark: "github-dark" },
-          defaultColor: false,
-        }),
-      );
-    });
+    // Debounce: while sliders are being dragged, `code` changes rapidly.
+    // Re-highlighting on every tick is what makes drag feel laggy, so we
+    // wait for a short pause in updates before running Shiki.
+    const timeout = setTimeout(() => {
+      highlighter().then((hl) => {
+        if (cancelled) return;
+        setHtml(
+          hl.codeToHtml(code, {
+            lang: "tsx",
+            themes: { light: "github-light", dark: "github-dark" },
+            defaultColor: false,
+          }),
+        );
+      });
+    }, 120);
     return () => {
       cancelled = true;
+      clearTimeout(timeout);
     };
   }, [code]);
 
