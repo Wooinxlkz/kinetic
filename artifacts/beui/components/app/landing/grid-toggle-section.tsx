@@ -34,36 +34,15 @@ const BENTO_PATTERN: CardVariant[] = [
 // placed among the last few items can be left dangling with nothing after
 // it to fill the gap `grid-flow-dense` would otherwise close — that's what
 // caused an isolated tile with empty space around it. Keeping the tail of
-// the list as single-cell "default" tiles guarantees the last full rows
-// pack flush with no leftover empty space.
-const COLS = 4;
-const TAIL_SAFE_ZONE = 2 * COLS;
-
-// If the list doesn't divide evenly into full rows of `COLS`, the trailing
-// row would otherwise have 1-3 lonely single-cell tiles with empty space
-// next to them. Grow tiles in that final partial row to close the gap
-// instead of leaving it blank. Uses "full" (spans every column, at any
-// breakpoint) for a single lonely trailing item so it never leaves a gap
-// no matter how many columns the current screen size has.
-function lastRowFillVariant(index: number, total: number): CardVariant | null {
-  const remainder = total % COLS;
-  if (remainder === 0) return null;
-  const fromEnd = total - index; // 1 = last item, 2 = second-to-last, ...
-  if (remainder === 1 && fromEnd === 1) return "full";
-  if (remainder === 2 && fromEnd === 1) return "wide";
-  if (remainder === 3 && fromEnd === 2) return "wide";
-  return null;
-}
+// the list as single-cell "default" tiles guarantees the last row always
+// packs flush with no leftover empty space.
+const TAIL_SAFE_ZONE = 4;
 
 function bentoVariant(index: number, total: number): CardVariant {
   // Keep the very first tile "large" as a hero feature, same as before, as
   // long as there's enough items to fill around it.
   if (index === 0 && total >= 3) return "large";
-
-  if (total - index <= TAIL_SAFE_ZONE) {
-    return lastRowFillVariant(index, total) ?? "default";
-  }
-
+  if (total - index <= TAIL_SAFE_ZONE) return "default";
   return BENTO_PATTERN[index % BENTO_PATTERN.length];
 }
 
@@ -194,11 +173,7 @@ export function GridToggleSection({
             key={`${category}-${component.slug}`}
             component={component}
             category={category}
-            variant={
-              bento
-                ? bentoVariant(i, items.length)
-                : lastRowFillVariant(i, items.length) ?? "default"
-            }
+            variant={bento ? bentoVariant(i, items.length) : "default"}
           />
         ))}
       </div>

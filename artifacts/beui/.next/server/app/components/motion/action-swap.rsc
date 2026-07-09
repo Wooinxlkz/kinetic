@@ -17,9 +17,9 @@ f:I[60761,[],""]
 :HL["/_next/static/media/f27110d8825a0741.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/f493556a762f9dcd.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/fea0c6ef863f2f98.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/3ab8b8a2da89e22b.css","style"]
+:HL["/_next/static/css/14e5a3fb5e8f8ee7.css","style"]
 :HL["/_next/static/css/9990b348202794f9.css","style"]
-0:{"P":null,"b":"UNS1D8AjczCCywkoFuov1","p":"","c":["","components","motion","action-swap"],"i":false,"f":[[["",{"children":["components",{"children":[["category","motion","d"],{"children":[["slug","action-swap","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3ab8b8a2da89e22b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/9990b348202794f9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L2"]}],{"children":["components",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["category","motion","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","action-swap","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+0:{"P":null,"b":"96tGfDMIyjgHt0rzMvk3C","p":"","c":["","components","motion","action-swap"],"i":false,"f":[[["",{"children":["components",{"children":[["category","motion","d"],{"children":[["slug","action-swap","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/14e5a3fb5e8f8ee7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/9990b348202794f9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L2"]}],{"children":["components",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["category","motion","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","action-swap","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
 10:I[69706,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","4895","static/chunks/4895-4ae244da783f5a89.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4053","static/chunks/4053-64871e241fdcb0ce.js","2603","static/chunks/2603-37bb9ea2b993420a.js","4672","static/chunks/4672-b095740e8bc22e98.js","8115","static/chunks/8115-9cbbeb773cd45b27.js","9912","static/chunks/9912-d1513d1449eb3677.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","4229","static/chunks/4229-7083e9e0fee6c87f.js","1704","static/chunks/1704-e59cc15ff6163b2c.js","8806","static/chunks/8806-d0e3d7a1a1ea1d0c.js","7343","static/chunks/7343-d3f6eab23b22e0ce.js","3039","static/chunks/3039-eb686823b343fe8e.js","1590","static/chunks/1590-cb822a54a041a5d9.js","6978","static/chunks/6978-af92f1b9e884bb0b.js","8863","static/chunks/8863-b42f8c5815c9b07e.js","1089","static/chunks/1089-516d816099aaa60e.js","9959","static/chunks/9959-0a657621fc8d47a7.js","1512","static/chunks/1512-9dfa9631de037f0b.js","9680","static/chunks/app/components/%5Bcategory%5D/%5Bslug%5D/page-50ce2b74ceb0cf8c.js"],""]
 11:I[80571,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","4895","static/chunks/4895-4ae244da783f5a89.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4053","static/chunks/4053-64871e241fdcb0ce.js","2603","static/chunks/2603-37bb9ea2b993420a.js","4672","static/chunks/4672-b095740e8bc22e98.js","8115","static/chunks/8115-9cbbeb773cd45b27.js","9912","static/chunks/9912-d1513d1449eb3677.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","4229","static/chunks/4229-7083e9e0fee6c87f.js","1704","static/chunks/1704-e59cc15ff6163b2c.js","8806","static/chunks/8806-d0e3d7a1a1ea1d0c.js","7343","static/chunks/7343-d3f6eab23b22e0ce.js","3039","static/chunks/3039-eb686823b343fe8e.js","1590","static/chunks/1590-cb822a54a041a5d9.js","6978","static/chunks/6978-af92f1b9e884bb0b.js","8863","static/chunks/8863-b42f8c5815c9b07e.js","1089","static/chunks/1089-516d816099aaa60e.js","9959","static/chunks/9959-0a657621fc8d47a7.js","1512","static/chunks/1512-9dfa9631de037f0b.js","9680","static/chunks/app/components/%5Bcategory%5D/%5Bslug%5D/page-50ce2b74ceb0cf8c.js"],"default"]
 5:["$","div",null,{"children":[[["$","script","0",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Kinetic UI\",\"item\":\"https://beui.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Components\",\"item\":\"https://beui.dev/components/motion\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Action Swap\",\"item\":\"https://beui.dev/components/motion/action-swap\"}]}"}}],["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"TechArticle\",\"@id\":\"https://beui.dev/components/motion/action-swap#article\",\"headline\":\"Action Swap · React motion component\",\"name\":\"Action Swap\",\"description\":\"CTA button and slot primitives for swapping text and icons with blur motion.\",\"url\":\"https://beui.dev/components/motion/action-swap\",\"image\":\"https://beui.dev/api/og?component=action-swap\",\"inLanguage\":\"en\",\"isPartOf\":{\"@id\":\"https://beui.dev/#website\"},\"author\":{\"@type\":\"Person\",\"name\":\"Saurabh\"},\"publisher\":{\"@id\":\"https://beui.dev/#org\"},\"about\":{\"@type\":\"SoftwareSourceCode\",\"name\":\"Action Swap\",\"description\":\"CTA button and slot primitives for swapping text and icons with blur motion.\",\"codeRepository\":\"https://github.com/starc007/ui-components\",\"programmingLanguage\":\"TypeScript\",\"runtimePlatform\":\"React\",\"codeSampleType\":\"full (compile ready)\"}}"}}]],["$","nav",null,{"aria-label":"Breadcrumb","className":"flex items-center gap-1.5 text-sm","children":[["$","$L10",null,{"href":"/components/motion","className":"text-muted-foreground transition-colors hover:text-foreground","children":"Components"}],["$","$L11",null,{"ref":"$undefined","iconNode":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]],"className":"lucide-chevron-right h-3.5 w-3.5 text-muted-foreground"}],["$","span",null,{"className":"font-medium text-foreground","children":"Action Swap"}]]}],["$","div",null,{"className":"mt-4 flex items-center gap-3","children":[["$","h1",null,{"className":"text-3xl font-semibold tracking-tight text-foreground","children":"Action Swap"}],null,["$","span",null,{"className":"inline-flex shrink-0 items-center gap-1 rounded-full border border-border bg-foreground/[0.06] px-1.5 py-0.5 text-[10px] font-semibold uppercase leading-none text-foreground/70 mt-1","children":[["$","span",null,{"className":"h-1 w-1 rounded-full bg-foreground/50"}],"Motion"]}]]}],["$","p",null,{"className":"mt-2 max-w-2xl text-muted-foreground","children":"CTA button and slot primitives for swapping text and icons with blur motion."}],["$","div",null,{"className":"mt-10 flex flex-col gap-12","children":["$L12","$L13","$L14"]}],null,null,["$","section",null,{"className":"mt-12 border-t border-border pt-8","children":[["$","h2",null,{"className":"text-sm font-semibold text-foreground","children":"Related components"}],["$","div",null,{"className":"mt-4 grid grid-cols-1 gap-4 sm:grid-cols-2 xl:grid-cols-3","children":[["$","$L10","motion/tilt-card",{"href":"/components/motion/tilt-card","className":"group/card relative flex h-40 flex-col overflow-hidden rounded-3xl bg-card transition-colors duration-300 ease-[cubic-bezier(0.23,1,0.32,1)] contain-[paint] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-background","children":[["$","div",null,{"className":"flex shrink-0 items-center justify-between gap-3 px-4 py-3","children":[["$","h3",null,{"className":"truncate font-pixel text-base font-medium text-foreground","children":"Tilt Card"}],["$","div",null,{"className":"flex shrink-0 items-center gap-1.5","children":[null,["$","span",null,{"className":"inline-flex shrink-0 items-center gap-1 rounded-full border border-border bg-foreground/[0.06] px-1.5 py-0.5 text-[10px] font-semibold uppercase leading-none text-foreground/70","children":["$L15","Motion"]}]]}]]}],"$L16"]}],"$L17","$L18"]}]]}],"$L19"]}]
@@ -71,7 +71,7 @@ e:"$9:metadata"
 3a:["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["className","?"]}]
 3b:["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"string"}],null]}]
 3c:["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]
-3d:["$","div","variant",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["variant","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"\"primary\" | \"secondary\" | \"ghost\" | \"outline\""}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
+3d:["$","div","variant",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["variant","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"\"outline\" | \"primary\" | \"secondary\" | \"ghost\""}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
 3e:["$","div","items",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["items",""]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"ActionSwapItem[]"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
 3f:["$","div","onValueChange",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onValueChange","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((value: string, item: ActionSwapItem) => void)"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
 40:["$","div","iconOnly",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["iconOnly","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"boolean"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
@@ -81,7 +81,7 @@ e:"$9:metadata"
 48:["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["className","?"]}]
 49:["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"string"}],null]}]
 4a:["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]
-4b:["$","div","variant",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["variant","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"\"primary\" | \"secondary\" | \"ghost\" | \"outline\""}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
+4b:["$","div","variant",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["variant","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"\"outline\" | \"primary\" | \"secondary\" | \"ghost\""}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
 4c:["$","div","items",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["items",""]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"ActionSwapItem[]"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
 4d:["$","div","onValueChange",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onValueChange","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((value: string, item: ActionSwapItem) => void)"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
 4e:["$","div","iconOnly",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["iconOnly","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"boolean"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
@@ -91,7 +91,7 @@ e:"$9:metadata"
 56:["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["className","?"]}]
 57:["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"string"}],null]}]
 58:["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]
-59:["$","div","variant",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["variant","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"\"primary\" | \"secondary\" | \"ghost\" | \"outline\""}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
+59:["$","div","variant",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["variant","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"\"outline\" | \"primary\" | \"secondary\" | \"ghost\""}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
 5a:["$","div","items",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["items",""]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"ActionSwapItem[]"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
 5b:["$","div","onValueChange",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onValueChange","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((value: string, item: ActionSwapItem) => void)"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
 5c:["$","div","iconOnly",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["iconOnly","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"boolean"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
@@ -533,8 +533,10 @@ export function ActionSwapRollPreview() {
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
 <span class="line"></span></code></pre>54:["$","div",null,{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"action-swap-roll.tsx"}]]}]]}],["$","$L63",null,{"text":"\"use client\";\n// beui.dev/components/motion/action-swap\n\nimport {\n  ActionSwapButton,\n  ActionSwapIcon,\n  ActionSwapText,\n  type ActionSwapButtonProps,\n  type ActionSwapIconProps,\n  type ActionSwapTextProps,\n} from \"./action-swap\";\n\nexport type {\n  ActionSwapButtonSize,\n  ActionSwapButtonVariant,\n  ActionSwapItem,\n} from \"./action-swap\";\n\nexport type ActionSwapRollButtonProps = Omit<ActionSwapButtonProps, \"animation\">;\nexport type ActionSwapRollTextProps = Omit<ActionSwapTextProps, \"animation\">;\nexport type ActionSwapRollIconProps = Omit<ActionSwapIconProps, \"animation\">;\n\nexport function ActionSwapRollButton(props: ActionSwapRollButtonProps) {\n  return <ActionSwapButton {...props} animation=\"roll\" />;\n}\n\nexport function ActionSwapRollText(props: ActionSwapRollTextProps) {\n  return <ActionSwapText {...props} animation=\"roll\" />;\n}\n\nexport function ActionSwapRollIcon(props: ActionSwapRollIconProps) {\n  return <ActionSwapIcon {...props} animation=\"roll\" />;\n}\n","eventLabel":"components/motion/action-swap-roll.tsx"}]]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$6c"}}]}]]}]
 39:["$","div",null,{"className":"flex flex-col gap-6","children":[["$","div",null,{"className":"rounded-xl border border-border bg-card px-4 py-3 text-sm text-muted-foreground","children":["Needs the theme tokens once. Already ran"," ",["$","code",null,{"className":"rounded bg-foreground/5 px-1.5 py-0.5 font-mono text-xs text-foreground","children":"shadcn init"}],"? You are set."," ",["$","$L10",null,{"href":"/docs/theme","className":"inline-flex items-center gap-1 text-foreground underline underline-offset-4","children":["Theme setup",["$","$L11",null,{"ref":"$undefined","iconNode":[["path",{"d":"M7 7h10v10","key":"1tivn9"}],["path",{"d":"M7 17 17 7","key":"1vkiza"}]],"className":"lucide-arrow-up-right h-3 w-3"}]]}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Install dependencies"}],["$","div",null,{"className":"mt-3","children":"$L6d"}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":["Add util file","s"]}],["$","div",null,{"className":"mt-3 flex flex-col gap-4","children":["$L6e","$L6f"]}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Copy the source code"}],["$","div",null,{"className":"mt-3 flex flex-col gap-4","children":["$L70","$L71"]}]]}]]}]
+55:["$","div",null,{"className":"flex flex-col gap-6","children":[["$","div",null,{"className":"rounded-xl border border-border bg-card px-4 py-3 text-sm text-muted-foreground","children":["Needs the theme tokens once. Already ran"," ",["$","code",null,{"className":"rounded bg-foreground/5 px-1.5 py-0.5 font-mono text-xs text-foreground","children":"shadcn init"}],"? You are set."," ",["$","$L10",null,{"href":"/docs/theme","className":"inline-flex items-center gap-1 text-foreground underline underline-offset-4","children":["Theme setup",["$","$L11",null,{"ref":"$undefined","iconNode":"$39:props:children:0:props:children:5:props:children:1:props:iconNode","className":"lucide-arrow-up-right h-3 w-3"}]]}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Install dependencies"}],["$","div",null,{"className":"mt-3","children":"$L72"}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":["Add util file","s"]}],["$","div",null,{"className":"mt-3 flex flex-col gap-4","children":["$L73","$L74"]}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Copy the source code"}],["$","div",null,{"className":"mt-3 flex flex-col gap-4","children":["$L75","$L76"]}]]}]]}]
+47:["$","div",null,{"className":"flex flex-col gap-6","children":[["$","div",null,{"className":"rounded-xl border border-border bg-card px-4 py-3 text-sm text-muted-foreground","children":["Needs the theme tokens once. Already ran"," ",["$","code",null,{"className":"rounded bg-foreground/5 px-1.5 py-0.5 font-mono text-xs text-foreground","children":"shadcn init"}],"? You are set."," ",["$","$L10",null,{"href":"/docs/theme","className":"inline-flex items-center gap-1 text-foreground underline underline-offset-4","children":["Theme setup",["$","$L11",null,{"ref":"$undefined","iconNode":"$39:props:children:0:props:children:5:props:children:1:props:iconNode","className":"lucide-arrow-up-right h-3 w-3"}]]}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Install dependencies"}],["$","div",null,{"className":"mt-3","children":"$L77"}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":["Add util file","s"]}],["$","div",null,{"className":"mt-3 flex flex-col gap-4","children":["$L78","$L79"]}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Copy the source code"}],["$","div",null,{"className":"mt-3 flex flex-col gap-4","children":["$L7a","$L7b"]}]]}]]}]
 6d:["$","div",null,{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"absolute right-3 top-3 z-10","children":["$","$L63",null,{"text":"npm i clsx lucide-react motion tailwind-merge","eventLabel":"bash"}]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"<pre class=\"shiki shiki-themes github-light github-dark\" style=\"--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e\" tabindex=\"0\"><code><span class=\"line\"><span style=\"--shiki-light:#6F42C1;--shiki-dark:#B392F0\">npm</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> i</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> clsx</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> lucide-react</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> motion</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> tailwind-merge</span></span></code></pre>"}}]}]]}]
-72:T58b,// Shared motion tokens. Easing curves mirror the CSS custom properties in
+7c:T58b,// Shared motion tokens. Easing curves mirror the CSS custom properties in
 // globals.css; springs are the canonical physics used across components.
 // Strong custom variants — defaults like `ease-in`/`ease-out` feel weak.
 
@@ -583,7 +585,7 @@ export const SPRING_MOUSE = {
   damping: 15,
   mass: 0.3,
 } as const;
-73:T3499,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// Shared motion tokens. Easing curves mirror the CSS custom properties in</span></span>
+7d:T3499,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// Shared motion tokens. Easing curves mirror the CSS custom properties in</span></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// globals.css; springs are the canonical physics used across components.</span></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// Strong custom variants — defaults like `ease-in`/`ease-out` feel weak.</span></span>
 <span class="line"></span>
@@ -632,15 +634,15 @@ export const SPRING_MOUSE = {
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">15</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span></code></pre>6e:["$","div","lib/ease.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["lib","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"ease.ts"}]]}]]}],["$","$L63",null,{"text":"$72","eventLabel":"lib/ease.ts"}]]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$73"}}]}]]}]
-74:T856,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { clsx, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ClassValue } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "clsx"</span></span>
+<span class="line"></span></code></pre>6e:["$","div","lib/ease.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["lib","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"ease.ts"}]]}]]}],["$","$L63",null,{"text":"$7c","eventLabel":"lib/ease.ts"}]]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$7d"}}]}]]}]
+7e:T856,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { clsx, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ClassValue } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "clsx"</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { twMerge } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "tailwind-merge"</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> cn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">inputs</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ClassValue</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[]) {</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> twMerge</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">clsx</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(inputs))</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>6f:["$","div","lib/utils.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["lib","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"utils.ts"}]]}]]}],["$","$L63",null,{"text":"import { clsx, type ClassValue } from \"clsx\"\nimport { twMerge } from \"tailwind-merge\"\n\nexport function cn(...inputs: ClassValue[]) {\n  return twMerge(clsx(inputs))\n}\n","eventLabel":"lib/utils.ts"}]]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$74"}}]}]]}]
-75:T24fc,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span></code></pre>6f:["$","div","lib/utils.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["lib","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"utils.ts"}]]}]]}],["$","$L63",null,{"text":"import { clsx, type ClassValue } from \"clsx\"\nimport { twMerge } from \"tailwind-merge\"\n\nexport function cn(...inputs: ClassValue[]) {\n  return twMerge(clsx(inputs))\n}\n","eventLabel":"lib/utils.ts"}]]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$7e"}}]}]]}]
+7f:T24fc,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// beui.dev/components/motion/action-swap</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
@@ -673,8 +675,8 @@ export const SPRING_MOUSE = {
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapCascadeIcon</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">props</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapCascadeIconProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">ActionSwapIcon</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">props} </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">animation</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"cascade"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> />;</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>70:["$","div","components/motion/action-swap-cascade.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"action-swap-cascade.tsx"}]]}]]}],["$","$L63",null,{"text":"\"use client\";\n// beui.dev/components/motion/action-swap\n\nimport {\n  ActionSwapButton,\n  ActionSwapIcon,\n  ActionSwapText,\n  type ActionSwapButtonProps,\n  type ActionSwapIconProps,\n  type ActionSwapTextProps,\n} from \"./action-swap\";\n\nexport type {\n  ActionSwapButtonSize,\n  ActionSwapButtonVariant,\n  ActionSwapItem,\n} from \"./action-swap\";\n\nexport type ActionSwapCascadeButtonProps = Omit<ActionSwapButtonProps, \"animation\">;\nexport type ActionSwapCascadeTextProps = Omit<ActionSwapTextProps, \"animation\">;\nexport type ActionSwapCascadeIconProps = Omit<ActionSwapIconProps, \"animation\">;\n\nexport function ActionSwapCascadeButton(props: ActionSwapCascadeButtonProps) {\n  return <ActionSwapButton {...props} animation=\"cascade\" />;\n}\n\nexport function ActionSwapCascadeText(props: ActionSwapCascadeTextProps) {\n  return <ActionSwapText {...props} animation=\"cascade\" />;\n}\n\nexport function ActionSwapCascadeIcon(props: ActionSwapCascadeIconProps) {\n  return <ActionSwapIcon {...props} animation=\"cascade\" />;\n}\n","eventLabel":"components/motion/action-swap-cascade.tsx"}]]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$75"}}]}]]}]
-76:T2853,"use client";
+<span class="line"></span></code></pre>70:["$","div","components/motion/action-swap-cascade.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"action-swap-cascade.tsx"}]]}]]}],["$","$L63",null,{"text":"\"use client\";\n// beui.dev/components/motion/action-swap\n\nimport {\n  ActionSwapButton,\n  ActionSwapIcon,\n  ActionSwapText,\n  type ActionSwapButtonProps,\n  type ActionSwapIconProps,\n  type ActionSwapTextProps,\n} from \"./action-swap\";\n\nexport type {\n  ActionSwapButtonSize,\n  ActionSwapButtonVariant,\n  ActionSwapItem,\n} from \"./action-swap\";\n\nexport type ActionSwapCascadeButtonProps = Omit<ActionSwapButtonProps, \"animation\">;\nexport type ActionSwapCascadeTextProps = Omit<ActionSwapTextProps, \"animation\">;\nexport type ActionSwapCascadeIconProps = Omit<ActionSwapIconProps, \"animation\">;\n\nexport function ActionSwapCascadeButton(props: ActionSwapCascadeButtonProps) {\n  return <ActionSwapButton {...props} animation=\"cascade\" />;\n}\n\nexport function ActionSwapCascadeText(props: ActionSwapCascadeTextProps) {\n  return <ActionSwapText {...props} animation=\"cascade\" />;\n}\n\nexport function ActionSwapCascadeIcon(props: ActionSwapCascadeIconProps) {\n  return <ActionSwapIcon {...props} animation=\"cascade\" />;\n}\n","eventLabel":"components/motion/action-swap-cascade.tsx"}]]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$7f"}}]}]]}]
+80:T2853,"use client";
 
 import { AnimatePresence, motion, useReducedMotion, type HTMLMotionProps, type Variants } from "motion/react";
 import { useLayoutEffect, useRef, useState, type ReactNode } from "react";
@@ -1006,10 +1008,956 @@ export function ActionSwapButton({
     </motion.button>
   );
 }
-71:["$","div","components/motion/action-swap.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"action-swap.tsx"}]]}]]}],["$","$L63",null,{"text":"$76","eventLabel":"components/motion/action-swap.tsx"}]]}],"$L77"]}]
-47:["$","div",null,{"className":"flex flex-col gap-6","children":[["$","div",null,{"className":"rounded-xl border border-border bg-card px-4 py-3 text-sm text-muted-foreground","children":["Needs the theme tokens once. Already ran"," ",["$","code",null,{"className":"rounded bg-foreground/5 px-1.5 py-0.5 font-mono text-xs text-foreground","children":"shadcn init"}],"? You are set."," ",["$","$L10",null,{"href":"/docs/theme","className":"inline-flex items-center gap-1 text-foreground underline underline-offset-4","children":["Theme setup",["$","$L11",null,{"ref":"$undefined","iconNode":"$39:props:children:0:props:children:5:props:children:1:props:iconNode","className":"lucide-arrow-up-right h-3 w-3"}]]}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Install dependencies"}],["$","div",null,{"className":"mt-3","children":"$L78"}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":["Add util file","s"]}],["$","div",null,{"className":"mt-3 flex flex-col gap-4","children":["$L79","$L7a"]}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Copy the source code"}],["$","div",null,{"className":"mt-3 flex flex-col gap-4","children":["$L7b","$L7c"]}]]}]]}]
-55:["$","div",null,{"className":"flex flex-col gap-6","children":[["$","div",null,{"className":"rounded-xl border border-border bg-card px-4 py-3 text-sm text-muted-foreground","children":["Needs the theme tokens once. Already ran"," ",["$","code",null,{"className":"rounded bg-foreground/5 px-1.5 py-0.5 font-mono text-xs text-foreground","children":"shadcn init"}],"? You are set."," ",["$","$L10",null,{"href":"/docs/theme","className":"inline-flex items-center gap-1 text-foreground underline underline-offset-4","children":["Theme setup",["$","$L11",null,{"ref":"$undefined","iconNode":"$39:props:children:0:props:children:5:props:children:1:props:iconNode","className":"lucide-arrow-up-right h-3 w-3"}]]}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Install dependencies"}],["$","div",null,{"className":"mt-3","children":"$L7d"}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":["Add util file","s"]}],["$","div",null,{"className":"mt-3 flex flex-col gap-4","children":["$L7e","$L7f"]}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Copy the source code"}],["$","div",null,{"className":"mt-3 flex flex-col gap-4","children":["$L80","$L81"]}]]}]]}]
-82:T18245,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+71:["$","div","components/motion/action-swap.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"action-swap.tsx"}]]}]]}],["$","$L63",null,{"text":"$80","eventLabel":"components/motion/action-swap.tsx"}]]}],"$L81"]}]
+72:["$","div",null,{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"absolute right-3 top-3 z-10","children":["$","$L63",null,{"text":"npm i clsx lucide-react motion tailwind-merge","eventLabel":"bash"}]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"<pre class=\"shiki shiki-themes github-light github-dark\" style=\"--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e\" tabindex=\"0\"><code><span class=\"line\"><span style=\"--shiki-light:#6F42C1;--shiki-dark:#B392F0\">npm</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> i</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> clsx</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> lucide-react</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> motion</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> tailwind-merge</span></span></code></pre>"}}]}]]}]
+82:T58b,// Shared motion tokens. Easing curves mirror the CSS custom properties in
+// globals.css; springs are the canonical physics used across components.
+// Strong custom variants — defaults like `ease-in`/`ease-out` feel weak.
+
+export const EASE_OUT = [0.16, 1, 0.3, 1] as const;
+export const EASE_IN_OUT = [0.77, 0, 0.175, 1] as const;
+export const EASE_DRAWER = [0.32, 0.72, 0, 1] as const;
+
+/** CSS string form of EASE_OUT for inline style transitions. */
+export const EASE_OUT_CSS = "cubic-bezier(0.16, 1, 0.3, 1)";
+
+/** Press feedback on buttons and other tappable surfaces. */
+export const SPRING_PRESS = {
+  type: "spring",
+  stiffness: 500,
+  damping: 30,
+  mass: 0.6,
+} as const;
+
+/** Content swaps — label/icon slots trading places inside a control. */
+export const SPRING_SWAP = {
+  type: "spring",
+  stiffness: 460,
+  damping: 30,
+  mass: 0.55,
+} as const;
+
+/** Overlay panel entrances — modals and sheets summoned by pointer. */
+export const SPRING_PANEL = {
+  type: "spring",
+  stiffness: 420,
+  damping: 40,
+  mass: 0.5,
+} as const;
+
+/** Shared-layout glides — pills, indicators and panels morphing between positions. */
+export const SPRING_LAYOUT = {
+  type: "spring",
+  stiffness: 360,
+  damping: 32,
+  mass: 0.6,
+} as const;
+
+/** Cursor-follow physics for decorative mouse tracking (magnetic, tilt, dock). */
+export const SPRING_MOUSE = {
+  stiffness: 200,
+  damping: 15,
+  mass: 0.3,
+} as const;
+83:T3499,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// Shared motion tokens. Easing curves mirror the CSS custom properties in</span></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// globals.css; springs are the canonical physics used across components.</span></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// Strong custom variants — defaults like `ease-in`/`ease-out` feel weak.</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_OUT</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.16</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_IN_OUT</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.77</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.175</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_DRAWER</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.32</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.72</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** CSS string form of EASE_OUT for inline style transitions. */</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_OUT_CSS</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "cubic-bezier(0.16, 1, 0.3, 1)"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Press feedback on buttons and other tappable surfaces. */</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_PRESS</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">500</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">30</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.6</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Content swaps — label/icon slots trading places inside a control. */</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_SWAP</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">460</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">30</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.55</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Overlay panel entrances — modals and sheets summoned by pointer. */</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_PANEL</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">420</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">40</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.5</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Shared-layout glides — pills, indicators and panels morphing between positions. */</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_LAYOUT</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">360</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">32</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.6</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Cursor-follow physics for decorative mouse tracking (magnetic, tilt, dock). */</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_MOUSE</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">200</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">15</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span></code></pre>73:["$","div","lib/ease.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["lib","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"ease.ts"}]]}]]}],["$","$L63",null,{"text":"$82","eventLabel":"lib/ease.ts"}]]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$83"}}]}]]}]
+84:T856,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { clsx, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ClassValue } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "clsx"</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { twMerge } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "tailwind-merge"</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> cn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">inputs</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ClassValue</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[]) {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> twMerge</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">clsx</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(inputs))</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"></span></code></pre>74:["$","div","lib/utils.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["lib","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"utils.ts"}]]}]]}],["$","$L63",null,{"text":"import { clsx, type ClassValue } from \"clsx\"\nimport { twMerge } from \"tailwind-merge\"\n\nexport function cn(...inputs: ClassValue[]) {\n  return twMerge(clsx(inputs))\n}\n","eventLabel":"lib/utils.ts"}]]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$84"}}]}]]}]
+85:T24d8,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// beui.dev/components/motion/action-swap</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapButton,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapIcon,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapText,</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ActionSwapButtonProps,</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ActionSwapIconProps,</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ActionSwapTextProps,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./action-swap"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapButtonSize,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapButtonVariant,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapItem,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./action-swap"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapRollButtonProps</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Omit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">ActionSwapButtonProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"animation"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapRollTextProps</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Omit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">ActionSwapTextProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"animation"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapRollIconProps</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Omit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">ActionSwapIconProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"animation"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapRollButton</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">props</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapRollButtonProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">ActionSwapButton</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">props} </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">animation</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"roll"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> />;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapRollText</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">props</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapRollTextProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">ActionSwapText</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">props} </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">animation</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"roll"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> />;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapRollIcon</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">props</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapRollIconProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">ActionSwapIcon</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">props} </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">animation</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"roll"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> />;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"></span></code></pre>75:["$","div","components/motion/action-swap-roll.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"action-swap-roll.tsx"}]]}]]}],["$","$L63",null,{"text":"\"use client\";\n// beui.dev/components/motion/action-swap\n\nimport {\n  ActionSwapButton,\n  ActionSwapIcon,\n  ActionSwapText,\n  type ActionSwapButtonProps,\n  type ActionSwapIconProps,\n  type ActionSwapTextProps,\n} from \"./action-swap\";\n\nexport type {\n  ActionSwapButtonSize,\n  ActionSwapButtonVariant,\n  ActionSwapItem,\n} from \"./action-swap\";\n\nexport type ActionSwapRollButtonProps = Omit<ActionSwapButtonProps, \"animation\">;\nexport type ActionSwapRollTextProps = Omit<ActionSwapTextProps, \"animation\">;\nexport type ActionSwapRollIconProps = Omit<ActionSwapIconProps, \"animation\">;\n\nexport function ActionSwapRollButton(props: ActionSwapRollButtonProps) {\n  return <ActionSwapButton {...props} animation=\"roll\" />;\n}\n\nexport function ActionSwapRollText(props: ActionSwapRollTextProps) {\n  return <ActionSwapText {...props} animation=\"roll\" />;\n}\n\nexport function ActionSwapRollIcon(props: ActionSwapRollIconProps) {\n  return <ActionSwapIcon {...props} animation=\"roll\" />;\n}\n","eventLabel":"components/motion/action-swap-roll.tsx"}]]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$85"}}]}]]}]
+86:T2853,"use client";
+
+import { AnimatePresence, motion, useReducedMotion, type HTMLMotionProps, type Variants } from "motion/react";
+import { useLayoutEffect, useRef, useState, type ReactNode } from "react";
+import { EASE_OUT, EASE_OUT_CSS, SPRING_PRESS, SPRING_SWAP } from "@/lib/ease";
+import { cn } from "@/lib/utils";
+
+export type ActionSwapItem = {
+  id: string;
+  label: ReactNode;
+  icon?: ReactNode;
+  ariaLabel?: string;
+};
+
+export type ActionSwapButtonVariant = "primary" | "secondary" | "outline" | "ghost";
+export type ActionSwapButtonSize = "sm" | "md" | "lg" | "icon";
+export type ActionSwapAnimation = "blur" | "roll" | "cascade";
+
+/** Animations with a single-element variant set (cascade animates per letter). */
+type CoreAnimation = "blur" | "roll";
+
+export interface ActionSwapButtonProps extends Omit<
+  HTMLMotionProps<"button">,
+  "children" | "onChange"
+> {
+  items: ActionSwapItem[];
+  value?: string;
+  defaultValue?: string;
+  onValueChange?: (value: string, item: ActionSwapItem) => void;
+  variant?: ActionSwapButtonVariant;
+  size?: ActionSwapButtonSize;
+  animation?: ActionSwapAnimation;
+  iconOnly?: boolean;
+  cycle?: boolean;
+}
+
+export interface ActionSwapTextProps {
+  value: string;
+  children: ReactNode;
+  animation?: ActionSwapAnimation;
+  className?: string;
+}
+
+export interface ActionSwapIconProps {
+  value: string;
+  children: ReactNode;
+  animation?: ActionSwapAnimation;
+  className?: string;
+}
+
+const BLUR_TRANSITION = { duration: 0.2, ease: "easeInOut" } as const;
+const ROLL_TRANSITION = { duration: 0.24, ease: EASE_OUT } as const;
+const SWAP_BLUR = "blur(8px)";
+const ROLL_BLUR = "blur(6px)";
+
+// Cascade rolls the label one letter at a time, left to right. The leaving
+// and landing strings overlap as independent layers (no shared cells), so
+// proportional glyph widths never jitter. Exits cascade at half the enter
+// stagger so the tail of the old label lingers briefly.
+const CASCADE_STAGGER = 0.025;
+
+const CASCADE_LETTER_VARIANTS: Variants = {
+  initial: { opacity: 0, y: "105%", filter: ROLL_BLUR },
+  animate: (delay: number = 0) => ({
+    opacity: 1,
+    y: "0%",
+    filter: "blur(0px)",
+    transition: { ...SPRING_SWAP, delay },
+  }),
+  exit: (delay: number = 0) => ({
+    opacity: 0,
+    y: "-105%",
+    filter: ROLL_BLUR,
+    transition: { duration: 0.16, ease: EASE_OUT, delay: delay * 0.5 },
+  }),
+};
+
+const TEXT_VARIANTS: Record<CoreAnimation, Variants> = {
+  blur: {
+    initial: { opacity: 0, scale: 0.94, filter: SWAP_BLUR },
+    animate: {
+      opacity: 1,
+      scale: 1,
+      filter: "blur(0px)",
+      transition: BLUR_TRANSITION,
+    },
+    exit: {
+      opacity: 0,
+      scale: 0.94,
+      filter: SWAP_BLUR,
+      transition: BLUR_TRANSITION,
+    },
+  },
+  roll: {
+    initial: { opacity: 0, y: "115%", filter: ROLL_BLUR },
+    animate: {
+      opacity: 1,
+      y: "0%",
+      filter: "blur(0px)",
+      transition: ROLL_TRANSITION,
+    },
+    exit: {
+      opacity: 0,
+      y: "-115%",
+      filter: ROLL_BLUR,
+      transition: { duration: 0.18, ease: "easeInOut" },
+    },
+  },
+};
+
+const ICON_VARIANTS: Record<CoreAnimation, Variants> = {
+  blur: {
+    initial: { opacity: 0, scale: 0.25, filter: SWAP_BLUR },
+    animate: {
+      opacity: 1,
+      scale: 1,
+      filter: "blur(0px)",
+      transition: BLUR_TRANSITION,
+    },
+    exit: {
+      opacity: 0,
+      scale: 0.25,
+      filter: SWAP_BLUR,
+      transition: BLUR_TRANSITION,
+    },
+  },
+  roll: {
+    initial: { opacity: 0, y: 16, filter: ROLL_BLUR },
+    animate: {
+      opacity: 1,
+      y: 0,
+      filter: "blur(0px)",
+      transition: ROLL_TRANSITION,
+    },
+    exit: {
+      opacity: 0,
+      y: -16,
+      filter: ROLL_BLUR,
+      transition: { duration: 0.18, ease: "easeInOut" },
+    },
+  },
+};
+
+const VARIANT_CLASS: Record<ActionSwapButtonVariant, string> = {
+  primary: "bg-primary text-primary-foreground hover:bg-primary/90",
+  secondary: "border border-border bg-card text-foreground hover:border-border",
+  outline: "border border-border bg-transparent text-foreground hover:bg-primary/5",
+  ghost: "text-muted-foreground hover:bg-primary/5 hover:text-foreground",
+};
+
+const SIZE_CLASS: Record<ActionSwapButtonSize, string> = {
+  sm: "h-8 gap-1.5 rounded-full px-3 text-xs",
+  md: "h-10 gap-2 rounded-full px-4 text-sm",
+  lg: "h-12 gap-2.5 rounded-full px-5 text-base",
+  icon: "h-10 w-10 rounded-full",
+};
+
+export function ActionSwapText({
+  value,
+  children,
+  animation = "blur",
+  className,
+}: ActionSwapTextProps) {
+  const reduce = useReducedMotion();
+  const measureRef = useRef<HTMLSpanElement>(null);
+  const [width, setWidth] = useState<number>();
+
+  useLayoutEffect(() => {
+    const nextWidth = measureRef.current?.offsetWidth;
+    if (!nextWidth) return;
+    setWidth((currentWidth) => (currentWidth === nextWidth ? currentWidth : nextWidth));
+  });
+
+  // Cascade needs a plain string to split into letters; non-string content
+  // and reduced motion fall back to the closest single-element animation.
+  const label = typeof children === "string" ? children : null;
+  const cascade = animation === "cascade" && label !== null && !reduce;
+  const coreAnimation: CoreAnimation =
+    animation === "cascade" ? "roll" : animation;
+
+  return (
+    <span
+      className={cn("relative inline-block overflow-hidden whitespace-nowrap align-bottom", className)}
+      style={{
+        width,
+        transition: reduce ? undefined : `width 220ms ${EASE_OUT_CSS}`,
+      }}
+    >
+      <span
+        ref={measureRef}
+        aria-hidden
+        className="invisible inline-block whitespace-nowrap"
+      >
+        {children}
+      </span>
+      {cascade ? (
+        <>
+          {/* Letters are decorative fragments; readers get the whole label. */}
+          <span className="sr-only">{label}</span>
+          <AnimatePresence initial={false}>
+            <motion.span
+              key={`cascade-${value}`}
+              aria-hidden
+              initial="initial"
+              animate="animate"
+              exit="exit"
+              className="absolute left-0 top-0 inline-block whitespace-pre"
+            >
+              {label.split("").map((char, i) => (
+                <motion.span
+                  // biome-ignore lint/suspicious/noArrayIndexKey: position is the slot identity — the letter at a position is exactly what rolls.
+                  key={i}
+                  custom={i * CASCADE_STAGGER}
+                  variants={CASCADE_LETTER_VARIANTS}
+                  className="inline-block whitespace-pre will-change-[opacity,filter,transform]"
+                >
+                  {char}
+                </motion.span>
+              ))}
+            </motion.span>
+          </AnimatePresence>
+        </>
+      ) : (
+        <AnimatePresence initial={false}>
+          <motion.span
+            key={`${animation}-${value}`}
+            variants={TEXT_VARIANTS[coreAnimation]}
+            initial={reduce ? false : "initial"}
+            animate={reduce ? { opacity: 1, filter: "blur(0px)", scale: 1, y: 0 } : "animate"}
+            exit={reduce ? undefined : "exit"}
+            className="absolute left-0 top-0 inline-block will-change-[opacity,filter,transform]"
+          >
+            {children}
+          </motion.span>
+        </AnimatePresence>
+      )}
+    </span>
+  );
+}
+
+export function ActionSwapIcon({
+  value,
+  children,
+  animation = "blur",
+  className,
+}: ActionSwapIconProps) {
+  const reduce = useReducedMotion();
+  // Icons are single elements — cascade maps to its closest motion, roll.
+  const coreAnimation: CoreAnimation =
+    animation === "cascade" ? "roll" : animation;
+
+  return (
+    <span className={cn("relative inline-grid shrink-0 place-items-center overflow-hidden", className)}>
+      <AnimatePresence mode="popLayout" initial={false}>
+        <motion.span
+          key={`${animation}-${value}`}
+          aria-hidden
+          variants={ICON_VARIANTS[coreAnimation]}
+          initial={reduce ? false : "initial"}
+          animate={reduce ? { opacity: 1, filter: "blur(0px)", scale: 1, y: 0 } : "animate"}
+          exit={reduce ? undefined : "exit"}
+          className="col-start-1 row-start-1 inline-flex items-center justify-center will-change-[opacity,filter,transform]"
+        >
+          {children}
+        </motion.span>
+      </AnimatePresence>
+    </span>
+  );
+}
+
+export function ActionSwapButton({
+  items,
+  value,
+  defaultValue,
+  onValueChange,
+  variant = "secondary",
+  size = "md",
+  animation = "blur",
+  iconOnly = size === "icon",
+  cycle = true,
+  className,
+  disabled,
+  onClick,
+  ...rest
+}: ActionSwapButtonProps) {
+  const reduce = useReducedMotion();
+  const [internalValue, setInternalValue] = useState(defaultValue ?? items[0]?.id);
+  const currentValue = value ?? internalValue;
+  const activeIndex = Math.max(0, items.findIndex((item) => item.id === currentValue));
+  const activeItem = items[activeIndex] ?? items[0];
+  const hasIcon = items.some((item) => item.icon);
+  const nextItem = cycle && items.length > 0 ? items[(activeIndex + 1) % items.length] : undefined;
+
+  if (!activeItem) return null;
+
+  const accessibleLabel = activeItem.ariaLabel ?? (iconOnly && typeof activeItem.label === "string" ? activeItem.label : undefined);
+
+  return (
+    <motion.button
+      type="button"
+      disabled={disabled}
+      whileTap={reduce || disabled ? undefined : { scale: 0.97 }}
+      transition={SPRING_PRESS}
+      className={cn(
+        "inline-flex items-center justify-center overflow-hidden font-medium transition-colors",
+        "disabled:pointer-events-none disabled:opacity-50",
+        VARIANT_CLASS[variant],
+        SIZE_CLASS[size],
+        className,
+      )}
+      aria-label={accessibleLabel}
+      onClick={(event) => {
+        onClick?.(event);
+        if (event.defaultPrevented || disabled || !cycle || !nextItem) return;
+        if (value === undefined) setInternalValue(nextItem.id);
+        onValueChange?.(nextItem.id, nextItem);
+      }}
+      {...rest}
+    >
+      {hasIcon ? (
+        <ActionSwapIcon value={activeItem.id} animation={animation} className="h-4 w-4">
+          {activeItem.icon ?? null}
+        </ActionSwapIcon>
+      ) : null}
+      {!iconOnly ? (
+        <ActionSwapText value={activeItem.id} animation={animation}>
+          {activeItem.label}
+        </ActionSwapText>
+      ) : null}
+    </motion.button>
+  );
+}
+76:["$","div","components/motion/action-swap.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"action-swap.tsx"}]]}]]}],["$","$L63",null,{"text":"$86","eventLabel":"components/motion/action-swap.tsx"}]]}],"$L87"]}]
+77:["$","div",null,{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"absolute right-3 top-3 z-10","children":["$","$L63",null,{"text":"npm i clsx lucide-react motion tailwind-merge","eventLabel":"bash"}]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"<pre class=\"shiki shiki-themes github-light github-dark\" style=\"--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e\" tabindex=\"0\"><code><span class=\"line\"><span style=\"--shiki-light:#6F42C1;--shiki-dark:#B392F0\">npm</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> i</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> clsx</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> lucide-react</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> motion</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> tailwind-merge</span></span></code></pre>"}}]}]]}]
+88:T58b,// Shared motion tokens. Easing curves mirror the CSS custom properties in
+// globals.css; springs are the canonical physics used across components.
+// Strong custom variants — defaults like `ease-in`/`ease-out` feel weak.
+
+export const EASE_OUT = [0.16, 1, 0.3, 1] as const;
+export const EASE_IN_OUT = [0.77, 0, 0.175, 1] as const;
+export const EASE_DRAWER = [0.32, 0.72, 0, 1] as const;
+
+/** CSS string form of EASE_OUT for inline style transitions. */
+export const EASE_OUT_CSS = "cubic-bezier(0.16, 1, 0.3, 1)";
+
+/** Press feedback on buttons and other tappable surfaces. */
+export const SPRING_PRESS = {
+  type: "spring",
+  stiffness: 500,
+  damping: 30,
+  mass: 0.6,
+} as const;
+
+/** Content swaps — label/icon slots trading places inside a control. */
+export const SPRING_SWAP = {
+  type: "spring",
+  stiffness: 460,
+  damping: 30,
+  mass: 0.55,
+} as const;
+
+/** Overlay panel entrances — modals and sheets summoned by pointer. */
+export const SPRING_PANEL = {
+  type: "spring",
+  stiffness: 420,
+  damping: 40,
+  mass: 0.5,
+} as const;
+
+/** Shared-layout glides — pills, indicators and panels morphing between positions. */
+export const SPRING_LAYOUT = {
+  type: "spring",
+  stiffness: 360,
+  damping: 32,
+  mass: 0.6,
+} as const;
+
+/** Cursor-follow physics for decorative mouse tracking (magnetic, tilt, dock). */
+export const SPRING_MOUSE = {
+  stiffness: 200,
+  damping: 15,
+  mass: 0.3,
+} as const;
+89:T3499,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// Shared motion tokens. Easing curves mirror the CSS custom properties in</span></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// globals.css; springs are the canonical physics used across components.</span></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// Strong custom variants — defaults like `ease-in`/`ease-out` feel weak.</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_OUT</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.16</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_IN_OUT</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.77</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.175</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_DRAWER</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.32</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.72</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** CSS string form of EASE_OUT for inline style transitions. */</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_OUT_CSS</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "cubic-bezier(0.16, 1, 0.3, 1)"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Press feedback on buttons and other tappable surfaces. */</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_PRESS</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">500</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">30</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.6</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Content swaps — label/icon slots trading places inside a control. */</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_SWAP</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">460</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">30</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.55</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Overlay panel entrances — modals and sheets summoned by pointer. */</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_PANEL</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">420</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">40</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.5</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Shared-layout glides — pills, indicators and panels morphing between positions. */</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_LAYOUT</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">360</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">32</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.6</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Cursor-follow physics for decorative mouse tracking (magnetic, tilt, dock). */</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_MOUSE</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">200</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">15</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span></code></pre>78:["$","div","lib/ease.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["lib","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"ease.ts"}]]}]]}],["$","$L63",null,{"text":"$88","eventLabel":"lib/ease.ts"}]]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$89"}}]}]]}]
+8a:T856,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { clsx, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ClassValue } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "clsx"</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { twMerge } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "tailwind-merge"</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> cn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">inputs</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ClassValue</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[]) {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> twMerge</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">clsx</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(inputs))</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"></span></code></pre>79:["$","div","lib/utils.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["lib","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"utils.ts"}]]}]]}],["$","$L63",null,{"text":"import { clsx, type ClassValue } from \"clsx\"\nimport { twMerge } from \"tailwind-merge\"\n\nexport function cn(...inputs: ClassValue[]) {\n  return twMerge(clsx(inputs))\n}\n","eventLabel":"lib/utils.ts"}]]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$8a"}}]}]]}]
+8b:T24d8,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// beui.dev/components/motion/action-swap</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapButton,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapIcon,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapText,</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ActionSwapButtonProps,</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ActionSwapIconProps,</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ActionSwapTextProps,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./action-swap"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapButtonSize,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapButtonVariant,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapItem,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./action-swap"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapBlurButtonProps</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Omit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">ActionSwapButtonProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"animation"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapBlurTextProps</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Omit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">ActionSwapTextProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"animation"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapBlurIconProps</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Omit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">ActionSwapIconProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"animation"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapBlurButton</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">props</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapBlurButtonProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">ActionSwapButton</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">props} </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">animation</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"blur"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> />;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapBlurText</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">props</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapBlurTextProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">ActionSwapText</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">props} </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">animation</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"blur"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> />;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapBlurIcon</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">props</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapBlurIconProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">ActionSwapIcon</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">props} </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">animation</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"blur"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> />;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"></span></code></pre>7a:["$","div","components/motion/action-swap-blur.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"action-swap-blur.tsx"}]]}]]}],["$","$L63",null,{"text":"\"use client\";\n// beui.dev/components/motion/action-swap\n\nimport {\n  ActionSwapButton,\n  ActionSwapIcon,\n  ActionSwapText,\n  type ActionSwapButtonProps,\n  type ActionSwapIconProps,\n  type ActionSwapTextProps,\n} from \"./action-swap\";\n\nexport type {\n  ActionSwapButtonSize,\n  ActionSwapButtonVariant,\n  ActionSwapItem,\n} from \"./action-swap\";\n\nexport type ActionSwapBlurButtonProps = Omit<ActionSwapButtonProps, \"animation\">;\nexport type ActionSwapBlurTextProps = Omit<ActionSwapTextProps, \"animation\">;\nexport type ActionSwapBlurIconProps = Omit<ActionSwapIconProps, \"animation\">;\n\nexport function ActionSwapBlurButton(props: ActionSwapBlurButtonProps) {\n  return <ActionSwapButton {...props} animation=\"blur\" />;\n}\n\nexport function ActionSwapBlurText(props: ActionSwapBlurTextProps) {\n  return <ActionSwapText {...props} animation=\"blur\" />;\n}\n\nexport function ActionSwapBlurIcon(props: ActionSwapBlurIconProps) {\n  return <ActionSwapIcon {...props} animation=\"blur\" />;\n}\n","eventLabel":"components/motion/action-swap-blur.tsx"}]]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$8b"}}]}]]}]
+8c:T2853,"use client";
+
+import { AnimatePresence, motion, useReducedMotion, type HTMLMotionProps, type Variants } from "motion/react";
+import { useLayoutEffect, useRef, useState, type ReactNode } from "react";
+import { EASE_OUT, EASE_OUT_CSS, SPRING_PRESS, SPRING_SWAP } from "@/lib/ease";
+import { cn } from "@/lib/utils";
+
+export type ActionSwapItem = {
+  id: string;
+  label: ReactNode;
+  icon?: ReactNode;
+  ariaLabel?: string;
+};
+
+export type ActionSwapButtonVariant = "primary" | "secondary" | "outline" | "ghost";
+export type ActionSwapButtonSize = "sm" | "md" | "lg" | "icon";
+export type ActionSwapAnimation = "blur" | "roll" | "cascade";
+
+/** Animations with a single-element variant set (cascade animates per letter). */
+type CoreAnimation = "blur" | "roll";
+
+export interface ActionSwapButtonProps extends Omit<
+  HTMLMotionProps<"button">,
+  "children" | "onChange"
+> {
+  items: ActionSwapItem[];
+  value?: string;
+  defaultValue?: string;
+  onValueChange?: (value: string, item: ActionSwapItem) => void;
+  variant?: ActionSwapButtonVariant;
+  size?: ActionSwapButtonSize;
+  animation?: ActionSwapAnimation;
+  iconOnly?: boolean;
+  cycle?: boolean;
+}
+
+export interface ActionSwapTextProps {
+  value: string;
+  children: ReactNode;
+  animation?: ActionSwapAnimation;
+  className?: string;
+}
+
+export interface ActionSwapIconProps {
+  value: string;
+  children: ReactNode;
+  animation?: ActionSwapAnimation;
+  className?: string;
+}
+
+const BLUR_TRANSITION = { duration: 0.2, ease: "easeInOut" } as const;
+const ROLL_TRANSITION = { duration: 0.24, ease: EASE_OUT } as const;
+const SWAP_BLUR = "blur(8px)";
+const ROLL_BLUR = "blur(6px)";
+
+// Cascade rolls the label one letter at a time, left to right. The leaving
+// and landing strings overlap as independent layers (no shared cells), so
+// proportional glyph widths never jitter. Exits cascade at half the enter
+// stagger so the tail of the old label lingers briefly.
+const CASCADE_STAGGER = 0.025;
+
+const CASCADE_LETTER_VARIANTS: Variants = {
+  initial: { opacity: 0, y: "105%", filter: ROLL_BLUR },
+  animate: (delay: number = 0) => ({
+    opacity: 1,
+    y: "0%",
+    filter: "blur(0px)",
+    transition: { ...SPRING_SWAP, delay },
+  }),
+  exit: (delay: number = 0) => ({
+    opacity: 0,
+    y: "-105%",
+    filter: ROLL_BLUR,
+    transition: { duration: 0.16, ease: EASE_OUT, delay: delay * 0.5 },
+  }),
+};
+
+const TEXT_VARIANTS: Record<CoreAnimation, Variants> = {
+  blur: {
+    initial: { opacity: 0, scale: 0.94, filter: SWAP_BLUR },
+    animate: {
+      opacity: 1,
+      scale: 1,
+      filter: "blur(0px)",
+      transition: BLUR_TRANSITION,
+    },
+    exit: {
+      opacity: 0,
+      scale: 0.94,
+      filter: SWAP_BLUR,
+      transition: BLUR_TRANSITION,
+    },
+  },
+  roll: {
+    initial: { opacity: 0, y: "115%", filter: ROLL_BLUR },
+    animate: {
+      opacity: 1,
+      y: "0%",
+      filter: "blur(0px)",
+      transition: ROLL_TRANSITION,
+    },
+    exit: {
+      opacity: 0,
+      y: "-115%",
+      filter: ROLL_BLUR,
+      transition: { duration: 0.18, ease: "easeInOut" },
+    },
+  },
+};
+
+const ICON_VARIANTS: Record<CoreAnimation, Variants> = {
+  blur: {
+    initial: { opacity: 0, scale: 0.25, filter: SWAP_BLUR },
+    animate: {
+      opacity: 1,
+      scale: 1,
+      filter: "blur(0px)",
+      transition: BLUR_TRANSITION,
+    },
+    exit: {
+      opacity: 0,
+      scale: 0.25,
+      filter: SWAP_BLUR,
+      transition: BLUR_TRANSITION,
+    },
+  },
+  roll: {
+    initial: { opacity: 0, y: 16, filter: ROLL_BLUR },
+    animate: {
+      opacity: 1,
+      y: 0,
+      filter: "blur(0px)",
+      transition: ROLL_TRANSITION,
+    },
+    exit: {
+      opacity: 0,
+      y: -16,
+      filter: ROLL_BLUR,
+      transition: { duration: 0.18, ease: "easeInOut" },
+    },
+  },
+};
+
+const VARIANT_CLASS: Record<ActionSwapButtonVariant, string> = {
+  primary: "bg-primary text-primary-foreground hover:bg-primary/90",
+  secondary: "border border-border bg-card text-foreground hover:border-border",
+  outline: "border border-border bg-transparent text-foreground hover:bg-primary/5",
+  ghost: "text-muted-foreground hover:bg-primary/5 hover:text-foreground",
+};
+
+const SIZE_CLASS: Record<ActionSwapButtonSize, string> = {
+  sm: "h-8 gap-1.5 rounded-full px-3 text-xs",
+  md: "h-10 gap-2 rounded-full px-4 text-sm",
+  lg: "h-12 gap-2.5 rounded-full px-5 text-base",
+  icon: "h-10 w-10 rounded-full",
+};
+
+export function ActionSwapText({
+  value,
+  children,
+  animation = "blur",
+  className,
+}: ActionSwapTextProps) {
+  const reduce = useReducedMotion();
+  const measureRef = useRef<HTMLSpanElement>(null);
+  const [width, setWidth] = useState<number>();
+
+  useLayoutEffect(() => {
+    const nextWidth = measureRef.current?.offsetWidth;
+    if (!nextWidth) return;
+    setWidth((currentWidth) => (currentWidth === nextWidth ? currentWidth : nextWidth));
+  });
+
+  // Cascade needs a plain string to split into letters; non-string content
+  // and reduced motion fall back to the closest single-element animation.
+  const label = typeof children === "string" ? children : null;
+  const cascade = animation === "cascade" && label !== null && !reduce;
+  const coreAnimation: CoreAnimation =
+    animation === "cascade" ? "roll" : animation;
+
+  return (
+    <span
+      className={cn("relative inline-block overflow-hidden whitespace-nowrap align-bottom", className)}
+      style={{
+        width,
+        transition: reduce ? undefined : `width 220ms ${EASE_OUT_CSS}`,
+      }}
+    >
+      <span
+        ref={measureRef}
+        aria-hidden
+        className="invisible inline-block whitespace-nowrap"
+      >
+        {children}
+      </span>
+      {cascade ? (
+        <>
+          {/* Letters are decorative fragments; readers get the whole label. */}
+          <span className="sr-only">{label}</span>
+          <AnimatePresence initial={false}>
+            <motion.span
+              key={`cascade-${value}`}
+              aria-hidden
+              initial="initial"
+              animate="animate"
+              exit="exit"
+              className="absolute left-0 top-0 inline-block whitespace-pre"
+            >
+              {label.split("").map((char, i) => (
+                <motion.span
+                  // biome-ignore lint/suspicious/noArrayIndexKey: position is the slot identity — the letter at a position is exactly what rolls.
+                  key={i}
+                  custom={i * CASCADE_STAGGER}
+                  variants={CASCADE_LETTER_VARIANTS}
+                  className="inline-block whitespace-pre will-change-[opacity,filter,transform]"
+                >
+                  {char}
+                </motion.span>
+              ))}
+            </motion.span>
+          </AnimatePresence>
+        </>
+      ) : (
+        <AnimatePresence initial={false}>
+          <motion.span
+            key={`${animation}-${value}`}
+            variants={TEXT_VARIANTS[coreAnimation]}
+            initial={reduce ? false : "initial"}
+            animate={reduce ? { opacity: 1, filter: "blur(0px)", scale: 1, y: 0 } : "animate"}
+            exit={reduce ? undefined : "exit"}
+            className="absolute left-0 top-0 inline-block will-change-[opacity,filter,transform]"
+          >
+            {children}
+          </motion.span>
+        </AnimatePresence>
+      )}
+    </span>
+  );
+}
+
+export function ActionSwapIcon({
+  value,
+  children,
+  animation = "blur",
+  className,
+}: ActionSwapIconProps) {
+  const reduce = useReducedMotion();
+  // Icons are single elements — cascade maps to its closest motion, roll.
+  const coreAnimation: CoreAnimation =
+    animation === "cascade" ? "roll" : animation;
+
+  return (
+    <span className={cn("relative inline-grid shrink-0 place-items-center overflow-hidden", className)}>
+      <AnimatePresence mode="popLayout" initial={false}>
+        <motion.span
+          key={`${animation}-${value}`}
+          aria-hidden
+          variants={ICON_VARIANTS[coreAnimation]}
+          initial={reduce ? false : "initial"}
+          animate={reduce ? { opacity: 1, filter: "blur(0px)", scale: 1, y: 0 } : "animate"}
+          exit={reduce ? undefined : "exit"}
+          className="col-start-1 row-start-1 inline-flex items-center justify-center will-change-[opacity,filter,transform]"
+        >
+          {children}
+        </motion.span>
+      </AnimatePresence>
+    </span>
+  );
+}
+
+export function ActionSwapButton({
+  items,
+  value,
+  defaultValue,
+  onValueChange,
+  variant = "secondary",
+  size = "md",
+  animation = "blur",
+  iconOnly = size === "icon",
+  cycle = true,
+  className,
+  disabled,
+  onClick,
+  ...rest
+}: ActionSwapButtonProps) {
+  const reduce = useReducedMotion();
+  const [internalValue, setInternalValue] = useState(defaultValue ?? items[0]?.id);
+  const currentValue = value ?? internalValue;
+  const activeIndex = Math.max(0, items.findIndex((item) => item.id === currentValue));
+  const activeItem = items[activeIndex] ?? items[0];
+  const hasIcon = items.some((item) => item.icon);
+  const nextItem = cycle && items.length > 0 ? items[(activeIndex + 1) % items.length] : undefined;
+
+  if (!activeItem) return null;
+
+  const accessibleLabel = activeItem.ariaLabel ?? (iconOnly && typeof activeItem.label === "string" ? activeItem.label : undefined);
+
+  return (
+    <motion.button
+      type="button"
+      disabled={disabled}
+      whileTap={reduce || disabled ? undefined : { scale: 0.97 }}
+      transition={SPRING_PRESS}
+      className={cn(
+        "inline-flex items-center justify-center overflow-hidden font-medium transition-colors",
+        "disabled:pointer-events-none disabled:opacity-50",
+        VARIANT_CLASS[variant],
+        SIZE_CLASS[size],
+        className,
+      )}
+      aria-label={accessibleLabel}
+      onClick={(event) => {
+        onClick?.(event);
+        if (event.defaultPrevented || disabled || !cycle || !nextItem) return;
+        if (value === undefined) setInternalValue(nextItem.id);
+        onValueChange?.(nextItem.id, nextItem);
+      }}
+      {...rest}
+    >
+      {hasIcon ? (
+        <ActionSwapIcon value={activeItem.id} animation={animation} className="h-4 w-4">
+          {activeItem.icon ?? null}
+        </ActionSwapIcon>
+      ) : null}
+      {!iconOnly ? (
+        <ActionSwapText value={activeItem.id} animation={animation}>
+          {activeItem.label}
+        </ActionSwapText>
+      ) : null}
+    </motion.button>
+  );
+}
+7b:["$","div","components/motion/action-swap.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"action-swap.tsx"}]]}]]}],["$","$L63",null,{"text":"$8c","eventLabel":"components/motion/action-swap.tsx"}]]}],"$L8d"]}]
+8e:T18245,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { AnimatePresence, motion, useReducedMotion, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> HTMLMotionProps, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> Variants } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "motion/react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { useLayoutEffect, useRef, useState, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ReactNode } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
@@ -1341,955 +2289,7 @@ export function ActionSwapButton({
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">motion.button</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>77:["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$82"}}]}]
-78:["$","div",null,{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"absolute right-3 top-3 z-10","children":["$","$L63",null,{"text":"npm i clsx lucide-react motion tailwind-merge","eventLabel":"bash"}]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"<pre class=\"shiki shiki-themes github-light github-dark\" style=\"--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e\" tabindex=\"0\"><code><span class=\"line\"><span style=\"--shiki-light:#6F42C1;--shiki-dark:#B392F0\">npm</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> i</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> clsx</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> lucide-react</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> motion</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> tailwind-merge</span></span></code></pre>"}}]}]]}]
-83:T58b,// Shared motion tokens. Easing curves mirror the CSS custom properties in
-// globals.css; springs are the canonical physics used across components.
-// Strong custom variants — defaults like `ease-in`/`ease-out` feel weak.
-
-export const EASE_OUT = [0.16, 1, 0.3, 1] as const;
-export const EASE_IN_OUT = [0.77, 0, 0.175, 1] as const;
-export const EASE_DRAWER = [0.32, 0.72, 0, 1] as const;
-
-/** CSS string form of EASE_OUT for inline style transitions. */
-export const EASE_OUT_CSS = "cubic-bezier(0.16, 1, 0.3, 1)";
-
-/** Press feedback on buttons and other tappable surfaces. */
-export const SPRING_PRESS = {
-  type: "spring",
-  stiffness: 500,
-  damping: 30,
-  mass: 0.6,
-} as const;
-
-/** Content swaps — label/icon slots trading places inside a control. */
-export const SPRING_SWAP = {
-  type: "spring",
-  stiffness: 460,
-  damping: 30,
-  mass: 0.55,
-} as const;
-
-/** Overlay panel entrances — modals and sheets summoned by pointer. */
-export const SPRING_PANEL = {
-  type: "spring",
-  stiffness: 420,
-  damping: 40,
-  mass: 0.5,
-} as const;
-
-/** Shared-layout glides — pills, indicators and panels morphing between positions. */
-export const SPRING_LAYOUT = {
-  type: "spring",
-  stiffness: 360,
-  damping: 32,
-  mass: 0.6,
-} as const;
-
-/** Cursor-follow physics for decorative mouse tracking (magnetic, tilt, dock). */
-export const SPRING_MOUSE = {
-  stiffness: 200,
-  damping: 15,
-  mass: 0.3,
-} as const;
-84:T3499,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// Shared motion tokens. Easing curves mirror the CSS custom properties in</span></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// globals.css; springs are the canonical physics used across components.</span></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// Strong custom variants — defaults like `ease-in`/`ease-out` feel weak.</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_OUT</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.16</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_IN_OUT</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.77</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.175</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_DRAWER</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.32</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.72</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** CSS string form of EASE_OUT for inline style transitions. */</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_OUT_CSS</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "cubic-bezier(0.16, 1, 0.3, 1)"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Press feedback on buttons and other tappable surfaces. */</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_PRESS</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">500</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">30</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.6</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Content swaps — label/icon slots trading places inside a control. */</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_SWAP</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">460</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">30</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.55</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Overlay panel entrances — modals and sheets summoned by pointer. */</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_PANEL</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">420</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">40</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.5</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Shared-layout glides — pills, indicators and panels morphing between positions. */</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_LAYOUT</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">360</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">32</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.6</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Cursor-follow physics for decorative mouse tracking (magnetic, tilt, dock). */</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_MOUSE</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">200</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">15</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span></code></pre>79:["$","div","lib/ease.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["lib","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"ease.ts"}]]}]]}],["$","$L63",null,{"text":"$83","eventLabel":"lib/ease.ts"}]]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$84"}}]}]]}]
-85:T856,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { clsx, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ClassValue } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "clsx"</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { twMerge } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "tailwind-merge"</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> cn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">inputs</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ClassValue</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[]) {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> twMerge</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">clsx</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(inputs))</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>7a:["$","div","lib/utils.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["lib","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"utils.ts"}]]}]]}],["$","$L63",null,{"text":"import { clsx, type ClassValue } from \"clsx\"\nimport { twMerge } from \"tailwind-merge\"\n\nexport function cn(...inputs: ClassValue[]) {\n  return twMerge(clsx(inputs))\n}\n","eventLabel":"lib/utils.ts"}]]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$85"}}]}]]}]
-86:T24d8,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// beui.dev/components/motion/action-swap</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapButton,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapIcon,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapText,</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ActionSwapButtonProps,</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ActionSwapIconProps,</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ActionSwapTextProps,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./action-swap"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapButtonSize,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapButtonVariant,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapItem,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./action-swap"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapBlurButtonProps</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Omit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">ActionSwapButtonProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"animation"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapBlurTextProps</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Omit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">ActionSwapTextProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"animation"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapBlurIconProps</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Omit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">ActionSwapIconProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"animation"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapBlurButton</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">props</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapBlurButtonProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">ActionSwapButton</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">props} </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">animation</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"blur"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> />;</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapBlurText</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">props</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapBlurTextProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">ActionSwapText</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">props} </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">animation</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"blur"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> />;</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapBlurIcon</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">props</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapBlurIconProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">ActionSwapIcon</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">props} </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">animation</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"blur"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> />;</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>7b:["$","div","components/motion/action-swap-blur.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"action-swap-blur.tsx"}]]}]]}],["$","$L63",null,{"text":"\"use client\";\n// beui.dev/components/motion/action-swap\n\nimport {\n  ActionSwapButton,\n  ActionSwapIcon,\n  ActionSwapText,\n  type ActionSwapButtonProps,\n  type ActionSwapIconProps,\n  type ActionSwapTextProps,\n} from \"./action-swap\";\n\nexport type {\n  ActionSwapButtonSize,\n  ActionSwapButtonVariant,\n  ActionSwapItem,\n} from \"./action-swap\";\n\nexport type ActionSwapBlurButtonProps = Omit<ActionSwapButtonProps, \"animation\">;\nexport type ActionSwapBlurTextProps = Omit<ActionSwapTextProps, \"animation\">;\nexport type ActionSwapBlurIconProps = Omit<ActionSwapIconProps, \"animation\">;\n\nexport function ActionSwapBlurButton(props: ActionSwapBlurButtonProps) {\n  return <ActionSwapButton {...props} animation=\"blur\" />;\n}\n\nexport function ActionSwapBlurText(props: ActionSwapBlurTextProps) {\n  return <ActionSwapText {...props} animation=\"blur\" />;\n}\n\nexport function ActionSwapBlurIcon(props: ActionSwapBlurIconProps) {\n  return <ActionSwapIcon {...props} animation=\"blur\" />;\n}\n","eventLabel":"components/motion/action-swap-blur.tsx"}]]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$86"}}]}]]}]
-87:T2853,"use client";
-
-import { AnimatePresence, motion, useReducedMotion, type HTMLMotionProps, type Variants } from "motion/react";
-import { useLayoutEffect, useRef, useState, type ReactNode } from "react";
-import { EASE_OUT, EASE_OUT_CSS, SPRING_PRESS, SPRING_SWAP } from "@/lib/ease";
-import { cn } from "@/lib/utils";
-
-export type ActionSwapItem = {
-  id: string;
-  label: ReactNode;
-  icon?: ReactNode;
-  ariaLabel?: string;
-};
-
-export type ActionSwapButtonVariant = "primary" | "secondary" | "outline" | "ghost";
-export type ActionSwapButtonSize = "sm" | "md" | "lg" | "icon";
-export type ActionSwapAnimation = "blur" | "roll" | "cascade";
-
-/** Animations with a single-element variant set (cascade animates per letter). */
-type CoreAnimation = "blur" | "roll";
-
-export interface ActionSwapButtonProps extends Omit<
-  HTMLMotionProps<"button">,
-  "children" | "onChange"
-> {
-  items: ActionSwapItem[];
-  value?: string;
-  defaultValue?: string;
-  onValueChange?: (value: string, item: ActionSwapItem) => void;
-  variant?: ActionSwapButtonVariant;
-  size?: ActionSwapButtonSize;
-  animation?: ActionSwapAnimation;
-  iconOnly?: boolean;
-  cycle?: boolean;
-}
-
-export interface ActionSwapTextProps {
-  value: string;
-  children: ReactNode;
-  animation?: ActionSwapAnimation;
-  className?: string;
-}
-
-export interface ActionSwapIconProps {
-  value: string;
-  children: ReactNode;
-  animation?: ActionSwapAnimation;
-  className?: string;
-}
-
-const BLUR_TRANSITION = { duration: 0.2, ease: "easeInOut" } as const;
-const ROLL_TRANSITION = { duration: 0.24, ease: EASE_OUT } as const;
-const SWAP_BLUR = "blur(8px)";
-const ROLL_BLUR = "blur(6px)";
-
-// Cascade rolls the label one letter at a time, left to right. The leaving
-// and landing strings overlap as independent layers (no shared cells), so
-// proportional glyph widths never jitter. Exits cascade at half the enter
-// stagger so the tail of the old label lingers briefly.
-const CASCADE_STAGGER = 0.025;
-
-const CASCADE_LETTER_VARIANTS: Variants = {
-  initial: { opacity: 0, y: "105%", filter: ROLL_BLUR },
-  animate: (delay: number = 0) => ({
-    opacity: 1,
-    y: "0%",
-    filter: "blur(0px)",
-    transition: { ...SPRING_SWAP, delay },
-  }),
-  exit: (delay: number = 0) => ({
-    opacity: 0,
-    y: "-105%",
-    filter: ROLL_BLUR,
-    transition: { duration: 0.16, ease: EASE_OUT, delay: delay * 0.5 },
-  }),
-};
-
-const TEXT_VARIANTS: Record<CoreAnimation, Variants> = {
-  blur: {
-    initial: { opacity: 0, scale: 0.94, filter: SWAP_BLUR },
-    animate: {
-      opacity: 1,
-      scale: 1,
-      filter: "blur(0px)",
-      transition: BLUR_TRANSITION,
-    },
-    exit: {
-      opacity: 0,
-      scale: 0.94,
-      filter: SWAP_BLUR,
-      transition: BLUR_TRANSITION,
-    },
-  },
-  roll: {
-    initial: { opacity: 0, y: "115%", filter: ROLL_BLUR },
-    animate: {
-      opacity: 1,
-      y: "0%",
-      filter: "blur(0px)",
-      transition: ROLL_TRANSITION,
-    },
-    exit: {
-      opacity: 0,
-      y: "-115%",
-      filter: ROLL_BLUR,
-      transition: { duration: 0.18, ease: "easeInOut" },
-    },
-  },
-};
-
-const ICON_VARIANTS: Record<CoreAnimation, Variants> = {
-  blur: {
-    initial: { opacity: 0, scale: 0.25, filter: SWAP_BLUR },
-    animate: {
-      opacity: 1,
-      scale: 1,
-      filter: "blur(0px)",
-      transition: BLUR_TRANSITION,
-    },
-    exit: {
-      opacity: 0,
-      scale: 0.25,
-      filter: SWAP_BLUR,
-      transition: BLUR_TRANSITION,
-    },
-  },
-  roll: {
-    initial: { opacity: 0, y: 16, filter: ROLL_BLUR },
-    animate: {
-      opacity: 1,
-      y: 0,
-      filter: "blur(0px)",
-      transition: ROLL_TRANSITION,
-    },
-    exit: {
-      opacity: 0,
-      y: -16,
-      filter: ROLL_BLUR,
-      transition: { duration: 0.18, ease: "easeInOut" },
-    },
-  },
-};
-
-const VARIANT_CLASS: Record<ActionSwapButtonVariant, string> = {
-  primary: "bg-primary text-primary-foreground hover:bg-primary/90",
-  secondary: "border border-border bg-card text-foreground hover:border-border",
-  outline: "border border-border bg-transparent text-foreground hover:bg-primary/5",
-  ghost: "text-muted-foreground hover:bg-primary/5 hover:text-foreground",
-};
-
-const SIZE_CLASS: Record<ActionSwapButtonSize, string> = {
-  sm: "h-8 gap-1.5 rounded-full px-3 text-xs",
-  md: "h-10 gap-2 rounded-full px-4 text-sm",
-  lg: "h-12 gap-2.5 rounded-full px-5 text-base",
-  icon: "h-10 w-10 rounded-full",
-};
-
-export function ActionSwapText({
-  value,
-  children,
-  animation = "blur",
-  className,
-}: ActionSwapTextProps) {
-  const reduce = useReducedMotion();
-  const measureRef = useRef<HTMLSpanElement>(null);
-  const [width, setWidth] = useState<number>();
-
-  useLayoutEffect(() => {
-    const nextWidth = measureRef.current?.offsetWidth;
-    if (!nextWidth) return;
-    setWidth((currentWidth) => (currentWidth === nextWidth ? currentWidth : nextWidth));
-  });
-
-  // Cascade needs a plain string to split into letters; non-string content
-  // and reduced motion fall back to the closest single-element animation.
-  const label = typeof children === "string" ? children : null;
-  const cascade = animation === "cascade" && label !== null && !reduce;
-  const coreAnimation: CoreAnimation =
-    animation === "cascade" ? "roll" : animation;
-
-  return (
-    <span
-      className={cn("relative inline-block overflow-hidden whitespace-nowrap align-bottom", className)}
-      style={{
-        width,
-        transition: reduce ? undefined : `width 220ms ${EASE_OUT_CSS}`,
-      }}
-    >
-      <span
-        ref={measureRef}
-        aria-hidden
-        className="invisible inline-block whitespace-nowrap"
-      >
-        {children}
-      </span>
-      {cascade ? (
-        <>
-          {/* Letters are decorative fragments; readers get the whole label. */}
-          <span className="sr-only">{label}</span>
-          <AnimatePresence initial={false}>
-            <motion.span
-              key={`cascade-${value}`}
-              aria-hidden
-              initial="initial"
-              animate="animate"
-              exit="exit"
-              className="absolute left-0 top-0 inline-block whitespace-pre"
-            >
-              {label.split("").map((char, i) => (
-                <motion.span
-                  // biome-ignore lint/suspicious/noArrayIndexKey: position is the slot identity — the letter at a position is exactly what rolls.
-                  key={i}
-                  custom={i * CASCADE_STAGGER}
-                  variants={CASCADE_LETTER_VARIANTS}
-                  className="inline-block whitespace-pre will-change-[opacity,filter,transform]"
-                >
-                  {char}
-                </motion.span>
-              ))}
-            </motion.span>
-          </AnimatePresence>
-        </>
-      ) : (
-        <AnimatePresence initial={false}>
-          <motion.span
-            key={`${animation}-${value}`}
-            variants={TEXT_VARIANTS[coreAnimation]}
-            initial={reduce ? false : "initial"}
-            animate={reduce ? { opacity: 1, filter: "blur(0px)", scale: 1, y: 0 } : "animate"}
-            exit={reduce ? undefined : "exit"}
-            className="absolute left-0 top-0 inline-block will-change-[opacity,filter,transform]"
-          >
-            {children}
-          </motion.span>
-        </AnimatePresence>
-      )}
-    </span>
-  );
-}
-
-export function ActionSwapIcon({
-  value,
-  children,
-  animation = "blur",
-  className,
-}: ActionSwapIconProps) {
-  const reduce = useReducedMotion();
-  // Icons are single elements — cascade maps to its closest motion, roll.
-  const coreAnimation: CoreAnimation =
-    animation === "cascade" ? "roll" : animation;
-
-  return (
-    <span className={cn("relative inline-grid shrink-0 place-items-center overflow-hidden", className)}>
-      <AnimatePresence mode="popLayout" initial={false}>
-        <motion.span
-          key={`${animation}-${value}`}
-          aria-hidden
-          variants={ICON_VARIANTS[coreAnimation]}
-          initial={reduce ? false : "initial"}
-          animate={reduce ? { opacity: 1, filter: "blur(0px)", scale: 1, y: 0 } : "animate"}
-          exit={reduce ? undefined : "exit"}
-          className="col-start-1 row-start-1 inline-flex items-center justify-center will-change-[opacity,filter,transform]"
-        >
-          {children}
-        </motion.span>
-      </AnimatePresence>
-    </span>
-  );
-}
-
-export function ActionSwapButton({
-  items,
-  value,
-  defaultValue,
-  onValueChange,
-  variant = "secondary",
-  size = "md",
-  animation = "blur",
-  iconOnly = size === "icon",
-  cycle = true,
-  className,
-  disabled,
-  onClick,
-  ...rest
-}: ActionSwapButtonProps) {
-  const reduce = useReducedMotion();
-  const [internalValue, setInternalValue] = useState(defaultValue ?? items[0]?.id);
-  const currentValue = value ?? internalValue;
-  const activeIndex = Math.max(0, items.findIndex((item) => item.id === currentValue));
-  const activeItem = items[activeIndex] ?? items[0];
-  const hasIcon = items.some((item) => item.icon);
-  const nextItem = cycle && items.length > 0 ? items[(activeIndex + 1) % items.length] : undefined;
-
-  if (!activeItem) return null;
-
-  const accessibleLabel = activeItem.ariaLabel ?? (iconOnly && typeof activeItem.label === "string" ? activeItem.label : undefined);
-
-  return (
-    <motion.button
-      type="button"
-      disabled={disabled}
-      whileTap={reduce || disabled ? undefined : { scale: 0.97 }}
-      transition={SPRING_PRESS}
-      className={cn(
-        "inline-flex items-center justify-center overflow-hidden font-medium transition-colors",
-        "disabled:pointer-events-none disabled:opacity-50",
-        VARIANT_CLASS[variant],
-        SIZE_CLASS[size],
-        className,
-      )}
-      aria-label={accessibleLabel}
-      onClick={(event) => {
-        onClick?.(event);
-        if (event.defaultPrevented || disabled || !cycle || !nextItem) return;
-        if (value === undefined) setInternalValue(nextItem.id);
-        onValueChange?.(nextItem.id, nextItem);
-      }}
-      {...rest}
-    >
-      {hasIcon ? (
-        <ActionSwapIcon value={activeItem.id} animation={animation} className="h-4 w-4">
-          {activeItem.icon ?? null}
-        </ActionSwapIcon>
-      ) : null}
-      {!iconOnly ? (
-        <ActionSwapText value={activeItem.id} animation={animation}>
-          {activeItem.label}
-        </ActionSwapText>
-      ) : null}
-    </motion.button>
-  );
-}
-7c:["$","div","components/motion/action-swap.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"action-swap.tsx"}]]}]]}],["$","$L63",null,{"text":"$87","eventLabel":"components/motion/action-swap.tsx"}]]}],"$L88"]}]
-7d:["$","div",null,{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"absolute right-3 top-3 z-10","children":["$","$L63",null,{"text":"npm i clsx lucide-react motion tailwind-merge","eventLabel":"bash"}]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"<pre class=\"shiki shiki-themes github-light github-dark\" style=\"--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e\" tabindex=\"0\"><code><span class=\"line\"><span style=\"--shiki-light:#6F42C1;--shiki-dark:#B392F0\">npm</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> i</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> clsx</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> lucide-react</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> motion</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> tailwind-merge</span></span></code></pre>"}}]}]]}]
-89:T58b,// Shared motion tokens. Easing curves mirror the CSS custom properties in
-// globals.css; springs are the canonical physics used across components.
-// Strong custom variants — defaults like `ease-in`/`ease-out` feel weak.
-
-export const EASE_OUT = [0.16, 1, 0.3, 1] as const;
-export const EASE_IN_OUT = [0.77, 0, 0.175, 1] as const;
-export const EASE_DRAWER = [0.32, 0.72, 0, 1] as const;
-
-/** CSS string form of EASE_OUT for inline style transitions. */
-export const EASE_OUT_CSS = "cubic-bezier(0.16, 1, 0.3, 1)";
-
-/** Press feedback on buttons and other tappable surfaces. */
-export const SPRING_PRESS = {
-  type: "spring",
-  stiffness: 500,
-  damping: 30,
-  mass: 0.6,
-} as const;
-
-/** Content swaps — label/icon slots trading places inside a control. */
-export const SPRING_SWAP = {
-  type: "spring",
-  stiffness: 460,
-  damping: 30,
-  mass: 0.55,
-} as const;
-
-/** Overlay panel entrances — modals and sheets summoned by pointer. */
-export const SPRING_PANEL = {
-  type: "spring",
-  stiffness: 420,
-  damping: 40,
-  mass: 0.5,
-} as const;
-
-/** Shared-layout glides — pills, indicators and panels morphing between positions. */
-export const SPRING_LAYOUT = {
-  type: "spring",
-  stiffness: 360,
-  damping: 32,
-  mass: 0.6,
-} as const;
-
-/** Cursor-follow physics for decorative mouse tracking (magnetic, tilt, dock). */
-export const SPRING_MOUSE = {
-  stiffness: 200,
-  damping: 15,
-  mass: 0.3,
-} as const;
-8a:T3499,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// Shared motion tokens. Easing curves mirror the CSS custom properties in</span></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// globals.css; springs are the canonical physics used across components.</span></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// Strong custom variants — defaults like `ease-in`/`ease-out` feel weak.</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_OUT</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.16</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_IN_OUT</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.77</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.175</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_DRAWER</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.32</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.72</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** CSS string form of EASE_OUT for inline style transitions. */</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_OUT_CSS</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "cubic-bezier(0.16, 1, 0.3, 1)"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Press feedback on buttons and other tappable surfaces. */</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_PRESS</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">500</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">30</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.6</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Content swaps — label/icon slots trading places inside a control. */</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_SWAP</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">460</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">30</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.55</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Overlay panel entrances — modals and sheets summoned by pointer. */</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_PANEL</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">420</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">40</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.5</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Shared-layout glides — pills, indicators and panels morphing between positions. */</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_LAYOUT</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">360</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">32</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.6</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Cursor-follow physics for decorative mouse tracking (magnetic, tilt, dock). */</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_MOUSE</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">200</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">15</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span></code></pre>7e:["$","div","lib/ease.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["lib","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"ease.ts"}]]}]]}],["$","$L63",null,{"text":"$89","eventLabel":"lib/ease.ts"}]]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$8a"}}]}]]}]
-8b:T856,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { clsx, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ClassValue } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "clsx"</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { twMerge } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "tailwind-merge"</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> cn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">inputs</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ClassValue</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[]) {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> twMerge</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">clsx</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(inputs))</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>7f:["$","div","lib/utils.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["lib","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"utils.ts"}]]}]]}],["$","$L63",null,{"text":"import { clsx, type ClassValue } from \"clsx\"\nimport { twMerge } from \"tailwind-merge\"\n\nexport function cn(...inputs: ClassValue[]) {\n  return twMerge(clsx(inputs))\n}\n","eventLabel":"lib/utils.ts"}]]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$8b"}}]}]]}]
-8c:T24d8,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// beui.dev/components/motion/action-swap</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapButton,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapIcon,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapText,</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ActionSwapButtonProps,</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ActionSwapIconProps,</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ActionSwapTextProps,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./action-swap"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapButtonSize,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapButtonVariant,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ActionSwapItem,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./action-swap"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapRollButtonProps</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Omit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">ActionSwapButtonProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"animation"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapRollTextProps</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Omit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">ActionSwapTextProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"animation"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapRollIconProps</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Omit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">ActionSwapIconProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"animation"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapRollButton</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">props</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapRollButtonProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">ActionSwapButton</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">props} </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">animation</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"roll"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> />;</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapRollText</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">props</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapRollTextProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">ActionSwapText</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">props} </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">animation</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"roll"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> />;</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapRollIcon</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">props</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ActionSwapRollIconProps</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">ActionSwapIcon</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">props} </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">animation</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"roll"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> />;</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>80:["$","div","components/motion/action-swap-roll.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"action-swap-roll.tsx"}]]}]]}],["$","$L63",null,{"text":"\"use client\";\n// beui.dev/components/motion/action-swap\n\nimport {\n  ActionSwapButton,\n  ActionSwapIcon,\n  ActionSwapText,\n  type ActionSwapButtonProps,\n  type ActionSwapIconProps,\n  type ActionSwapTextProps,\n} from \"./action-swap\";\n\nexport type {\n  ActionSwapButtonSize,\n  ActionSwapButtonVariant,\n  ActionSwapItem,\n} from \"./action-swap\";\n\nexport type ActionSwapRollButtonProps = Omit<ActionSwapButtonProps, \"animation\">;\nexport type ActionSwapRollTextProps = Omit<ActionSwapTextProps, \"animation\">;\nexport type ActionSwapRollIconProps = Omit<ActionSwapIconProps, \"animation\">;\n\nexport function ActionSwapRollButton(props: ActionSwapRollButtonProps) {\n  return <ActionSwapButton {...props} animation=\"roll\" />;\n}\n\nexport function ActionSwapRollText(props: ActionSwapRollTextProps) {\n  return <ActionSwapText {...props} animation=\"roll\" />;\n}\n\nexport function ActionSwapRollIcon(props: ActionSwapRollIconProps) {\n  return <ActionSwapIcon {...props} animation=\"roll\" />;\n}\n","eventLabel":"components/motion/action-swap-roll.tsx"}]]}],["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$8c"}}]}]]}]
-8d:T2853,"use client";
-
-import { AnimatePresence, motion, useReducedMotion, type HTMLMotionProps, type Variants } from "motion/react";
-import { useLayoutEffect, useRef, useState, type ReactNode } from "react";
-import { EASE_OUT, EASE_OUT_CSS, SPRING_PRESS, SPRING_SWAP } from "@/lib/ease";
-import { cn } from "@/lib/utils";
-
-export type ActionSwapItem = {
-  id: string;
-  label: ReactNode;
-  icon?: ReactNode;
-  ariaLabel?: string;
-};
-
-export type ActionSwapButtonVariant = "primary" | "secondary" | "outline" | "ghost";
-export type ActionSwapButtonSize = "sm" | "md" | "lg" | "icon";
-export type ActionSwapAnimation = "blur" | "roll" | "cascade";
-
-/** Animations with a single-element variant set (cascade animates per letter). */
-type CoreAnimation = "blur" | "roll";
-
-export interface ActionSwapButtonProps extends Omit<
-  HTMLMotionProps<"button">,
-  "children" | "onChange"
-> {
-  items: ActionSwapItem[];
-  value?: string;
-  defaultValue?: string;
-  onValueChange?: (value: string, item: ActionSwapItem) => void;
-  variant?: ActionSwapButtonVariant;
-  size?: ActionSwapButtonSize;
-  animation?: ActionSwapAnimation;
-  iconOnly?: boolean;
-  cycle?: boolean;
-}
-
-export interface ActionSwapTextProps {
-  value: string;
-  children: ReactNode;
-  animation?: ActionSwapAnimation;
-  className?: string;
-}
-
-export interface ActionSwapIconProps {
-  value: string;
-  children: ReactNode;
-  animation?: ActionSwapAnimation;
-  className?: string;
-}
-
-const BLUR_TRANSITION = { duration: 0.2, ease: "easeInOut" } as const;
-const ROLL_TRANSITION = { duration: 0.24, ease: EASE_OUT } as const;
-const SWAP_BLUR = "blur(8px)";
-const ROLL_BLUR = "blur(6px)";
-
-// Cascade rolls the label one letter at a time, left to right. The leaving
-// and landing strings overlap as independent layers (no shared cells), so
-// proportional glyph widths never jitter. Exits cascade at half the enter
-// stagger so the tail of the old label lingers briefly.
-const CASCADE_STAGGER = 0.025;
-
-const CASCADE_LETTER_VARIANTS: Variants = {
-  initial: { opacity: 0, y: "105%", filter: ROLL_BLUR },
-  animate: (delay: number = 0) => ({
-    opacity: 1,
-    y: "0%",
-    filter: "blur(0px)",
-    transition: { ...SPRING_SWAP, delay },
-  }),
-  exit: (delay: number = 0) => ({
-    opacity: 0,
-    y: "-105%",
-    filter: ROLL_BLUR,
-    transition: { duration: 0.16, ease: EASE_OUT, delay: delay * 0.5 },
-  }),
-};
-
-const TEXT_VARIANTS: Record<CoreAnimation, Variants> = {
-  blur: {
-    initial: { opacity: 0, scale: 0.94, filter: SWAP_BLUR },
-    animate: {
-      opacity: 1,
-      scale: 1,
-      filter: "blur(0px)",
-      transition: BLUR_TRANSITION,
-    },
-    exit: {
-      opacity: 0,
-      scale: 0.94,
-      filter: SWAP_BLUR,
-      transition: BLUR_TRANSITION,
-    },
-  },
-  roll: {
-    initial: { opacity: 0, y: "115%", filter: ROLL_BLUR },
-    animate: {
-      opacity: 1,
-      y: "0%",
-      filter: "blur(0px)",
-      transition: ROLL_TRANSITION,
-    },
-    exit: {
-      opacity: 0,
-      y: "-115%",
-      filter: ROLL_BLUR,
-      transition: { duration: 0.18, ease: "easeInOut" },
-    },
-  },
-};
-
-const ICON_VARIANTS: Record<CoreAnimation, Variants> = {
-  blur: {
-    initial: { opacity: 0, scale: 0.25, filter: SWAP_BLUR },
-    animate: {
-      opacity: 1,
-      scale: 1,
-      filter: "blur(0px)",
-      transition: BLUR_TRANSITION,
-    },
-    exit: {
-      opacity: 0,
-      scale: 0.25,
-      filter: SWAP_BLUR,
-      transition: BLUR_TRANSITION,
-    },
-  },
-  roll: {
-    initial: { opacity: 0, y: 16, filter: ROLL_BLUR },
-    animate: {
-      opacity: 1,
-      y: 0,
-      filter: "blur(0px)",
-      transition: ROLL_TRANSITION,
-    },
-    exit: {
-      opacity: 0,
-      y: -16,
-      filter: ROLL_BLUR,
-      transition: { duration: 0.18, ease: "easeInOut" },
-    },
-  },
-};
-
-const VARIANT_CLASS: Record<ActionSwapButtonVariant, string> = {
-  primary: "bg-primary text-primary-foreground hover:bg-primary/90",
-  secondary: "border border-border bg-card text-foreground hover:border-border",
-  outline: "border border-border bg-transparent text-foreground hover:bg-primary/5",
-  ghost: "text-muted-foreground hover:bg-primary/5 hover:text-foreground",
-};
-
-const SIZE_CLASS: Record<ActionSwapButtonSize, string> = {
-  sm: "h-8 gap-1.5 rounded-full px-3 text-xs",
-  md: "h-10 gap-2 rounded-full px-4 text-sm",
-  lg: "h-12 gap-2.5 rounded-full px-5 text-base",
-  icon: "h-10 w-10 rounded-full",
-};
-
-export function ActionSwapText({
-  value,
-  children,
-  animation = "blur",
-  className,
-}: ActionSwapTextProps) {
-  const reduce = useReducedMotion();
-  const measureRef = useRef<HTMLSpanElement>(null);
-  const [width, setWidth] = useState<number>();
-
-  useLayoutEffect(() => {
-    const nextWidth = measureRef.current?.offsetWidth;
-    if (!nextWidth) return;
-    setWidth((currentWidth) => (currentWidth === nextWidth ? currentWidth : nextWidth));
-  });
-
-  // Cascade needs a plain string to split into letters; non-string content
-  // and reduced motion fall back to the closest single-element animation.
-  const label = typeof children === "string" ? children : null;
-  const cascade = animation === "cascade" && label !== null && !reduce;
-  const coreAnimation: CoreAnimation =
-    animation === "cascade" ? "roll" : animation;
-
-  return (
-    <span
-      className={cn("relative inline-block overflow-hidden whitespace-nowrap align-bottom", className)}
-      style={{
-        width,
-        transition: reduce ? undefined : `width 220ms ${EASE_OUT_CSS}`,
-      }}
-    >
-      <span
-        ref={measureRef}
-        aria-hidden
-        className="invisible inline-block whitespace-nowrap"
-      >
-        {children}
-      </span>
-      {cascade ? (
-        <>
-          {/* Letters are decorative fragments; readers get the whole label. */}
-          <span className="sr-only">{label}</span>
-          <AnimatePresence initial={false}>
-            <motion.span
-              key={`cascade-${value}`}
-              aria-hidden
-              initial="initial"
-              animate="animate"
-              exit="exit"
-              className="absolute left-0 top-0 inline-block whitespace-pre"
-            >
-              {label.split("").map((char, i) => (
-                <motion.span
-                  // biome-ignore lint/suspicious/noArrayIndexKey: position is the slot identity — the letter at a position is exactly what rolls.
-                  key={i}
-                  custom={i * CASCADE_STAGGER}
-                  variants={CASCADE_LETTER_VARIANTS}
-                  className="inline-block whitespace-pre will-change-[opacity,filter,transform]"
-                >
-                  {char}
-                </motion.span>
-              ))}
-            </motion.span>
-          </AnimatePresence>
-        </>
-      ) : (
-        <AnimatePresence initial={false}>
-          <motion.span
-            key={`${animation}-${value}`}
-            variants={TEXT_VARIANTS[coreAnimation]}
-            initial={reduce ? false : "initial"}
-            animate={reduce ? { opacity: 1, filter: "blur(0px)", scale: 1, y: 0 } : "animate"}
-            exit={reduce ? undefined : "exit"}
-            className="absolute left-0 top-0 inline-block will-change-[opacity,filter,transform]"
-          >
-            {children}
-          </motion.span>
-        </AnimatePresence>
-      )}
-    </span>
-  );
-}
-
-export function ActionSwapIcon({
-  value,
-  children,
-  animation = "blur",
-  className,
-}: ActionSwapIconProps) {
-  const reduce = useReducedMotion();
-  // Icons are single elements — cascade maps to its closest motion, roll.
-  const coreAnimation: CoreAnimation =
-    animation === "cascade" ? "roll" : animation;
-
-  return (
-    <span className={cn("relative inline-grid shrink-0 place-items-center overflow-hidden", className)}>
-      <AnimatePresence mode="popLayout" initial={false}>
-        <motion.span
-          key={`${animation}-${value}`}
-          aria-hidden
-          variants={ICON_VARIANTS[coreAnimation]}
-          initial={reduce ? false : "initial"}
-          animate={reduce ? { opacity: 1, filter: "blur(0px)", scale: 1, y: 0 } : "animate"}
-          exit={reduce ? undefined : "exit"}
-          className="col-start-1 row-start-1 inline-flex items-center justify-center will-change-[opacity,filter,transform]"
-        >
-          {children}
-        </motion.span>
-      </AnimatePresence>
-    </span>
-  );
-}
-
-export function ActionSwapButton({
-  items,
-  value,
-  defaultValue,
-  onValueChange,
-  variant = "secondary",
-  size = "md",
-  animation = "blur",
-  iconOnly = size === "icon",
-  cycle = true,
-  className,
-  disabled,
-  onClick,
-  ...rest
-}: ActionSwapButtonProps) {
-  const reduce = useReducedMotion();
-  const [internalValue, setInternalValue] = useState(defaultValue ?? items[0]?.id);
-  const currentValue = value ?? internalValue;
-  const activeIndex = Math.max(0, items.findIndex((item) => item.id === currentValue));
-  const activeItem = items[activeIndex] ?? items[0];
-  const hasIcon = items.some((item) => item.icon);
-  const nextItem = cycle && items.length > 0 ? items[(activeIndex + 1) % items.length] : undefined;
-
-  if (!activeItem) return null;
-
-  const accessibleLabel = activeItem.ariaLabel ?? (iconOnly && typeof activeItem.label === "string" ? activeItem.label : undefined);
-
-  return (
-    <motion.button
-      type="button"
-      disabled={disabled}
-      whileTap={reduce || disabled ? undefined : { scale: 0.97 }}
-      transition={SPRING_PRESS}
-      className={cn(
-        "inline-flex items-center justify-center overflow-hidden font-medium transition-colors",
-        "disabled:pointer-events-none disabled:opacity-50",
-        VARIANT_CLASS[variant],
-        SIZE_CLASS[size],
-        className,
-      )}
-      aria-label={accessibleLabel}
-      onClick={(event) => {
-        onClick?.(event);
-        if (event.defaultPrevented || disabled || !cycle || !nextItem) return;
-        if (value === undefined) setInternalValue(nextItem.id);
-        onValueChange?.(nextItem.id, nextItem);
-      }}
-      {...rest}
-    >
-      {hasIcon ? (
-        <ActionSwapIcon value={activeItem.id} animation={animation} className="h-4 w-4">
-          {activeItem.icon ?? null}
-        </ActionSwapIcon>
-      ) : null}
-      {!iconOnly ? (
-        <ActionSwapText value={activeItem.id} animation={animation}>
-          {activeItem.label}
-        </ActionSwapText>
-      ) : null}
-    </motion.button>
-  );
-}
-81:["$","div","components/motion/action-swap.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L11",null,{"ref":"$undefined","iconNode":"$35:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"action-swap.tsx"}]]}]]}],["$","$L63",null,{"text":"$8d","eventLabel":"components/motion/action-swap.tsx"}]]}],"$L8e"]}]
+<span class="line"></span></code></pre>81:["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$8e"}}]}]
 8f:T18245,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { AnimatePresence, motion, useReducedMotion, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> HTMLMotionProps, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> Variants } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "motion/react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
@@ -2622,7 +2622,7 @@ export function ActionSwapButton({
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">motion.button</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>88:["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$8f"}}]}]
+<span class="line"></span></code></pre>87:["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$8f"}}]}]
 90:T18245,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { AnimatePresence, motion, useReducedMotion, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> HTMLMotionProps, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> Variants } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "motion/react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
@@ -2955,4 +2955,4 @@ export function ActionSwapButton({
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">motion.button</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>8e:["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$90"}}]}]
+<span class="line"></span></code></pre>8d:["$","$L64",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$90"}}]}]
