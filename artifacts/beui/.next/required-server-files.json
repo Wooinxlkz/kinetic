@@ -1,0 +1,732 @@
+{
+  "version": 1,
+  "config": {
+    "env": {},
+    "webpack": null,
+    "eslint": {
+      "ignoreDuringBuilds": false
+    },
+    "typescript": {
+      "ignoreBuildErrors": false,
+      "tsconfigPath": "tsconfig.json"
+    },
+    "typedRoutes": false,
+    "distDir": ".next",
+    "cleanDistDir": true,
+    "assetPrefix": "",
+    "cacheMaxMemorySize": 52428800,
+    "configOrigin": "next.config.mjs",
+    "useFileSystemPublicRoutes": true,
+    "generateEtags": true,
+    "pageExtensions": [
+      "tsx",
+      "ts",
+      "jsx",
+      "js"
+    ],
+    "poweredByHeader": true,
+    "compress": true,
+    "images": {
+      "deviceSizes": [
+        640,
+        750,
+        828,
+        1080,
+        1200,
+        1920,
+        2048,
+        3840
+      ],
+      "imageSizes": [
+        16,
+        32,
+        48,
+        64,
+        96,
+        128,
+        256,
+        384
+      ],
+      "path": "/_next/image",
+      "loader": "default",
+      "loaderFile": "",
+      "domains": [],
+      "disableStaticImages": false,
+      "minimumCacheTTL": 60,
+      "formats": [
+        "image/webp"
+      ],
+      "maximumResponseBody": 50000000,
+      "dangerouslyAllowSVG": false,
+      "contentSecurityPolicy": "script-src 'none'; frame-src 'none'; sandbox;",
+      "contentDispositionType": "attachment",
+      "remotePatterns": [],
+      "unoptimized": false
+    },
+    "devIndicators": false,
+    "onDemandEntries": {
+      "maxInactiveAge": 60000,
+      "pagesBufferLength": 5
+    },
+    "amp": {
+      "canonicalBase": ""
+    },
+    "basePath": "",
+    "sassOptions": {},
+    "trailingSlash": false,
+    "i18n": null,
+    "productionBrowserSourceMaps": false,
+    "excludeDefaultMomentLocales": true,
+    "serverRuntimeConfig": {},
+    "publicRuntimeConfig": {},
+    "reactProductionProfiling": false,
+    "reactStrictMode": true,
+    "reactMaxHeadersLength": 6000,
+    "httpAgentOptions": {
+      "keepAlive": true
+    },
+    "logging": {},
+    "compiler": {},
+    "expireTime": 31536000,
+    "staticPageGenerationTimeout": 60,
+    "modularizeImports": {
+      "@mui/icons-material": {
+        "transform": "@mui/icons-material/{{member}}"
+      },
+      "lodash": {
+        "transform": "lodash/{{member}}"
+      }
+    },
+    "outputFileTracingRoot": "/home/runner/workspace",
+    "allowedDevOrigins": [
+      "*.replit.dev",
+      "*.spock.replit.dev",
+      "*.kirk.replit.dev",
+      "*.replit.app",
+      "127.0.0.1",
+      "localhost"
+    ],
+    "experimental": {
+      "useSkewCookie": false,
+      "cacheLife": {
+        "default": {
+          "stale": 300,
+          "revalidate": 900,
+          "expire": 4294967294
+        },
+        "seconds": {
+          "stale": 30,
+          "revalidate": 1,
+          "expire": 60
+        },
+        "minutes": {
+          "stale": 300,
+          "revalidate": 60,
+          "expire": 3600
+        },
+        "hours": {
+          "stale": 300,
+          "revalidate": 3600,
+          "expire": 86400
+        },
+        "days": {
+          "stale": 300,
+          "revalidate": 86400,
+          "expire": 604800
+        },
+        "weeks": {
+          "stale": 300,
+          "revalidate": 604800,
+          "expire": 2592000
+        },
+        "max": {
+          "stale": 300,
+          "revalidate": 2592000,
+          "expire": 4294967294
+        }
+      },
+      "cacheHandlers": {},
+      "cssChunking": true,
+      "multiZoneDraftMode": false,
+      "appNavFailHandling": false,
+      "prerenderEarlyExit": true,
+      "serverMinification": true,
+      "serverSourceMaps": false,
+      "linkNoTouchStart": false,
+      "caseSensitiveRoutes": false,
+      "clientSegmentCache": false,
+      "clientParamParsing": false,
+      "dynamicOnHover": false,
+      "preloadEntriesOnStart": true,
+      "clientRouterFilter": true,
+      "clientRouterFilterRedirects": false,
+      "fetchCacheKeyPrefix": "",
+      "middlewarePrefetch": "flexible",
+      "optimisticClientCache": true,
+      "manualClientBasePath": false,
+      "cpus": 1,
+      "memoryBasedWorkersCount": false,
+      "imgOptConcurrency": null,
+      "imgOptTimeoutInSeconds": 7,
+      "imgOptMaxInputPixels": 268402689,
+      "imgOptSequentialRead": null,
+      "imgOptSkipMetadata": null,
+      "isrFlushToDisk": true,
+      "workerThreads": false,
+      "optimizeCss": false,
+      "nextScriptWorkers": false,
+      "scrollRestoration": false,
+      "externalDir": false,
+      "disableOptimizedLoading": false,
+      "gzipSize": true,
+      "craCompat": false,
+      "esmExternals": true,
+      "fullySpecified": false,
+      "swcTraceProfiling": false,
+      "forceSwcTransforms": false,
+      "largePageDataBytes": 128000,
+      "typedEnv": false,
+      "parallelServerCompiles": false,
+      "parallelServerBuildTraces": false,
+      "ppr": false,
+      "authInterrupts": false,
+      "webpackMemoryOptimizations": false,
+      "optimizeServerReact": true,
+      "viewTransition": false,
+      "routerBFCache": false,
+      "removeUncaughtErrorAndRejectionListeners": false,
+      "validateRSCRequestHeaders": false,
+      "staleTimes": {
+        "dynamic": 0,
+        "static": 300
+      },
+      "serverComponentsHmrCache": true,
+      "staticGenerationMaxConcurrency": 8,
+      "staticGenerationMinPagesPerWorker": 25,
+      "cacheComponents": false,
+      "inlineCss": false,
+      "useCache": false,
+      "globalNotFound": false,
+      "devtoolSegmentExplorer": true,
+      "browserDebugInfoInTerminal": false,
+      "optimizeRouterScrolling": false,
+      "middlewareClientMaxBodySize": 10485760,
+      "optimizePackageImports": [
+        "lucide-react",
+        "date-fns",
+        "lodash-es",
+        "ramda",
+        "antd",
+        "react-bootstrap",
+        "ahooks",
+        "@ant-design/icons",
+        "@headlessui/react",
+        "@headlessui-float/react",
+        "@heroicons/react/20/solid",
+        "@heroicons/react/24/solid",
+        "@heroicons/react/24/outline",
+        "@visx/visx",
+        "@tremor/react",
+        "rxjs",
+        "@mui/material",
+        "@mui/icons-material",
+        "recharts",
+        "react-use",
+        "effect",
+        "@effect/schema",
+        "@effect/platform",
+        "@effect/platform-node",
+        "@effect/platform-browser",
+        "@effect/platform-bun",
+        "@effect/sql",
+        "@effect/sql-mssql",
+        "@effect/sql-mysql2",
+        "@effect/sql-pg",
+        "@effect/sql-sqlite-node",
+        "@effect/sql-sqlite-bun",
+        "@effect/sql-sqlite-wasm",
+        "@effect/sql-sqlite-react-native",
+        "@effect/rpc",
+        "@effect/rpc-http",
+        "@effect/typeclass",
+        "@effect/experimental",
+        "@effect/opentelemetry",
+        "@material-ui/core",
+        "@material-ui/icons",
+        "@tabler/icons-react",
+        "mui-core",
+        "react-icons/ai",
+        "react-icons/bi",
+        "react-icons/bs",
+        "react-icons/cg",
+        "react-icons/ci",
+        "react-icons/di",
+        "react-icons/fa",
+        "react-icons/fa6",
+        "react-icons/fc",
+        "react-icons/fi",
+        "react-icons/gi",
+        "react-icons/go",
+        "react-icons/gr",
+        "react-icons/hi",
+        "react-icons/hi2",
+        "react-icons/im",
+        "react-icons/io",
+        "react-icons/io5",
+        "react-icons/lia",
+        "react-icons/lib",
+        "react-icons/lu",
+        "react-icons/md",
+        "react-icons/pi",
+        "react-icons/ri",
+        "react-icons/rx",
+        "react-icons/si",
+        "react-icons/sl",
+        "react-icons/tb",
+        "react-icons/tfi",
+        "react-icons/ti",
+        "react-icons/vsc",
+        "react-icons/wi"
+      ],
+      "trustHostHeader": false,
+      "isExperimentalCompile": false
+    },
+    "htmlLimitedBots": "[\\w-]+-Google|Google-[\\w-]+|Chrome-Lighthouse|Slurp|DuckDuckBot|baiduspider|yandex|sogou|bitlybot|tumblr|vkShare|quora link preview|redditbot|ia_archiver|Bingbot|BingPreview|applebot|facebookexternalhit|facebookcatalog|Twitterbot|LinkedInBot|Slackbot|Discordbot|WhatsApp|SkypeUriPreview|Yeti|googleweblight",
+    "bundlePagesRouterDependencies": false,
+    "configFileName": "next.config.mjs",
+    "serverExternalPackages": [
+      "react-docgen-typescript",
+      "typescript",
+      "pg"
+    ],
+    "transpilePackages": [
+      "motion",
+      "framer-motion"
+    ],
+    "outputFileTracingIncludes": {
+      "/components/*": [
+        "./components/motion/**/*",
+        "./components/previews/**/*"
+      ],
+      "/r/*": [
+        "./components/motion/**/*",
+        "./components/previews/**/*",
+        "./lib/**/*"
+      ],
+      "/*": [
+        "./components/motion/**/*",
+        "./lib/**/*"
+      ]
+    },
+    "turbopack": {
+      "root": "/home/runner/workspace"
+    },
+    "_originalRedirects": [
+      {
+        "source": "/components/motion/swap",
+        "destination": "/components/blocks/swap",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/dynamic-island",
+        "destination": "/components/blocks/dynamic-island",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/command-palette",
+        "destination": "/components/blocks/command-palette",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/expandable-action-bar",
+        "destination": "/components/blocks/expandable-action-bar",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/overflow-actions",
+        "destination": "/components/blocks/overflow-actions",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/expandable-tabs",
+        "destination": "/components/blocks/expandable-tabs",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/swipeable-list",
+        "destination": "/components/blocks/swipeable-list",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/file-upload",
+        "destination": "/components/blocks/file-upload",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/prediction-market",
+        "destination": "/components/blocks/prediction-market",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/wallet-card",
+        "destination": "/components/blocks/wallet-card",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/otp-input",
+        "destination": "/components/blocks/otp-input",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/bloom-menu",
+        "destination": "/components/blocks/bloom-menu",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/feedback-widget",
+        "destination": "/components/blocks/feedback-widget",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/not-found",
+        "destination": "/components/blocks/not-found",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/swap/:internal(.+)",
+        "destination": "/components/blocks/swap",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/wallet-card/:internal(.+)",
+        "destination": "/components/blocks/wallet-card",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/not-found/:internal(.+)",
+        "destination": "/components/blocks/not-found",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/base",
+        "destination": "/components/motion/button",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/button-base",
+        "destination": "/components/motion/button",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/stateful",
+        "destination": "/components/motion/button",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/button-stateful",
+        "destination": "/components/motion/button",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/magnetic",
+        "destination": "/components/motion/button",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/button-magnetic",
+        "destination": "/components/motion/button",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/select-morph",
+        "destination": "/components/motion/select",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/text-reveal",
+        "destination": "/components/motion/text-animation",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/text-shimmer",
+        "destination": "/components/motion/text-animation",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/text-cascade",
+        "destination": "/components/motion/text-animation",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/number-ticker",
+        "destination": "/components/motion/number",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/animated-number",
+        "destination": "/components/motion/number",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/action-swap-cascade",
+        "destination": "/components/motion/action-swap",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/action-swap-blur",
+        "destination": "/components/motion/action-swap",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/action-swap-roll",
+        "destination": "/components/motion/action-swap",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/smooth-scroll",
+        "destination": "/components/motion/scroll-animation",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/scroll-progress",
+        "destination": "/components/motion/scroll-animation",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/parallax",
+        "destination": "/components/motion/scroll-animation",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/scroll-to",
+        "destination": "/components/motion/scroll-animation",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/scroll-reveal",
+        "destination": "/components/motion/scroll-animation",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/table-editable",
+        "destination": "/components/motion/table",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/table-async",
+        "destination": "/components/motion/table",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/editable-cell",
+        "destination": "/components/motion/table",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/row-handle",
+        "destination": "/components/motion/table",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/skeleton-rows",
+        "destination": "/components/motion/table",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/table-header",
+        "destination": "/components/motion/table",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/table-menu",
+        "destination": "/components/motion/table",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/use-column-reorder",
+        "destination": "/components/motion/table",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/use-column-resize",
+        "destination": "/components/motion/table",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/use-column-sort",
+        "destination": "/components/motion/table",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/use-row-selection",
+        "destination": "/components/motion/table",
+        "permanent": true
+      },
+      {
+        "source": "/components/motion/create-menu",
+        "destination": "/components/blocks/bloom-menu",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/create-menu",
+        "destination": "/components/blocks/bloom-menu",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/constants",
+        "destination": "/components/blocks/swap",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/controls",
+        "destination": "/components/blocks/swap",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/data",
+        "destination": "/components/blocks/swap",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/field",
+        "destination": "/components/blocks/swap",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/quote-row",
+        "destination": "/components/blocks/swap",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/token-badges",
+        "destination": "/components/blocks/swap",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/token-picker",
+        "destination": "/components/blocks/swap",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/account-avatar",
+        "destination": "/components/blocks/wallet-card",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/account-switcher",
+        "destination": "/components/blocks/wallet-card",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/actions",
+        "destination": "/components/blocks/wallet-card",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/balance-delta",
+        "destination": "/components/blocks/wallet-card",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/copy-button",
+        "destination": "/components/blocks/wallet-card",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/search-bar",
+        "destination": "/components/blocks/wallet-card",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/use-dismiss",
+        "destination": "/components/blocks/wallet-card",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/glitch",
+        "destination": "/components/blocks/not-found",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/not-found-glitch",
+        "destination": "/components/blocks/not-found",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/magnetic",
+        "destination": "/components/blocks/not-found",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/not-found-magnetic",
+        "destination": "/components/blocks/not-found",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/spotlight",
+        "destination": "/components/blocks/not-found",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/not-found-spotlight",
+        "destination": "/components/blocks/not-found",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/stacked",
+        "destination": "/components/blocks/not-found",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/not-found-stacked",
+        "destination": "/components/blocks/not-found",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/terminal",
+        "destination": "/components/blocks/not-found",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/not-found-terminal",
+        "destination": "/components/blocks/not-found",
+        "permanent": true
+      },
+      {
+        "source": "/components/blocks/shared",
+        "destination": "/components/blocks/not-found",
+        "permanent": true
+      },
+      {
+        "source": "/components/:category/:slug/:internal(.+)",
+        "destination": "/components/:category/:slug",
+        "permanent": true
+      }
+    ]
+  },
+  "appDir": "/home/runner/workspace/artifacts/beui",
+  "relativeAppDir": "artifacts/beui",
+  "files": [
+    ".next/routes-manifest.json",
+    ".next/server/pages-manifest.json",
+    ".next/build-manifest.json",
+    ".next/prerender-manifest.json",
+    ".next/server/functions-config-manifest.json",
+    ".next/server/middleware-manifest.json",
+    ".next/server/middleware-build-manifest.js",
+    ".next/server/middleware-react-loadable-manifest.js",
+    ".next/react-loadable-manifest.json",
+    ".next/server/app-paths-manifest.json",
+    ".next/app-path-routes-manifest.json",
+    ".next/app-build-manifest.json",
+    ".next/server/server-reference-manifest.js",
+    ".next/server/server-reference-manifest.json",
+    ".next/BUILD_ID",
+    ".next/server/next-font-manifest.js",
+    ".next/server/next-font-manifest.json",
+    ".next/required-server-files.json"
+  ],
+  "ignore": [
+    "../../node_modules/.pnpm/next@15.5.20_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/compiled/@ampproject/toolbox-optimizer/**/*"
+  ]
+}

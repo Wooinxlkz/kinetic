@@ -29,15 +29,17 @@
   "/playground/page": "app/playground/page.js",
   "/resume/page": "app/resume/page.js",
   "/sponsors/page": "app/sponsors/page.js",
-  "/docs/ai-agents/page": "app/docs/ai-agents/page.js",
   "/docs/ai-agents/mcp/page": "app/docs/ai-agents/mcp/page.js",
+  "/docs/ai-agents/page": "app/docs/ai-agents/page.js",
   "/docs/ai-agents/registry/page": "app/docs/ai-agents/registry/page.js",
-  "/docs/help/page": "app/docs/help/page.js",
   "/docs/changelog/page": "app/docs/changelog/page.js",
+  "/docs/help/page": "app/docs/help/page.js",
   "/docs/installation/page": "app/docs/installation/page.js",
+  "/docs/motion-patterns/page": "app/docs/motion-patterns/page.js",
   "/docs/motion/easing/page": "app/docs/motion/easing/page.js",
   "/docs/motion/springs/page": "app/docs/motion/springs/page.js",
   "/docs/page": "app/docs/page.js",
   "/docs/theme/page": "app/docs/theme/page.js",
-  "/docs/motion-patterns/page": "app/docs/motion-patterns/page.js"
+  "/api/og/route": "app/api/og/route.js",
+  "/opengraph-image/route": "app/opengraph-image/route.js"
 }
