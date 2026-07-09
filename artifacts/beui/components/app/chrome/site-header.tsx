@@ -119,13 +119,14 @@ export function SiteHeader({
             <Link
               href="/sponsors"
               className={cn(
-                "rounded-md px-3 py-1.5 text-sm transition-colors",
+                "inline-flex items-center gap-1 rounded-md px-3 py-1.5 text-sm font-medium transition-colors",
                 isSponsors
-                  ? "text-foreground"
-                  : "text-muted-foreground hover:text-foreground",
+                  ? "text-accent"
+                  : "text-accent hover:text-accent/80",
               )}
             >
               Membership
+              <ArrowUpRight className="h-3.5 w-3.5" />
             </Link>
             <a
               href="https://pro.beui.dev"
