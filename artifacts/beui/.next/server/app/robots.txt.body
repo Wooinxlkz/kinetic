@@ -1,7 +1,0 @@
-User-Agent: *
-Allow: /
-Allow: /api/og
-Disallow: /api/
-
-Host: https://beui.dev
-Sitemap: https://beui.dev/sitemap.xml
