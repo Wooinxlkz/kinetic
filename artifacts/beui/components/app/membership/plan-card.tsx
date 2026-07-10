@@ -4,6 +4,7 @@ import { motion, AnimatePresence } from "motion/react";
 import { Check, X } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { PressLink } from "@/components/app/press-link";
+import { useAuth } from "@/components/app/auth/auth-provider";
 import { yearlyMonthlyPrice, yearlyTotal } from "./plans-data";
 import type { Plan, BillingCycle } from "./plans-data";
 
@@ -69,7 +70,20 @@ function PriceDisplay({ plan, billing }: { plan: Plan; billing: BillingCycle }) 
 }
 
 export function PlanCard({ plan, billing, index }: PlanCardProps) {
+  const { status, open } = useAuth();
   const ctaHref = plan.ctaHrefByBilling?.[billing] ?? plan.ctaHref;
+  const isFree = plan.id === "free";
+  // The Free plan is everyone's default until real subscription tracking
+  // exists — show it as the active plan instead of a clickable CTA.
+  const isCurrentPlan = isFree;
+
+  function handleCtaClick(e: { preventDefault: () => void }) {
+    if (status !== "authenticated") {
+      e.preventDefault();
+      open("sign-in");
+    }
+  }
+
   return (
     <motion.div
       initial={{ opacity: 0, y: 24 }}
@@ -115,23 +129,33 @@ export function PlanCard({ plan, billing, index }: PlanCardProps) {
       </div>
 
       {/* CTA */}
-      <PressLink
-        href={ctaHref}
-        target={ctaHref.startsWith("http") ? "_blank" : undefined}
-        rel={ctaHref.startsWith("http") ? "noreferrer noopener" : undefined}
-        className={cn(
-          "mb-6 inline-flex w-full items-center justify-center rounded-xl px-5 py-2.5 text-sm font-semibold transition-colors",
-          plan.ctaVariant === "primary" &&
-            "bg-foreground text-background hover:bg-foreground/90",
-          plan.ctaVariant === "accent" &&
-            "bg-accent text-accent-foreground hover:bg-accent/90",
-          plan.ctaVariant === "ghost" &&
-            "border border-border bg-transparent text-foreground hover:bg-card",
-        )}
-        pressScale={0.97}
-      >
-        {plan.cta}
-      </PressLink>
+      {isCurrentPlan ? (
+        <span
+          className="mb-6 inline-flex w-full cursor-default items-center justify-center rounded-xl border border-border bg-transparent px-5 py-2.5 text-sm font-semibold text-muted-foreground"
+          aria-current="true"
+        >
+          Current plan
+        </span>
+      ) : (
+        <PressLink
+          href={ctaHref}
+          target={ctaHref.startsWith("http") ? "_blank" : undefined}
+          rel={ctaHref.startsWith("http") ? "noreferrer noopener" : undefined}
+          onClick={handleCtaClick}
+          className={cn(
+            "mb-6 inline-flex w-full items-center justify-center rounded-xl px-5 py-2.5 text-sm font-semibold transition-colors",
+            plan.ctaVariant === "primary" &&
+              "bg-foreground text-background hover:bg-foreground/90",
+            plan.ctaVariant === "accent" &&
+              "bg-accent text-accent-foreground hover:bg-accent/90",
+            plan.ctaVariant === "ghost" &&
+              "border border-border bg-transparent text-foreground hover:bg-card",
+          )}
+          pressScale={0.97}
+        >
+          {plan.cta}
+        </PressLink>
+      )}
 
       {/* Divider */}
       <div className="mb-5 h-px bg-border" />
