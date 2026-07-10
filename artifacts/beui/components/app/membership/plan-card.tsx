@@ -70,12 +70,12 @@ function PriceDisplay({ plan, billing }: { plan: Plan; billing: BillingCycle }) 
 }
 
 export function PlanCard({ plan, billing, index }: PlanCardProps) {
-  const { status, open } = useAuth();
+  const { status, user, open } = useAuth();
   const ctaHref = plan.ctaHrefByBilling?.[billing] ?? plan.ctaHref;
-  const isFree = plan.id === "free";
-  // The Free plan is everyone's default until real subscription tracking
-  // exists — show it as the active plan instead of a clickable CTA.
-  const isCurrentPlan = isFree;
+  // Signed-in users show their real plan (set by the DodoPayments webhook
+  // on successful checkout); everyone else defaults to Free.
+  const userPlan = status === "authenticated" ? (user?.plan ?? "free") : "free";
+  const isCurrentPlan = userPlan === plan.id;
 
   function handleCtaClick(e: { preventDefault: () => void }) {
     if (status !== "authenticated") {

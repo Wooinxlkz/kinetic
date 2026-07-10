@@ -10,4 +10,6 @@ export interface AuthUser {
   avatarUrl: string | null;
   bannerUrl: string | null;
   createdAt: string;
+  /** Membership plan — "free", "pro", or "sponsor". */
+  plan: string;
 }
