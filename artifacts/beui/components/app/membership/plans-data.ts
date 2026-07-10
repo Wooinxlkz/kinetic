@@ -45,7 +45,7 @@ export const PLANS: Plan[] = [
     description: "Everything open-source, forever.",
     monthlyPrice: 0,
     cta: "Get started",
-    ctaHref: "/components/motion",
+    ctaHref: "https://test.checkout.dodopayments.com/buy/pdt_0NismDSo93FMpxRwDdcuQ?quantity=1",
     ctaVariant: "ghost",
     featured: false,
     features: [
