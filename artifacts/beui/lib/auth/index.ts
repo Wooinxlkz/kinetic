@@ -13,6 +13,7 @@ export {
   toPublicProfile,
   generateSwitchToken,
   findUserBySwitchToken,
+  setUserPlanByEmail,
 } from "./db-users";
 export { SESSION_COOKIE_NAME } from "./constants";
 export type { PublicUser, PublicProfile } from "./types";

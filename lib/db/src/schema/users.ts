@@ -26,6 +26,11 @@ export const usersTable = pgTable("users", {
   switchTokenExpiresAt: timestamp("switch_token_expires_at", {
     withTimezone: true,
   }),
+  // Membership plan — "free" (default), "pro", or "sponsor". Set by the
+  // DodoPayments webhook when a checkout for that plan completes; matched
+  // by billing email (see beui app/api/webhooks/dodopayments/route.ts).
+  plan: text("plan").notNull().default("free"),
+  planUpdatedAt: timestamp("plan_updated_at", { withTimezone: true }),
   createdAt: timestamp("created_at", { withTimezone: true })
     .notNull()
     .defaultNow(),

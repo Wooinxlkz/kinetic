@@ -9,6 +9,8 @@ export interface PublicUser {
   avatarUrl: string | null;
   bannerUrl: string | null;
   createdAt: string;
+  /** Membership plan — "free", "pro", or "sponsor". */
+  plan: string;
 }
 
 /** Public-facing subset shown on someone else's profile page (hides email). */

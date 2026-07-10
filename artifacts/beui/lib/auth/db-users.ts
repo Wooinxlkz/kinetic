@@ -17,6 +17,7 @@ export function toPublicUser(user: User): PublicUser {
     avatarUrl: user.avatarUrl,
     bannerUrl: user.bannerUrl,
     createdAt: user.createdAt.toISOString(),
+    plan: user.plan,
   };
 }
 
@@ -105,6 +106,23 @@ export async function updateUserProfile(
     .update(usersTable)
     .set(updates)
     .where(eq(usersTable.id, userId))
+    .returning();
+  return user;
+}
+
+/**
+ * Sets a user's membership plan by their billing email, as reported by a
+ * DodoPayments webhook. Silently no-ops if no account uses that email —
+ * webhooks must never throw for unmatched customers.
+ */
+export async function setUserPlanByEmail(
+  email: string,
+  plan: "free" | "pro" | "sponsor",
+): Promise<User | undefined> {
+  const [user] = await db
+    .update(usersTable)
+    .set({ plan, planUpdatedAt: new Date() })
+    .where(eq(usersTable.email, email.trim().toLowerCase()))
     .returning();
   return user;
 }
