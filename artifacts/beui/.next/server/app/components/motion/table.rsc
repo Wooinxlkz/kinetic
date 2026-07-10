@@ -19,7 +19,7 @@ f:I[60761,[],""]
 :HL["/_next/static/media/fea0c6ef863f2f98.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/14e5a3fb5e8f8ee7.css","style"]
 :HL["/_next/static/css/9990b348202794f9.css","style"]
-0:{"P":null,"b":"za9HXgO2fEUOBKv3Oz5I0","p":"","c":["","components","motion","table"],"i":false,"f":[[["",{"children":["components",{"children":[["category","motion","d"],{"children":[["slug","table","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/14e5a3fb5e8f8ee7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/9990b348202794f9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L2"]}],{"children":["components",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["category","motion","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","table","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+0:{"P":null,"b":"nn5rEpM5Narf_AWHL8Q9S","p":"","c":["","components","motion","table"],"i":false,"f":[[["",{"children":["components",{"children":[["category","motion","d"],{"children":[["slug","table","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/14e5a3fb5e8f8ee7.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/9990b348202794f9.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L2"]}],{"children":["components",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["category","motion","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","table","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
 11:I[69706,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","4895","static/chunks/4895-4ae244da783f5a89.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4053","static/chunks/4053-64871e241fdcb0ce.js","2603","static/chunks/2603-37bb9ea2b993420a.js","4672","static/chunks/4672-b095740e8bc22e98.js","8115","static/chunks/8115-9cbbeb773cd45b27.js","9912","static/chunks/9912-d1513d1449eb3677.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","4229","static/chunks/4229-7083e9e0fee6c87f.js","1704","static/chunks/1704-e59cc15ff6163b2c.js","8806","static/chunks/8806-d0e3d7a1a1ea1d0c.js","7343","static/chunks/7343-d3f6eab23b22e0ce.js","3039","static/chunks/3039-eb686823b343fe8e.js","1590","static/chunks/1590-cb822a54a041a5d9.js","6978","static/chunks/6978-af92f1b9e884bb0b.js","8863","static/chunks/8863-b42f8c5815c9b07e.js","1089","static/chunks/1089-516d816099aaa60e.js","9959","static/chunks/9959-0a657621fc8d47a7.js","1512","static/chunks/1512-9dfa9631de037f0b.js","9680","static/chunks/app/components/%5Bcategory%5D/%5Bslug%5D/page-50ce2b74ceb0cf8c.js"],""]
 12:I[80571,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","4895","static/chunks/4895-4ae244da783f5a89.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4053","static/chunks/4053-64871e241fdcb0ce.js","2603","static/chunks/2603-37bb9ea2b993420a.js","4672","static/chunks/4672-b095740e8bc22e98.js","8115","static/chunks/8115-9cbbeb773cd45b27.js","9912","static/chunks/9912-d1513d1449eb3677.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","4229","static/chunks/4229-7083e9e0fee6c87f.js","1704","static/chunks/1704-e59cc15ff6163b2c.js","8806","static/chunks/8806-d0e3d7a1a1ea1d0c.js","7343","static/chunks/7343-d3f6eab23b22e0ce.js","3039","static/chunks/3039-eb686823b343fe8e.js","1590","static/chunks/1590-cb822a54a041a5d9.js","6978","static/chunks/6978-af92f1b9e884bb0b.js","8863","static/chunks/8863-b42f8c5815c9b07e.js","1089","static/chunks/1089-516d816099aaa60e.js","9959","static/chunks/9959-0a657621fc8d47a7.js","1512","static/chunks/1512-9dfa9631de037f0b.js","9680","static/chunks/app/components/%5Bcategory%5D/%5Bslug%5D/page-50ce2b74ceb0cf8c.js"],"default"]
 10:T405,{"@context":"https://schema.org","@type":"TechArticle","@id":"https://beui.dev/components/motion/table#article","headline":"Table · React motion component","name":"Table","description":"Virtualized data table that stays smooth at 10k+ rows, with sortable headers, row selection, column resize and reorder, and a sticky header. Minimal, reduced-motion-safe motion.","url":"https://beui.dev/components/motion/table","image":"https://beui.dev/api/og?component=table","inLanguage":"en","isPartOf":{"@id":"https://beui.dev/#website"},"author":{"@type":"Person","name":"Saurabh"},"publisher":{"@id":"https://beui.dev/#org"},"about":{"@type":"SoftwareSourceCode","name":"Table","description":"Virtualized data table that stays smooth at 10k+ rows, with sortable headers, row selection, column resize and reorder, and a sticky header. Minimal, reduced-motion-safe motion.","codeRepository":"https://github.com/starc007/ui-components","programmingLanguage":"TypeScript","runtimePlatform":"React","codeSampleType":"full (compile ready)"}}5:["$","div",null,{"children":[[["$","script","0",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Kinetic UI\",\"item\":\"https://beui.dev/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Components\",\"item\":\"https://beui.dev/components/motion\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Table\",\"item\":\"https://beui.dev/components/motion/table\"}]}"}}],["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$10"}}]],["$","nav",null,{"aria-label":"Breadcrumb","className":"flex items-center gap-1.5 text-sm","children":[["$","$L11",null,{"href":"/components/motion","className":"text-muted-foreground transition-colors hover:text-foreground","children":"Components"}],["$","$L12",null,{"ref":"$undefined","iconNode":[["path",{"d":"m9 18 6-6-6-6","key":"mthhwq"}]],"className":"lucide-chevron-right h-3.5 w-3.5 text-muted-foreground"}],["$","span",null,{"className":"font-medium text-foreground","children":"Table"}]]}],["$","div",null,{"className":"mt-4 flex items-center gap-3","children":[["$","h1",null,{"className":"text-3xl font-semibold tracking-tight text-foreground","children":"Table"}],null,["$","span",null,{"className":"inline-flex shrink-0 items-center gap-1 rounded-full border border-border bg-foreground/[0.06] px-1.5 py-0.5 text-[10px] font-semibold uppercase leading-none text-foreground/70 mt-1","children":[["$","span",null,{"className":"h-1 w-1 rounded-full bg-foreground/50"}],"Motion"]}]]}],["$","p",null,{"className":"mt-2 max-w-2xl text-muted-foreground","children":"Virtualized data table that stays smooth at 10k+ rows, with sortable headers, row selection, column resize and reorder, and a sticky header. Minimal, reduced-motion-safe motion."}],["$","div",null,{"className":"mt-10 flex flex-col gap-12","children":["$L13","$L14","$L15"]}],null,null,["$","section",null,{"className":"mt-12 border-t border-border pt-8","children":[["$","h2",null,{"className":"text-sm font-semibold text-foreground","children":"Related components"}],["$","div",null,{"className":"mt-4 grid grid-cols-1 gap-4 sm:grid-cols-2 xl:grid-cols-3","children":[["$","$L11","motion/tilt-card",{"href":"/components/motion/tilt-card","className":"group/card relative flex h-40 flex-col overflow-hidden rounded-3xl bg-card transition-colors duration-300 ease-[cubic-bezier(0.23,1,0.32,1)] contain-[paint] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-background","children":[["$","div",null,{"className":"flex shrink-0 items-center justify-between gap-3 px-4 py-3","children":["$L16","$L17"]}],"$L18"]}],"$L19","$L1a"]}]]}],"$L1b"]}]
@@ -29,20 +29,20 @@ f:I[60761,[],""]
 19:["$","$L11","motion/button",{"href":"/components/motion/button","className":"group/card relative flex h-40 flex-col overflow-hidden rounded-3xl bg-card transition-colors duration-300 ease-[cubic-bezier(0.23,1,0.32,1)] contain-[paint] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-background","children":[["$","div",null,{"className":"flex shrink-0 items-center justify-between gap-3 px-4 py-3","children":[["$","h3",null,{"className":"truncate font-pixel text-base font-medium text-foreground","children":"Button"}],["$","div",null,{"className":"flex shrink-0 items-center gap-1.5","children":[null,["$","span",null,{"className":"inline-flex shrink-0 items-center gap-1 rounded-full border border-border bg-foreground/[0.06] px-1.5 py-0.5 text-[10px] font-semibold uppercase leading-none text-foreground/70","children":[["$","span",null,{"className":"h-1 w-1 rounded-full bg-foreground/50"}],"Motion"]}]]}]]}],["$","div",null,{"className":"mx-2 mb-2 flex min-h-0 flex-1 items-start overflow-hidden rounded-3xl bg-background px-4 py-4 transition-colors duration-300 ease-[cubic-bezier(0.23,1,0.32,1)] group-hover/card:bg-background/80 group-focus-visible/card:bg-background/80","children":["$","p",null,{"className":"line-clamp-3 text-sm leading-relaxed text-muted-foreground","children":"Spring-pressed Button plus StatefulButton (idle → loading → success / error) and MagneticButton."}]}]]}]
 1a:["$","$L11","motion/marquee",{"href":"/components/motion/marquee","className":"group/card relative flex h-40 flex-col overflow-hidden rounded-3xl bg-card transition-colors duration-300 ease-[cubic-bezier(0.23,1,0.32,1)] contain-[paint] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-background","children":[["$","div",null,{"className":"flex shrink-0 items-center justify-between gap-3 px-4 py-3","children":[["$","h3",null,{"className":"truncate font-pixel text-base font-medium text-foreground","children":"Marquee"}],["$","div",null,{"className":"flex shrink-0 items-center gap-1.5","children":[null,["$","span",null,{"className":"inline-flex shrink-0 items-center gap-1 rounded-full border border-border bg-foreground/[0.06] px-1.5 py-0.5 text-[10px] font-semibold uppercase leading-none text-foreground/70","children":[["$","span",null,{"className":"h-1 w-1 rounded-full bg-foreground/50"}],"Motion"]}]]}]]}],["$","div",null,{"className":"mx-2 mb-2 flex min-h-0 flex-1 items-start overflow-hidden rounded-3xl bg-background px-4 py-4 transition-colors duration-300 ease-[cubic-bezier(0.23,1,0.32,1)] group-hover/card:bg-background/80 group-focus-visible/card:bg-background/80","children":["$","p",null,{"className":"line-clamp-3 text-sm leading-relaxed text-muted-foreground","children":"Infinite horizontal or vertical scroll with pause-on-hover."}]}]]}]
 1b:["$","section",null,{"className":"mt-12 border-t border-border pt-8","children":[["$","h2",null,{"className":"text-sm font-semibold text-foreground","children":"Keep in mind"}],["$","p",null,{"className":"mt-2 max-w-2xl text-sm leading-6 text-muted-foreground","children":["Some components on this site are inspired by or recreated from existing work across the web. I'm not here to take credit; just to learn, experiment, and sometimes push things a bit further. If something looks familiar and I forgot to mention you,"," ",["$","$L11",null,{"href":"https://x.com/saurra3h","target":"_blank","rel":"noreferrer noopener","className":"text-foreground underline-offset-2 hover:underline","children":"reach out"}]," ","and I'll fix that right away."]}]]}]
-1c:I[51346,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-a427097475e7aa1f.js"],"ThemeProvider"]
-1d:I[22777,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-a427097475e7aa1f.js"],"PreferencesProvider"]
-1e:I[4675,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-a427097475e7aa1f.js"],"AuthProvider"]
-1f:I[86752,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-a427097475e7aa1f.js"],"ReferralProvider"]
-20:I[51461,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-a427097475e7aa1f.js"],"ReferralTracker"]
-21:I[18136,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-a427097475e7aa1f.js"],"KeyboardShortcuts"]
-22:I[61222,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-a427097475e7aa1f.js"],"SiteHeader"]
-23:I[99326,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-a427097475e7aa1f.js"],"SiteFrame"]
+1c:I[51346,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-e96f82dbd78dec78.js"],"ThemeProvider"]
+1d:I[22777,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-e96f82dbd78dec78.js"],"PreferencesProvider"]
+1e:I[4675,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-e96f82dbd78dec78.js"],"AuthProvider"]
+1f:I[86752,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-e96f82dbd78dec78.js"],"ReferralProvider"]
+20:I[51461,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-e96f82dbd78dec78.js"],"ReferralTracker"]
+21:I[18136,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-e96f82dbd78dec78.js"],"KeyboardShortcuts"]
+22:I[61222,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-e96f82dbd78dec78.js"],"SiteHeader"]
+23:I[99326,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-e96f82dbd78dec78.js"],"SiteFrame"]
 24:I[44769,["8466","static/chunks/8466-6d72020e6b5c533f.js","4345","static/chunks/app/not-found-dca23dbcd332e0d8.js"],"NotFoundGlitch"]
-25:I[31992,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-a427097475e7aa1f.js"],"SiteDock"]
-26:I[41042,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-a427097475e7aa1f.js"],"MorphPanel"]
-27:I[74080,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-a427097475e7aa1f.js"],"PreferencesPanel"]
-28:I[83471,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-a427097475e7aa1f.js"],"AuthModal"]
-29:I[59644,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-a427097475e7aa1f.js"],"ReferralsDialog"]
+25:I[31992,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-e96f82dbd78dec78.js"],"SiteDock"]
+26:I[41042,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-e96f82dbd78dec78.js"],"MorphPanel"]
+27:I[74080,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-e96f82dbd78dec78.js"],"PreferencesPanel"]
+28:I[83471,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-e96f82dbd78dec78.js"],"AuthModal"]
+29:I[59644,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4463","static/chunks/4463-cf0c1e2a7be55eb1.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","7177","static/chunks/app/layout-e96f82dbd78dec78.js"],"ReferralsDialog"]
 2:["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"__variable_f367f3 __variable_3c557b __variable_84fa68 __variable_dd5b2f __variable_744198 __variable_646807","children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"document.documentElement.dataset.theme=\"blood-orange\";"}}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/kinetic-mark.svg"}],["$","link",null,{"rel":"icon","type":"image/png","href":"/kinetic-mark.png","sizes":"32x32"}],["$","link",null,{"rel":"alternate","type":"text/plain","title":"llms.txt","href":"/llms.txt"}],["$","link",null,{"rel":"alternate","type":"application/json","title":"Component registry","href":"/r"}],["$","link",null,{"rel":"alternate","type":"application/json","title":"shadcn registry","href":"/registry.json"}]]}],["$","body",null,{"className":"min-h-screen antialiased","children":[[["$","script","0",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"@id\":\"https://beui.dev/#website\",\"url\":\"https://beui.dev\",\"name\":\"Kinetic UI\",\"description\":\"The UI component toolkit for React and Next.js. Free, open-source, shadcn-compatible components built on Framer Motion and Tailwind CSS. Copy-paste the source or install with the shadcn CLI.\",\"inLanguage\":\"en\",\"publisher\":{\"@id\":\"https://beui.dev/#org\"}}"}}],["$","script","1",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"@id\":\"https://beui.dev/#org\",\"name\":\"Kinetic UI\",\"url\":\"https://beui.dev\",\"slogan\":\"The UI component toolkit for React & Next.js\",\"logo\":\"https://beui.dev/kinetic-mark.png\"}"}}],["$","script","2",{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"@id\":\"https://beui.dev/#app\",\"name\":\"Kinetic UI\",\"alternateName\":\"Kinetic UI component toolkit\",\"slogan\":\"The UI component toolkit for React & Next.js\",\"description\":\"The UI component toolkit for React and Next.js. Free, open-source, shadcn-compatible components built on Framer Motion and Tailwind CSS. Copy-paste the source or install with the shadcn CLI.\",\"url\":\"https://beui.dev\",\"applicationCategory\":\"DeveloperApplication\",\"operatingSystem\":\"Web\",\"author\":{\"@type\":\"Person\",\"name\":\"Saurabh\"},\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\"}}"}}]],["$","$L1c",null,{"children":["$","$L1d",null,{"children":[["$","$L1e",null,{"children":["$","$L1f",null,{"children":[["$","$d",null,{"fallback":null,"children":["$","$L20",null,{}]}],["$","$L21",null,{}],["$","$L22",null,{"githubStarCount":618}],["$","main",null,{"className":"pt-14 pb-32","children":["$","$L23",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L24",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}],["$","$L25",null,{}],["$","div",null,{"className":"pointer-events-none fixed bottom-6 right-6 z-40 flex flex-col items-end justify-end","children":["$","div",null,{"className":"pointer-events-auto","children":["$","$L26",null,{}]}]}],["$","$L27",null,{}],["$","$L28",null,{}],["$","$L29",null,{}]]}]}],"$undefined","$undefined",null]}]}]]}]]}]
 b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"#fcfcfc"}],["$","meta","3",{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"#151515"}]]
 7:null
@@ -61,42 +61,42 @@ e:"$9:metadata"
 35:I[11647,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","4895","static/chunks/4895-4ae244da783f5a89.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4053","static/chunks/4053-64871e241fdcb0ce.js","2603","static/chunks/2603-37bb9ea2b993420a.js","4672","static/chunks/4672-b095740e8bc22e98.js","8115","static/chunks/8115-9cbbeb773cd45b27.js","9912","static/chunks/9912-d1513d1449eb3677.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","4229","static/chunks/4229-7083e9e0fee6c87f.js","1704","static/chunks/1704-e59cc15ff6163b2c.js","8806","static/chunks/8806-d0e3d7a1a1ea1d0c.js","7343","static/chunks/7343-d3f6eab23b22e0ce.js","3039","static/chunks/3039-eb686823b343fe8e.js","1590","static/chunks/1590-cb822a54a041a5d9.js","6978","static/chunks/6978-af92f1b9e884bb0b.js","8863","static/chunks/8863-b42f8c5815c9b07e.js","1089","static/chunks/1089-516d816099aaa60e.js","9959","static/chunks/9959-0a657621fc8d47a7.js","1512","static/chunks/1512-9dfa9631de037f0b.js","9680","static/chunks/app/components/%5Bcategory%5D/%5Bslug%5D/page-50ce2b74ceb0cf8c.js"],"PreloadChunks"]
 39:I[61458,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","4895","static/chunks/4895-4ae244da783f5a89.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4053","static/chunks/4053-64871e241fdcb0ce.js","2603","static/chunks/2603-37bb9ea2b993420a.js","4672","static/chunks/4672-b095740e8bc22e98.js","8115","static/chunks/8115-9cbbeb773cd45b27.js","9912","static/chunks/9912-d1513d1449eb3677.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","4229","static/chunks/4229-7083e9e0fee6c87f.js","1704","static/chunks/1704-e59cc15ff6163b2c.js","8806","static/chunks/8806-d0e3d7a1a1ea1d0c.js","7343","static/chunks/7343-d3f6eab23b22e0ce.js","3039","static/chunks/3039-eb686823b343fe8e.js","1590","static/chunks/1590-cb822a54a041a5d9.js","6978","static/chunks/6978-af92f1b9e884bb0b.js","8863","static/chunks/8863-b42f8c5815c9b07e.js","1089","static/chunks/1089-516d816099aaa60e.js","9959","static/chunks/9959-0a657621fc8d47a7.js","1512","static/chunks/1512-9dfa9631de037f0b.js","9680","static/chunks/app/components/%5Bcategory%5D/%5Bslug%5D/page-50ce2b74ceb0cf8c.js"],"InstallTabs"]
 3a:I[73301,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","4895","static/chunks/4895-4ae244da783f5a89.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4053","static/chunks/4053-64871e241fdcb0ce.js","2603","static/chunks/2603-37bb9ea2b993420a.js","4672","static/chunks/4672-b095740e8bc22e98.js","8115","static/chunks/8115-9cbbeb773cd45b27.js","9912","static/chunks/9912-d1513d1449eb3677.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","4229","static/chunks/4229-7083e9e0fee6c87f.js","1704","static/chunks/1704-e59cc15ff6163b2c.js","8806","static/chunks/8806-d0e3d7a1a1ea1d0c.js","7343","static/chunks/7343-d3f6eab23b22e0ce.js","3039","static/chunks/3039-eb686823b343fe8e.js","1590","static/chunks/1590-cb822a54a041a5d9.js","6978","static/chunks/6978-af92f1b9e884bb0b.js","8863","static/chunks/8863-b42f8c5815c9b07e.js","1089","static/chunks/1089-516d816099aaa60e.js","9959","static/chunks/9959-0a657621fc8d47a7.js","1512","static/chunks/1512-9dfa9631de037f0b.js","9680","static/chunks/app/components/%5Bcategory%5D/%5Bslug%5D/page-50ce2b74ceb0cf8c.js"],"InstallCommand"]
-13:["$","section","data",{"children":[["$","div",null,{"className":"mb-4 flex items-baseline justify-between gap-3","children":[["$","h2",null,{"className":"text-xl font-semibold tracking-tight text-foreground","children":"Data Table"}],["$","code",null,{"className":"rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"index.tsx"}]]}],["$","p",null,{"className":"mb-4 text-sm text-muted-foreground","children":"10k virtualized rows with sortable headers, row selection, column resize and reorder."}],["$","$L31",null,{"defaultValue":"preview","variant":"pill","children":[["$","$L32",null,{"children":[["$","$L33",null,{"value":"preview","children":"Preview"}],["$","$L33",null,{"value":"usage","children":"Usage"}],["$","$L33",null,{"value":"source","children":"Code"}]]}],["$","$L34",null,{"value":"preview","className":"mt-4","children":["$","div",null,{"className":"flex min-h-[260px] items-center justify-center rounded-2xl border border-border bg-card py-10","children":[["$","$L35",null,{"moduleIds":["components/previews/index.tsx -> ./motion/table.preview"]}],"$L36"]}]}],["$","$L34",null,{"value":"usage","className":"mt-4","children":"$L37"}],["$","$L34",null,{"value":"source","className":"mt-4","children":"$L38"}]]}],["$","div",null,{"className":"mt-5 min-w-0 border-t border-border pt-5","children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Install"}],["$","div",null,{"className":"mt-3","children":["$","$L39",null,{"cli":["$","$L3a",null,{"slug":"table"}],"manual":"$L3b"}]}]]}],["$","div",null,{"className":"mt-5 min-w-0 border-t border-border pt-5","children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"API Reference"}],["$","div",null,{"className":"mt-3","children":["$","div",null,{"className":"flex flex-col gap-8","children":[["$","div","Table",{"children":[null,["$","div",null,{"className":"divide-y divide-border rounded-xl border border-border","children":[["$","div","data",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["data",""]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"T[]"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}],["$","div","columns",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["columns",""]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"TableColumn<T>[]"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}],["$","div","getRowId",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["getRowId","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((row: T, index: number) => string)"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Stable id per row, required for correct selection across sorts. Defaults to row index."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}],["$","div","selectable",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":["$L3c","$L3d","$L3e"]}],"$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51","$L52","$L53","$L54","$L55","$L56","$L57"]}]]}]]}]}]]}]]}]
-14:["$","section","editable",{"children":[["$","div",null,{"className":"mb-4 flex items-baseline justify-between gap-3","children":[["$","h2",null,{"className":"text-xl font-semibold tracking-tight text-foreground","children":"Editable Table"}],["$","code",null,{"className":"rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"index.tsx"}]]}],["$","p",null,{"className":"mb-4 text-sm text-muted-foreground","children":"Edit cells inline and insert or delete rows and columns via border handles; the table re-renders from the updated data and column defs."}],["$","$L31",null,{"defaultValue":"preview","variant":"pill","children":[["$","$L32",null,{"children":[["$","$L33",null,{"value":"preview","children":"Preview"}],["$","$L33",null,{"value":"usage","children":"Usage"}],["$","$L33",null,{"value":"source","children":"Code"}]]}],["$","$L34",null,{"value":"preview","className":"mt-4","children":["$","div",null,{"className":"flex min-h-[260px] items-center justify-center rounded-2xl border border-border bg-card py-10","children":[["$","$L35",null,{"moduleIds":["components/previews/index.tsx -> ./motion/table-editable.preview"]}],"$L58"]}]}],["$","$L34",null,{"value":"usage","className":"mt-4","children":"$L59"}],["$","$L34",null,{"value":"source","className":"mt-4","children":"$L5a"}]]}],["$","div",null,{"className":"mt-5 min-w-0 border-t border-border pt-5","children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Install"}],["$","div",null,{"className":"mt-3","children":["$","$L39",null,{"cli":["$","$L3a",null,{"slug":"table-editable"}],"manual":"$L5b"}]}]]}],["$","div",null,{"className":"mt-5 min-w-0 border-t border-border pt-5","children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"API Reference"}],["$","div",null,{"className":"mt-3","children":["$","div",null,{"className":"flex flex-col gap-8","children":[["$","div","Table",{"children":[null,["$","div",null,{"className":"divide-y divide-border rounded-xl border border-border","children":[["$","div","data",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["data",""]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"T[]"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}],["$","div","columns",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["columns",""]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"TableColumn<T>[]"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}],["$","div","getRowId",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["getRowId","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((row: T, index: number) => string)"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Stable id per row, required for correct selection across sorts. Defaults to row index."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}],"$L5c","$L5d","$L5e","$L5f","$L60","$L61","$L62","$L63","$L64","$L65","$L66","$L67","$L68","$L69","$L6a","$L6b","$L6c","$L6d","$L6e","$L6f","$L70","$L71","$L72","$L73","$L74","$L75"]}]]}]]}]}]]}]]}]
+14:["$","section","editable",{"children":[["$","div",null,{"className":"mb-4 flex items-baseline justify-between gap-3","children":[["$","h2",null,{"className":"text-xl font-semibold tracking-tight text-foreground","children":"Editable Table"}],["$","code",null,{"className":"rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"index.tsx"}]]}],["$","p",null,{"className":"mb-4 text-sm text-muted-foreground","children":"Edit cells inline and insert or delete rows and columns via border handles; the table re-renders from the updated data and column defs."}],["$","$L31",null,{"defaultValue":"preview","variant":"pill","children":[["$","$L32",null,{"children":[["$","$L33",null,{"value":"preview","children":"Preview"}],["$","$L33",null,{"value":"usage","children":"Usage"}],["$","$L33",null,{"value":"source","children":"Code"}]]}],["$","$L34",null,{"value":"preview","className":"mt-4","children":["$","div",null,{"className":"flex min-h-[260px] items-center justify-center rounded-2xl border border-border bg-card py-10","children":[["$","$L35",null,{"moduleIds":["components/previews/index.tsx -> ./motion/table-editable.preview"]}],"$L36"]}]}],["$","$L34",null,{"value":"usage","className":"mt-4","children":"$L37"}],["$","$L34",null,{"value":"source","className":"mt-4","children":"$L38"}]]}],["$","div",null,{"className":"mt-5 min-w-0 border-t border-border pt-5","children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Install"}],["$","div",null,{"className":"mt-3","children":["$","$L39",null,{"cli":["$","$L3a",null,{"slug":"table-editable"}],"manual":"$L3b"}]}]]}],["$","div",null,{"className":"mt-5 min-w-0 border-t border-border pt-5","children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"API Reference"}],["$","div",null,{"className":"mt-3","children":["$","div",null,{"className":"flex flex-col gap-8","children":[["$","div","Table",{"children":[null,["$","div",null,{"className":"divide-y divide-border rounded-xl border border-border","children":[["$","div","data",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["data",""]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"T[]"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}],["$","div","columns",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["columns",""]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"TableColumn<T>[]"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}],["$","div","getRowId",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["getRowId","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((row: T, index: number) => string)"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Stable id per row, required for correct selection across sorts. Defaults to row index."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}],"$L3c","$L3d","$L3e","$L3f","$L40","$L41","$L42","$L43","$L44","$L45","$L46","$L47","$L48","$L49","$L4a","$L4b","$L4c","$L4d","$L4e","$L4f","$L50","$L51","$L52","$L53","$L54","$L55"]}]]}]]}]}]]}]]}]
+13:["$","section","data",{"children":[["$","div",null,{"className":"mb-4 flex items-baseline justify-between gap-3","children":[["$","h2",null,{"className":"text-xl font-semibold tracking-tight text-foreground","children":"Data Table"}],["$","code",null,{"className":"rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"index.tsx"}]]}],["$","p",null,{"className":"mb-4 text-sm text-muted-foreground","children":"10k virtualized rows with sortable headers, row selection, column resize and reorder."}],["$","$L31",null,{"defaultValue":"preview","variant":"pill","children":[["$","$L32",null,{"children":[["$","$L33",null,{"value":"preview","children":"Preview"}],["$","$L33",null,{"value":"usage","children":"Usage"}],["$","$L33",null,{"value":"source","children":"Code"}]]}],["$","$L34",null,{"value":"preview","className":"mt-4","children":["$","div",null,{"className":"flex min-h-[260px] items-center justify-center rounded-2xl border border-border bg-card py-10","children":[["$","$L35",null,{"moduleIds":["components/previews/index.tsx -> ./motion/table.preview"]}],"$L56"]}]}],["$","$L34",null,{"value":"usage","className":"mt-4","children":"$L57"}],["$","$L34",null,{"value":"source","className":"mt-4","children":"$L58"}]]}],["$","div",null,{"className":"mt-5 min-w-0 border-t border-border pt-5","children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Install"}],["$","div",null,{"className":"mt-3","children":["$","$L39",null,{"cli":["$","$L3a",null,{"slug":"table"}],"manual":"$L59"}]}]]}],["$","div",null,{"className":"mt-5 min-w-0 border-t border-border pt-5","children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"API Reference"}],["$","div",null,{"className":"mt-3","children":["$","div",null,{"className":"flex flex-col gap-8","children":[["$","div","Table",{"children":[null,["$","div",null,{"className":"divide-y divide-border rounded-xl border border-border","children":[["$","div","data",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["data",""]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"T[]"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}],["$","div","columns",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["columns",""]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"TableColumn<T>[]"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}],["$","div","getRowId",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["getRowId","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((row: T, index: number) => string)"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Stable id per row, required for correct selection across sorts. Defaults to row index."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}],["$","div","selectable",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":["$L5a","$L5b","$L5c"]}],"$L5d","$L5e","$L5f","$L60","$L61","$L62","$L63","$L64","$L65","$L66","$L67","$L68","$L69","$L6a","$L6b","$L6c","$L6d","$L6e","$L6f","$L70","$L71","$L72","$L73","$L74","$L75"]}]]}]]}]}]]}]]}]
 15:["$","section","async",{"children":[["$","div",null,{"className":"mb-4 flex items-baseline justify-between gap-3","children":[["$","h2",null,{"className":"text-xl font-semibold tracking-tight text-foreground","children":"Async Table"}],["$","code",null,{"className":"rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"index.tsx"}]]}],["$","p",null,{"className":"mb-4 text-sm text-muted-foreground","children":"Loads pages on demand — skeleton rows on first load, then infinite scroll via onEndReached as the virtualized list nears the bottom."}],["$","$L31",null,{"defaultValue":"preview","variant":"pill","children":[["$","$L32",null,{"children":[["$","$L33",null,{"value":"preview","children":"Preview"}],["$","$L33",null,{"value":"usage","children":"Usage"}],["$","$L33",null,{"value":"source","children":"Code"}]]}],["$","$L34",null,{"value":"preview","className":"mt-4","children":["$","div",null,{"className":"flex min-h-[260px] items-center justify-center rounded-2xl border border-border bg-card py-10","children":[["$","$L35",null,{"moduleIds":["components/previews/index.tsx -> ./motion/table-async.preview"]}],"$L76"]}]}],["$","$L34",null,{"value":"usage","className":"mt-4","children":"$L77"}],["$","$L34",null,{"value":"source","className":"mt-4","children":"$L78"}]]}],["$","div",null,{"className":"mt-5 min-w-0 border-t border-border pt-5","children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Install"}],["$","div",null,{"className":"mt-3","children":["$","$L39",null,{"cli":["$","$L3a",null,{"slug":"table-async"}],"manual":"$L79"}]}]]}],["$","div",null,{"className":"mt-5 min-w-0 border-t border-border pt-5","children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"API Reference"}],["$","div",null,{"className":"mt-3","children":["$","div",null,{"className":"flex flex-col gap-8","children":[["$","div","Table",{"children":[null,["$","div",null,{"className":"divide-y divide-border rounded-xl border border-border","children":[["$","div","data",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["data",""]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"T[]"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}],["$","div","columns",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["columns",""]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"TableColumn<T>[]"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}],["$","div","getRowId",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["getRowId","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((row: T, index: number) => string)"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Stable id per row, required for correct selection across sorts. Defaults to row index."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}],"$L7a","$L7b","$L7c","$L7d","$L7e","$L7f","$L80","$L81","$L82","$L83","$L84","$L85","$L86","$L87","$L88","$L89","$L8a","$L8b","$L8c","$L8d","$L8e","$L8f","$L90","$L91","$L92","$L93"]}]]}]]}]}]]}]]}]
-94:I[98143,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","4895","static/chunks/4895-4ae244da783f5a89.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4053","static/chunks/4053-64871e241fdcb0ce.js","2603","static/chunks/2603-37bb9ea2b993420a.js","4672","static/chunks/4672-b095740e8bc22e98.js","8115","static/chunks/8115-9cbbeb773cd45b27.js","9912","static/chunks/9912-d1513d1449eb3677.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","4229","static/chunks/4229-7083e9e0fee6c87f.js","1704","static/chunks/1704-e59cc15ff6163b2c.js","8806","static/chunks/8806-d0e3d7a1a1ea1d0c.js","7343","static/chunks/7343-d3f6eab23b22e0ce.js","3039","static/chunks/3039-eb686823b343fe8e.js","1590","static/chunks/1590-cb822a54a041a5d9.js","6978","static/chunks/6978-af92f1b9e884bb0b.js","8863","static/chunks/8863-b42f8c5815c9b07e.js","1089","static/chunks/1089-516d816099aaa60e.js","9959","static/chunks/9959-0a657621fc8d47a7.js","1512","static/chunks/1512-9dfa9631de037f0b.js","9680","static/chunks/app/components/%5Bcategory%5D/%5Bslug%5D/page-50ce2b74ceb0cf8c.js"],"TablePreview"]
-95:I[20800,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","4895","static/chunks/4895-4ae244da783f5a89.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4053","static/chunks/4053-64871e241fdcb0ce.js","2603","static/chunks/2603-37bb9ea2b993420a.js","4672","static/chunks/4672-b095740e8bc22e98.js","8115","static/chunks/8115-9cbbeb773cd45b27.js","9912","static/chunks/9912-d1513d1449eb3677.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","4229","static/chunks/4229-7083e9e0fee6c87f.js","1704","static/chunks/1704-e59cc15ff6163b2c.js","8806","static/chunks/8806-d0e3d7a1a1ea1d0c.js","7343","static/chunks/7343-d3f6eab23b22e0ce.js","3039","static/chunks/3039-eb686823b343fe8e.js","1590","static/chunks/1590-cb822a54a041a5d9.js","6978","static/chunks/6978-af92f1b9e884bb0b.js","8863","static/chunks/8863-b42f8c5815c9b07e.js","1089","static/chunks/1089-516d816099aaa60e.js","9959","static/chunks/9959-0a657621fc8d47a7.js","1512","static/chunks/1512-9dfa9631de037f0b.js","9680","static/chunks/app/components/%5Bcategory%5D/%5Bslug%5D/page-50ce2b74ceb0cf8c.js"],"TableEditablePreview"]
+94:I[20800,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","4895","static/chunks/4895-4ae244da783f5a89.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4053","static/chunks/4053-64871e241fdcb0ce.js","2603","static/chunks/2603-37bb9ea2b993420a.js","4672","static/chunks/4672-b095740e8bc22e98.js","8115","static/chunks/8115-9cbbeb773cd45b27.js","9912","static/chunks/9912-d1513d1449eb3677.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","4229","static/chunks/4229-7083e9e0fee6c87f.js","1704","static/chunks/1704-e59cc15ff6163b2c.js","8806","static/chunks/8806-d0e3d7a1a1ea1d0c.js","7343","static/chunks/7343-d3f6eab23b22e0ce.js","3039","static/chunks/3039-eb686823b343fe8e.js","1590","static/chunks/1590-cb822a54a041a5d9.js","6978","static/chunks/6978-af92f1b9e884bb0b.js","8863","static/chunks/8863-b42f8c5815c9b07e.js","1089","static/chunks/1089-516d816099aaa60e.js","9959","static/chunks/9959-0a657621fc8d47a7.js","1512","static/chunks/1512-9dfa9631de037f0b.js","9680","static/chunks/app/components/%5Bcategory%5D/%5Bslug%5D/page-50ce2b74ceb0cf8c.js"],"TableEditablePreview"]
+95:I[98143,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","4895","static/chunks/4895-4ae244da783f5a89.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4053","static/chunks/4053-64871e241fdcb0ce.js","2603","static/chunks/2603-37bb9ea2b993420a.js","4672","static/chunks/4672-b095740e8bc22e98.js","8115","static/chunks/8115-9cbbeb773cd45b27.js","9912","static/chunks/9912-d1513d1449eb3677.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","4229","static/chunks/4229-7083e9e0fee6c87f.js","1704","static/chunks/1704-e59cc15ff6163b2c.js","8806","static/chunks/8806-d0e3d7a1a1ea1d0c.js","7343","static/chunks/7343-d3f6eab23b22e0ce.js","3039","static/chunks/3039-eb686823b343fe8e.js","1590","static/chunks/1590-cb822a54a041a5d9.js","6978","static/chunks/6978-af92f1b9e884bb0b.js","8863","static/chunks/8863-b42f8c5815c9b07e.js","1089","static/chunks/1089-516d816099aaa60e.js","9959","static/chunks/9959-0a657621fc8d47a7.js","1512","static/chunks/1512-9dfa9631de037f0b.js","9680","static/chunks/app/components/%5Bcategory%5D/%5Bslug%5D/page-50ce2b74ceb0cf8c.js"],"TablePreview"]
 96:I[58640,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","4895","static/chunks/4895-4ae244da783f5a89.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4053","static/chunks/4053-64871e241fdcb0ce.js","2603","static/chunks/2603-37bb9ea2b993420a.js","4672","static/chunks/4672-b095740e8bc22e98.js","8115","static/chunks/8115-9cbbeb773cd45b27.js","9912","static/chunks/9912-d1513d1449eb3677.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","4229","static/chunks/4229-7083e9e0fee6c87f.js","1704","static/chunks/1704-e59cc15ff6163b2c.js","8806","static/chunks/8806-d0e3d7a1a1ea1d0c.js","7343","static/chunks/7343-d3f6eab23b22e0ce.js","3039","static/chunks/3039-eb686823b343fe8e.js","1590","static/chunks/1590-cb822a54a041a5d9.js","6978","static/chunks/6978-af92f1b9e884bb0b.js","8863","static/chunks/8863-b42f8c5815c9b07e.js","1089","static/chunks/1089-516d816099aaa60e.js","9959","static/chunks/9959-0a657621fc8d47a7.js","1512","static/chunks/1512-9dfa9631de037f0b.js","9680","static/chunks/app/components/%5Bcategory%5D/%5Bslug%5D/page-50ce2b74ceb0cf8c.js"],"TableAsyncPreview"]
 97:I[64949,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","4895","static/chunks/4895-4ae244da783f5a89.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4053","static/chunks/4053-64871e241fdcb0ce.js","2603","static/chunks/2603-37bb9ea2b993420a.js","4672","static/chunks/4672-b095740e8bc22e98.js","8115","static/chunks/8115-9cbbeb773cd45b27.js","9912","static/chunks/9912-d1513d1449eb3677.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","4229","static/chunks/4229-7083e9e0fee6c87f.js","1704","static/chunks/1704-e59cc15ff6163b2c.js","8806","static/chunks/8806-d0e3d7a1a1ea1d0c.js","7343","static/chunks/7343-d3f6eab23b22e0ce.js","3039","static/chunks/3039-eb686823b343fe8e.js","1590","static/chunks/1590-cb822a54a041a5d9.js","6978","static/chunks/6978-af92f1b9e884bb0b.js","8863","static/chunks/8863-b42f8c5815c9b07e.js","1089","static/chunks/1089-516d816099aaa60e.js","9959","static/chunks/9959-0a657621fc8d47a7.js","1512","static/chunks/1512-9dfa9631de037f0b.js","9680","static/chunks/app/components/%5Bcategory%5D/%5Bslug%5D/page-50ce2b74ceb0cf8c.js"],"CopyButton"]
-3c:["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["selectable","?"]}]
-3d:["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"boolean"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Render a leading checkbox column with select-all in the header."}]]}]
-3e:["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"false"}]
-3f:["$","div","selectedRowIds",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["selectedRowIds","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"string[]"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
-40:["$","div","defaultSelectedRowIds",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["defaultSelectedRowIds","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"string[]"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
-41:["$","div","onSelectionChange",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onSelectionChange","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((ids: string[]) => void)"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
-42:["$","div","sort",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["sort","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"SortState | null"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
-43:["$","div","defaultSort",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["defaultSort","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"SortState | null"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"null"}]]}]
-44:["$","div","onSortChange",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onSortChange","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((sort: SortState | null) => void)"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
-45:["$","div","resizable",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["resizable","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"boolean"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Allow dragging the right edge of a header to resize that column."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"false"}]]}]
-46:["$","div","minColumnWidth",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["minColumnWidth","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"number"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Minimum column width in px when resizing."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"64"}]]}]
-47:["$","div","onColumnResize",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onColumnResize","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((key: string, width: number) => void)"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
-48:["$","div","reorderable",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["reorderable","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"boolean"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Allow dragging a header grip to reorder columns."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"false"}]]}]
-49:["$","div","onColumnOrderChange",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onColumnOrderChange","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((keys: string[]) => void)"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
-4a:["$","div","onCellEdit",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onCellEdit","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((rowId: string, columnKey: string, value: string) => void)"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Called when an `editable` cell changes."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
-4b:["$","div","onColumnRename",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onColumnRename","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((columnKey: string, value: string) => void)"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"When set, non-sortable headers become editable inputs for the column name."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
-4c:["$","div","onInsertRow",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onInsertRow","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((index: number, position: InsertPosition) => void)"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Enables the row menu (Insert before / after). Receives the target index."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
-4d:["$","div","onDeleteRow",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onDeleteRow","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((rowId: string, index: number) => void)"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Enables Delete in the row menu."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
-4e:["$","div","onInsertColumn",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onInsertColumn","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((index: number, position: InsertPosition) => void)"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Enables the column menu (Insert before / after). Receives the target column index."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
-4f:["$","div","onDeleteColumn",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onDeleteColumn","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((columnKey: string, index: number) => void)"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Enables Delete in the column menu."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
-50:["$","div","rowHeight",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["rowHeight","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"number"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Fixed row height in px — required for virtualization."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"48"}]]}]
-51:["$","div","height",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["height","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"number"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Scroll viewport height in px."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"440"}]]}]
-52:["$","div","overscan",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["overscan","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"number"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Rows rendered above/below the viewport."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"10"}]]}]
-53:["$","div","onEndReached",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onEndReached","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"(() => void)"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Fires when the viewport scrolls near the bottom — load the next page."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
-54:["$","div","loading",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["loading","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"boolean"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Currently fetching — shows skeleton rows and pauses `onEndReached`."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"false"}]]}]
-55:["$","div","skeletonRows",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["skeletonRows","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"number"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"How many skeleton rows to show while loading more (default 3)."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"3"}]]}]
-56:["$","div","emptyState",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["emptyState","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"ReactNode"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"No data"}]]}]
-57:["$","div","className",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["className","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"string"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
-5c:["$","div","selectable",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["selectable","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"boolean"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Render a leading checkbox column with select-all in the header."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"false"}]]}]
+3c:["$","div","selectable",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["selectable","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"boolean"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Render a leading checkbox column with select-all in the header."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"false"}]]}]
+3d:["$","div","selectedRowIds",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["selectedRowIds","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"string[]"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
+3e:["$","div","defaultSelectedRowIds",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["defaultSelectedRowIds","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"string[]"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
+3f:["$","div","onSelectionChange",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onSelectionChange","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((ids: string[]) => void)"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
+40:["$","div","sort",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["sort","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"SortState | null"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
+41:["$","div","defaultSort",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["defaultSort","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"SortState | null"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"null"}]]}]
+42:["$","div","onSortChange",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onSortChange","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((sort: SortState | null) => void)"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
+43:["$","div","resizable",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["resizable","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"boolean"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Allow dragging the right edge of a header to resize that column."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"false"}]]}]
+44:["$","div","minColumnWidth",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["minColumnWidth","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"number"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Minimum column width in px when resizing."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"64"}]]}]
+45:["$","div","onColumnResize",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onColumnResize","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((key: string, width: number) => void)"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
+46:["$","div","reorderable",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["reorderable","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"boolean"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Allow dragging a header grip to reorder columns."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"false"}]]}]
+47:["$","div","onColumnOrderChange",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onColumnOrderChange","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((keys: string[]) => void)"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
+48:["$","div","onCellEdit",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onCellEdit","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((rowId: string, columnKey: string, value: string) => void)"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Called when an `editable` cell changes."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
+49:["$","div","onColumnRename",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onColumnRename","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((columnKey: string, value: string) => void)"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"When set, non-sortable headers become editable inputs for the column name."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
+4a:["$","div","onInsertRow",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onInsertRow","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((index: number, position: InsertPosition) => void)"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Enables the row menu (Insert before / after). Receives the target index."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
+4b:["$","div","onDeleteRow",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onDeleteRow","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((rowId: string, index: number) => void)"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Enables Delete in the row menu."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
+4c:["$","div","onInsertColumn",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onInsertColumn","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((index: number, position: InsertPosition) => void)"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Enables the column menu (Insert before / after). Receives the target column index."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
+4d:["$","div","onDeleteColumn",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onDeleteColumn","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((columnKey: string, index: number) => void)"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Enables Delete in the column menu."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
+4e:["$","div","rowHeight",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["rowHeight","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"number"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Fixed row height in px — required for virtualization."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"48"}]]}]
+4f:["$","div","height",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["height","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"number"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Scroll viewport height in px."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"440"}]]}]
+50:["$","div","overscan",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["overscan","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"number"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Rows rendered above/below the viewport."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"10"}]]}]
+51:["$","div","onEndReached",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onEndReached","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"(() => void)"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Fires when the viewport scrolls near the bottom — load the next page."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
+52:["$","div","loading",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["loading","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"boolean"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Currently fetching — shows skeleton rows and pauses `onEndReached`."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"false"}]]}]
+53:["$","div","skeletonRows",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["skeletonRows","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"number"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"How many skeleton rows to show while loading more (default 3)."}]]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"3"}]]}]
+54:["$","div","emptyState",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["emptyState","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"ReactNode"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"No data"}]]}]
+55:["$","div","className",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["className","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"string"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
+5a:["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["selectable","?"]}]
+5b:["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"boolean"}],["$","p",null,{"className":"mt-1.5 text-sm text-muted-foreground","children":"Render a leading checkbox column with select-all in the header."}]]}]
+5c:["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"false"}]
 5d:["$","div","selectedRowIds",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["selectedRowIds","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"string[]"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
 5e:["$","div","defaultSelectedRowIds",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["defaultSelectedRowIds","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"string[]"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
 5f:["$","div","onSelectionChange",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["onSelectionChange","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"((ids: string[]) => void)"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
@@ -149,149 +149,145 @@ e:"$9:metadata"
 92:["$","div","emptyState",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["emptyState","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"ReactNode"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"No data"}]]}]
 93:["$","div","className",{"className":"grid grid-cols-1 gap-2 px-4 py-3 sm:grid-cols-[140px_minmax(0,1fr)_100px] sm:gap-4","children":[["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-foreground","children":["className","?"]}],["$","div",null,{"className":"min-w-0","children":[["$","code",null,{"className":"w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground","children":"string"}],null]}],["$","code",null,{"className":"h-fit w-fit rounded-md bg-foreground/5 px-2 py-0.5 font-mono text-[11px] text-muted-foreground sm:justify-self-end","children":"—"}]]}]
 36:["$","$L94",null,{}]
-58:["$","$L95",null,{}]
+56:["$","$L95",null,{}]
 76:["$","$L96",null,{}]
-98:Tda4,"use client";
+98:T1081,"use client";
 
-import { useMemo, useState } from "react";
+import { useCallback, useMemo, useState } from "react";
+import { Switch } from "@/components/motion/switch";
 import { Table, type TableColumn } from "@/components/motion/table";
-import { cn } from "@/lib/utils";
 
-type Person = {
-  id: string;
-  name: string;
-  email: string;
-  role: string;
-  status: "active" | "invited" | "suspended";
-  mrr: number;
-};
+type Row = { id: string; [key: string]: string };
 
-const FIRST = [
-  "Ava",
-  "Leo",
-  "Mia",
-  "Kai",
-  "Zoe",
-  "Eli",
-  "Noa",
-  "Ren",
-  "Ivy",
-  "Jude",
+const INITIAL_ROWS: Row[] = [
+  { id: "r1", name: "Ava Cole", role: "Owner", team: "Design" },
+  { id: "r2", name: "Leo Frost", role: "Admin", team: "Growth" },
+  { id: "r3", name: "Mia Vale", role: "Member", team: "Design" },
+  { id: "r4", name: "Kai Reyes", role: "Member", team: "Platform" },
 ];
-const LAST = [
-  "Cole",
-  "Frost",
-  "Vale",
-  "Reyes",
-  "Okafor",
-  "Sato",
-  "Lund",
-  "Marsh",
-  "Bose",
-  "Quinn",
-];
-const ROLES = ["Owner", "Admin", "Member", "Viewer"];
-const STATUSES: Person["status"][] = ["active", "invited", "suspended"];
 
-// Deterministic so SSR and client render the same rows (no hydration drift).
-function buildPeople(count: number): Person[] {
-  const out: Person[] = [];
-  for (let i = 0; i < count; i++) {
-    const first = FIRST[i % FIRST.length];
-    const last = LAST[(i * 7) % LAST.length];
-    out.push({
-      id: String(i),
-      name: `${first} ${last}`,
-      email: `${first.toLowerCase()}.${last.toLowerCase()}${i}@beui.dev`,
-      role: ROLES[(i * 3) % ROLES.length],
-      status: STATUSES[(i * 5) % STATUSES.length],
-      mrr: 12 + ((i * 37) % 488),
-    });
-  }
-  return out;
-}
+export function TableEditablePreview() {
+  const [rows, setRows] = useState<Row[]>(INITIAL_ROWS);
+  const [keys, setKeys] = useState<string[]>(["name", "role", "team"]);
+  const [labels, setLabels] = useState<Record<string, string>>({
+    name: "Name",
+    role: "Role",
+    team: "Team",
+  });
+  const [nextRow, setNextRow] = useState(5);
+  const [nextCol, setNextCol] = useState(1);
+  const [editable, setEditable] = useState(true);
 
-const STATUS_STYLES: Record<Person["status"], string> = {
-  active: "bg-emerald-500/10 text-emerald-600 dark:text-emerald-400",
-  invited: "bg-amber-500/10 text-amber-600 dark:text-amber-400",
-  suspended: "bg-rose-500/10 text-rose-600 dark:text-rose-400",
-};
-
-function StatusBadge({ status }: { status: Person["status"] }) {
-  return (
-    <span
-      className={cn(
-        "rounded-full px-2 py-0.5 font-medium text-xs capitalize",
-        STATUS_STYLES[status],
-      )}
-    >
-      {status}
-    </span>
-  );
-}
-
-export function TablePreview() {
-  const data = useMemo(() => buildPeople(10_000), []);
-  const [selected, setSelected] = useState<string[]>([]);
-
-  const columns = useMemo<TableColumn<Person>[]>(
-    () => [
-      {
-        key: "name",
-        header: "Name",
-        sortable: true,
-        width: "1.4fr",
-        cell: (row) => <span className="font-medium">{row.name}</span>,
-      },
-      { key: "email", header: "Email", width: "1.8fr" },
-      { key: "role", header: "Role", sortable: true, width: "120px" },
-      {
-        key: "status",
-        header: "Status",
-        width: "130px",
-        cell: (row) => <StatusBadge status={row.status} />,
-      },
-      {
-        key: "mrr",
-        header: "MRR",
-        sortable: true,
-        align: "right",
-        width: "110px",
-        cell: (row) => (
-          <span className="tabular-nums">${row.mrr.toLocaleString()}</span>
-        ),
-      },
-    ],
+  const onCellEdit = useCallback(
+    (rowId: string, key: string, value: string) => {
+      setRows((prev) =>
+        prev.map((row) => (row.id === rowId ? { ...row, [key]: value } : row)),
+      );
+    },
     [],
   );
 
+  const onInsertRow = useCallback(
+    (index: number, position: "before" | "after") => {
+      const at = position === "after" ? index + 1 : index;
+      setRows((prev) => {
+        const next = [...prev];
+        next.splice(at, 0, { id: `r${nextRow}` });
+        return next;
+      });
+      setNextRow((n) => n + 1);
+    },
+    [nextRow],
+  );
+
+  const onDeleteRow = useCallback((rowId: string) => {
+    setRows((prev) => prev.filter((row) => row.id !== rowId));
+  }, []);
+
+  const onInsertColumn = useCallback(
+    (index: number, position: "before" | "after") => {
+      const key = `field${nextCol}`;
+      const at = position === "after" ? index + 1 : index;
+      setLabels((prev) => ({ ...prev, [key]: `Field ${nextCol}` }));
+      setKeys((prev) => {
+        const next = [...prev];
+        next.splice(at, 0, key);
+        return next;
+      });
+      setRows((prev) => prev.map((row) => ({ ...row, [key]: "" })));
+      setNextCol((n) => n + 1);
+    },
+    [nextCol],
+  );
+
+  const onColumnRename = useCallback((key: string, value: string) => {
+    setLabels((prev) => ({ ...prev, [key]: value }));
+  }, []);
+
+  const onDeleteColumn = useCallback((key: string) => {
+    setKeys((prev) => prev.filter((k) => k !== key));
+    setRows((prev) =>
+      prev.map((row) => {
+        const next = { ...row };
+        delete next[key];
+        return next;
+      }),
+    );
+  }, []);
+
+  const columns = useMemo<TableColumn<Row>[]>(
+    () =>
+      keys.map((key, i) => ({
+        key,
+        header: labels[key] ?? key,
+        editable,
+        width: i === 0 ? undefined : "180px",
+      })),
+    [keys, labels, editable],
+  );
+
+  const bodyHeight = Math.min(Math.max(rows.length, 1), 6) * 48;
+
   return (
-    <div className="flex w-full justify-center p-4">
-      <div className="flex w-full flex-col gap-2">
-        <div className="flex items-center justify-between px-1 text-muted-foreground text-xs">
-          <span>{data.length.toLocaleString()} rows</span>
-          {selected.length > 0 ? (
-            <span>{selected.length.toLocaleString()} selected</span>
-          ) : null}
-        </div>
-        <Table
-          data={data}
-          columns={columns}
-          selectable
-          resizable
-          reorderable
-          selectedRowIds={selected}
-          onSelectionChange={setSelected}
-          defaultSort={{ key: "mrr", direction: "desc" }}
-          height={420}
-          rowHeight={52}
-          className="rounded-2xl"
+    <div className="flex w-full flex-col gap-3 p-4">
+      <div className="flex items-center justify-between">
+        <p className="text-muted-foreground text-xs">
+          {editable
+            ? "Click a cell to edit. Use the column and row handles to insert or delete."
+            : "Read-only."}
+        </p>
+        <Switch
+          checked={editable}
+          onCheckedChange={setEditable}
+          label="Editable"
         />
       </div>
+      <Table
+        data={rows}
+        columns={columns}
+        getRowId={(row) => row.id}
+        rowHeight={48}
+        height={bodyHeight}
+        onCellEdit={editable ? onCellEdit : undefined}
+        onColumnRename={editable ? onColumnRename : undefined}
+        onInsertRow={editable ? onInsertRow : undefined}
+        onDeleteRow={editable ? onDeleteRow : undefined}
+        onInsertColumn={editable ? onInsertColumn : undefined}
+        onDeleteColumn={editable ? onDeleteColumn : undefined}
+        emptyState={
+          <button
+            type="button"
+            onClick={() => onInsertRow(0, "before")}
+            className="rounded-full border border-border px-3 py-1.5 font-medium text-foreground text-xs transition-colors hover:bg-muted"
+          >
+            Insert first row
+          </button>
+        }
+      />
     </div>
   );
 }
-37:["$","div",null,{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":[["path",{"d":"M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z","key":"1oefj6"}],["path",{"d":"M14 2v5a1 1 0 0 0 1 1h5","key":"wfsgrz"}]],"className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/previews/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"table.preview.tsx"}]]}]]}],["$","$L97",null,{"text":"$98","eventLabel":"components/previews/motion/table.preview.tsx"}]]}],"$L99"]}]
+37:["$","div",null,{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":[["path",{"d":"M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z","key":"1oefj6"}],["path",{"d":"M14 2v5a1 1 0 0 0 1 1h5","key":"wfsgrz"}]],"className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/previews/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"table-editable.preview.tsx"}]]}]]}],["$","$L97",null,{"text":"$98","eventLabel":"components/previews/motion/table-editable.preview.tsx"}]]}],"$L99"]}]
 9a:T2eed,"use client";
 // beui.dev/components/motion/table
 
@@ -642,143 +638,147 @@ export function Table<T>({
   );
 }
 38:["$","div",null,{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"index.tsx"}]]}]]}],["$","$L97",null,{"text":"$9a","eventLabel":"components/motion/table/index.tsx"}]]}],"$L9b"]}]
-9c:T1081,"use client";
+9c:Tda4,"use client";
 
-import { useCallback, useMemo, useState } from "react";
-import { Switch } from "@/components/motion/switch";
+import { useMemo, useState } from "react";
 import { Table, type TableColumn } from "@/components/motion/table";
+import { cn } from "@/lib/utils";
 
-type Row = { id: string; [key: string]: string };
+type Person = {
+  id: string;
+  name: string;
+  email: string;
+  role: string;
+  status: "active" | "invited" | "suspended";
+  mrr: number;
+};
 
-const INITIAL_ROWS: Row[] = [
-  { id: "r1", name: "Ava Cole", role: "Owner", team: "Design" },
-  { id: "r2", name: "Leo Frost", role: "Admin", team: "Growth" },
-  { id: "r3", name: "Mia Vale", role: "Member", team: "Design" },
-  { id: "r4", name: "Kai Reyes", role: "Member", team: "Platform" },
+const FIRST = [
+  "Ava",
+  "Leo",
+  "Mia",
+  "Kai",
+  "Zoe",
+  "Eli",
+  "Noa",
+  "Ren",
+  "Ivy",
+  "Jude",
 ];
+const LAST = [
+  "Cole",
+  "Frost",
+  "Vale",
+  "Reyes",
+  "Okafor",
+  "Sato",
+  "Lund",
+  "Marsh",
+  "Bose",
+  "Quinn",
+];
+const ROLES = ["Owner", "Admin", "Member", "Viewer"];
+const STATUSES: Person["status"][] = ["active", "invited", "suspended"];
 
-export function TableEditablePreview() {
-  const [rows, setRows] = useState<Row[]>(INITIAL_ROWS);
-  const [keys, setKeys] = useState<string[]>(["name", "role", "team"]);
-  const [labels, setLabels] = useState<Record<string, string>>({
-    name: "Name",
-    role: "Role",
-    team: "Team",
-  });
-  const [nextRow, setNextRow] = useState(5);
-  const [nextCol, setNextCol] = useState(1);
-  const [editable, setEditable] = useState(true);
+// Deterministic so SSR and client render the same rows (no hydration drift).
+function buildPeople(count: number): Person[] {
+  const out: Person[] = [];
+  for (let i = 0; i < count; i++) {
+    const first = FIRST[i % FIRST.length];
+    const last = LAST[(i * 7) % LAST.length];
+    out.push({
+      id: String(i),
+      name: `${first} ${last}`,
+      email: `${first.toLowerCase()}.${last.toLowerCase()}${i}@beui.dev`,
+      role: ROLES[(i * 3) % ROLES.length],
+      status: STATUSES[(i * 5) % STATUSES.length],
+      mrr: 12 + ((i * 37) % 488),
+    });
+  }
+  return out;
+}
 
-  const onCellEdit = useCallback(
-    (rowId: string, key: string, value: string) => {
-      setRows((prev) =>
-        prev.map((row) => (row.id === rowId ? { ...row, [key]: value } : row)),
-      );
-    },
+const STATUS_STYLES: Record<Person["status"], string> = {
+  active: "bg-emerald-500/10 text-emerald-600 dark:text-emerald-400",
+  invited: "bg-amber-500/10 text-amber-600 dark:text-amber-400",
+  suspended: "bg-rose-500/10 text-rose-600 dark:text-rose-400",
+};
+
+function StatusBadge({ status }: { status: Person["status"] }) {
+  return (
+    <span
+      className={cn(
+        "rounded-full px-2 py-0.5 font-medium text-xs capitalize",
+        STATUS_STYLES[status],
+      )}
+    >
+      {status}
+    </span>
+  );
+}
+
+export function TablePreview() {
+  const data = useMemo(() => buildPeople(10_000), []);
+  const [selected, setSelected] = useState<string[]>([]);
+
+  const columns = useMemo<TableColumn<Person>[]>(
+    () => [
+      {
+        key: "name",
+        header: "Name",
+        sortable: true,
+        width: "1.4fr",
+        cell: (row) => <span className="font-medium">{row.name}</span>,
+      },
+      { key: "email", header: "Email", width: "1.8fr" },
+      { key: "role", header: "Role", sortable: true, width: "120px" },
+      {
+        key: "status",
+        header: "Status",
+        width: "130px",
+        cell: (row) => <StatusBadge status={row.status} />,
+      },
+      {
+        key: "mrr",
+        header: "MRR",
+        sortable: true,
+        align: "right",
+        width: "110px",
+        cell: (row) => (
+          <span className="tabular-nums">${row.mrr.toLocaleString()}</span>
+        ),
+      },
+    ],
     [],
   );
 
-  const onInsertRow = useCallback(
-    (index: number, position: "before" | "after") => {
-      const at = position === "after" ? index + 1 : index;
-      setRows((prev) => {
-        const next = [...prev];
-        next.splice(at, 0, { id: `r${nextRow}` });
-        return next;
-      });
-      setNextRow((n) => n + 1);
-    },
-    [nextRow],
-  );
-
-  const onDeleteRow = useCallback((rowId: string) => {
-    setRows((prev) => prev.filter((row) => row.id !== rowId));
-  }, []);
-
-  const onInsertColumn = useCallback(
-    (index: number, position: "before" | "after") => {
-      const key = `field${nextCol}`;
-      const at = position === "after" ? index + 1 : index;
-      setLabels((prev) => ({ ...prev, [key]: `Field ${nextCol}` }));
-      setKeys((prev) => {
-        const next = [...prev];
-        next.splice(at, 0, key);
-        return next;
-      });
-      setRows((prev) => prev.map((row) => ({ ...row, [key]: "" })));
-      setNextCol((n) => n + 1);
-    },
-    [nextCol],
-  );
-
-  const onColumnRename = useCallback((key: string, value: string) => {
-    setLabels((prev) => ({ ...prev, [key]: value }));
-  }, []);
-
-  const onDeleteColumn = useCallback((key: string) => {
-    setKeys((prev) => prev.filter((k) => k !== key));
-    setRows((prev) =>
-      prev.map((row) => {
-        const next = { ...row };
-        delete next[key];
-        return next;
-      }),
-    );
-  }, []);
-
-  const columns = useMemo<TableColumn<Row>[]>(
-    () =>
-      keys.map((key, i) => ({
-        key,
-        header: labels[key] ?? key,
-        editable,
-        width: i === 0 ? undefined : "180px",
-      })),
-    [keys, labels, editable],
-  );
-
-  const bodyHeight = Math.min(Math.max(rows.length, 1), 6) * 48;
-
   return (
-    <div className="flex w-full flex-col gap-3 p-4">
-      <div className="flex items-center justify-between">
-        <p className="text-muted-foreground text-xs">
-          {editable
-            ? "Click a cell to edit. Use the column and row handles to insert or delete."
-            : "Read-only."}
-        </p>
-        <Switch
-          checked={editable}
-          onCheckedChange={setEditable}
-          label="Editable"
+    <div className="flex w-full justify-center p-4">
+      <div className="flex w-full flex-col gap-2">
+        <div className="flex items-center justify-between px-1 text-muted-foreground text-xs">
+          <span>{data.length.toLocaleString()} rows</span>
+          {selected.length > 0 ? (
+            <span>{selected.length.toLocaleString()} selected</span>
+          ) : null}
+        </div>
+        <Table
+          data={data}
+          columns={columns}
+          selectable
+          resizable
+          reorderable
+          selectedRowIds={selected}
+          onSelectionChange={setSelected}
+          defaultSort={{ key: "mrr", direction: "desc" }}
+          height={420}
+          rowHeight={52}
+          className="rounded-2xl"
         />
       </div>
-      <Table
-        data={rows}
-        columns={columns}
-        getRowId={(row) => row.id}
-        rowHeight={48}
-        height={bodyHeight}
-        onCellEdit={editable ? onCellEdit : undefined}
-        onColumnRename={editable ? onColumnRename : undefined}
-        onInsertRow={editable ? onInsertRow : undefined}
-        onDeleteRow={editable ? onDeleteRow : undefined}
-        onInsertColumn={editable ? onInsertColumn : undefined}
-        onDeleteColumn={editable ? onDeleteColumn : undefined}
-        emptyState={
-          <button
-            type="button"
-            onClick={() => onInsertRow(0, "before")}
-            className="rounded-full border border-border px-3 py-1.5 font-medium text-foreground text-xs transition-colors hover:bg-muted"
-          >
-            Insert first row
-          </button>
-        }
-      />
     </div>
   );
 }
-59:["$","div",null,{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/previews/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"table-editable.preview.tsx"}]]}]]}],["$","$L97",null,{"text":"$9c","eventLabel":"components/previews/motion/table-editable.preview.tsx"}]]}],"$L9d"]}]
+57:["$","div",null,{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/previews/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"table.preview.tsx"}]]}]]}],["$","$L97",null,{"text":"$9c","eventLabel":"components/previews/motion/table.preview.tsx"}]]}],"$L9d"]}]
 9e:T2eed,"use client";
 // beui.dev/components/motion/table
 
@@ -1128,7 +1128,7 @@ export function Table<T>({
     </div>
   );
 }
-5a:["$","div",null,{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"index.tsx"}]]}]]}],["$","$L97",null,{"text":"$9e","eventLabel":"components/motion/table/index.tsx"}]]}],"$L9f"]}]
+58:["$","div",null,{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"index.tsx"}]]}]]}],["$","$L97",null,{"text":"$9e","eventLabel":"components/motion/table/index.tsx"}]]}],"$L9f"]}]
 a0:Tefe,"use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
@@ -1611,143 +1611,139 @@ export function Table<T>({
 }
 78:["$","div",null,{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"index.tsx"}]]}]]}],["$","$L97",null,{"text":"$a2","eventLabel":"components/motion/table/index.tsx"}]]}],"$La3"]}]
 a4:I[78590,["8466","static/chunks/8466-6d72020e6b5c533f.js","5328","static/chunks/5328-c764be5a3f217285.js","9706","static/chunks/9706-a4a23d353f619dcb.js","4895","static/chunks/4895-4ae244da783f5a89.js","3127","static/chunks/3127-4e7a70c50ce6fffa.js","4053","static/chunks/4053-64871e241fdcb0ce.js","2603","static/chunks/2603-37bb9ea2b993420a.js","4672","static/chunks/4672-b095740e8bc22e98.js","8115","static/chunks/8115-9cbbeb773cd45b27.js","9912","static/chunks/9912-d1513d1449eb3677.js","613","static/chunks/613-f3ffcc1f062928e2.js","38","static/chunks/38-e0b89ae1566342a6.js","4229","static/chunks/4229-7083e9e0fee6c87f.js","1704","static/chunks/1704-e59cc15ff6163b2c.js","8806","static/chunks/8806-d0e3d7a1a1ea1d0c.js","7343","static/chunks/7343-d3f6eab23b22e0ce.js","3039","static/chunks/3039-eb686823b343fe8e.js","1590","static/chunks/1590-cb822a54a041a5d9.js","6978","static/chunks/6978-af92f1b9e884bb0b.js","8863","static/chunks/8863-b42f8c5815c9b07e.js","1089","static/chunks/1089-516d816099aaa60e.js","9959","static/chunks/9959-0a657621fc8d47a7.js","1512","static/chunks/1512-9dfa9631de037f0b.js","9680","static/chunks/app/components/%5Bcategory%5D/%5Bslug%5D/page-50ce2b74ceb0cf8c.js"],"ExpandableCode"]
-a5:Ta3a3,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+a5:Tc8f5,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { useMemo, useState } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { useCallback, useMemo, useState } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { Switch } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "@/components/motion/switch"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { Table, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> TableColumn } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "@/components/motion/table"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { cn } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "@/lib/utils"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Person</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  id</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  name</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  email</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  role</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  status</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "active"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "invited"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "suspended"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  mrr</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> number</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">};</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Row</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">id</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">; [</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">key</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">]</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> };</span></span>
 <span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> FIRST</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Ava"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Leo"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Mia"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Kai"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Zoe"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Eli"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Noa"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Ren"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Ivy"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Jude"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> INITIAL_ROWS</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  { id: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"r1"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, name: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Ava Cole"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, role: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Owner"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, team: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Design"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> },</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  { id: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"r2"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, name: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Leo Frost"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, role: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Admin"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, team: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Growth"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> },</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  { id: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"r3"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, name: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Mia Vale"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, role: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Member"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, team: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Design"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> },</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  { id: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"r4"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, name: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Kai Reyes"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, role: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Member"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, team: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Platform"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> },</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">];</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> LAST</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Cole"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Frost"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Vale"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Reyes"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Okafor"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Sato"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Lund"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Marsh"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Bose"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Quinn"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">];</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> ROLES</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Owner"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Admin"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Member"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Viewer"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">];</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> STATUSES</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Person</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"status"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">][] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"active"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"invited"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"suspended"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">];</span></span>
 <span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// Deterministic so SSR and client render the same rows (no hydration drift).</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> buildPeople</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">count</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> number</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">)</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Person</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[] {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> out</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Person</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [];</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  for</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">let</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> i </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">; i </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">&#x3C;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> count; i</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">++</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> first</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> FIRST</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[i </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">%</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> FIRST</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">length</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">];</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> last</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> LAST</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[(i </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">*</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 7</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">%</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> LAST</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">length</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">];</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    out.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">push</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">({</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      id: </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">String</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(i),</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      name: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">`${</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">first</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">} ${</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">last</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">}`</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      email: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">`${</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">first</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">toLowerCase</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">()</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">}.${</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">last</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">toLowerCase</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">()</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">}${</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">i</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">}@beui.dev`</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      role: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">ROLES</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[(i </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">*</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">%</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> ROLES</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">length</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">],</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      status: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">STATUSES</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[(i </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">*</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 5</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">%</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> STATUSES</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">length</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">],</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      mrr: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">12</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> +</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ((i </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">*</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 37</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">%</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 488</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">),</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    });</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  }</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> out;</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TableEditablePreview</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">() {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">rows</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">setRows</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useState</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">Row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[]>(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">INITIAL_ROWS</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">keys</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">setKeys</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useState</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[]>([</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"name"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"role"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"team"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">]);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">labels</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">setLabels</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useState</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">Record</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>>({</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    name: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Name"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    role: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Role"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    team: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Team"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  });</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">nextRow</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">setNextRow</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useState</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">5</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">nextCol</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">setNextCol</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useState</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">editable</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">setEditable</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useState</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">true</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
 <span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> STATUS_STYLES</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Record</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">Person</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"status"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">], </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">> </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  active: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"bg-emerald-500/10 text-emerald-600 dark:text-emerald-400"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  invited: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"bg-amber-500/10 text-amber-600 dark:text-amber-400"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  suspended: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"bg-rose-500/10 text-rose-600 dark:text-rose-400"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">};</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> StatusBadge</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">({ </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">status</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> }</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">status</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Person</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"status"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] }) {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">span</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">cn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">        "rounded-full px-2 py-0.5 font-medium text-xs capitalize"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">        STATUS_STYLES</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[status],</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      )}</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    ></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      {status}</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">span</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TablePreview</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">() {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> data</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useMemo</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(() </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> buildPeople</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">10_000</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">), []);</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">selected</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">setSelected</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useState</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[]>([]);</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> columns</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useMemo</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">TableColumn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">Person</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>[]>(</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    () </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        key: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"name"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        header: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Name"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        sortable: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">true</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        width: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"1.4fr"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        cell</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">span</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"font-medium"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>{row.name}&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">span</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      },</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      { key: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"email"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, header: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Email"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, width: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"1.8fr"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> },</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      { key: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"role"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, header: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Role"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, sortable: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">true</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, width: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"120px"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> },</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        key: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"status"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        header: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Status"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        width: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"130px"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        cell</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">StatusBadge</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> status</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{row.status} />,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      },</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        key: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"mrr"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        header: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"MRR"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        sortable: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">true</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        align: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"right"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        width: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"110px"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        cell</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">span</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"tabular-nums"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>${row.mrr.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">toLocaleString</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">()}&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">span</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        ),</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      },</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    ],</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> onCellEdit</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">rowId</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">key</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">value</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      setRows</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">prev</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        prev.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">map</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (row.id </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> rowId </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">row, [key]: value } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> row)),</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      );</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    },</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    [],</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> onInsertRow</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">index</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> number</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">position</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "before"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "after"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> at</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> position </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "after"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> ?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> index </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">+</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 1</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> :</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> index;</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      setRows</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">prev</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">        const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> next</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">prev];</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        next.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">splice</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(at, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, { id: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">`r${</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">nextRow</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">}`</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> });</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">        return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> next;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      });</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      setNextRow</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">n</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> n </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">+</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    },</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    [nextRow],</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> onDeleteRow</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">rowId</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">    setRows</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">prev</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> prev.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">filter</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> row.id </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">!==</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> rowId));</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  }, []);</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> onInsertColumn</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">index</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> number</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">position</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "before"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "after"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> key</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> `field${</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">nextCol</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">}`</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> at</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> position </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "after"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> ?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> index </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">+</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 1</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> :</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> index;</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      setLabels</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">prev</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ({ </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">prev, [key]: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">`Field ${</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">nextCol</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">}`</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> }));</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      setKeys</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">prev</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">        const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> next</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">prev];</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        next.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">splice</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(at, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, key);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">        return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> next;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      });</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      setRows</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">prev</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> prev.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">map</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ({ </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">row, [key]: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">""</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> })));</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      setNextCol</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">n</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> n </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">+</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    },</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    [nextCol],</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> onColumnRename</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">key</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">value</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">    setLabels</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">prev</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ({ </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">prev, [key]: value }));</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  }, []);</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> onDeleteColumn</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">key</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">    setKeys</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">prev</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> prev.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">filter</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">k</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> k </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">!==</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> key));</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">    setRows</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">prev</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      prev.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">map</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">        const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> next</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">row };</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">        delete</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> next[key];</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">        return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> next;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      }),</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    );</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  }, []);</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> columns</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useMemo</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">TableColumn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">Row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>[]>(</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    () </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      keys.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">map</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">key</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">i</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ({</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        key,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        header: labels[key] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">??</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> key,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        editable,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        width: i </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 0</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> ?</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> :</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "180px"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      })),</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    [keys, labels, editable],</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> bodyHeight</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> Math.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">min</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(Math.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">max</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(rows.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">length</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">), </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">6</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">*</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 48</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">div</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"flex w-full justify-center p-4"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">div</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"flex w-full flex-col gap-2"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">div</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"flex items-center justify-between px-1 text-muted-foreground text-xs"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">span</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>{data.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">length</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">toLocaleString</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">()} rows&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">span</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          {selected.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">length</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> ></span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 0</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> ?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">            &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">span</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>{selected.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">length</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">toLocaleString</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">()} selected&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">span</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          ) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">div</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">Table</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          data</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{data}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          columns</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{columns}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          selectable</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          resizable</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          reorderable</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          selectedRowIds</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{selected}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          onSelectionChange</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{setSelected}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          defaultSort</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{{ key: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"mrr"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, direction: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"desc"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> }}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          height</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">420</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          rowHeight</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">52</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"rounded-2xl"</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">div</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"flex w-full flex-col gap-3 p-4"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">div</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"flex items-center justify-between"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">p</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"text-muted-foreground text-xs"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          {editable</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">            ?</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "Click a cell to edit. Use the column and row handles to insert or delete."</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">            :</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "Read-only."</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">p</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">Switch</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          checked</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{editable}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          onCheckedChange</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{setEditable}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          label</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Editable"</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        /></span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">div</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">Table</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        data</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{rows}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        columns</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{columns}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        getRowId</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> row.id}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        rowHeight</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">48</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        height</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{bodyHeight}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        onCellEdit</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{editable </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> onCellEdit </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        onColumnRename</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{editable </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> onColumnRename </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        onInsertRow</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{editable </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> onInsertRow </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        onDeleteRow</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{editable </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> onDeleteRow </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        onInsertColumn</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{editable </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> onInsertColumn </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        onDeleteColumn</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{editable </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> onDeleteColumn </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        emptyState</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">button</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">            type</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"button"</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">            onClick</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{() </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> onInsertRow</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"before"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">)}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">            className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"rounded-full border border-border px-3 py-1.5 font-medium text-foreground text-xs transition-colors hover:bg-muted"</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          ></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">            Insert first row</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">button</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        }</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      /></span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">div</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
@@ -2102,139 +2098,143 @@ a6:T193df,<pre class="shiki shiki-themes github-light github-dark" style="--shik
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
 <span class="line"></span></code></pre>9b:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$a6"}}]}]
-a7:Tc8f5,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+a7:Ta3a3,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { useCallback, useMemo, useState } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { Switch } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "@/components/motion/switch"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { useMemo, useState } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { Table, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> TableColumn } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "@/components/motion/table"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { cn } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "@/lib/utils"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Row</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">id</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">; [</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">key</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">]</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> };</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Person</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  id</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  name</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  email</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  role</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  status</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "active"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "invited"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "suspended"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  mrr</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> number</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">};</span></span>
 <span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> INITIAL_ROWS</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  { id: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"r1"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, name: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Ava Cole"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, role: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Owner"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, team: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Design"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> },</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  { id: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"r2"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, name: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Leo Frost"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, role: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Admin"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, team: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Growth"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> },</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  { id: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"r3"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, name: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Mia Vale"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, role: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Member"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, team: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Design"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> },</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  { id: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"r4"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, name: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Kai Reyes"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, role: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Member"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, team: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Platform"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> },</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> FIRST</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Ava"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Leo"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Mia"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Kai"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Zoe"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Eli"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Noa"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Ren"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Ivy"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Jude"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">];</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> LAST</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Cole"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Frost"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Vale"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Reyes"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Okafor"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Sato"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Lund"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Marsh"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Bose"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">  "Quinn"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">];</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> ROLES</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Owner"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Admin"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Member"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Viewer"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">];</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> STATUSES</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Person</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"status"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">][] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"active"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"invited"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"suspended"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">];</span></span>
 <span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TableEditablePreview</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">() {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">rows</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">setRows</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useState</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">Row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[]>(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">INITIAL_ROWS</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">keys</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">setKeys</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useState</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[]>([</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"name"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"role"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"team"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">]);</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">labels</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">setLabels</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useState</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">Record</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>>({</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    name: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Name"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    role: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Role"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    team: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Team"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  });</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">nextRow</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">setNextRow</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useState</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">5</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">nextCol</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">setNextCol</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useState</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">editable</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">setEditable</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useState</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">true</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// Deterministic so SSR and client render the same rows (no hydration drift).</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> buildPeople</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">count</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> number</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">)</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Person</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[] {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> out</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Person</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [];</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  for</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">let</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> i </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">; i </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">&#x3C;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> count; i</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">++</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> first</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> FIRST</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[i </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">%</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> FIRST</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">length</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">];</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> last</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> LAST</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[(i </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">*</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 7</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">%</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> LAST</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">length</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">];</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    out.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">push</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">({</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      id: </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">String</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(i),</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      name: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">`${</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">first</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">} ${</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">last</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">}`</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      email: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">`${</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">first</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">toLowerCase</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">()</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">}.${</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">last</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">toLowerCase</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">()</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">}${</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">i</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">}@beui.dev`</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      role: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">ROLES</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[(i </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">*</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">%</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> ROLES</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">length</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">],</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      status: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">STATUSES</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[(i </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">*</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 5</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">%</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> STATUSES</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">length</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">],</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      mrr: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">12</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> +</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ((i </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">*</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 37</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">%</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 488</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">),</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    });</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  }</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> out;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
 <span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> onCellEdit</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">rowId</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">key</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">value</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      setRows</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">prev</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        prev.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">map</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (row.id </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> rowId </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">row, [key]: value } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> row)),</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      );</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    },</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> STATUS_STYLES</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Record</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">Person</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"status"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">], </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">> </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  active: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"bg-emerald-500/10 text-emerald-600 dark:text-emerald-400"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  invited: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"bg-amber-500/10 text-amber-600 dark:text-amber-400"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  suspended: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"bg-rose-500/10 text-rose-600 dark:text-rose-400"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">};</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> StatusBadge</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">({ </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">status</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> }</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">status</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Person</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"status"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] }) {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">span</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">cn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">        "rounded-full px-2 py-0.5 font-medium text-xs capitalize"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">        STATUS_STYLES</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[status],</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      )}</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    ></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      {status}</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">span</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TablePreview</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">() {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> data</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useMemo</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(() </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> buildPeople</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">10_000</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">), []);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">selected</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">setSelected</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useState</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[]>([]);</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> columns</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useMemo</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">TableColumn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">Person</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>[]>(</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    () </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        key: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"name"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        header: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Name"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        sortable: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">true</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        width: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"1.4fr"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        cell</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">span</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"font-medium"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>{row.name}&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">span</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      },</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      { key: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"email"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, header: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Email"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, width: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"1.8fr"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> },</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      { key: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"role"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, header: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Role"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, sortable: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">true</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, width: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"120px"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> },</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        key: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"status"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        header: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Status"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        width: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"130px"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        cell</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">StatusBadge</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> status</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{row.status} />,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      },</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        key: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"mrr"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        header: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"MRR"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        sortable: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">true</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        align: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"right"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        width: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"110px"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        cell</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">span</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"tabular-nums"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>${row.mrr.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">toLocaleString</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">()}&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">span</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        ),</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      },</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    ],</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    [],</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> onInsertRow</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">index</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> number</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">position</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "before"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "after"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> at</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> position </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "after"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> ?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> index </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">+</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 1</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> :</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> index;</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      setRows</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">prev</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">        const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> next</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">prev];</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        next.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">splice</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(at, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, { id: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">`r${</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">nextRow</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">}`</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> });</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">        return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> next;</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      });</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      setNextRow</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">n</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> n </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">+</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    },</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    [nextRow],</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> onDeleteRow</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">rowId</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">    setRows</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">prev</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> prev.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">filter</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> row.id </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">!==</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> rowId));</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  }, []);</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> onInsertColumn</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">index</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> number</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">position</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "before"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "after"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> key</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> `field${</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">nextCol</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">}`</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> at</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> position </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "after"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> ?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> index </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">+</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 1</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> :</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> index;</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      setLabels</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">prev</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ({ </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">prev, [key]: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">`Field ${</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">nextCol</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">}`</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> }));</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      setKeys</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">prev</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">        const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> next</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">prev];</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        next.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">splice</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(at, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, key);</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">        return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> next;</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      });</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      setRows</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">prev</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> prev.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">map</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ({ </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">row, [key]: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">""</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> })));</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      setNextCol</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">n</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> n </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">+</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    },</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    [nextCol],</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> onColumnRename</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">key</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">value</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">    setLabels</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">prev</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ({ </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">prev, [key]: value }));</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  }, []);</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> onDeleteColumn</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">key</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">    setKeys</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">prev</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> prev.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">filter</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">k</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> k </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">!==</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> key));</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">    setRows</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">prev</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      prev.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">map</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">        const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> next</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">row };</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">        delete</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> next[key];</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">        return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> next;</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      }),</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    );</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  }, []);</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> columns</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useMemo</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">TableColumn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">Row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>[]>(</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    () </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      keys.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">map</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">key</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">i</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ({</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        key,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        header: labels[key] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">??</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> key,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        editable,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        width: i </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 0</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> ?</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> :</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "180px"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      })),</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    [keys, labels, editable],</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> bodyHeight</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> Math.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">min</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(Math.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">max</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(rows.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">length</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">), </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">6</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">*</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 48</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">div</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"flex w-full flex-col gap-3 p-4"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">div</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"flex items-center justify-between"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">p</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"text-muted-foreground text-xs"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          {editable</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">            ?</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "Click a cell to edit. Use the column and row handles to insert or delete."</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">            :</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "Read-only."</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">p</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">Switch</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          checked</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{editable}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          onCheckedChange</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{setEditable}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          label</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Editable"</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">div</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"flex w-full justify-center p-4"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">div</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"flex w-full flex-col gap-2"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">div</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"flex items-center justify-between px-1 text-muted-foreground text-xs"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">span</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>{data.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">length</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">toLocaleString</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">()} rows&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">span</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          {selected.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">length</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> ></span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 0</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> ?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">            &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">span</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>{selected.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">length</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">toLocaleString</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">()} selected&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">span</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          ) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">div</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">Table</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          data</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{data}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          columns</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{columns}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          selectable</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          resizable</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          reorderable</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          selectedRowIds</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{selected}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          onSelectionChange</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{setSelected}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          defaultSort</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{{ key: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"mrr"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, direction: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"desc"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> }}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          height</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">420</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          rowHeight</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">52</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">          className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"rounded-2xl"</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        /></span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">div</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      &#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">Table</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        data</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{rows}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        columns</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{columns}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        getRowId</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">row</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> row.id}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        rowHeight</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">48</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        height</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{bodyHeight}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        onCellEdit</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{editable </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> onCellEdit </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        onColumnRename</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{editable </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> onColumnRename </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        onInsertRow</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{editable </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> onInsertRow </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        onDeleteRow</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{editable </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> onDeleteRow </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        onInsertColumn</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{editable </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> onInsertColumn </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        onDeleteColumn</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{editable </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> onDeleteColumn </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        emptyState</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">button</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">            type</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"button"</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">            onClick</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{() </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> onInsertRow</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"before"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">)}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">            className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"rounded-full border border-border px-3 py-1.5 font-medium text-foreground text-xs transition-colors hover:bg-muted"</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          ></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">            Insert first row</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">button</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        }</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      /></span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">div</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
@@ -6185,16 +6185,17 @@ de:T8cab,<pre class="shiki shiki-themes github-light github-dark" style="--shiki
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
 <span class="line"></span></code></pre>d6:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$de"}}]}]
-3b:["$","div",null,{"className":"flex flex-col gap-6","children":[["$","div",null,{"className":"rounded-xl border border-border bg-card px-4 py-3 text-sm text-muted-foreground","children":["Needs the theme tokens once. Already ran"," ",["$","code",null,{"className":"rounded bg-foreground/5 px-1.5 py-0.5 font-mono text-xs text-foreground","children":"shadcn init"}],"? You are set."," ",["$","$L11",null,{"href":"/docs/theme","className":"inline-flex items-center gap-1 text-foreground underline underline-offset-4","children":["Theme setup",["$","$L12",null,{"ref":"$undefined","iconNode":"$79:props:children:0:props:children:5:props:children:1:props:iconNode","className":"lucide-arrow-up-right h-3 w-3"}]]}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Install dependencies"}],["$","div",null,{"className":"mt-3","children":"$Ldf"}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":["Add util file","s"]}],["$","div",null,{"className":"mt-3 flex flex-col gap-4","children":["$Le0","$Le1"]}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Copy the source code"}],["$","div",null,{"className":"mt-3 flex flex-col gap-4","children":["$Le2","$Le3","$Le4","$Le5","$Le6","$Le7","$Le8","$Le9","$Lea","$Leb","$Lec","$Led","$Lee"]}]]}]]}]
+59:["$","div",null,{"className":"flex flex-col gap-6","children":[["$","div",null,{"className":"rounded-xl border border-border bg-card px-4 py-3 text-sm text-muted-foreground","children":["Needs the theme tokens once. Already ran"," ",["$","code",null,{"className":"rounded bg-foreground/5 px-1.5 py-0.5 font-mono text-xs text-foreground","children":"shadcn init"}],"? You are set."," ",["$","$L11",null,{"href":"/docs/theme","className":"inline-flex items-center gap-1 text-foreground underline underline-offset-4","children":["Theme setup",["$","$L12",null,{"ref":"$undefined","iconNode":"$79:props:children:0:props:children:5:props:children:1:props:iconNode","className":"lucide-arrow-up-right h-3 w-3"}]]}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Install dependencies"}],["$","div",null,{"className":"mt-3","children":"$Ldf"}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":["Add util file","s"]}],["$","div",null,{"className":"mt-3 flex flex-col gap-4","children":["$Le0","$Le1"]}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Copy the source code"}],["$","div",null,{"className":"mt-3 flex flex-col gap-4","children":["$Le2","$Le3","$Le4","$Le5","$Le6","$Le7","$Le8","$Le9","$Lea","$Leb","$Lec","$Led","$Lee"]}]]}]]}]
+3b:["$","div",null,{"className":"flex flex-col gap-6","children":[["$","div",null,{"className":"rounded-xl border border-border bg-card px-4 py-3 text-sm text-muted-foreground","children":["Needs the theme tokens once. Already ran"," ",["$","code",null,{"className":"rounded bg-foreground/5 px-1.5 py-0.5 font-mono text-xs text-foreground","children":"shadcn init"}],"? You are set."," ",["$","$L11",null,{"href":"/docs/theme","className":"inline-flex items-center gap-1 text-foreground underline underline-offset-4","children":["Theme setup",["$","$L12",null,{"ref":"$undefined","iconNode":"$79:props:children:0:props:children:5:props:children:1:props:iconNode","className":"lucide-arrow-up-right h-3 w-3"}]]}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Install dependencies"}],["$","div",null,{"className":"mt-3","children":"$Lef"}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":["Add util file","s"]}],["$","div",null,{"className":"mt-3 flex flex-col gap-4","children":["$Lf0","$Lf1"]}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Copy the source code"}],["$","div",null,{"className":"mt-3 flex flex-col gap-4","children":["$Lf2","$Lf3","$Lf4","$Lf5","$Lf6","$Lf7","$Lf8","$Lf9","$Lfa","$Lfb","$Lfc","$Lfd","$Lfe","$Lff"]}]]}]]}]
 df:["$","div",null,{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"absolute right-3 top-3 z-10","children":["$","$L97",null,{"text":"npm i @tanstack/react-virtual clsx lucide-react motion tailwind-merge","eventLabel":"bash"}]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"<pre class=\"shiki shiki-themes github-light github-dark\" style=\"--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e\" tabindex=\"0\"><code><span class=\"line\"><span style=\"--shiki-light:#6F42C1;--shiki-dark:#B392F0\">npm</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> i</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> @tanstack/react-virtual</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> clsx</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> lucide-react</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> motion</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> tailwind-merge</span></span></code></pre>"}}]}]]}]
-ef:T856,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { clsx, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ClassValue } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "clsx"</span></span>
+100:T856,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { clsx, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ClassValue } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "clsx"</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { twMerge } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "tailwind-merge"</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> cn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">inputs</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ClassValue</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[]) {</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> twMerge</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">clsx</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(inputs))</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>e0:["$","div","lib/utils.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["lib","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"utils.ts"}]]}]]}],["$","$L97",null,{"text":"import { clsx, type ClassValue } from \"clsx\"\nimport { twMerge } from \"tailwind-merge\"\n\nexport function cn(...inputs: ClassValue[]) {\n  return twMerge(clsx(inputs))\n}\n","eventLabel":"lib/utils.ts"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$ef"}}]}]]}]
-f0:T58b,// Shared motion tokens. Easing curves mirror the CSS custom properties in
+<span class="line"></span></code></pre>e0:["$","div","lib/utils.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["lib","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"utils.ts"}]]}]]}],["$","$L97",null,{"text":"import { clsx, type ClassValue } from \"clsx\"\nimport { twMerge } from \"tailwind-merge\"\n\nexport function cn(...inputs: ClassValue[]) {\n  return twMerge(clsx(inputs))\n}\n","eventLabel":"lib/utils.ts"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$100"}}]}]]}]
+101:T58b,// Shared motion tokens. Easing curves mirror the CSS custom properties in
 // globals.css; springs are the canonical physics used across components.
 // Strong custom variants — defaults like `ease-in`/`ease-out` feel weak.
 
@@ -6243,7 +6244,7 @@ export const SPRING_MOUSE = {
   damping: 15,
   mass: 0.3,
 } as const;
-f1:T3499,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// Shared motion tokens. Easing curves mirror the CSS custom properties in</span></span>
+102:T3499,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// Shared motion tokens. Easing curves mirror the CSS custom properties in</span></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// globals.css; springs are the canonical physics used across components.</span></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// Strong custom variants — defaults like `ease-in`/`ease-out` feel weak.</span></span>
 <span class="line"></span>
@@ -6292,8 +6293,8 @@ f1:T3499,<pre class="shiki shiki-themes github-light github-dark" style="--shiki
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">15</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span></code></pre>e1:["$","div","lib/ease.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["lib","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"ease.ts"}]]}]]}],["$","$L97",null,{"text":"$f0","eventLabel":"lib/ease.ts"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$f1"}}]}]]}]
-f2:T2eed,"use client";
+<span class="line"></span></code></pre>e1:["$","div","lib/ease.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["lib","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"ease.ts"}]]}]]}],["$","$L97",null,{"text":"$101","eventLabel":"lib/ease.ts"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$102"}}]}]]}]
+103:T2eed,"use client";
 // beui.dev/components/motion/table
 
 import { useVirtualizer } from "@tanstack/react-virtual";
@@ -6642,8 +6643,8 @@ export function Table<T>({
     </div>
   );
 }
-e2:["$","div","components/motion/table/index.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"index.tsx"}]]}]]}],["$","$L97",null,{"text":"$f2","eventLabel":"components/motion/table/index.tsx"}]]}],"$Lf3"]}]
-f4:T15c0,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+e2:["$","div","components/motion/table/index.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"index.tsx"}]]}]]}],["$","$L97",null,{"text":"$103","eventLabel":"components/motion/table/index.tsx"}]]}],"$L104"]}]
+105:T15c0,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> EditableCell</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">({</span></span>
 <span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  value</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
@@ -6665,8 +6666,8 @@ f4:T15c0,<pre class="shiki shiki-themes github-light github-dark" style="--shiki
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    /></span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>e3:["$","div","components/motion/table/editable-cell.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"editable-cell.tsx"}]]}]]}],["$","$L97",null,{"text":"\"use client\";\n\nexport function EditableCell({\n  value,\n  label,\n  onChange,\n}: {\n  value: string;\n  label: string;\n  onChange: (next: string) => void;\n}) {\n  return (\n    <input\n      value={value}\n      aria-label={label}\n      size={1}\n      onChange={(e) => onChange(e.target.value)}\n      placeholder=\"Empty\"\n      className=\"-mx-2 w-full min-w-0 appearance-none rounded-md border-0 bg-transparent px-2 py-1 text-foreground outline-none transition-colors placeholder:text-muted-foreground/40 focus:bg-muted focus:ring-1 focus:ring-ring\"\n    />\n  );\n}\n","eventLabel":"components/motion/table/editable-cell.tsx"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$f4"}}]}]]}]
-f5:T944,"use client";
+<span class="line"></span></code></pre>e3:["$","div","components/motion/table/editable-cell.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"editable-cell.tsx"}]]}]]}],["$","$L97",null,{"text":"\"use client\";\n\nexport function EditableCell({\n  value,\n  label,\n  onChange,\n}: {\n  value: string;\n  label: string;\n  onChange: (next: string) => void;\n}) {\n  return (\n    <input\n      value={value}\n      aria-label={label}\n      size={1}\n      onChange={(e) => onChange(e.target.value)}\n      placeholder=\"Empty\"\n      className=\"-mx-2 w-full min-w-0 appearance-none rounded-md border-0 bg-transparent px-2 py-1 text-foreground outline-none transition-colors placeholder:text-muted-foreground/40 focus:bg-muted focus:ring-1 focus:ring-ring\"\n    />\n  );\n}\n","eventLabel":"components/motion/table/editable-cell.tsx"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$105"}}]}]]}]
+106:T944,"use client";
 
 import { ArrowDownToLine, ArrowUpToLine, MoreVertical, Trash2 } from "lucide-react";
 import { useEffect } from "react";
@@ -6747,8 +6748,8 @@ export function RowHandle({
     document.body,
   );
 }
-e4:["$","div","components/motion/table/row-handle.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"row-handle.tsx"}]]}]]}],["$","$L97",null,{"text":"$f5","eventLabel":"components/motion/table/row-handle.tsx"}]]}],"$Lf6"]}]
-f7:T401,"use client";
+e4:["$","div","components/motion/table/row-handle.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"row-handle.tsx"}]]}]]}],["$","$L97",null,{"text":"$106","eventLabel":"components/motion/table/row-handle.tsx"}]]}],"$L107"]}]
+108:T401,"use client";
 
 import { cn } from "@/lib/utils";
 import type { TableColumn } from "./types";
@@ -6787,7 +6788,7 @@ export function SkeletonRows<T>({
     </>
   );
 }
-f8:T2c82,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+109:T2c82,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { cn } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "@/lib/utils"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { TableColumn } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./types"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
@@ -6826,8 +6827,8 @@ f8:T2c82,<pre class="shiki shiki-themes github-light github-dark" style="--shiki
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/></span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>e5:["$","div","components/motion/table/skeleton-rows.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"skeleton-rows.tsx"}]]}]]}],["$","$L97",null,{"text":"$f7","eventLabel":"components/motion/table/skeleton-rows.tsx"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$f8"}}]}]]}]
-f9:T2c8b,"use client";
+<span class="line"></span></code></pre>e5:["$","div","components/motion/table/skeleton-rows.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"skeleton-rows.tsx"}]]}]]}],["$","$L97",null,{"text":"$108","eventLabel":"components/motion/table/skeleton-rows.tsx"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$109"}}]}]]}]
+10a:T2c8b,"use client";
 
 import {
   ArrowLeftToLine,
@@ -7160,8 +7161,8 @@ export function TableHeader<T>({
     </>
   );
 }
-e6:["$","div","components/motion/table/table-header.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"table-header.tsx"}]]}]]}],["$","$L97",null,{"text":"$f9","eventLabel":"components/motion/table/table-header.tsx"}]]}],"$Lfa"]}]
-fb:Tdb0,import type { ReactNode } from "react";
+e6:["$","div","components/motion/table/table-header.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"table-header.tsx"}]]}]]}],["$","$L97",null,{"text":"$10a","eventLabel":"components/motion/table/table-header.tsx"}]]}],"$L10b"]}]
+10c:Tdb0,import type { ReactNode } from "react";
 
 export type SortDirection = "asc" | "desc";
 
@@ -7247,8 +7248,8 @@ export type TableRow<T> = { row: T; id: string };
 export type HeaderCellRefs = {
   current: Record<string, HTMLTableCellElement | null>;
 };
-e7:["$","div","components/motion/table/types.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"types.ts"}]]}]]}],["$","$L97",null,{"text":"$fb","eventLabel":"components/motion/table/types.ts"}]]}],"$Lfc"]}]
-fd:Tc39,import {
+e7:["$","div","components/motion/table/types.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"types.ts"}]]}]]}],["$","$L97",null,{"text":"$10c","eventLabel":"components/motion/table/types.ts"}]]}],"$L10d"]}]
+10e:Tc39,import {
   type PointerEvent as ReactPointerEvent,
   useCallback,
   useMemo,
@@ -7354,8 +7355,8 @@ export function useColumnReorder<T>({
     endReorder,
   };
 }
-e8:["$","div","components/motion/table/use-column-reorder.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"use-column-reorder.ts"}]]}]]}],["$","$L97",null,{"text":"$fd","eventLabel":"components/motion/table/use-column-reorder.ts"}]]}],"$Lfe"]}]
-ff:T930,import {
+e8:["$","div","components/motion/table/use-column-reorder.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"use-column-reorder.ts"}]]}]]}],["$","$L97",null,{"text":"$10e","eventLabel":"components/motion/table/use-column-reorder.ts"}]]}],"$L10f"]}]
+110:T930,import {
   type PointerEvent as ReactPointerEvent,
   useCallback,
   useRef,
@@ -7439,8 +7440,8 @@ export function useColumnResize<T>({
 
   return { widths, startResize, moveResize, endResize };
 }
-e9:["$","div","components/motion/table/use-column-resize.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"use-column-resize.ts"}]]}]]}],["$","$L97",null,{"text":"$ff","eventLabel":"components/motion/table/use-column-resize.ts"}]]}],"$L100"]}]
-101:T6cd,import { useCallback, useMemo, useState } from "react";
+e9:["$","div","components/motion/table/use-column-resize.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"use-column-resize.ts"}]]}]]}],["$","$L97",null,{"text":"$110","eventLabel":"components/motion/table/use-column-resize.ts"}]]}],"$L111"]}]
+112:T6cd,import { useCallback, useMemo, useState } from "react";
 import type { SortState, TableColumn, TableRow } from "./types";
 import { readSortValue } from "./utils";
 
@@ -7504,7 +7505,7 @@ export function useColumnSort<T>({
 
   return { sort, sortedRows, toggleSort };
 }
-102:T53ff,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { useCallback, useMemo, useState } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+113:T53ff,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { useCallback, useMemo, useState } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { SortState, TableColumn, TableRow } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./types"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { readSortValue } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./utils"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
@@ -7568,8 +7569,8 @@ export function useColumnSort<T>({
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { sort, sortedRows, toggleSort };</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>ea:["$","div","components/motion/table/use-column-sort.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"use-column-sort.ts"}]]}]]}],["$","$L97",null,{"text":"$101","eventLabel":"components/motion/table/use-column-sort.ts"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$102"}}]}]]}]
-103:T65c,import { useCallback, useMemo, useState } from "react";
+<span class="line"></span></code></pre>ea:["$","div","components/motion/table/use-column-sort.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"use-column-sort.ts"}]]}]]}],["$","$L97",null,{"text":"$112","eventLabel":"components/motion/table/use-column-sort.ts"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$113"}}]}]]}]
+114:T65c,import { useCallback, useMemo, useState } from "react";
 import type { TableRow } from "./types";
 
 export function useRowSelection<T>({
@@ -7628,7 +7629,7 @@ export function useRowSelection<T>({
 
   return { selected, allSelected, someSelected, toggleAll, toggleRow };
 }
-104:T4491,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { useCallback, useMemo, useState } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+115:T4491,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { useCallback, useMemo, useState } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { TableRow } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./types"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useRowSelection</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>({</span></span>
@@ -7687,8 +7688,8 @@ export function useRowSelection<T>({
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { selected, allSelected, someSelected, toggleAll, toggleRow };</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>eb:["$","div","components/motion/table/use-row-selection.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"use-row-selection.ts"}]]}]]}],["$","$L97",null,{"text":"$103","eventLabel":"components/motion/table/use-row-selection.ts"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$104"}}]}]]}]
-105:T432,import type { ReactNode } from "react";
+<span class="line"></span></code></pre>eb:["$","div","components/motion/table/use-row-selection.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"use-row-selection.ts"}]]}]]}],["$","$L97",null,{"text":"$114","eventLabel":"components/motion/table/use-row-selection.ts"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$115"}}]}]]}]
+116:T432,import type { ReactNode } from "react";
 import type { TableColumn } from "./types";
 
 export const CHECKBOX_PX = 48;
@@ -7721,7 +7722,7 @@ export function readSortValue<T>(
   if (column.sortValue) return column.sortValue(row);
   return (row as Record<string, string | number>)[column.key];
 }
-106:T3388,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { ReactNode } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+117:T3388,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { ReactNode } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { TableColumn } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./types"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> CHECKBOX_PX</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 48</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
@@ -7754,8 +7755,8 @@ export function readSortValue<T>(
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (column.sortValue) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> column.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">sortValue</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(row);</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (row </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Record</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> number</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>)[column.key];</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>ec:["$","div","components/motion/table/utils.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"utils.ts"}]]}]]}],["$","$L97",null,{"text":"$105","eventLabel":"components/motion/table/utils.ts"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$106"}}]}]]}]
-107:Tee7,"use client";
+<span class="line"></span></code></pre>ec:["$","div","components/motion/table/utils.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"utils.ts"}]]}]]}],["$","$L97",null,{"text":"$116","eventLabel":"components/motion/table/utils.ts"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$117"}}]}]]}]
+118:Tee7,"use client";
 
 import { AnimatePresence, motion, useReducedMotion } from "motion/react";
 import { useId } from "react";
@@ -7874,8 +7875,8 @@ export function Checkbox({
     </label>
   );
 }
-ed:["$","div","components/motion/checkbox.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"checkbox.tsx"}]]}]]}],["$","$L97",null,{"text":"$107","eventLabel":"components/motion/checkbox.tsx"}]]}],"$L108"]}]
-109:Tea8,"use client";
+ed:["$","div","components/motion/checkbox.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"checkbox.tsx"}]]}]]}],["$","$L97",null,{"text":"$118","eventLabel":"components/motion/checkbox.tsx"}]]}],"$L119"]}]
+11a:Tea8,"use client";
 
 import { motion, useReducedMotion } from "motion/react";
 import { type ReactNode, useEffect, useRef, useState } from "react";
@@ -8004,8 +8005,1915 @@ export function TableMenu({
     </>
   );
 }
-ee:["$","div","components/motion/table/table-menu.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"table-menu.tsx"}]]}]]}],["$","$L97",null,{"text":"$109","eventLabel":"components/motion/table/table-menu.tsx"}]]}],"$L10a"]}]
-10b:T193df,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+ee:["$","div","components/motion/table/table-menu.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"table-menu.tsx"}]]}]]}],["$","$L97",null,{"text":"$11a","eventLabel":"components/motion/table/table-menu.tsx"}]]}],"$L11b"]}]
+ef:["$","div",null,{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"absolute right-3 top-3 z-10","children":["$","$L97",null,{"text":"npm i @tanstack/react-virtual clsx lucide-react motion tailwind-merge","eventLabel":"bash"}]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"<pre class=\"shiki shiki-themes github-light github-dark\" style=\"--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e\" tabindex=\"0\"><code><span class=\"line\"><span style=\"--shiki-light:#6F42C1;--shiki-dark:#B392F0\">npm</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> i</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> @tanstack/react-virtual</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> clsx</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> lucide-react</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> motion</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> tailwind-merge</span></span></code></pre>"}}]}]]}]
+11c:T856,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { clsx, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ClassValue } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "clsx"</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { twMerge } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "tailwind-merge"</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> cn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">inputs</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ClassValue</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[]) {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> twMerge</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">clsx</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(inputs))</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"></span></code></pre>f0:["$","div","lib/utils.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["lib","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"utils.ts"}]]}]]}],["$","$L97",null,{"text":"import { clsx, type ClassValue } from \"clsx\"\nimport { twMerge } from \"tailwind-merge\"\n\nexport function cn(...inputs: ClassValue[]) {\n  return twMerge(clsx(inputs))\n}\n","eventLabel":"lib/utils.ts"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$11c"}}]}]]}]
+11d:T58b,// Shared motion tokens. Easing curves mirror the CSS custom properties in
+// globals.css; springs are the canonical physics used across components.
+// Strong custom variants — defaults like `ease-in`/`ease-out` feel weak.
+
+export const EASE_OUT = [0.16, 1, 0.3, 1] as const;
+export const EASE_IN_OUT = [0.77, 0, 0.175, 1] as const;
+export const EASE_DRAWER = [0.32, 0.72, 0, 1] as const;
+
+/** CSS string form of EASE_OUT for inline style transitions. */
+export const EASE_OUT_CSS = "cubic-bezier(0.16, 1, 0.3, 1)";
+
+/** Press feedback on buttons and other tappable surfaces. */
+export const SPRING_PRESS = {
+  type: "spring",
+  stiffness: 500,
+  damping: 30,
+  mass: 0.6,
+} as const;
+
+/** Content swaps — label/icon slots trading places inside a control. */
+export const SPRING_SWAP = {
+  type: "spring",
+  stiffness: 460,
+  damping: 30,
+  mass: 0.55,
+} as const;
+
+/** Overlay panel entrances — modals and sheets summoned by pointer. */
+export const SPRING_PANEL = {
+  type: "spring",
+  stiffness: 420,
+  damping: 40,
+  mass: 0.5,
+} as const;
+
+/** Shared-layout glides — pills, indicators and panels morphing between positions. */
+export const SPRING_LAYOUT = {
+  type: "spring",
+  stiffness: 360,
+  damping: 32,
+  mass: 0.6,
+} as const;
+
+/** Cursor-follow physics for decorative mouse tracking (magnetic, tilt, dock). */
+export const SPRING_MOUSE = {
+  stiffness: 200,
+  damping: 15,
+  mass: 0.3,
+} as const;
+11e:T3499,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// Shared motion tokens. Easing curves mirror the CSS custom properties in</span></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// globals.css; springs are the canonical physics used across components.</span></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// Strong custom variants — defaults like `ease-in`/`ease-out` feel weak.</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_OUT</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.16</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_IN_OUT</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.77</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.175</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_DRAWER</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.32</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.72</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** CSS string form of EASE_OUT for inline style transitions. */</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_OUT_CSS</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "cubic-bezier(0.16, 1, 0.3, 1)"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Press feedback on buttons and other tappable surfaces. */</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_PRESS</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">500</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">30</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.6</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Content swaps — label/icon slots trading places inside a control. */</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_SWAP</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">460</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">30</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.55</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Overlay panel entrances — modals and sheets summoned by pointer. */</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_PANEL</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">420</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">40</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.5</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Shared-layout glides — pills, indicators and panels morphing between positions. */</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_LAYOUT</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">360</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">32</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.6</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Cursor-follow physics for decorative mouse tracking (magnetic, tilt, dock). */</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_MOUSE</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">200</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">15</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span></code></pre>f1:["$","div","lib/ease.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["lib","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"ease.ts"}]]}]]}],["$","$L97",null,{"text":"$11d","eventLabel":"lib/ease.ts"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$11e"}}]}]]}]
+11f:T2eed,"use client";
+// beui.dev/components/motion/table
+
+import { useVirtualizer } from "@tanstack/react-virtual";
+import { useReducedMotion } from "motion/react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { Checkbox } from "@/components/motion/checkbox";
+import { cn } from "@/lib/utils";
+import { EditableCell } from "./editable-cell";
+import { RowHandle } from "./row-handle";
+import { SkeletonRows } from "./skeleton-rows";
+import { TableHeader } from "./table-header";
+import type { HeaderCellRefs, TableProps } from "./types";
+import { useColumnReorder } from "./use-column-reorder";
+import { useColumnResize } from "./use-column-resize";
+import { useColumnSort } from "./use-column-sort";
+import { useRowSelection } from "./use-row-selection";
+import { CHECKBOX_WIDTH, alignText, readCell } from "./utils";
+
+export type {
+  SortDirection,
+  SortState,
+  TableColumn,
+  TableProps,
+} from "./types";
+
+export function Table<T>({
+  data,
+  columns,
+  getRowId,
+  selectable = false,
+  selectedRowIds,
+  defaultSelectedRowIds,
+  onSelectionChange,
+  sort: sortProp,
+  defaultSort = null,
+  onSortChange,
+  resizable = false,
+  minColumnWidth = 64,
+  onColumnResize,
+  reorderable = false,
+  onColumnOrderChange,
+  onCellEdit,
+  onColumnRename,
+  onInsertRow,
+  onDeleteRow,
+  onInsertColumn,
+  onDeleteColumn,
+  rowHeight = 48,
+  height = 440,
+  overscan = 10,
+  onEndReached,
+  loading = false,
+  skeletonRows = 3,
+  emptyState = "No data",
+  className,
+}: TableProps<T>) {
+  const reduce = useReducedMotion();
+  const scrollRef = useRef<HTMLDivElement>(null);
+  const thRefs: HeaderCellRefs = useRef<
+    Record<string, HTMLTableCellElement | null>
+  >({});
+
+  const rows = useMemo(
+    () =>
+      data.map((row, index) => ({
+        row,
+        id: getRowId ? getRowId(row, index) : String(index),
+      })),
+    [data, getRowId],
+  );
+
+  const {
+    orderedColumns,
+    dragKey,
+    dropIndex,
+    startReorder,
+    moveReorder,
+    endReorder,
+  } = useColumnReorder({ columns, thRefs, onColumnOrderChange });
+
+  const { sort, sortedRows, toggleSort } = useColumnSort({
+    rows,
+    columns,
+    sort: sortProp,
+    defaultSort,
+    onSortChange,
+  });
+
+  const { widths, startResize, moveResize, endResize } = useColumnResize({
+    orderedColumns,
+    thRefs,
+    minColumnWidth,
+    onColumnResize,
+  });
+
+  const { selected, allSelected, someSelected, toggleAll, toggleRow } =
+    useRowSelection({
+      sortedRows,
+      selectedRowIds,
+      defaultSelectedRowIds,
+      onSelectionChange,
+    });
+
+  const virtualizer = useVirtualizer({
+    count: sortedRows.length,
+    getScrollElement: () => scrollRef.current,
+    estimateSize: () => rowHeight,
+    overscan,
+  });
+
+  const virtualItems = virtualizer.getVirtualItems();
+  const totalSize = virtualizer.getTotalSize();
+  const paddingTop = virtualItems.length > 0 ? virtualItems[0].start : 0;
+  const paddingBottom =
+    virtualItems.length > 0
+      ? totalSize - virtualItems[virtualItems.length - 1].end
+      : 0;
+
+  const hasRowMenu = !!(onInsertRow || onDeleteRow);
+  const hasColumnMenu = !!(onInsertColumn || onDeleteColumn);
+  // Only shrink-wrap (w-max) once every column has an explicit resized width;
+  // otherwise stay fill-width so a flexible column can't size to cell content.
+  const sized =
+    orderedColumns.length > 0 &&
+    orderedColumns.every((c) => widths[c.key] != null);
+
+  // Infinite scroll: fire onEndReached once per near-bottom dwell, paused while
+  // loading; the guard resets when the load completes.
+  const endReachedRef = useRef(false);
+  useEffect(() => {
+    if (!loading) endReachedRef.current = false;
+  }, [loading]);
+  const handleScroll = useCallback(() => {
+    const el = scrollRef.current;
+    if (!el || !onEndReached || loading || endReachedRef.current) return;
+    if (el.scrollHeight - el.scrollTop - el.clientHeight < rowHeight * 4) {
+      endReachedRef.current = true;
+      onEndReached();
+    }
+  }, [onEndReached, loading, rowHeight]);
+  const [activeColumn, setActiveColumn] = useState<string | null>(null);
+  // Small delay on leave so the pointer can cross the gap from the header cell
+  // to the portal handle without the column deactivating.
+  const deactivateTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const activateColumn = useCallback((key: string) => {
+    if (deactivateTimer.current) clearTimeout(deactivateTimer.current);
+    deactivateTimer.current = null;
+    setActiveColumn(key);
+  }, []);
+  const deactivateColumn = useCallback(() => {
+    if (deactivateTimer.current) clearTimeout(deactivateTimer.current);
+    deactivateTimer.current = setTimeout(() => setActiveColumn(null), 100);
+  }, []);
+
+  const rowRefs = useRef<Record<string, HTMLTableRowElement | null>>({});
+  const [activeRow, setActiveRow] = useState<{ id: string; index: number } | null>(
+    null,
+  );
+  const rowTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const activateRow = useCallback((id: string, index: number) => {
+    if (rowTimer.current) clearTimeout(rowTimer.current);
+    rowTimer.current = null;
+    setActiveRow({ id, index });
+  }, []);
+  const deactivateRow = useCallback(() => {
+    if (rowTimer.current) clearTimeout(rowTimer.current);
+    rowTimer.current = setTimeout(() => setActiveRow(null), 100);
+  }, []);
+  const activeRowEl = activeRow ? rowRefs.current[activeRow.id] : null;
+  // Real columns + checkbox; the trailing spacer adds one more in colSpans.
+  const leadColumns = columns.length + (selectable ? 1 : 0);
+
+  return (
+    <div
+      className={cn(
+        "w-full overflow-hidden border border-border bg-background text-sm",
+        className,
+      )}
+    >
+      <div
+        ref={scrollRef}
+        onScroll={handleScroll}
+        className="overflow-auto"
+        style={{ height }}
+      >
+        <table
+          className={cn("border-collapse", sized ? "w-max min-w-full" : "min-w-full")}
+          style={{ tableLayout: "fixed" }}
+        >
+          <colgroup>
+            {selectable ? <col style={{ width: CHECKBOX_WIDTH }} /> : null}
+            {orderedColumns.map((column) => {
+              const override = widths[column.key];
+              const width = override ? `${override}px` : column.width;
+              return (
+                <col key={column.key} style={width ? { width } : undefined} />
+              );
+            })}
+            {/* Empty filler owns the leftover space — no gap, content unpinned. */}
+            <col />
+          </colgroup>
+
+          <TableHeader
+            columns={orderedColumns}
+            rowHeight={rowHeight}
+            reduce={!!reduce}
+            thRefs={thRefs}
+            selectable={selectable}
+            allSelected={allSelected}
+            someSelected={someSelected}
+            onToggleAll={toggleAll}
+            sort={sort}
+            onToggleSort={toggleSort}
+            resizable={resizable}
+            onResizeStart={startResize}
+            onResizeMove={moveResize}
+            onResizeEnd={endResize}
+            reorderable={reorderable}
+            dragKey={dragKey}
+            dropIndex={dropIndex}
+            onReorderStart={startReorder}
+            onReorderMove={moveReorder}
+            onReorderEnd={endReorder}
+            onInsertColumn={onInsertColumn}
+            onDeleteColumn={onDeleteColumn}
+            onColumnRename={onColumnRename}
+            activeColumn={hasColumnMenu ? activeColumn : null}
+            onColumnActivate={hasColumnMenu ? activateColumn : undefined}
+            onColumnDeactivate={hasColumnMenu ? deactivateColumn : undefined}
+          />
+
+          <tbody>
+            {sortedRows.length === 0 ? (
+              loading ? (
+                <SkeletonRows
+                  count={Math.max(1, Math.ceil(height / rowHeight))}
+                  columns={orderedColumns}
+                  selectable={selectable}
+                  rowHeight={rowHeight}
+                />
+              ) : (
+                <tr>
+                  <td
+                    colSpan={leadColumns + 1}
+                    className="p-10 text-center text-muted-foreground"
+                  >
+                    {emptyState}
+                  </td>
+                </tr>
+              )
+            ) : (
+              <>
+                {paddingTop > 0 ? (
+                  <tr aria-hidden style={{ height: paddingTop }}>
+                    <td colSpan={leadColumns + 1} />
+                  </tr>
+                ) : null}
+                {virtualItems.map((vItem) => {
+                  const entry = sortedRows[vItem.index];
+                  const isSelected = selected.has(entry.id);
+                  return (
+                    <tr
+                      key={entry.id}
+                      ref={(el) => {
+                        rowRefs.current[entry.id] = el;
+                      }}
+                      data-selected={isSelected}
+                      style={{ height: rowHeight }}
+                      onPointerEnter={
+                        hasRowMenu
+                          ? () => activateRow(entry.id, vItem.index)
+                          : undefined
+                      }
+                      onPointerLeave={hasRowMenu ? deactivateRow : undefined}
+                      className={cn(
+                        "border-border/60 border-b transition-colors",
+                        "data-[selected=true]:bg-primary/5",
+                        "hover:bg-muted/50",
+                      )}
+                    >
+                      {selectable ? (
+                        <td className="text-center">
+                          <div className="flex items-center justify-center">
+                            <Checkbox
+                              checked={isSelected}
+                              onCheckedChange={() => toggleRow(entry.id)}
+                              aria-label={`Select row ${vItem.index + 1}`}
+                            />
+                          </div>
+                        </td>
+                      ) : null}
+                      {orderedColumns.map((column) => (
+                        <td
+                          key={column.key}
+                          className={cn(
+                            "truncate px-4 text-foreground",
+                            alignText(column.align),
+                          )}
+                        >
+                          {!column.cell && column.editable ? (
+                            <EditableCell
+                              value={String(readCell(entry.row, column) ?? "")}
+                              label={`${column.key} for row ${vItem.index + 1}`}
+                              onChange={(next) =>
+                                onCellEdit?.(entry.id, column.key, next)
+                              }
+                            />
+                          ) : (
+                            readCell(entry.row, column)
+                          )}
+                        </td>
+                      ))}
+                      <td aria-hidden />
+                    </tr>
+                  );
+                })}
+                {paddingBottom > 0 ? (
+                  <tr aria-hidden style={{ height: paddingBottom }}>
+                    <td colSpan={leadColumns + 1} />
+                  </tr>
+                ) : null}
+                {loading ? (
+                  <SkeletonRows
+                    count={skeletonRows}
+                    columns={orderedColumns}
+                    selectable={selectable}
+                    rowHeight={rowHeight}
+                  />
+                ) : null}
+              </>
+            )}
+          </tbody>
+        </table>
+      </div>
+      {hasRowMenu && activeRow ? (
+        <RowHandle
+          rowEl={activeRowEl}
+          id={activeRow.id}
+          index={activeRow.index}
+          onInsertRow={onInsertRow}
+          onDeleteRow={onDeleteRow}
+          onEnter={() => activateRow(activeRow.id, activeRow.index)}
+          onLeave={deactivateRow}
+        />
+      ) : null}
+    </div>
+  );
+}
+f2:["$","div","components/motion/table/index.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"index.tsx"}]]}]]}],["$","$L97",null,{"text":"$11f","eventLabel":"components/motion/table/index.tsx"}]]}],"$L120"]}]
+121:T15c0,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> EditableCell</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">({</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  value</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  label</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  onChange</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  value</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  label</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">  onChange</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">next</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> void</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}) {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">input</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      value</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{value}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      aria-label</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{label}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      size</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      onChange</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">e</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> onChange</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(e.target.value)}</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      placeholder</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Empty"</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"-mx-2 w-full min-w-0 appearance-none rounded-md border-0 bg-transparent px-2 py-1 text-foreground outline-none transition-colors placeholder:text-muted-foreground/40 focus:bg-muted focus:ring-1 focus:ring-ring"</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    /></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"></span></code></pre>f3:["$","div","components/motion/table/editable-cell.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"editable-cell.tsx"}]]}]]}],["$","$L97",null,{"text":"\"use client\";\n\nexport function EditableCell({\n  value,\n  label,\n  onChange,\n}: {\n  value: string;\n  label: string;\n  onChange: (next: string) => void;\n}) {\n  return (\n    <input\n      value={value}\n      aria-label={label}\n      size={1}\n      onChange={(e) => onChange(e.target.value)}\n      placeholder=\"Empty\"\n      className=\"-mx-2 w-full min-w-0 appearance-none rounded-md border-0 bg-transparent px-2 py-1 text-foreground outline-none transition-colors placeholder:text-muted-foreground/40 focus:bg-muted focus:ring-1 focus:ring-ring\"\n    />\n  );\n}\n","eventLabel":"components/motion/table/editable-cell.tsx"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$121"}}]}]]}]
+122:T944,"use client";
+
+import { ArrowDownToLine, ArrowUpToLine, MoreVertical, Trash2 } from "lucide-react";
+import { useEffect } from "react";
+import { createPortal } from "react-dom";
+import { TableMenu } from "./table-menu";
+
+/** The row handle, portaled so it can sit on the row's left border without the
+ * scroll container clipping it. Straddles the border to bridge hover. */
+export function RowHandle({
+  rowEl,
+  id,
+  index,
+  onInsertRow,
+  onDeleteRow,
+  onEnter,
+  onLeave,
+}: {
+  rowEl: HTMLTableRowElement | null;
+  id: string;
+  index: number;
+  onInsertRow?: (index: number, position: "before" | "after") => void;
+  onDeleteRow?: (rowId: string, index: number) => void;
+  onEnter: () => void;
+  onLeave: () => void;
+}) {
+  useEffect(() => {
+    window.addEventListener("scroll", onLeave, true);
+    return () => window.removeEventListener("scroll", onLeave, true);
+  }, [onLeave]);
+
+  if (!rowEl || typeof document === "undefined") return null;
+  const rect = rowEl.getBoundingClientRect();
+
+  return createPortal(
+    <div
+      style={{
+        position: "fixed",
+        top: rect.top + rect.height / 2,
+        left: rect.left,
+        transform: "translate(-50%, -50%)",
+        zIndex: 40,
+      }}
+      onPointerEnter={onEnter}
+      onPointerLeave={onLeave}
+    >
+      <TableMenu
+        ariaLabel={`Row ${index + 1} options`}
+        triggerClassName="flex h-6 w-2 items-center justify-center rounded-full bg-primary text-primary-foreground shadow-sm transition-colors hover:bg-primary/90"
+        trigger={<MoreVertical className="h-3 w-3" />}
+        items={[
+          ...(onInsertRow
+            ? [
+                {
+                  label: "Insert before",
+                  icon: <ArrowUpToLine />,
+                  onSelect: () => onInsertRow(index, "before"),
+                },
+                {
+                  label: "Insert after",
+                  icon: <ArrowDownToLine />,
+                  onSelect: () => onInsertRow(index, "after"),
+                },
+              ]
+            : []),
+          ...(onDeleteRow
+            ? [
+                {
+                  label: "Delete row",
+                  icon: <Trash2 />,
+                  destructive: true,
+                  onSelect: () => onDeleteRow(id, index),
+                },
+              ]
+            : []),
+        ]}
+      />
+    </div>,
+    document.body,
+  );
+}
+f4:["$","div","components/motion/table/row-handle.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"row-handle.tsx"}]]}]]}],["$","$L97",null,{"text":"$122","eventLabel":"components/motion/table/row-handle.tsx"}]]}],"$L123"]}]
+124:T401,"use client";
+
+import { cn } from "@/lib/utils";
+import type { TableColumn } from "./types";
+import { alignText } from "./utils";
+
+export function SkeletonRows<T>({
+  count,
+  columns,
+  selectable,
+  rowHeight,
+}: {
+  count: number;
+  columns: TableColumn<T>[];
+  selectable: boolean;
+  rowHeight: number;
+}) {
+  return (
+    <>
+      {Array.from({ length: count }, (_, r) => (
+        // biome-ignore lint/suspicious/noArrayIndexKey: static placeholder rows
+        <tr key={r} style={{ height: rowHeight }} className="border-border/60 border-b">
+          {selectable ? <td /> : null}
+          {columns.map((column) => (
+            <td key={column.key} className={cn("px-4", alignText(column.align))}>
+              <div
+                className={cn(
+                  "h-3 animate-pulse rounded-full bg-muted",
+                  column.align === "right" ? "ml-auto w-10" : "w-2/3",
+                )}
+              />
+            </td>
+          ))}
+          <td aria-hidden />
+        </tr>
+      ))}
+    </>
+  );
+}
+125:T2c82,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { cn } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "@/lib/utils"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { TableColumn } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./types"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { alignText } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./utils"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> SkeletonRows</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>({</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  count</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  columns</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  selectable</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  rowHeight</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  count</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> number</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  columns</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TableColumn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>[];</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  selectable</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> boolean</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  rowHeight</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> number</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}) {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      {Array.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">from</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">({ length: count }, (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">_</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">r</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">        // biome-ignore lint/suspicious/noArrayIndexKey: static placeholder rows</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">tr</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> key</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{r} </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">style</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{{ height: rowHeight }} </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"border-border/60 border-b"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          {selectable </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">td</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> /> </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          {columns.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">map</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">column</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">            &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">td</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> key</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{column.key} </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">cn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"px-4"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">alignText</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(column.align))}></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">              &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">div</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">                className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">cn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">                  "h-3 animate-pulse rounded-full bg-muted"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">                  column.align </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "right"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> ?</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "ml-auto w-10"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> :</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "w-2/3"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">                )}</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">              /></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">            &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">td</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          ))}</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">td</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> aria-hidden</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> /></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">tr</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      ))}</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"></span></code></pre>f5:["$","div","components/motion/table/skeleton-rows.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"skeleton-rows.tsx"}]]}]]}],["$","$L97",null,{"text":"$124","eventLabel":"components/motion/table/skeleton-rows.tsx"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$125"}}]}]]}]
+126:T2c8b,"use client";
+
+import {
+  ArrowLeftToLine,
+  ArrowRightToLine,
+  ChevronUp,
+  GripVertical,
+  MoreHorizontal,
+  Trash2,
+} from "lucide-react";
+import { motion } from "motion/react";
+import { type PointerEvent as ReactPointerEvent, useEffect } from "react";
+import { createPortal } from "react-dom";
+import { Checkbox } from "@/components/motion/checkbox";
+import { EASE_OUT, SPRING_PRESS } from "@/lib/ease";
+import { cn } from "@/lib/utils";
+import { TableMenu } from "./table-menu";
+import type {
+  HeaderCellRefs,
+  InsertPosition,
+  SortState,
+  TableColumn,
+} from "./types";
+import { alignFlex, alignText, COLUMN_ACTIVE_SHADOW } from "./utils";
+
+export interface TableHeaderProps<T> {
+  columns: TableColumn<T>[];
+  rowHeight: number;
+  reduce: boolean;
+  thRefs: HeaderCellRefs;
+  selectable: boolean;
+  allSelected: boolean;
+  someSelected: boolean;
+  onToggleAll: () => void;
+  sort: SortState | null;
+  onToggleSort: (key: string) => void;
+  resizable: boolean;
+  onResizeStart: (key: string, e: ReactPointerEvent) => void;
+  onResizeMove: (e: ReactPointerEvent) => void;
+  onResizeEnd: (e: ReactPointerEvent) => void;
+  reorderable: boolean;
+  dragKey: string | null;
+  dropIndex: number | null;
+  onReorderStart: (key: string, e: ReactPointerEvent) => void;
+  onReorderMove: (e: ReactPointerEvent) => void;
+  onReorderEnd: (e: ReactPointerEvent) => void;
+  onInsertColumn?: (index: number, position: InsertPosition) => void;
+  onDeleteColumn?: (columnKey: string, index: number) => void;
+  onColumnRename?: (columnKey: string, value: string) => void;
+  activeColumn: string | null;
+  onColumnActivate?: (key: string) => void;
+  onColumnDeactivate?: () => void;
+}
+
+/** Column insert / delete menu items shared by the header cell and the portal handle. */
+function columnMenuItems<T>(
+  column: TableColumn<T>,
+  index: number,
+  onInsertColumn?: (index: number, position: InsertPosition) => void,
+  onDeleteColumn?: (columnKey: string, index: number) => void,
+) {
+  return [
+    ...(onInsertColumn
+      ? [
+          {
+            label: "Insert before",
+            icon: <ArrowLeftToLine />,
+            onSelect: () => onInsertColumn(index, "before"),
+          },
+          {
+            label: "Insert after",
+            icon: <ArrowRightToLine />,
+            onSelect: () => onInsertColumn(index, "after"),
+          },
+        ]
+      : []),
+    ...(onDeleteColumn
+      ? [
+          {
+            label: "Delete column",
+            icon: <Trash2 />,
+            destructive: true,
+            onSelect: () => onDeleteColumn(column.key, index),
+          },
+        ]
+      : []),
+  ];
+}
+
+/** The ellipse handle, portaled so it can sit on the column's top border without
+ * the scroll container clipping it. Straddles the border to bridge hover. */
+function ColumnHandle<T>({
+  column,
+  index,
+  thRefs,
+  onInsertColumn,
+  onDeleteColumn,
+  onEnter,
+  onLeave,
+}: {
+  column: TableColumn<T>;
+  index: number;
+  thRefs: HeaderCellRefs;
+  onInsertColumn?: (index: number, position: InsertPosition) => void;
+  onDeleteColumn?: (columnKey: string, index: number) => void;
+  onEnter: () => void;
+  onLeave: () => void;
+}) {
+  useEffect(() => {
+    window.addEventListener("scroll", onLeave, true);
+    return () => window.removeEventListener("scroll", onLeave, true);
+  }, [onLeave]);
+
+  const el = thRefs.current[column.key];
+  if (!el || typeof document === "undefined") return null;
+  const rect = el.getBoundingClientRect();
+
+  return createPortal(
+    <div
+      style={{
+        position: "fixed",
+        top: rect.top,
+        left: rect.left + rect.width / 2,
+        transform: "translate(-50%, -50%)",
+        zIndex: 40,
+      }}
+      onPointerEnter={onEnter}
+      onPointerLeave={onLeave}
+    >
+      <TableMenu
+        ariaLabel={`${column.key} column options`}
+        triggerClassName="flex h-2 w-6 items-center justify-center rounded-full bg-primary text-primary-foreground shadow-sm transition-colors hover:bg-primary/90"
+        trigger={<MoreHorizontal className="h-3 w-3" />}
+        items={columnMenuItems(column, index, onInsertColumn, onDeleteColumn)}
+      />
+    </div>,
+    document.body,
+  );
+}
+
+export function TableHeader<T>({
+  columns,
+  rowHeight,
+  reduce,
+  thRefs,
+  selectable,
+  allSelected,
+  someSelected,
+  onToggleAll,
+  sort,
+  onToggleSort,
+  resizable,
+  onResizeStart,
+  onResizeMove,
+  onResizeEnd,
+  reorderable,
+  dragKey,
+  dropIndex,
+  onReorderStart,
+  onReorderMove,
+  onReorderEnd,
+  onInsertColumn,
+  onDeleteColumn,
+  onColumnRename,
+  activeColumn,
+  onColumnActivate,
+  onColumnDeactivate,
+}: TableHeaderProps<T>) {
+  const hasColumnMenu = !!(onInsertColumn || onDeleteColumn);
+  const activeIndex = columns.findIndex((c) => c.key === activeColumn);
+  return (
+    <>
+      {hasColumnMenu && activeColumn && activeIndex >= 0 ? (
+        <ColumnHandle
+          column={columns[activeIndex]}
+          index={activeIndex}
+          thRefs={thRefs}
+          onInsertColumn={onInsertColumn}
+          onDeleteColumn={onDeleteColumn}
+          onEnter={() => onColumnActivate?.(activeColumn)}
+          onLeave={() => onColumnDeactivate?.()}
+        />
+      ) : null}
+      <thead>
+      <tr style={{ height: rowHeight }}>
+        {selectable ? (
+          <th className="sticky top-0 z-10 border-border border-b bg-muted">
+            <div className="flex items-center justify-center">
+              <Checkbox
+                checked={allSelected}
+                indeterminate={!allSelected && someSelected}
+                onCheckedChange={onToggleAll}
+                aria-label="Select all rows"
+              />
+            </div>
+          </th>
+        ) : null}
+        {columns.map((column, index) => {
+          const active = sort?.key === column.key;
+          const isDragging = dragKey === column.key;
+          const isActive = activeColumn === column.key;
+          return (
+            <th
+              key={column.key}
+              ref={(el) => {
+                thRefs.current[column.key] = el;
+              }}
+              onPointerEnter={() => onColumnActivate?.(column.key)}
+              onPointerLeave={() => onColumnDeactivate?.()}
+              style={isActive ? { boxShadow: COLUMN_ACTIVE_SHADOW } : undefined}
+              aria-sort={
+                active
+                  ? sort?.direction === "asc"
+                    ? "ascending"
+                    : "descending"
+                  : undefined
+              }
+              data-drop={dragKey ? dropIndex === index : undefined}
+              data-dropend={
+                dragKey
+                  ? dropIndex === columns.length && index === columns.length - 1
+                  : undefined
+              }
+              className={cn(
+                "group sticky top-0 z-10 border-border border-b bg-muted p-0 font-medium text-muted-foreground",
+                "data-[drop=true]:before:absolute data-[drop=true]:before:inset-y-0 data-[drop=true]:before:left-0 data-[drop=true]:before:w-0.5 data-[drop=true]:before:bg-primary",
+                "data-[dropend=true]:after:absolute data-[dropend=true]:after:inset-y-0 data-[dropend=true]:after:right-0 data-[dropend=true]:after:w-0.5 data-[dropend=true]:after:bg-primary",
+              )}
+            >
+              <motion.div
+                className={cn(
+                  "flex h-full items-center",
+                  alignFlex(column.align),
+                )}
+                style={{ height: rowHeight }}
+                animate={
+                  reduce
+                    ? { opacity: isDragging ? 0.5 : 1 }
+                    : {
+                        scale: isDragging ? 1.04 : 1,
+                        opacity: isDragging ? 0.5 : 1,
+                      }
+                }
+                transition={SPRING_PRESS}
+              >
+                {reorderable ? (
+                  <button
+                    type="button"
+                    aria-label={`Reorder ${column.key} column`}
+                    onPointerDown={(e) => onReorderStart(column.key, e)}
+                    onPointerMove={onReorderMove}
+                    onPointerUp={onReorderEnd}
+                    className="flex h-full cursor-grab touch-none items-center pl-2 text-muted-foreground/60 transition-colors hover:text-foreground active:cursor-grabbing"
+                  >
+                    <GripVertical className="h-3.5 w-3.5" />
+                  </button>
+                ) : null}
+                {column.sortable ? (
+                  <button
+                    type="button"
+                    onClick={() => onToggleSort(column.key)}
+                    className={cn(
+                      "flex h-full min-w-0 flex-1 select-none items-center gap-1 px-4 transition-colors hover:text-foreground",
+                      alignFlex(column.align),
+                      active && "text-foreground",
+                    )}
+                  >
+                    <span className="truncate">{column.header}</span>
+                    <motion.span
+                      aria-hidden
+                      className="inline-flex shrink-0"
+                      animate={{
+                        rotate: active && sort?.direction === "desc" ? 180 : 0,
+                        opacity: active ? 1 : 0.35,
+                      }}
+                      transition={
+                        reduce
+                          ? { duration: 0 }
+                          : { duration: 0.18, ease: EASE_OUT }
+                      }
+                    >
+                      <ChevronUp className="h-3.5 w-3.5" />
+                    </motion.span>
+                  </button>
+                ) : onColumnRename ? (
+                  <input
+                    value={
+                      typeof column.header === "string" ? column.header : ""
+                    }
+                    aria-label={`Rename ${column.key} column`}
+                    size={1}
+                    onChange={(e) =>
+                      onColumnRename(column.key, e.target.value)
+                    }
+                    className={cn(
+                      "min-w-0 flex-1 truncate appearance-none rounded-md border-0 bg-transparent px-4 font-medium text-muted-foreground outline-none transition-colors focus:bg-muted focus:text-foreground",
+                      alignText(column.align),
+                    )}
+                  />
+                ) : (
+                  <span
+                    className={cn(
+                      "min-w-0 flex-1 truncate px-4",
+                      alignText(column.align),
+                    )}
+                  >
+                    {column.header}
+                  </span>
+                )}
+              </motion.div>
+              {resizable ? (
+                <button
+                  type="button"
+                  aria-label={`Resize ${column.key} column`}
+                  tabIndex={-1}
+                  onPointerDown={(e) => onResizeStart(column.key, e)}
+                  onPointerMove={onResizeMove}
+                  onPointerUp={onResizeEnd}
+                  className="absolute top-0 right-0 h-full w-1.5 cursor-col-resize touch-none bg-transparent transition-colors hover:bg-primary/40"
+                />
+              ) : null}
+            </th>
+          );
+        })}
+        <th
+          aria-hidden
+          className="sticky top-0 z-10 border-border border-b bg-muted"
+        />
+      </tr>
+    </thead>
+    </>
+  );
+}
+f6:["$","div","components/motion/table/table-header.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"table-header.tsx"}]]}]]}],["$","$L97",null,{"text":"$126","eventLabel":"components/motion/table/table-header.tsx"}]]}],"$L127"]}]
+128:Tdb0,import type { ReactNode } from "react";
+
+export type SortDirection = "asc" | "desc";
+
+export type SortState = {
+  key: string;
+  direction: SortDirection;
+};
+
+export type TableColumn<T> = {
+  /** Stable key; also the default object property read for the cell + sort value. */
+  key: string;
+  /** Header content. */
+  header: ReactNode;
+  /** Allow clicking the header to sort by this column. */
+  sortable?: boolean;
+  /** Cell text alignment. */
+  align?: "left" | "center" | "right";
+  /** Column width as a CSS length, e.g. "160px" or "20%". Omit to share remaining space equally. */
+  width?: string;
+  /** Custom cell renderer. Falls back to `row[key]`. */
+  cell?: (row: T) => ReactNode;
+  /** Render an inline text input for this column's cells (ignored when `cell` is set). */
+  editable?: boolean;
+  /** Value used for sorting. Falls back to `row[key]`. */
+  sortValue?: (row: T) => string | number;
+};
+
+export type InsertPosition = "before" | "after";
+
+export interface TableProps<T> {
+  data: T[];
+  columns: TableColumn<T>[];
+  /** Stable id per row, required for correct selection across sorts. Defaults to row index. */
+  getRowId?: (row: T, index: number) => string;
+  /** Render a leading checkbox column with select-all in the header. */
+  selectable?: boolean;
+  selectedRowIds?: string[];
+  defaultSelectedRowIds?: string[];
+  onSelectionChange?: (ids: string[]) => void;
+  sort?: SortState | null;
+  defaultSort?: SortState | null;
+  onSortChange?: (sort: SortState | null) => void;
+  /** Allow dragging the right edge of a header to resize that column. */
+  resizable?: boolean;
+  /** Minimum column width in px when resizing. */
+  minColumnWidth?: number;
+  onColumnResize?: (key: string, width: number) => void;
+  /** Allow dragging a header grip to reorder columns. */
+  reorderable?: boolean;
+  onColumnOrderChange?: (keys: string[]) => void;
+  /** Called when an `editable` cell changes. */
+  onCellEdit?: (rowId: string, columnKey: string, value: string) => void;
+  /** When set, non-sortable headers become editable inputs for the column name. */
+  onColumnRename?: (columnKey: string, value: string) => void;
+  /** Enables the row menu (Insert before / after). Receives the target index. */
+  onInsertRow?: (index: number, position: InsertPosition) => void;
+  /** Enables Delete in the row menu. */
+  onDeleteRow?: (rowId: string, index: number) => void;
+  /** Enables the column menu (Insert before / after). Receives the target column index. */
+  onInsertColumn?: (index: number, position: InsertPosition) => void;
+  /** Enables Delete in the column menu. */
+  onDeleteColumn?: (columnKey: string, index: number) => void;
+  /** Fixed row height in px — required for virtualization. */
+  rowHeight?: number;
+  /** Scroll viewport height in px. */
+  height?: number;
+  /** Rows rendered above/below the viewport. */
+  overscan?: number;
+  /** Fires when the viewport scrolls near the bottom — load the next page. */
+  onEndReached?: () => void;
+  /** Currently fetching — shows skeleton rows and pauses `onEndReached`. */
+  loading?: boolean;
+  /** How many skeleton rows to show while loading more (default 3). */
+  skeletonRows?: number;
+  emptyState?: ReactNode;
+  className?: string;
+}
+
+/** A data row paired with its stable id. */
+export type TableRow<T> = { row: T; id: string };
+
+/** Ref map from column key to its header cell, shared across the resize/reorder hooks. */
+export type HeaderCellRefs = {
+  current: Record<string, HTMLTableCellElement | null>;
+};
+f7:["$","div","components/motion/table/types.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"types.ts"}]]}]]}],["$","$L97",null,{"text":"$128","eventLabel":"components/motion/table/types.ts"}]]}],"$L129"]}]
+12a:Tc39,import {
+  type PointerEvent as ReactPointerEvent,
+  useCallback,
+  useMemo,
+  useState,
+} from "react";
+import type { HeaderCellRefs, TableColumn } from "./types";
+
+export function useColumnReorder<T>({
+  columns,
+  thRefs,
+  onColumnOrderChange,
+}: {
+  columns: TableColumn<T>[];
+  thRefs: HeaderCellRefs;
+  onColumnOrderChange?: (keys: string[]) => void;
+}) {
+  const [order, setOrder] = useState<string[]>(() =>
+    columns.map((c) => c.key),
+  );
+  const [dragKey, setDragKey] = useState<string | null>(null);
+  const [dropIndex, setDropIndex] = useState<number | null>(null);
+
+  // Apply the current order, tolerating columns added/removed at runtime. New
+  // columns are placed at their position in `columns` (after their left
+  // neighbor), not appended — so an inserted column lands where it was added.
+  const orderedColumns = useMemo(() => {
+    const byKey = new Map(columns.map((c) => [c.key, c]));
+    const resultKeys = order.filter((k) => byKey.has(k));
+    const present = new Set(resultKeys);
+    columns.forEach((column, i) => {
+      if (present.has(column.key)) return;
+      let at = resultKeys.length;
+      if (i === 0) {
+        at = 0;
+      } else {
+        const idx = resultKeys.indexOf(columns[i - 1].key);
+        at = idx === -1 ? i : idx + 1;
+      }
+      resultKeys.splice(at, 0, column.key);
+      present.add(column.key);
+    });
+    return resultKeys
+      .map((k) => byKey.get(k))
+      .filter((c): c is TableColumn<T> => c !== undefined);
+  }, [order, columns]);
+
+  const dropIndexFor = useCallback(
+    (clientX: number) => {
+      for (let i = 0; i < orderedColumns.length; i++) {
+        const rect =
+          thRefs.current[orderedColumns[i].key]?.getBoundingClientRect();
+        if (rect && clientX < rect.left + rect.width / 2) return i;
+      }
+      return orderedColumns.length;
+    },
+    [orderedColumns, thRefs],
+  );
+
+  const startReorder = useCallback((key: string, e: ReactPointerEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+    setDragKey(key);
+    e.currentTarget.setPointerCapture(e.pointerId);
+  }, []);
+
+  const moveReorder = useCallback(
+    (e: ReactPointerEvent) => {
+      if (!dragKey) return;
+      setDropIndex(dropIndexFor(e.clientX));
+    },
+    [dragKey, dropIndexFor],
+  );
+
+  const endReorder = useCallback(
+    (e: ReactPointerEvent) => {
+      if (e.currentTarget.hasPointerCapture(e.pointerId)) {
+        e.currentTarget.releasePointerCapture(e.pointerId);
+      }
+      if (dragKey && dropIndex !== null) {
+        const keys = orderedColumns.map((c) => c.key);
+        const from = keys.indexOf(dragKey);
+        if (from !== -1) {
+          const without = keys.filter((_, i) => i !== from);
+          let to = dropIndex;
+          if (from < to) to--;
+          without.splice(to, 0, dragKey);
+          setOrder(without);
+          onColumnOrderChange?.(without);
+        }
+      }
+      setDragKey(null);
+      setDropIndex(null);
+    },
+    [dragKey, dropIndex, orderedColumns, onColumnOrderChange],
+  );
+
+  return {
+    orderedColumns,
+    dragKey,
+    dropIndex,
+    startReorder,
+    moveReorder,
+    endReorder,
+  };
+}
+f8:["$","div","components/motion/table/use-column-reorder.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"use-column-reorder.ts"}]]}]]}],["$","$L97",null,{"text":"$12a","eventLabel":"components/motion/table/use-column-reorder.ts"}]]}],"$L12b"]}]
+12c:T930,import {
+  type PointerEvent as ReactPointerEvent,
+  useCallback,
+  useRef,
+  useState,
+} from "react";
+import type { HeaderCellRefs, TableColumn } from "./types";
+
+export function useColumnResize<T>({
+  orderedColumns,
+  thRefs,
+  minColumnWidth,
+  onColumnResize,
+}: {
+  orderedColumns: TableColumn<T>[];
+  thRefs: HeaderCellRefs;
+  minColumnWidth: number;
+  onColumnResize?: (key: string, width: number) => void;
+}) {
+  const resizeRef = useRef<{
+    key: string;
+    startX: number;
+    startWidth: number;
+  } | null>(null);
+  const [widths, setWidths] = useState<Record<string, number>>({});
+
+  const startResize = useCallback(
+    (key: string, e: ReactPointerEvent) => {
+      e.preventDefault();
+      e.stopPropagation();
+      // Freeze every column to its current pixel width so resizing one only
+      // moves the trailing spacer, never the other columns.
+      setWidths((prev) => {
+        const snapshot = { ...prev };
+        for (const column of orderedColumns) {
+          if (snapshot[column.key] == null) {
+            const measured = thRefs.current[column.key]?.getBoundingClientRect()
+              .width;
+            snapshot[column.key] = measured
+              ? Math.round(measured)
+              : minColumnWidth;
+          }
+        }
+        resizeRef.current = {
+          key,
+          startX: e.clientX,
+          startWidth: snapshot[key],
+        };
+        return snapshot;
+      });
+      e.currentTarget.setPointerCapture(e.pointerId);
+    },
+    [minColumnWidth, orderedColumns, thRefs],
+  );
+
+  const moveResize = useCallback(
+    (e: ReactPointerEvent) => {
+      const state = resizeRef.current;
+      if (!state) return;
+      const width = Math.max(
+        minColumnWidth,
+        state.startWidth + (e.clientX - state.startX),
+      );
+      setWidths((prev) => ({ ...prev, [state.key]: width }));
+    },
+    [minColumnWidth],
+  );
+
+  const endResize = useCallback(
+    (e: ReactPointerEvent) => {
+      const state = resizeRef.current;
+      resizeRef.current = null;
+      if (e.currentTarget.hasPointerCapture(e.pointerId)) {
+        e.currentTarget.releasePointerCapture(e.pointerId);
+      }
+      if (state) {
+        onColumnResize?.(state.key, widths[state.key] ?? state.startWidth);
+      }
+    },
+    [onColumnResize, widths],
+  );
+
+  return { widths, startResize, moveResize, endResize };
+}
+f9:["$","div","components/motion/table/use-column-resize.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"use-column-resize.ts"}]]}]]}],["$","$L97",null,{"text":"$12c","eventLabel":"components/motion/table/use-column-resize.ts"}]]}],"$L12d"]}]
+12e:T6cd,import { useCallback, useMemo, useState } from "react";
+import type { SortState, TableColumn, TableRow } from "./types";
+import { readSortValue } from "./utils";
+
+export function useColumnSort<T>({
+  rows,
+  columns,
+  sort: sortProp,
+  defaultSort = null,
+  onSortChange,
+}: {
+  rows: TableRow<T>[];
+  columns: TableColumn<T>[];
+  sort?: SortState | null;
+  defaultSort?: SortState | null;
+  onSortChange?: (sort: SortState | null) => void;
+}) {
+  const [internalSort, setInternalSort] = useState<SortState | null>(
+    defaultSort,
+  );
+  const sort = sortProp !== undefined ? sortProp : internalSort;
+
+  const commit = useCallback(
+    (next: SortState | null) => {
+      if (sortProp === undefined) setInternalSort(next);
+      onSortChange?.(next);
+    },
+    [sortProp, onSortChange],
+  );
+
+  const toggleSort = useCallback(
+    (key: string) => {
+      if (!sort || sort.key !== key) {
+        commit({ key, direction: "asc" });
+      } else if (sort.direction === "asc") {
+        commit({ key, direction: "desc" });
+      } else {
+        commit(null);
+      }
+    },
+    [sort, commit],
+  );
+
+  const sortedRows = useMemo(() => {
+    if (!sort) return rows;
+    const column = columns.find((c) => c.key === sort.key);
+    if (!column) return rows;
+    const copy = [...rows];
+    copy.sort((a, b) => {
+      const av = readSortValue(a.row, column);
+      const bv = readSortValue(b.row, column);
+      let cmp: number;
+      if (typeof av === "number" && typeof bv === "number") {
+        cmp = av - bv;
+      } else {
+        cmp = String(av).localeCompare(String(bv));
+      }
+      return sort.direction === "asc" ? cmp : -cmp;
+    });
+    return copy;
+  }, [rows, sort, columns]);
+
+  return { sort, sortedRows, toggleSort };
+}
+12f:T53ff,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { useCallback, useMemo, useState } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { SortState, TableColumn, TableRow } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./types"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { readSortValue } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./utils"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useColumnSort</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>({</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  rows</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  columns</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  sort</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">sortProp</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  defaultSort</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  onSortChange</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  rows</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TableRow</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>[];</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  columns</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TableColumn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>[];</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  sort</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> SortState</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  defaultSort</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> SortState</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">  onSortChange</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">sort</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> SortState</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> void</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}) {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">internalSort</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">setInternalSort</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useState</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">SortState</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>(</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    defaultSort,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> sort</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> sortProp </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">!==</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> ?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> sortProp </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> internalSort;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> commit</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">next</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> SortState</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (sortProp </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">setInternalSort</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(next);</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      onSortChange</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">?.(next);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    },</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    [sortProp, onSortChange],</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> toggleSort</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">key</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">!</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">sort </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">||</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> sort.key </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">!==</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> key) {</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        commit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">({ key, direction: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"asc"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> });</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">else</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (sort.direction </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "asc"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        commit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">({ key, direction: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"desc"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> });</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">else</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        commit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      }</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    },</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    [sort, commit],</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> sortedRows</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useMemo</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(() </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">!</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">sort) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> rows;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> column</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> columns.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">find</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">c</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> c.key </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> sort.key);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">!</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">column) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> rows;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> copy</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">rows];</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    copy.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">sort</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">a</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">b</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> av</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> readSortValue</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(a.row, column);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> bv</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> readSortValue</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(b.row, column);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      let</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> cmp</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> number</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">typeof</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> av </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "number"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> &#x26;&#x26;</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> typeof</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> bv </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "number"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        cmp </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> av </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> bv;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">else</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        cmp </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> String</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(av).</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">localeCompare</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">String</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(bv));</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      }</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> sort.direction </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "asc"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> ?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> cmp </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> -</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">cmp;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    });</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> copy;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  }, [rows, sort, columns]);</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { sort, sortedRows, toggleSort };</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"></span></code></pre>fa:["$","div","components/motion/table/use-column-sort.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"use-column-sort.ts"}]]}]]}],["$","$L97",null,{"text":"$12e","eventLabel":"components/motion/table/use-column-sort.ts"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$12f"}}]}]]}]
+130:T65c,import { useCallback, useMemo, useState } from "react";
+import type { TableRow } from "./types";
+
+export function useRowSelection<T>({
+  sortedRows,
+  selectedRowIds,
+  defaultSelectedRowIds,
+  onSelectionChange,
+}: {
+  sortedRows: TableRow<T>[];
+  selectedRowIds?: string[];
+  defaultSelectedRowIds?: string[];
+  onSelectionChange?: (ids: string[]) => void;
+}) {
+  const [internalSelected, setInternalSelected] = useState<Set<string>>(
+    () => new Set(defaultSelectedRowIds),
+  );
+  const selected = useMemo(
+    () =>
+      selectedRowIds !== undefined
+        ? new Set(selectedRowIds)
+        : internalSelected,
+    [selectedRowIds, internalSelected],
+  );
+
+  const commit = useCallback(
+    (next: Set<string>) => {
+      if (selectedRowIds === undefined) setInternalSelected(next);
+      onSelectionChange?.([...next]);
+    },
+    [selectedRowIds, onSelectionChange],
+  );
+
+  const allSelected =
+    sortedRows.length > 0 && sortedRows.every((r) => selected.has(r.id));
+  const someSelected = sortedRows.some((r) => selected.has(r.id));
+
+  const toggleAll = useCallback(() => {
+    const next = new Set(selected);
+    if (allSelected) {
+      for (const r of sortedRows) next.delete(r.id);
+    } else {
+      for (const r of sortedRows) next.add(r.id);
+    }
+    commit(next);
+  }, [allSelected, sortedRows, selected, commit]);
+
+  const toggleRow = useCallback(
+    (id: string) => {
+      const next = new Set(selected);
+      if (next.has(id)) next.delete(id);
+      else next.add(id);
+      commit(next);
+    },
+    [selected, commit],
+  );
+
+  return { selected, allSelected, someSelected, toggleAll, toggleRow };
+}
+131:T4491,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { useCallback, useMemo, useState } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { TableRow } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./types"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useRowSelection</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>({</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  sortedRows</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  selectedRowIds</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  defaultSelectedRowIds</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  onSelectionChange</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  sortedRows</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TableRow</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>[];</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  selectedRowIds</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[];</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  defaultSelectedRowIds</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[];</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">  onSelectionChange</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">ids</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[]) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> void</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}) {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">internalSelected</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">setInternalSelected</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useState</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">Set</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>>(</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    () </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> new</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Set</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(defaultSelectedRowIds),</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> selected</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useMemo</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    () </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      selectedRowIds </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">!==</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">        ?</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> new</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Set</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(selectedRowIds)</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">        :</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> internalSelected,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    [selectedRowIds, internalSelected],</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> commit</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">next</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Set</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (selectedRowIds </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">setInternalSelected</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(next);</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      onSelectionChange</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">?.([</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">next]);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    },</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    [selectedRowIds, onSelectionChange],</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> allSelected</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    sortedRows.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">length</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> ></span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 0</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> &#x26;&#x26;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> sortedRows.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">every</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">r</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> selected.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">has</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(r.id));</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> someSelected</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> sortedRows.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">some</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">r</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> selected.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">has</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(r.id));</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> toggleAll</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(() </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> next</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> new</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Set</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(selected);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (allSelected) {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      for</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> r</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> of</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> sortedRows) next.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">delete</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(r.id);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">else</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      for</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> r</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> of</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> sortedRows) next.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">add</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(r.id);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    }</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">    commit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(next);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  }, [allSelected, sortedRows, selected, commit]);</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> toggleRow</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">id</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> next</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> new</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Set</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(selected);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (next.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">has</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(id)) next.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">delete</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(id);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      else</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> next.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">add</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(id);</span></span>
+<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      commit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(next);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    },</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    [selected, commit],</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { selected, allSelected, someSelected, toggleAll, toggleRow };</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"></span></code></pre>fb:["$","div","components/motion/table/use-row-selection.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"use-row-selection.ts"}]]}]]}],["$","$L97",null,{"text":"$130","eventLabel":"components/motion/table/use-row-selection.ts"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$131"}}]}]]}]
+132:T432,import type { ReactNode } from "react";
+import type { TableColumn } from "./types";
+
+export const CHECKBOX_PX = 48;
+export const CHECKBOX_WIDTH = `${CHECKBOX_PX}px`;
+
+/** Highlights the top edge of the active column's header cell. */
+export const COLUMN_ACTIVE_SHADOW = "inset 0 1px 0 var(--color-primary)";
+
+export function alignFlex(align: TableColumn<unknown>["align"]) {
+  if (align === "right") return "justify-end";
+  if (align === "center") return "justify-center";
+  return "justify-start";
+}
+
+export function alignText(align: TableColumn<unknown>["align"]) {
+  if (align === "right") return "text-right";
+  if (align === "center") return "text-center";
+  return "text-left";
+}
+
+export function readCell<T>(row: T, column: TableColumn<T>): ReactNode {
+  if (column.cell) return column.cell(row);
+  return (row as Record<string, ReactNode>)[column.key];
+}
+
+export function readSortValue<T>(
+  row: T,
+  column: TableColumn<T>,
+): string | number {
+  if (column.sortValue) return column.sortValue(row);
+  return (row as Record<string, string | number>)[column.key];
+}
+133:T3388,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { ReactNode } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { TableColumn } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./types"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> CHECKBOX_PX</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 48</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> CHECKBOX_WIDTH</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> `${</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">CHECKBOX_PX</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">}px`</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Highlights the top edge of the active column's header cell. */</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> COLUMN_ACTIVE_SHADOW</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "inset 0 1px 0 var(--color-primary)"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> alignFlex</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">align</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TableColumn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">unknown</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>[</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"align"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">]) {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (align </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "right"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">return</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "justify-end"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (align </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "center"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">return</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "justify-center"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "justify-start"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> alignText</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">align</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TableColumn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">unknown</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>[</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"align"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">]) {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (align </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "right"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">return</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "text-right"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (align </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "center"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">return</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "text-center"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "text-left"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> readCell</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">row</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">column</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TableColumn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>)</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ReactNode</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (column.cell) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> column.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">cell</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(row);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (row </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Record</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">ReactNode</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>)[column.key];</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> readSortValue</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>(</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  row</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  column</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TableColumn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">)</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> number</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (column.sortValue) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> column.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">sortValue</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(row);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (row </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Record</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> number</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>)[column.key];</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
+<span class="line"></span></code></pre>fc:["$","div","components/motion/table/utils.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"utils.ts"}]]}]]}],["$","$L97",null,{"text":"$132","eventLabel":"components/motion/table/utils.ts"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$133"}}]}]]}]
+134:Tee7,"use client";
+
+import { AnimatePresence, motion, useReducedMotion } from "motion/react";
+import { useId } from "react";
+import { EASE_OUT, SPRING_PRESS } from "@/lib/ease";
+import { cn } from "@/lib/utils";
+
+const CHECK_PATH = "M5 13l4 4L19 7";
+const INDETERMINATE_PATH = "M6 12h12";
+
+export interface CheckboxProps {
+  checked: boolean;
+  onCheckedChange: (checked: boolean) => void;
+  disabled?: boolean;
+  indeterminate?: boolean;
+  label?: string;
+  className?: string;
+  id?: string;
+  "aria-label"?: string;
+}
+
+export function Checkbox({
+  checked,
+  onCheckedChange,
+  disabled,
+  indeterminate,
+  label,
+  className,
+  id: idProp,
+  "aria-label": ariaLabel,
+}: CheckboxProps) {
+  const autoId = useId();
+  const id = idProp ?? autoId;
+  const reduce = useReducedMotion();
+  const showMark = checked || indeterminate;
+  const path = indeterminate ? INDETERMINATE_PATH : CHECK_PATH;
+
+  return (
+    <label
+      htmlFor={id}
+      className={cn(
+        "inline-flex items-center gap-3",
+        disabled ? "cursor-not-allowed" : "cursor-pointer",
+        className,
+      )}
+    >
+      <motion.button
+        id={id}
+        type="button"
+        role="checkbox"
+        aria-checked={indeterminate ? "mixed" : checked}
+        aria-label={ariaLabel}
+        disabled={disabled}
+        onClick={() => !disabled && onCheckedChange(!checked)}
+        whileTap={reduce || disabled ? undefined : { scale: 0.92 }}
+        transition={SPRING_PRESS}
+        data-state={
+          checked ? "checked" : indeterminate ? "indeterminate" : "unchecked"
+        }
+        className={cn(
+          "inline-flex h-5 w-5 shrink-0 items-center justify-center rounded-md border-2 outline-none transition-colors duration-200",
+          "focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background",
+          "disabled:cursor-not-allowed disabled:opacity-60",
+          showMark
+            ? "border-primary bg-primary text-primary-foreground"
+            : "border-muted-foreground/50 bg-background hover:border-muted-foreground",
+        )}
+      >
+        <AnimatePresence initial={false}>
+          {showMark ? (
+            <motion.svg
+              key={indeterminate ? "indeterminate" : "checked"}
+              width="12"
+              height="12"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth={3}
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              initial={reduce ? { opacity: 1 } : { opacity: 0, scale: 0.5 }}
+              animate={reduce ? { opacity: 1 } : { opacity: 1, scale: 1 }}
+              exit={
+                reduce
+                  ? { opacity: 0 }
+                  : { opacity: 0, scale: 0.5, filter: "blur(4px)" }
+              }
+              transition={
+                reduce ? { duration: 0 } : { duration: 0.16, ease: EASE_OUT }
+              }
+              aria-hidden
+            >
+              <title>{indeterminate ? "Partially selected" : "Selected"}</title>
+              <motion.path
+                d={path}
+                initial={reduce ? { pathLength: 1 } : { pathLength: 0 }}
+                animate={{ pathLength: 1 }}
+                transition={
+                  reduce
+                    ? { duration: 0 }
+                    : {
+                        duration: indeterminate ? 0.2 : 0.3,
+                        ease: EASE_OUT,
+                        delay: 0.04,
+                      }
+                }
+              />
+            </motion.svg>
+          ) : null}
+        </AnimatePresence>
+      </motion.button>
+      {label ? (
+        <span className={cn("select-none text-sm text-foreground", disabled && "opacity-60")}>
+          {label}
+        </span>
+      ) : null}
+    </label>
+  );
+}
+fd:["$","div","components/motion/checkbox.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"checkbox.tsx"}]]}]]}],["$","$L97",null,{"text":"$134","eventLabel":"components/motion/checkbox.tsx"}]]}],"$L135"]}]
+136:Tea8,"use client";
+
+import { motion, useReducedMotion } from "motion/react";
+import { type ReactNode, useEffect, useRef, useState } from "react";
+import { createPortal } from "react-dom";
+import { SPRING_PANEL } from "@/lib/ease";
+import { cn } from "@/lib/utils";
+
+export type TableMenuItem = {
+  label: string;
+  icon?: ReactNode;
+  onSelect: () => void;
+  destructive?: boolean;
+};
+
+const MENU_WIDTH = 188;
+
+export function TableMenu({
+  items,
+  ariaLabel,
+  trigger,
+  triggerClassName,
+}: {
+  items: TableMenuItem[];
+  ariaLabel: string;
+  trigger: ReactNode;
+  triggerClassName?: string;
+}) {
+  const reduce = useReducedMotion();
+  const triggerRef = useRef<HTMLButtonElement>(null);
+  const [coords, setCoords] = useState<{ top: number; left: number } | null>(
+    null,
+  );
+  const open = coords !== null;
+
+  useEffect(() => {
+    if (!open) return;
+    const close = () => setCoords(null);
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") close();
+    };
+    // Close on any scroll (the trigger moves) or resize; fixed coords go stale.
+    window.addEventListener("scroll", close, true);
+    window.addEventListener("resize", close);
+    window.addEventListener("keydown", onKey);
+    return () => {
+      window.removeEventListener("scroll", close, true);
+      window.removeEventListener("resize", close);
+      window.removeEventListener("keydown", onKey);
+    };
+  }, [open]);
+
+  const toggle = () => {
+    if (open) {
+      setCoords(null);
+      return;
+    }
+    const el = triggerRef.current;
+    if (!el) return;
+    const r = el.getBoundingClientRect();
+    setCoords({
+      top: r.bottom + 4,
+      left: Math.max(8, r.right - MENU_WIDTH),
+    });
+  };
+
+  return (
+    <>
+      <button
+        ref={triggerRef}
+        type="button"
+        aria-label={ariaLabel}
+        aria-haspopup="menu"
+        aria-expanded={open}
+        onClick={(e) => {
+          e.stopPropagation();
+          toggle();
+        }}
+        className={triggerClassName}
+      >
+        {trigger}
+      </button>
+      {open && typeof document !== "undefined"
+        ? createPortal(
+            <>
+              <div
+                className="fixed inset-0 z-40"
+                onPointerDown={() => setCoords(null)}
+              />
+              <motion.div
+                role="menu"
+                className="fixed z-50 overflow-hidden rounded-xl border border-border bg-background p-1 shadow-xl"
+                style={{ top: coords.top, left: coords.left, width: MENU_WIDTH }}
+                initial={
+                  reduce ? { opacity: 0 } : { opacity: 0, scale: 0.96, y: -4 }
+                }
+                animate={
+                  reduce ? { opacity: 1 } : { opacity: 1, scale: 1, y: 0 }
+                }
+                transition={reduce ? { duration: 0 } : SPRING_PANEL}
+              >
+                {items.map((item) => (
+                  <button
+                    key={item.label}
+                    type="button"
+                    role="menuitem"
+                    onClick={() => {
+                      setCoords(null);
+                      item.onSelect();
+                    }}
+                    className={cn(
+                      "flex w-full items-center gap-2.5 rounded-lg px-2.5 py-1.5 text-left text-sm transition-colors [&_svg]:h-4 [&_svg]:w-4",
+                      item.destructive
+                        ? "text-rose-500 hover:bg-rose-500/10"
+                        : "text-foreground hover:bg-muted",
+                    )}
+                  >
+                    {item.icon}
+                    {item.label}
+                  </button>
+                ))}
+              </motion.div>
+            </>,
+            document.body,
+          )
+        : null}
+    </>
+  );
+}
+fe:["$","div","components/motion/table/table-menu.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"table-menu.tsx"}]]}]]}],["$","$L97",null,{"text":"$136","eventLabel":"components/motion/table/table-menu.tsx"}]]}],"$L137"]}]
+138:Tbff,"use client";
+
+import { animate, motion, MotionConfig, useReducedMotion } from "motion/react";
+import { useEffect, useId, useRef, useState } from "react";
+import { cn } from "@/lib/utils";
+
+// Heavy, deliberate thumb — high mass keeps the travel weighty without wobble.
+const THUMB_SPRING = { type: "spring", stiffness: 800, damping: 80, mass: 4 } as const;
+
+export interface SwitchProps {
+  checked: boolean;
+  onCheckedChange: (checked: boolean) => void;
+  disabled?: boolean;
+  label?: string;
+  className?: string;
+}
+
+export function Switch({ checked, onCheckedChange, disabled, label, className }: SwitchProps) {
+  const id = useId();
+  const thumbRef = useRef<HTMLDivElement>(null);
+  const reduce = useReducedMotion();
+  const [isPressed, setIsPressed] = useState(false);
+  const [isPointer, setIsPointer] = useState(false);
+
+  // Disabled shake feedback when pressed.
+  useEffect(() => {
+    if (!thumbRef.current || reduce) return;
+    if (disabled && isPressed) {
+      animate(
+        thumbRef.current,
+        { x: [0, -2, 2, -1, 0] },
+        { delay: 0.2, duration: 0.6 },
+      );
+    }
+  }, [disabled, isPressed, reduce]);
+
+  const squish = !disabled && isPointer && isPressed && !reduce;
+
+  return (
+    <MotionConfig transition={reduce ? { duration: 0 } : THUMB_SPRING}>
+      <span className={cn("inline-flex items-center gap-3", className)}>
+        <motion.button
+          id={id}
+          type="button"
+          role="switch"
+          aria-checked={checked}
+          disabled={disabled}
+          onClick={() => !disabled && onCheckedChange(!checked)}
+          onPointerDown={(e) => {
+            setIsPressed(true);
+            setIsPointer(e.type.startsWith("pointer"));
+          }}
+          onPointerUp={() => setIsPressed(false)}
+          onPointerLeave={() => setIsPressed(false)}
+          initial={false}
+          data-state={checked ? "checked" : "unchecked"}
+          className={cn(
+            "group peer inline-flex h-7 w-12 shrink-0 cursor-pointer items-center px-1 rounded-full outline-none transition-colors duration-200",
+            "focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background",
+            "disabled:cursor-not-allowed disabled:opacity-60",
+            checked ? "justify-end bg-primary" : "justify-start bg-muted-foreground/60",
+          )}
+        >
+          <motion.div
+            ref={thumbRef}
+            layout
+            animate={{ scale: squish ? 0.9 : 1 }}
+            className="pointer-events-none block h-5 w-5 rounded-full bg-background shadow-md"
+          >
+            {/* Stretch toward the destination while active. */}
+            <div
+              className={cn(
+                "size-5",
+                squish && (checked ? "ml-1" : "mr-1"),
+              )}
+            />
+          </motion.div>
+        </motion.button>
+        {label ? (
+          <label htmlFor={id} className="cursor-pointer text-sm text-foreground">
+            {label}
+          </label>
+        ) : null}
+      </span>
+    </MotionConfig>
+  );
+}
+ff:["$","div","components/motion/switch.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"switch.tsx"}]]}]]}],["$","$L97",null,{"text":"$138","eventLabel":"components/motion/switch.tsx"}]]}],"$L139"]}]
+13a:T193df,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// beui.dev/components/motion/table</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { useVirtualizer } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "@tanstack/react-virtual"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
@@ -8354,8 +10262,8 @@ ee:["$","div","components/motion/table/table-menu.tsx",{"className":"group relat
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">div</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>f3:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$10b"}}]}]
-10c:T5575,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span></code></pre>104:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$13a"}}]}]
+13b:T5575,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { ArrowDownToLine, ArrowUpToLine, MoreVertical, Trash2 } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "lucide-react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { useEffect } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
@@ -8436,8 +10344,8 @@ ee:["$","div","components/motion/table/table-menu.tsx",{"className":"group relat
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    document.body,</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>f6:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$10c"}}]}]
-10d:T17fd3,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span></code></pre>107:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$13b"}}]}]
+13c:T17fd3,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  ArrowLeftToLine,</span></span>
@@ -8770,8 +10678,8 @@ ee:["$","div","components/motion/table/table-menu.tsx",{"className":"group relat
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/></span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>fa:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$10d"}}]}]
-10e:T7899,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { ReactNode } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span></code></pre>10b:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$13c"}}]}]
+13d:T7899,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { ReactNode } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> SortDirection</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "asc"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "desc"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
@@ -8857,8 +10765,8 @@ ee:["$","div","components/motion/table/table-menu.tsx",{"className":"group relat
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> HeaderCellRefs</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
 <span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  current</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Record</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">HTMLTableCellElement</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>;</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">};</span></span>
-<span class="line"></span></code></pre>fc:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$10e"}}]}]
-10f:T8812,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"></span></code></pre>10d:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$13d"}}]}]
+13e:T8812,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> PointerEvent </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ReactPointerEvent,</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  useCallback,</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  useMemo,</span></span>
@@ -8964,8 +10872,8 @@ ee:["$","div","components/motion/table/table-menu.tsx",{"className":"group relat
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    endReorder,</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  };</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>fe:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$10f"}}]}]
-110:T5665,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"></span></code></pre>10f:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$13e"}}]}]
+13f:T5665,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> PointerEvent </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ReactPointerEvent,</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  useCallback,</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  useRef,</span></span>
@@ -9049,8 +10957,8 @@ ee:["$","div","components/motion/table/table-menu.tsx",{"className":"group relat
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { widths, startResize, moveResize, endResize };</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>100:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$110"}}]}]
-111:T8ae6,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span></code></pre>111:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$13f"}}]}]
+140:T8ae6,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { AnimatePresence, motion, useReducedMotion } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "motion/react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { useId } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
@@ -9169,8 +11077,8 @@ ee:["$","div","components/motion/table/table-menu.tsx",{"className":"group relat
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">label</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>108:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$111"}}]}]
-112:T8cab,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span></code></pre>119:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$140"}}]}]
+141:T8cab,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { motion, useReducedMotion } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "motion/react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ReactNode, useEffect, useRef, useState } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
@@ -9299,1915 +11207,7 @@ ee:["$","div","components/motion/table/table-menu.tsx",{"className":"group relat
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/></span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>10a:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$112"}}]}]
-5b:["$","div",null,{"className":"flex flex-col gap-6","children":[["$","div",null,{"className":"rounded-xl border border-border bg-card px-4 py-3 text-sm text-muted-foreground","children":["Needs the theme tokens once. Already ran"," ",["$","code",null,{"className":"rounded bg-foreground/5 px-1.5 py-0.5 font-mono text-xs text-foreground","children":"shadcn init"}],"? You are set."," ",["$","$L11",null,{"href":"/docs/theme","className":"inline-flex items-center gap-1 text-foreground underline underline-offset-4","children":["Theme setup",["$","$L12",null,{"ref":"$undefined","iconNode":"$79:props:children:0:props:children:5:props:children:1:props:iconNode","className":"lucide-arrow-up-right h-3 w-3"}]]}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Install dependencies"}],["$","div",null,{"className":"mt-3","children":"$L113"}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":["Add util file","s"]}],["$","div",null,{"className":"mt-3 flex flex-col gap-4","children":["$L114","$L115"]}]]}],["$","section",null,{"children":[["$","h3",null,{"className":"text-sm font-semibold text-foreground","children":"Copy the source code"}],["$","div",null,{"className":"mt-3 flex flex-col gap-4","children":["$L116","$L117","$L118","$L119","$L11a","$L11b","$L11c","$L11d","$L11e","$L11f","$L120","$L121","$L122","$L123"]}]]}]]}]
-113:["$","div",null,{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"absolute right-3 top-3 z-10","children":["$","$L97",null,{"text":"npm i @tanstack/react-virtual clsx lucide-react motion tailwind-merge","eventLabel":"bash"}]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"<pre class=\"shiki shiki-themes github-light github-dark\" style=\"--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e\" tabindex=\"0\"><code><span class=\"line\"><span style=\"--shiki-light:#6F42C1;--shiki-dark:#B392F0\">npm</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> i</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> @tanstack/react-virtual</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> clsx</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> lucide-react</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> motion</span><span style=\"--shiki-light:#032F62;--shiki-dark:#9ECBFF\"> tailwind-merge</span></span></code></pre>"}}]}]]}]
-124:T856,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { clsx, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ClassValue } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "clsx"</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { twMerge } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "tailwind-merge"</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> cn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">inputs</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ClassValue</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[]) {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> twMerge</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">clsx</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(inputs))</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>114:["$","div","lib/utils.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["lib","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"utils.ts"}]]}]]}],["$","$L97",null,{"text":"import { clsx, type ClassValue } from \"clsx\"\nimport { twMerge } from \"tailwind-merge\"\n\nexport function cn(...inputs: ClassValue[]) {\n  return twMerge(clsx(inputs))\n}\n","eventLabel":"lib/utils.ts"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$124"}}]}]]}]
-125:T58b,// Shared motion tokens. Easing curves mirror the CSS custom properties in
-// globals.css; springs are the canonical physics used across components.
-// Strong custom variants — defaults like `ease-in`/`ease-out` feel weak.
-
-export const EASE_OUT = [0.16, 1, 0.3, 1] as const;
-export const EASE_IN_OUT = [0.77, 0, 0.175, 1] as const;
-export const EASE_DRAWER = [0.32, 0.72, 0, 1] as const;
-
-/** CSS string form of EASE_OUT for inline style transitions. */
-export const EASE_OUT_CSS = "cubic-bezier(0.16, 1, 0.3, 1)";
-
-/** Press feedback on buttons and other tappable surfaces. */
-export const SPRING_PRESS = {
-  type: "spring",
-  stiffness: 500,
-  damping: 30,
-  mass: 0.6,
-} as const;
-
-/** Content swaps — label/icon slots trading places inside a control. */
-export const SPRING_SWAP = {
-  type: "spring",
-  stiffness: 460,
-  damping: 30,
-  mass: 0.55,
-} as const;
-
-/** Overlay panel entrances — modals and sheets summoned by pointer. */
-export const SPRING_PANEL = {
-  type: "spring",
-  stiffness: 420,
-  damping: 40,
-  mass: 0.5,
-} as const;
-
-/** Shared-layout glides — pills, indicators and panels morphing between positions. */
-export const SPRING_LAYOUT = {
-  type: "spring",
-  stiffness: 360,
-  damping: 32,
-  mass: 0.6,
-} as const;
-
-/** Cursor-follow physics for decorative mouse tracking (magnetic, tilt, dock). */
-export const SPRING_MOUSE = {
-  stiffness: 200,
-  damping: 15,
-  mass: 0.3,
-} as const;
-126:T3499,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// Shared motion tokens. Easing curves mirror the CSS custom properties in</span></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// globals.css; springs are the canonical physics used across components.</span></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// Strong custom variants — defaults like `ease-in`/`ease-out` feel weak.</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_OUT</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.16</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_IN_OUT</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.77</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.175</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_DRAWER</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.32</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.72</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** CSS string form of EASE_OUT for inline style transitions. */</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> EASE_OUT_CSS</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "cubic-bezier(0.16, 1, 0.3, 1)"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Press feedback on buttons and other tappable surfaces. */</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_PRESS</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">500</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">30</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.6</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Content swaps — label/icon slots trading places inside a control. */</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_SWAP</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">460</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">30</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.55</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Overlay panel entrances — modals and sheets summoned by pointer. */</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_PANEL</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">420</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">40</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.5</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Shared-layout glides — pills, indicators and panels morphing between positions. */</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_LAYOUT</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"spring"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">360</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">32</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.6</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Cursor-follow physics for decorative mouse tracking (magnetic, tilt, dock). */</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> SPRING_MOUSE</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  stiffness: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">200</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  damping: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">15</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  mass: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0.3</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">} </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span></code></pre>115:["$","div","lib/ease.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["lib","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"ease.ts"}]]}]]}],["$","$L97",null,{"text":"$125","eventLabel":"lib/ease.ts"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$126"}}]}]]}]
-127:T2eed,"use client";
-// beui.dev/components/motion/table
-
-import { useVirtualizer } from "@tanstack/react-virtual";
-import { useReducedMotion } from "motion/react";
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import { Checkbox } from "@/components/motion/checkbox";
-import { cn } from "@/lib/utils";
-import { EditableCell } from "./editable-cell";
-import { RowHandle } from "./row-handle";
-import { SkeletonRows } from "./skeleton-rows";
-import { TableHeader } from "./table-header";
-import type { HeaderCellRefs, TableProps } from "./types";
-import { useColumnReorder } from "./use-column-reorder";
-import { useColumnResize } from "./use-column-resize";
-import { useColumnSort } from "./use-column-sort";
-import { useRowSelection } from "./use-row-selection";
-import { CHECKBOX_WIDTH, alignText, readCell } from "./utils";
-
-export type {
-  SortDirection,
-  SortState,
-  TableColumn,
-  TableProps,
-} from "./types";
-
-export function Table<T>({
-  data,
-  columns,
-  getRowId,
-  selectable = false,
-  selectedRowIds,
-  defaultSelectedRowIds,
-  onSelectionChange,
-  sort: sortProp,
-  defaultSort = null,
-  onSortChange,
-  resizable = false,
-  minColumnWidth = 64,
-  onColumnResize,
-  reorderable = false,
-  onColumnOrderChange,
-  onCellEdit,
-  onColumnRename,
-  onInsertRow,
-  onDeleteRow,
-  onInsertColumn,
-  onDeleteColumn,
-  rowHeight = 48,
-  height = 440,
-  overscan = 10,
-  onEndReached,
-  loading = false,
-  skeletonRows = 3,
-  emptyState = "No data",
-  className,
-}: TableProps<T>) {
-  const reduce = useReducedMotion();
-  const scrollRef = useRef<HTMLDivElement>(null);
-  const thRefs: HeaderCellRefs = useRef<
-    Record<string, HTMLTableCellElement | null>
-  >({});
-
-  const rows = useMemo(
-    () =>
-      data.map((row, index) => ({
-        row,
-        id: getRowId ? getRowId(row, index) : String(index),
-      })),
-    [data, getRowId],
-  );
-
-  const {
-    orderedColumns,
-    dragKey,
-    dropIndex,
-    startReorder,
-    moveReorder,
-    endReorder,
-  } = useColumnReorder({ columns, thRefs, onColumnOrderChange });
-
-  const { sort, sortedRows, toggleSort } = useColumnSort({
-    rows,
-    columns,
-    sort: sortProp,
-    defaultSort,
-    onSortChange,
-  });
-
-  const { widths, startResize, moveResize, endResize } = useColumnResize({
-    orderedColumns,
-    thRefs,
-    minColumnWidth,
-    onColumnResize,
-  });
-
-  const { selected, allSelected, someSelected, toggleAll, toggleRow } =
-    useRowSelection({
-      sortedRows,
-      selectedRowIds,
-      defaultSelectedRowIds,
-      onSelectionChange,
-    });
-
-  const virtualizer = useVirtualizer({
-    count: sortedRows.length,
-    getScrollElement: () => scrollRef.current,
-    estimateSize: () => rowHeight,
-    overscan,
-  });
-
-  const virtualItems = virtualizer.getVirtualItems();
-  const totalSize = virtualizer.getTotalSize();
-  const paddingTop = virtualItems.length > 0 ? virtualItems[0].start : 0;
-  const paddingBottom =
-    virtualItems.length > 0
-      ? totalSize - virtualItems[virtualItems.length - 1].end
-      : 0;
-
-  const hasRowMenu = !!(onInsertRow || onDeleteRow);
-  const hasColumnMenu = !!(onInsertColumn || onDeleteColumn);
-  // Only shrink-wrap (w-max) once every column has an explicit resized width;
-  // otherwise stay fill-width so a flexible column can't size to cell content.
-  const sized =
-    orderedColumns.length > 0 &&
-    orderedColumns.every((c) => widths[c.key] != null);
-
-  // Infinite scroll: fire onEndReached once per near-bottom dwell, paused while
-  // loading; the guard resets when the load completes.
-  const endReachedRef = useRef(false);
-  useEffect(() => {
-    if (!loading) endReachedRef.current = false;
-  }, [loading]);
-  const handleScroll = useCallback(() => {
-    const el = scrollRef.current;
-    if (!el || !onEndReached || loading || endReachedRef.current) return;
-    if (el.scrollHeight - el.scrollTop - el.clientHeight < rowHeight * 4) {
-      endReachedRef.current = true;
-      onEndReached();
-    }
-  }, [onEndReached, loading, rowHeight]);
-  const [activeColumn, setActiveColumn] = useState<string | null>(null);
-  // Small delay on leave so the pointer can cross the gap from the header cell
-  // to the portal handle without the column deactivating.
-  const deactivateTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
-  const activateColumn = useCallback((key: string) => {
-    if (deactivateTimer.current) clearTimeout(deactivateTimer.current);
-    deactivateTimer.current = null;
-    setActiveColumn(key);
-  }, []);
-  const deactivateColumn = useCallback(() => {
-    if (deactivateTimer.current) clearTimeout(deactivateTimer.current);
-    deactivateTimer.current = setTimeout(() => setActiveColumn(null), 100);
-  }, []);
-
-  const rowRefs = useRef<Record<string, HTMLTableRowElement | null>>({});
-  const [activeRow, setActiveRow] = useState<{ id: string; index: number } | null>(
-    null,
-  );
-  const rowTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
-  const activateRow = useCallback((id: string, index: number) => {
-    if (rowTimer.current) clearTimeout(rowTimer.current);
-    rowTimer.current = null;
-    setActiveRow({ id, index });
-  }, []);
-  const deactivateRow = useCallback(() => {
-    if (rowTimer.current) clearTimeout(rowTimer.current);
-    rowTimer.current = setTimeout(() => setActiveRow(null), 100);
-  }, []);
-  const activeRowEl = activeRow ? rowRefs.current[activeRow.id] : null;
-  // Real columns + checkbox; the trailing spacer adds one more in colSpans.
-  const leadColumns = columns.length + (selectable ? 1 : 0);
-
-  return (
-    <div
-      className={cn(
-        "w-full overflow-hidden border border-border bg-background text-sm",
-        className,
-      )}
-    >
-      <div
-        ref={scrollRef}
-        onScroll={handleScroll}
-        className="overflow-auto"
-        style={{ height }}
-      >
-        <table
-          className={cn("border-collapse", sized ? "w-max min-w-full" : "min-w-full")}
-          style={{ tableLayout: "fixed" }}
-        >
-          <colgroup>
-            {selectable ? <col style={{ width: CHECKBOX_WIDTH }} /> : null}
-            {orderedColumns.map((column) => {
-              const override = widths[column.key];
-              const width = override ? `${override}px` : column.width;
-              return (
-                <col key={column.key} style={width ? { width } : undefined} />
-              );
-            })}
-            {/* Empty filler owns the leftover space — no gap, content unpinned. */}
-            <col />
-          </colgroup>
-
-          <TableHeader
-            columns={orderedColumns}
-            rowHeight={rowHeight}
-            reduce={!!reduce}
-            thRefs={thRefs}
-            selectable={selectable}
-            allSelected={allSelected}
-            someSelected={someSelected}
-            onToggleAll={toggleAll}
-            sort={sort}
-            onToggleSort={toggleSort}
-            resizable={resizable}
-            onResizeStart={startResize}
-            onResizeMove={moveResize}
-            onResizeEnd={endResize}
-            reorderable={reorderable}
-            dragKey={dragKey}
-            dropIndex={dropIndex}
-            onReorderStart={startReorder}
-            onReorderMove={moveReorder}
-            onReorderEnd={endReorder}
-            onInsertColumn={onInsertColumn}
-            onDeleteColumn={onDeleteColumn}
-            onColumnRename={onColumnRename}
-            activeColumn={hasColumnMenu ? activeColumn : null}
-            onColumnActivate={hasColumnMenu ? activateColumn : undefined}
-            onColumnDeactivate={hasColumnMenu ? deactivateColumn : undefined}
-          />
-
-          <tbody>
-            {sortedRows.length === 0 ? (
-              loading ? (
-                <SkeletonRows
-                  count={Math.max(1, Math.ceil(height / rowHeight))}
-                  columns={orderedColumns}
-                  selectable={selectable}
-                  rowHeight={rowHeight}
-                />
-              ) : (
-                <tr>
-                  <td
-                    colSpan={leadColumns + 1}
-                    className="p-10 text-center text-muted-foreground"
-                  >
-                    {emptyState}
-                  </td>
-                </tr>
-              )
-            ) : (
-              <>
-                {paddingTop > 0 ? (
-                  <tr aria-hidden style={{ height: paddingTop }}>
-                    <td colSpan={leadColumns + 1} />
-                  </tr>
-                ) : null}
-                {virtualItems.map((vItem) => {
-                  const entry = sortedRows[vItem.index];
-                  const isSelected = selected.has(entry.id);
-                  return (
-                    <tr
-                      key={entry.id}
-                      ref={(el) => {
-                        rowRefs.current[entry.id] = el;
-                      }}
-                      data-selected={isSelected}
-                      style={{ height: rowHeight }}
-                      onPointerEnter={
-                        hasRowMenu
-                          ? () => activateRow(entry.id, vItem.index)
-                          : undefined
-                      }
-                      onPointerLeave={hasRowMenu ? deactivateRow : undefined}
-                      className={cn(
-                        "border-border/60 border-b transition-colors",
-                        "data-[selected=true]:bg-primary/5",
-                        "hover:bg-muted/50",
-                      )}
-                    >
-                      {selectable ? (
-                        <td className="text-center">
-                          <div className="flex items-center justify-center">
-                            <Checkbox
-                              checked={isSelected}
-                              onCheckedChange={() => toggleRow(entry.id)}
-                              aria-label={`Select row ${vItem.index + 1}`}
-                            />
-                          </div>
-                        </td>
-                      ) : null}
-                      {orderedColumns.map((column) => (
-                        <td
-                          key={column.key}
-                          className={cn(
-                            "truncate px-4 text-foreground",
-                            alignText(column.align),
-                          )}
-                        >
-                          {!column.cell && column.editable ? (
-                            <EditableCell
-                              value={String(readCell(entry.row, column) ?? "")}
-                              label={`${column.key} for row ${vItem.index + 1}`}
-                              onChange={(next) =>
-                                onCellEdit?.(entry.id, column.key, next)
-                              }
-                            />
-                          ) : (
-                            readCell(entry.row, column)
-                          )}
-                        </td>
-                      ))}
-                      <td aria-hidden />
-                    </tr>
-                  );
-                })}
-                {paddingBottom > 0 ? (
-                  <tr aria-hidden style={{ height: paddingBottom }}>
-                    <td colSpan={leadColumns + 1} />
-                  </tr>
-                ) : null}
-                {loading ? (
-                  <SkeletonRows
-                    count={skeletonRows}
-                    columns={orderedColumns}
-                    selectable={selectable}
-                    rowHeight={rowHeight}
-                  />
-                ) : null}
-              </>
-            )}
-          </tbody>
-        </table>
-      </div>
-      {hasRowMenu && activeRow ? (
-        <RowHandle
-          rowEl={activeRowEl}
-          id={activeRow.id}
-          index={activeRow.index}
-          onInsertRow={onInsertRow}
-          onDeleteRow={onDeleteRow}
-          onEnter={() => activateRow(activeRow.id, activeRow.index)}
-          onLeave={deactivateRow}
-        />
-      ) : null}
-    </div>
-  );
-}
-116:["$","div","components/motion/table/index.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"index.tsx"}]]}]]}],["$","$L97",null,{"text":"$127","eventLabel":"components/motion/table/index.tsx"}]]}],"$L128"]}]
-129:T15c0,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> EditableCell</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">({</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  value</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  label</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  onChange</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  value</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  label</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">  onChange</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">next</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> void</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}) {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">input</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      value</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{value}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      aria-label</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{label}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      size</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      onChange</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">e</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> onChange</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(e.target.value)}</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      placeholder</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Empty"</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"-mx-2 w-full min-w-0 appearance-none rounded-md border-0 bg-transparent px-2 py-1 text-foreground outline-none transition-colors placeholder:text-muted-foreground/40 focus:bg-muted focus:ring-1 focus:ring-ring"</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    /></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>117:["$","div","components/motion/table/editable-cell.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"editable-cell.tsx"}]]}]]}],["$","$L97",null,{"text":"\"use client\";\n\nexport function EditableCell({\n  value,\n  label,\n  onChange,\n}: {\n  value: string;\n  label: string;\n  onChange: (next: string) => void;\n}) {\n  return (\n    <input\n      value={value}\n      aria-label={label}\n      size={1}\n      onChange={(e) => onChange(e.target.value)}\n      placeholder=\"Empty\"\n      className=\"-mx-2 w-full min-w-0 appearance-none rounded-md border-0 bg-transparent px-2 py-1 text-foreground outline-none transition-colors placeholder:text-muted-foreground/40 focus:bg-muted focus:ring-1 focus:ring-ring\"\n    />\n  );\n}\n","eventLabel":"components/motion/table/editable-cell.tsx"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$129"}}]}]]}]
-12a:T944,"use client";
-
-import { ArrowDownToLine, ArrowUpToLine, MoreVertical, Trash2 } from "lucide-react";
-import { useEffect } from "react";
-import { createPortal } from "react-dom";
-import { TableMenu } from "./table-menu";
-
-/** The row handle, portaled so it can sit on the row's left border without the
- * scroll container clipping it. Straddles the border to bridge hover. */
-export function RowHandle({
-  rowEl,
-  id,
-  index,
-  onInsertRow,
-  onDeleteRow,
-  onEnter,
-  onLeave,
-}: {
-  rowEl: HTMLTableRowElement | null;
-  id: string;
-  index: number;
-  onInsertRow?: (index: number, position: "before" | "after") => void;
-  onDeleteRow?: (rowId: string, index: number) => void;
-  onEnter: () => void;
-  onLeave: () => void;
-}) {
-  useEffect(() => {
-    window.addEventListener("scroll", onLeave, true);
-    return () => window.removeEventListener("scroll", onLeave, true);
-  }, [onLeave]);
-
-  if (!rowEl || typeof document === "undefined") return null;
-  const rect = rowEl.getBoundingClientRect();
-
-  return createPortal(
-    <div
-      style={{
-        position: "fixed",
-        top: rect.top + rect.height / 2,
-        left: rect.left,
-        transform: "translate(-50%, -50%)",
-        zIndex: 40,
-      }}
-      onPointerEnter={onEnter}
-      onPointerLeave={onLeave}
-    >
-      <TableMenu
-        ariaLabel={`Row ${index + 1} options`}
-        triggerClassName="flex h-6 w-2 items-center justify-center rounded-full bg-primary text-primary-foreground shadow-sm transition-colors hover:bg-primary/90"
-        trigger={<MoreVertical className="h-3 w-3" />}
-        items={[
-          ...(onInsertRow
-            ? [
-                {
-                  label: "Insert before",
-                  icon: <ArrowUpToLine />,
-                  onSelect: () => onInsertRow(index, "before"),
-                },
-                {
-                  label: "Insert after",
-                  icon: <ArrowDownToLine />,
-                  onSelect: () => onInsertRow(index, "after"),
-                },
-              ]
-            : []),
-          ...(onDeleteRow
-            ? [
-                {
-                  label: "Delete row",
-                  icon: <Trash2 />,
-                  destructive: true,
-                  onSelect: () => onDeleteRow(id, index),
-                },
-              ]
-            : []),
-        ]}
-      />
-    </div>,
-    document.body,
-  );
-}
-118:["$","div","components/motion/table/row-handle.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"row-handle.tsx"}]]}]]}],["$","$L97",null,{"text":"$12a","eventLabel":"components/motion/table/row-handle.tsx"}]]}],"$L12b"]}]
-12c:T401,"use client";
-
-import { cn } from "@/lib/utils";
-import type { TableColumn } from "./types";
-import { alignText } from "./utils";
-
-export function SkeletonRows<T>({
-  count,
-  columns,
-  selectable,
-  rowHeight,
-}: {
-  count: number;
-  columns: TableColumn<T>[];
-  selectable: boolean;
-  rowHeight: number;
-}) {
-  return (
-    <>
-      {Array.from({ length: count }, (_, r) => (
-        // biome-ignore lint/suspicious/noArrayIndexKey: static placeholder rows
-        <tr key={r} style={{ height: rowHeight }} className="border-border/60 border-b">
-          {selectable ? <td /> : null}
-          {columns.map((column) => (
-            <td key={column.key} className={cn("px-4", alignText(column.align))}>
-              <div
-                className={cn(
-                  "h-3 animate-pulse rounded-full bg-muted",
-                  column.align === "right" ? "ml-auto w-10" : "w-2/3",
-                )}
-              />
-            </td>
-          ))}
-          <td aria-hidden />
-        </tr>
-      ))}
-    </>
-  );
-}
-12d:T2c82,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { cn } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "@/lib/utils"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { TableColumn } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./types"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { alignText } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./utils"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> SkeletonRows</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>({</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  count</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  columns</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  selectable</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  rowHeight</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  count</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> number</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  columns</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TableColumn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>[];</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  selectable</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> boolean</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  rowHeight</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> number</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}) {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      {Array.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">from</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">({ length: count }, (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">_</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">r</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">        // biome-ignore lint/suspicious/noArrayIndexKey: static placeholder rows</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">tr</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> key</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{r} </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">style</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{{ height: rowHeight }} </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"border-border/60 border-b"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          {selectable </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">td</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> /> </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          {columns.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">map</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">column</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">            &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">td</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> key</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{column.key} </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">cn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"px-4"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">alignText</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(column.align))}></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">              &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">div</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">                className</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">cn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
-<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">                  "h-3 animate-pulse rounded-full bg-muted"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">                  column.align </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "right"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> ?</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "ml-auto w-10"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> :</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "w-2/3"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">                )}</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">              /></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">            &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">td</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          ))}</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">          &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">td</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> aria-hidden</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> /></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">tr</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      ))}</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>119:["$","div","components/motion/table/skeleton-rows.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"skeleton-rows.tsx"}]]}]]}],["$","$L97",null,{"text":"$12c","eventLabel":"components/motion/table/skeleton-rows.tsx"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$12d"}}]}]]}]
-12e:T2c8b,"use client";
-
-import {
-  ArrowLeftToLine,
-  ArrowRightToLine,
-  ChevronUp,
-  GripVertical,
-  MoreHorizontal,
-  Trash2,
-} from "lucide-react";
-import { motion } from "motion/react";
-import { type PointerEvent as ReactPointerEvent, useEffect } from "react";
-import { createPortal } from "react-dom";
-import { Checkbox } from "@/components/motion/checkbox";
-import { EASE_OUT, SPRING_PRESS } from "@/lib/ease";
-import { cn } from "@/lib/utils";
-import { TableMenu } from "./table-menu";
-import type {
-  HeaderCellRefs,
-  InsertPosition,
-  SortState,
-  TableColumn,
-} from "./types";
-import { alignFlex, alignText, COLUMN_ACTIVE_SHADOW } from "./utils";
-
-export interface TableHeaderProps<T> {
-  columns: TableColumn<T>[];
-  rowHeight: number;
-  reduce: boolean;
-  thRefs: HeaderCellRefs;
-  selectable: boolean;
-  allSelected: boolean;
-  someSelected: boolean;
-  onToggleAll: () => void;
-  sort: SortState | null;
-  onToggleSort: (key: string) => void;
-  resizable: boolean;
-  onResizeStart: (key: string, e: ReactPointerEvent) => void;
-  onResizeMove: (e: ReactPointerEvent) => void;
-  onResizeEnd: (e: ReactPointerEvent) => void;
-  reorderable: boolean;
-  dragKey: string | null;
-  dropIndex: number | null;
-  onReorderStart: (key: string, e: ReactPointerEvent) => void;
-  onReorderMove: (e: ReactPointerEvent) => void;
-  onReorderEnd: (e: ReactPointerEvent) => void;
-  onInsertColumn?: (index: number, position: InsertPosition) => void;
-  onDeleteColumn?: (columnKey: string, index: number) => void;
-  onColumnRename?: (columnKey: string, value: string) => void;
-  activeColumn: string | null;
-  onColumnActivate?: (key: string) => void;
-  onColumnDeactivate?: () => void;
-}
-
-/** Column insert / delete menu items shared by the header cell and the portal handle. */
-function columnMenuItems<T>(
-  column: TableColumn<T>,
-  index: number,
-  onInsertColumn?: (index: number, position: InsertPosition) => void,
-  onDeleteColumn?: (columnKey: string, index: number) => void,
-) {
-  return [
-    ...(onInsertColumn
-      ? [
-          {
-            label: "Insert before",
-            icon: <ArrowLeftToLine />,
-            onSelect: () => onInsertColumn(index, "before"),
-          },
-          {
-            label: "Insert after",
-            icon: <ArrowRightToLine />,
-            onSelect: () => onInsertColumn(index, "after"),
-          },
-        ]
-      : []),
-    ...(onDeleteColumn
-      ? [
-          {
-            label: "Delete column",
-            icon: <Trash2 />,
-            destructive: true,
-            onSelect: () => onDeleteColumn(column.key, index),
-          },
-        ]
-      : []),
-  ];
-}
-
-/** The ellipse handle, portaled so it can sit on the column's top border without
- * the scroll container clipping it. Straddles the border to bridge hover. */
-function ColumnHandle<T>({
-  column,
-  index,
-  thRefs,
-  onInsertColumn,
-  onDeleteColumn,
-  onEnter,
-  onLeave,
-}: {
-  column: TableColumn<T>;
-  index: number;
-  thRefs: HeaderCellRefs;
-  onInsertColumn?: (index: number, position: InsertPosition) => void;
-  onDeleteColumn?: (columnKey: string, index: number) => void;
-  onEnter: () => void;
-  onLeave: () => void;
-}) {
-  useEffect(() => {
-    window.addEventListener("scroll", onLeave, true);
-    return () => window.removeEventListener("scroll", onLeave, true);
-  }, [onLeave]);
-
-  const el = thRefs.current[column.key];
-  if (!el || typeof document === "undefined") return null;
-  const rect = el.getBoundingClientRect();
-
-  return createPortal(
-    <div
-      style={{
-        position: "fixed",
-        top: rect.top,
-        left: rect.left + rect.width / 2,
-        transform: "translate(-50%, -50%)",
-        zIndex: 40,
-      }}
-      onPointerEnter={onEnter}
-      onPointerLeave={onLeave}
-    >
-      <TableMenu
-        ariaLabel={`${column.key} column options`}
-        triggerClassName="flex h-2 w-6 items-center justify-center rounded-full bg-primary text-primary-foreground shadow-sm transition-colors hover:bg-primary/90"
-        trigger={<MoreHorizontal className="h-3 w-3" />}
-        items={columnMenuItems(column, index, onInsertColumn, onDeleteColumn)}
-      />
-    </div>,
-    document.body,
-  );
-}
-
-export function TableHeader<T>({
-  columns,
-  rowHeight,
-  reduce,
-  thRefs,
-  selectable,
-  allSelected,
-  someSelected,
-  onToggleAll,
-  sort,
-  onToggleSort,
-  resizable,
-  onResizeStart,
-  onResizeMove,
-  onResizeEnd,
-  reorderable,
-  dragKey,
-  dropIndex,
-  onReorderStart,
-  onReorderMove,
-  onReorderEnd,
-  onInsertColumn,
-  onDeleteColumn,
-  onColumnRename,
-  activeColumn,
-  onColumnActivate,
-  onColumnDeactivate,
-}: TableHeaderProps<T>) {
-  const hasColumnMenu = !!(onInsertColumn || onDeleteColumn);
-  const activeIndex = columns.findIndex((c) => c.key === activeColumn);
-  return (
-    <>
-      {hasColumnMenu && activeColumn && activeIndex >= 0 ? (
-        <ColumnHandle
-          column={columns[activeIndex]}
-          index={activeIndex}
-          thRefs={thRefs}
-          onInsertColumn={onInsertColumn}
-          onDeleteColumn={onDeleteColumn}
-          onEnter={() => onColumnActivate?.(activeColumn)}
-          onLeave={() => onColumnDeactivate?.()}
-        />
-      ) : null}
-      <thead>
-      <tr style={{ height: rowHeight }}>
-        {selectable ? (
-          <th className="sticky top-0 z-10 border-border border-b bg-muted">
-            <div className="flex items-center justify-center">
-              <Checkbox
-                checked={allSelected}
-                indeterminate={!allSelected && someSelected}
-                onCheckedChange={onToggleAll}
-                aria-label="Select all rows"
-              />
-            </div>
-          </th>
-        ) : null}
-        {columns.map((column, index) => {
-          const active = sort?.key === column.key;
-          const isDragging = dragKey === column.key;
-          const isActive = activeColumn === column.key;
-          return (
-            <th
-              key={column.key}
-              ref={(el) => {
-                thRefs.current[column.key] = el;
-              }}
-              onPointerEnter={() => onColumnActivate?.(column.key)}
-              onPointerLeave={() => onColumnDeactivate?.()}
-              style={isActive ? { boxShadow: COLUMN_ACTIVE_SHADOW } : undefined}
-              aria-sort={
-                active
-                  ? sort?.direction === "asc"
-                    ? "ascending"
-                    : "descending"
-                  : undefined
-              }
-              data-drop={dragKey ? dropIndex === index : undefined}
-              data-dropend={
-                dragKey
-                  ? dropIndex === columns.length && index === columns.length - 1
-                  : undefined
-              }
-              className={cn(
-                "group sticky top-0 z-10 border-border border-b bg-muted p-0 font-medium text-muted-foreground",
-                "data-[drop=true]:before:absolute data-[drop=true]:before:inset-y-0 data-[drop=true]:before:left-0 data-[drop=true]:before:w-0.5 data-[drop=true]:before:bg-primary",
-                "data-[dropend=true]:after:absolute data-[dropend=true]:after:inset-y-0 data-[dropend=true]:after:right-0 data-[dropend=true]:after:w-0.5 data-[dropend=true]:after:bg-primary",
-              )}
-            >
-              <motion.div
-                className={cn(
-                  "flex h-full items-center",
-                  alignFlex(column.align),
-                )}
-                style={{ height: rowHeight }}
-                animate={
-                  reduce
-                    ? { opacity: isDragging ? 0.5 : 1 }
-                    : {
-                        scale: isDragging ? 1.04 : 1,
-                        opacity: isDragging ? 0.5 : 1,
-                      }
-                }
-                transition={SPRING_PRESS}
-              >
-                {reorderable ? (
-                  <button
-                    type="button"
-                    aria-label={`Reorder ${column.key} column`}
-                    onPointerDown={(e) => onReorderStart(column.key, e)}
-                    onPointerMove={onReorderMove}
-                    onPointerUp={onReorderEnd}
-                    className="flex h-full cursor-grab touch-none items-center pl-2 text-muted-foreground/60 transition-colors hover:text-foreground active:cursor-grabbing"
-                  >
-                    <GripVertical className="h-3.5 w-3.5" />
-                  </button>
-                ) : null}
-                {column.sortable ? (
-                  <button
-                    type="button"
-                    onClick={() => onToggleSort(column.key)}
-                    className={cn(
-                      "flex h-full min-w-0 flex-1 select-none items-center gap-1 px-4 transition-colors hover:text-foreground",
-                      alignFlex(column.align),
-                      active && "text-foreground",
-                    )}
-                  >
-                    <span className="truncate">{column.header}</span>
-                    <motion.span
-                      aria-hidden
-                      className="inline-flex shrink-0"
-                      animate={{
-                        rotate: active && sort?.direction === "desc" ? 180 : 0,
-                        opacity: active ? 1 : 0.35,
-                      }}
-                      transition={
-                        reduce
-                          ? { duration: 0 }
-                          : { duration: 0.18, ease: EASE_OUT }
-                      }
-                    >
-                      <ChevronUp className="h-3.5 w-3.5" />
-                    </motion.span>
-                  </button>
-                ) : onColumnRename ? (
-                  <input
-                    value={
-                      typeof column.header === "string" ? column.header : ""
-                    }
-                    aria-label={`Rename ${column.key} column`}
-                    size={1}
-                    onChange={(e) =>
-                      onColumnRename(column.key, e.target.value)
-                    }
-                    className={cn(
-                      "min-w-0 flex-1 truncate appearance-none rounded-md border-0 bg-transparent px-4 font-medium text-muted-foreground outline-none transition-colors focus:bg-muted focus:text-foreground",
-                      alignText(column.align),
-                    )}
-                  />
-                ) : (
-                  <span
-                    className={cn(
-                      "min-w-0 flex-1 truncate px-4",
-                      alignText(column.align),
-                    )}
-                  >
-                    {column.header}
-                  </span>
-                )}
-              </motion.div>
-              {resizable ? (
-                <button
-                  type="button"
-                  aria-label={`Resize ${column.key} column`}
-                  tabIndex={-1}
-                  onPointerDown={(e) => onResizeStart(column.key, e)}
-                  onPointerMove={onResizeMove}
-                  onPointerUp={onResizeEnd}
-                  className="absolute top-0 right-0 h-full w-1.5 cursor-col-resize touch-none bg-transparent transition-colors hover:bg-primary/40"
-                />
-              ) : null}
-            </th>
-          );
-        })}
-        <th
-          aria-hidden
-          className="sticky top-0 z-10 border-border border-b bg-muted"
-        />
-      </tr>
-    </thead>
-    </>
-  );
-}
-11a:["$","div","components/motion/table/table-header.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"table-header.tsx"}]]}]]}],["$","$L97",null,{"text":"$12e","eventLabel":"components/motion/table/table-header.tsx"}]]}],"$L12f"]}]
-130:Tdb0,import type { ReactNode } from "react";
-
-export type SortDirection = "asc" | "desc";
-
-export type SortState = {
-  key: string;
-  direction: SortDirection;
-};
-
-export type TableColumn<T> = {
-  /** Stable key; also the default object property read for the cell + sort value. */
-  key: string;
-  /** Header content. */
-  header: ReactNode;
-  /** Allow clicking the header to sort by this column. */
-  sortable?: boolean;
-  /** Cell text alignment. */
-  align?: "left" | "center" | "right";
-  /** Column width as a CSS length, e.g. "160px" or "20%". Omit to share remaining space equally. */
-  width?: string;
-  /** Custom cell renderer. Falls back to `row[key]`. */
-  cell?: (row: T) => ReactNode;
-  /** Render an inline text input for this column's cells (ignored when `cell` is set). */
-  editable?: boolean;
-  /** Value used for sorting. Falls back to `row[key]`. */
-  sortValue?: (row: T) => string | number;
-};
-
-export type InsertPosition = "before" | "after";
-
-export interface TableProps<T> {
-  data: T[];
-  columns: TableColumn<T>[];
-  /** Stable id per row, required for correct selection across sorts. Defaults to row index. */
-  getRowId?: (row: T, index: number) => string;
-  /** Render a leading checkbox column with select-all in the header. */
-  selectable?: boolean;
-  selectedRowIds?: string[];
-  defaultSelectedRowIds?: string[];
-  onSelectionChange?: (ids: string[]) => void;
-  sort?: SortState | null;
-  defaultSort?: SortState | null;
-  onSortChange?: (sort: SortState | null) => void;
-  /** Allow dragging the right edge of a header to resize that column. */
-  resizable?: boolean;
-  /** Minimum column width in px when resizing. */
-  minColumnWidth?: number;
-  onColumnResize?: (key: string, width: number) => void;
-  /** Allow dragging a header grip to reorder columns. */
-  reorderable?: boolean;
-  onColumnOrderChange?: (keys: string[]) => void;
-  /** Called when an `editable` cell changes. */
-  onCellEdit?: (rowId: string, columnKey: string, value: string) => void;
-  /** When set, non-sortable headers become editable inputs for the column name. */
-  onColumnRename?: (columnKey: string, value: string) => void;
-  /** Enables the row menu (Insert before / after). Receives the target index. */
-  onInsertRow?: (index: number, position: InsertPosition) => void;
-  /** Enables Delete in the row menu. */
-  onDeleteRow?: (rowId: string, index: number) => void;
-  /** Enables the column menu (Insert before / after). Receives the target column index. */
-  onInsertColumn?: (index: number, position: InsertPosition) => void;
-  /** Enables Delete in the column menu. */
-  onDeleteColumn?: (columnKey: string, index: number) => void;
-  /** Fixed row height in px — required for virtualization. */
-  rowHeight?: number;
-  /** Scroll viewport height in px. */
-  height?: number;
-  /** Rows rendered above/below the viewport. */
-  overscan?: number;
-  /** Fires when the viewport scrolls near the bottom — load the next page. */
-  onEndReached?: () => void;
-  /** Currently fetching — shows skeleton rows and pauses `onEndReached`. */
-  loading?: boolean;
-  /** How many skeleton rows to show while loading more (default 3). */
-  skeletonRows?: number;
-  emptyState?: ReactNode;
-  className?: string;
-}
-
-/** A data row paired with its stable id. */
-export type TableRow<T> = { row: T; id: string };
-
-/** Ref map from column key to its header cell, shared across the resize/reorder hooks. */
-export type HeaderCellRefs = {
-  current: Record<string, HTMLTableCellElement | null>;
-};
-11b:["$","div","components/motion/table/types.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"types.ts"}]]}]]}],["$","$L97",null,{"text":"$130","eventLabel":"components/motion/table/types.ts"}]]}],"$L131"]}]
-132:Tc39,import {
-  type PointerEvent as ReactPointerEvent,
-  useCallback,
-  useMemo,
-  useState,
-} from "react";
-import type { HeaderCellRefs, TableColumn } from "./types";
-
-export function useColumnReorder<T>({
-  columns,
-  thRefs,
-  onColumnOrderChange,
-}: {
-  columns: TableColumn<T>[];
-  thRefs: HeaderCellRefs;
-  onColumnOrderChange?: (keys: string[]) => void;
-}) {
-  const [order, setOrder] = useState<string[]>(() =>
-    columns.map((c) => c.key),
-  );
-  const [dragKey, setDragKey] = useState<string | null>(null);
-  const [dropIndex, setDropIndex] = useState<number | null>(null);
-
-  // Apply the current order, tolerating columns added/removed at runtime. New
-  // columns are placed at their position in `columns` (after their left
-  // neighbor), not appended — so an inserted column lands where it was added.
-  const orderedColumns = useMemo(() => {
-    const byKey = new Map(columns.map((c) => [c.key, c]));
-    const resultKeys = order.filter((k) => byKey.has(k));
-    const present = new Set(resultKeys);
-    columns.forEach((column, i) => {
-      if (present.has(column.key)) return;
-      let at = resultKeys.length;
-      if (i === 0) {
-        at = 0;
-      } else {
-        const idx = resultKeys.indexOf(columns[i - 1].key);
-        at = idx === -1 ? i : idx + 1;
-      }
-      resultKeys.splice(at, 0, column.key);
-      present.add(column.key);
-    });
-    return resultKeys
-      .map((k) => byKey.get(k))
-      .filter((c): c is TableColumn<T> => c !== undefined);
-  }, [order, columns]);
-
-  const dropIndexFor = useCallback(
-    (clientX: number) => {
-      for (let i = 0; i < orderedColumns.length; i++) {
-        const rect =
-          thRefs.current[orderedColumns[i].key]?.getBoundingClientRect();
-        if (rect && clientX < rect.left + rect.width / 2) return i;
-      }
-      return orderedColumns.length;
-    },
-    [orderedColumns, thRefs],
-  );
-
-  const startReorder = useCallback((key: string, e: ReactPointerEvent) => {
-    e.preventDefault();
-    e.stopPropagation();
-    setDragKey(key);
-    e.currentTarget.setPointerCapture(e.pointerId);
-  }, []);
-
-  const moveReorder = useCallback(
-    (e: ReactPointerEvent) => {
-      if (!dragKey) return;
-      setDropIndex(dropIndexFor(e.clientX));
-    },
-    [dragKey, dropIndexFor],
-  );
-
-  const endReorder = useCallback(
-    (e: ReactPointerEvent) => {
-      if (e.currentTarget.hasPointerCapture(e.pointerId)) {
-        e.currentTarget.releasePointerCapture(e.pointerId);
-      }
-      if (dragKey && dropIndex !== null) {
-        const keys = orderedColumns.map((c) => c.key);
-        const from = keys.indexOf(dragKey);
-        if (from !== -1) {
-          const without = keys.filter((_, i) => i !== from);
-          let to = dropIndex;
-          if (from < to) to--;
-          without.splice(to, 0, dragKey);
-          setOrder(without);
-          onColumnOrderChange?.(without);
-        }
-      }
-      setDragKey(null);
-      setDropIndex(null);
-    },
-    [dragKey, dropIndex, orderedColumns, onColumnOrderChange],
-  );
-
-  return {
-    orderedColumns,
-    dragKey,
-    dropIndex,
-    startReorder,
-    moveReorder,
-    endReorder,
-  };
-}
-11c:["$","div","components/motion/table/use-column-reorder.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"use-column-reorder.ts"}]]}]]}],["$","$L97",null,{"text":"$132","eventLabel":"components/motion/table/use-column-reorder.ts"}]]}],"$L133"]}]
-134:T930,import {
-  type PointerEvent as ReactPointerEvent,
-  useCallback,
-  useRef,
-  useState,
-} from "react";
-import type { HeaderCellRefs, TableColumn } from "./types";
-
-export function useColumnResize<T>({
-  orderedColumns,
-  thRefs,
-  minColumnWidth,
-  onColumnResize,
-}: {
-  orderedColumns: TableColumn<T>[];
-  thRefs: HeaderCellRefs;
-  minColumnWidth: number;
-  onColumnResize?: (key: string, width: number) => void;
-}) {
-  const resizeRef = useRef<{
-    key: string;
-    startX: number;
-    startWidth: number;
-  } | null>(null);
-  const [widths, setWidths] = useState<Record<string, number>>({});
-
-  const startResize = useCallback(
-    (key: string, e: ReactPointerEvent) => {
-      e.preventDefault();
-      e.stopPropagation();
-      // Freeze every column to its current pixel width so resizing one only
-      // moves the trailing spacer, never the other columns.
-      setWidths((prev) => {
-        const snapshot = { ...prev };
-        for (const column of orderedColumns) {
-          if (snapshot[column.key] == null) {
-            const measured = thRefs.current[column.key]?.getBoundingClientRect()
-              .width;
-            snapshot[column.key] = measured
-              ? Math.round(measured)
-              : minColumnWidth;
-          }
-        }
-        resizeRef.current = {
-          key,
-          startX: e.clientX,
-          startWidth: snapshot[key],
-        };
-        return snapshot;
-      });
-      e.currentTarget.setPointerCapture(e.pointerId);
-    },
-    [minColumnWidth, orderedColumns, thRefs],
-  );
-
-  const moveResize = useCallback(
-    (e: ReactPointerEvent) => {
-      const state = resizeRef.current;
-      if (!state) return;
-      const width = Math.max(
-        minColumnWidth,
-        state.startWidth + (e.clientX - state.startX),
-      );
-      setWidths((prev) => ({ ...prev, [state.key]: width }));
-    },
-    [minColumnWidth],
-  );
-
-  const endResize = useCallback(
-    (e: ReactPointerEvent) => {
-      const state = resizeRef.current;
-      resizeRef.current = null;
-      if (e.currentTarget.hasPointerCapture(e.pointerId)) {
-        e.currentTarget.releasePointerCapture(e.pointerId);
-      }
-      if (state) {
-        onColumnResize?.(state.key, widths[state.key] ?? state.startWidth);
-      }
-    },
-    [onColumnResize, widths],
-  );
-
-  return { widths, startResize, moveResize, endResize };
-}
-11d:["$","div","components/motion/table/use-column-resize.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"use-column-resize.ts"}]]}]]}],["$","$L97",null,{"text":"$134","eventLabel":"components/motion/table/use-column-resize.ts"}]]}],"$L135"]}]
-136:T6cd,import { useCallback, useMemo, useState } from "react";
-import type { SortState, TableColumn, TableRow } from "./types";
-import { readSortValue } from "./utils";
-
-export function useColumnSort<T>({
-  rows,
-  columns,
-  sort: sortProp,
-  defaultSort = null,
-  onSortChange,
-}: {
-  rows: TableRow<T>[];
-  columns: TableColumn<T>[];
-  sort?: SortState | null;
-  defaultSort?: SortState | null;
-  onSortChange?: (sort: SortState | null) => void;
-}) {
-  const [internalSort, setInternalSort] = useState<SortState | null>(
-    defaultSort,
-  );
-  const sort = sortProp !== undefined ? sortProp : internalSort;
-
-  const commit = useCallback(
-    (next: SortState | null) => {
-      if (sortProp === undefined) setInternalSort(next);
-      onSortChange?.(next);
-    },
-    [sortProp, onSortChange],
-  );
-
-  const toggleSort = useCallback(
-    (key: string) => {
-      if (!sort || sort.key !== key) {
-        commit({ key, direction: "asc" });
-      } else if (sort.direction === "asc") {
-        commit({ key, direction: "desc" });
-      } else {
-        commit(null);
-      }
-    },
-    [sort, commit],
-  );
-
-  const sortedRows = useMemo(() => {
-    if (!sort) return rows;
-    const column = columns.find((c) => c.key === sort.key);
-    if (!column) return rows;
-    const copy = [...rows];
-    copy.sort((a, b) => {
-      const av = readSortValue(a.row, column);
-      const bv = readSortValue(b.row, column);
-      let cmp: number;
-      if (typeof av === "number" && typeof bv === "number") {
-        cmp = av - bv;
-      } else {
-        cmp = String(av).localeCompare(String(bv));
-      }
-      return sort.direction === "asc" ? cmp : -cmp;
-    });
-    return copy;
-  }, [rows, sort, columns]);
-
-  return { sort, sortedRows, toggleSort };
-}
-137:T53ff,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { useCallback, useMemo, useState } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { SortState, TableColumn, TableRow } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./types"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { readSortValue } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./utils"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useColumnSort</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>({</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  rows</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  columns</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  sort</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">sortProp</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  defaultSort</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  onSortChange</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  rows</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TableRow</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>[];</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  columns</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TableColumn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>[];</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  sort</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> SortState</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  defaultSort</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> SortState</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">  onSortChange</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">sort</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> SortState</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> void</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}) {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">internalSort</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">setInternalSort</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useState</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">SortState</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>(</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    defaultSort,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> sort</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> sortProp </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">!==</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> ?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> sortProp </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> internalSort;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> commit</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">next</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> SortState</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (sortProp </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">setInternalSort</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(next);</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      onSortChange</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">?.(next);</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    },</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    [sortProp, onSortChange],</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> toggleSort</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">key</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">!</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">sort </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">||</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> sort.key </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">!==</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> key) {</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        commit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">({ key, direction: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"asc"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> });</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">else</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (sort.direction </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "asc"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        commit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">({ key, direction: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"desc"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> });</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">else</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">        commit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      }</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    },</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    [sort, commit],</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> sortedRows</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useMemo</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(() </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">!</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">sort) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> rows;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> column</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> columns.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">find</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">c</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> c.key </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> sort.key);</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">!</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">column) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> rows;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> copy</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">rows];</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    copy.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">sort</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">a</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">b</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> av</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> readSortValue</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(a.row, column);</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> bv</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> readSortValue</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(b.row, column);</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      let</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> cmp</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> number</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">typeof</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> av </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "number"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> &#x26;&#x26;</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> typeof</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> bv </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "number"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        cmp </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> av </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">-</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> bv;</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">else</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        cmp </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> String</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(av).</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">localeCompare</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">String</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(bv));</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      }</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> sort.direction </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "asc"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> ?</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> cmp </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> -</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">cmp;</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    });</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> copy;</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  }, [rows, sort, columns]);</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { sort, sortedRows, toggleSort };</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>11e:["$","div","components/motion/table/use-column-sort.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"use-column-sort.ts"}]]}]]}],["$","$L97",null,{"text":"$136","eventLabel":"components/motion/table/use-column-sort.ts"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$137"}}]}]]}]
-138:T65c,import { useCallback, useMemo, useState } from "react";
-import type { TableRow } from "./types";
-
-export function useRowSelection<T>({
-  sortedRows,
-  selectedRowIds,
-  defaultSelectedRowIds,
-  onSelectionChange,
-}: {
-  sortedRows: TableRow<T>[];
-  selectedRowIds?: string[];
-  defaultSelectedRowIds?: string[];
-  onSelectionChange?: (ids: string[]) => void;
-}) {
-  const [internalSelected, setInternalSelected] = useState<Set<string>>(
-    () => new Set(defaultSelectedRowIds),
-  );
-  const selected = useMemo(
-    () =>
-      selectedRowIds !== undefined
-        ? new Set(selectedRowIds)
-        : internalSelected,
-    [selectedRowIds, internalSelected],
-  );
-
-  const commit = useCallback(
-    (next: Set<string>) => {
-      if (selectedRowIds === undefined) setInternalSelected(next);
-      onSelectionChange?.([...next]);
-    },
-    [selectedRowIds, onSelectionChange],
-  );
-
-  const allSelected =
-    sortedRows.length > 0 && sortedRows.every((r) => selected.has(r.id));
-  const someSelected = sortedRows.some((r) => selected.has(r.id));
-
-  const toggleAll = useCallback(() => {
-    const next = new Set(selected);
-    if (allSelected) {
-      for (const r of sortedRows) next.delete(r.id);
-    } else {
-      for (const r of sortedRows) next.add(r.id);
-    }
-    commit(next);
-  }, [allSelected, sortedRows, selected, commit]);
-
-  const toggleRow = useCallback(
-    (id: string) => {
-      const next = new Set(selected);
-      if (next.has(id)) next.delete(id);
-      else next.add(id);
-      commit(next);
-    },
-    [selected, commit],
-  );
-
-  return { selected, allSelected, someSelected, toggleAll, toggleRow };
-}
-139:T4491,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { useCallback, useMemo, useState } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { TableRow } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./types"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useRowSelection</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>({</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  sortedRows</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  selectedRowIds</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  defaultSelectedRowIds</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  onSelectionChange</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  sortedRows</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TableRow</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>[];</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  selectedRowIds</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[];</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  defaultSelectedRowIds</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[];</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">  onSelectionChange</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">ids</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">[]) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> void</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}) {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">internalSelected</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">setInternalSelected</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">] </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useState</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">Set</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>>(</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    () </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> new</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Set</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(defaultSelectedRowIds),</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> selected</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useMemo</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    () </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      selectedRowIds </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">!==</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">        ?</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> new</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Set</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(selectedRowIds)</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">        :</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> internalSelected,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    [selectedRowIds, internalSelected],</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> commit</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">next</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Set</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (selectedRowIds </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> undefined</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">setInternalSelected</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(next);</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      onSelectionChange</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">?.([</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">...</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">next]);</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    },</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    [selectedRowIds, onSelectionChange],</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> allSelected</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    sortedRows.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">length</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> ></span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 0</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> &#x26;&#x26;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> sortedRows.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">every</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">r</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> selected.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">has</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(r.id));</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> someSelected</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> sortedRows.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">some</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">r</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> selected.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">has</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(r.id));</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> toggleAll</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(() </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> next</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> new</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Set</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(selected);</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (allSelected) {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      for</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> r</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> of</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> sortedRows) next.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">delete</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(r.id);</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">else</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      for</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> r</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> of</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> sortedRows) next.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">add</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(r.id);</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    }</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">    commit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(next);</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  }, [allSelected, sortedRows, selected, commit]);</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> toggleRow</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> useCallback</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    (</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">id</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> next</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> new</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Set</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(selected);</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (next.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">has</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(id)) next.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">delete</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(id);</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      else</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> next.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">add</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(id);</span></span>
-<span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">      commit</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(next);</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    },</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    [selected, commit],</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { selected, allSelected, someSelected, toggleAll, toggleRow };</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>11f:["$","div","components/motion/table/use-row-selection.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"use-row-selection.ts"}]]}]]}],["$","$L97",null,{"text":"$138","eventLabel":"components/motion/table/use-row-selection.ts"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$139"}}]}]]}]
-13a:T432,import type { ReactNode } from "react";
-import type { TableColumn } from "./types";
-
-export const CHECKBOX_PX = 48;
-export const CHECKBOX_WIDTH = `${CHECKBOX_PX}px`;
-
-/** Highlights the top edge of the active column's header cell. */
-export const COLUMN_ACTIVE_SHADOW = "inset 0 1px 0 var(--color-primary)";
-
-export function alignFlex(align: TableColumn<unknown>["align"]) {
-  if (align === "right") return "justify-end";
-  if (align === "center") return "justify-center";
-  return "justify-start";
-}
-
-export function alignText(align: TableColumn<unknown>["align"]) {
-  if (align === "right") return "text-right";
-  if (align === "center") return "text-center";
-  return "text-left";
-}
-
-export function readCell<T>(row: T, column: TableColumn<T>): ReactNode {
-  if (column.cell) return column.cell(row);
-  return (row as Record<string, ReactNode>)[column.key];
-}
-
-export function readSortValue<T>(
-  row: T,
-  column: TableColumn<T>,
-): string | number {
-  if (column.sortValue) return column.sortValue(row);
-  return (row as Record<string, string | number>)[column.key];
-}
-13b:T3388,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { ReactNode } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { TableColumn } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "./types"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> CHECKBOX_PX</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 48</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> CHECKBOX_WIDTH</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> `${</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">CHECKBOX_PX</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">}px`</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">/** Highlights the top edge of the active column's header cell. */</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> COLUMN_ACTIVE_SHADOW</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "inset 0 1px 0 var(--color-primary)"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> alignFlex</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">align</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TableColumn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">unknown</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>[</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"align"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">]) {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (align </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "right"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">return</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "justify-end"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (align </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "center"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">return</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "justify-center"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "justify-start"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> alignText</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">align</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TableColumn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">unknown</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>[</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"align"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">]) {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (align </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "right"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">return</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "text-right"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (align </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">===</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "center"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">return</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "text-center"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "text-left"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> readCell</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">row</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">column</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TableColumn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>)</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ReactNode</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (column.cell) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> column.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">cell</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(row);</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (row </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Record</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">ReactNode</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>)[column.key];</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> readSortValue</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>(</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  row</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
-<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  column</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> TableColumn</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">T</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>,</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">)</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> number</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (column.sortValue) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> column.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">sortValue</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(row);</span></span>
-<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (row </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Record</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> number</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>)[column.key];</span></span>
-<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>120:["$","div","components/motion/table/utils.ts",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"utils.ts"}]]}]]}],["$","$L97",null,{"text":"$13a","eventLabel":"components/motion/table/utils.ts"}]]}],["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$13b"}}]}]]}]
-13c:Tee7,"use client";
-
-import { AnimatePresence, motion, useReducedMotion } from "motion/react";
-import { useId } from "react";
-import { EASE_OUT, SPRING_PRESS } from "@/lib/ease";
-import { cn } from "@/lib/utils";
-
-const CHECK_PATH = "M5 13l4 4L19 7";
-const INDETERMINATE_PATH = "M6 12h12";
-
-export interface CheckboxProps {
-  checked: boolean;
-  onCheckedChange: (checked: boolean) => void;
-  disabled?: boolean;
-  indeterminate?: boolean;
-  label?: string;
-  className?: string;
-  id?: string;
-  "aria-label"?: string;
-}
-
-export function Checkbox({
-  checked,
-  onCheckedChange,
-  disabled,
-  indeterminate,
-  label,
-  className,
-  id: idProp,
-  "aria-label": ariaLabel,
-}: CheckboxProps) {
-  const autoId = useId();
-  const id = idProp ?? autoId;
-  const reduce = useReducedMotion();
-  const showMark = checked || indeterminate;
-  const path = indeterminate ? INDETERMINATE_PATH : CHECK_PATH;
-
-  return (
-    <label
-      htmlFor={id}
-      className={cn(
-        "inline-flex items-center gap-3",
-        disabled ? "cursor-not-allowed" : "cursor-pointer",
-        className,
-      )}
-    >
-      <motion.button
-        id={id}
-        type="button"
-        role="checkbox"
-        aria-checked={indeterminate ? "mixed" : checked}
-        aria-label={ariaLabel}
-        disabled={disabled}
-        onClick={() => !disabled && onCheckedChange(!checked)}
-        whileTap={reduce || disabled ? undefined : { scale: 0.92 }}
-        transition={SPRING_PRESS}
-        data-state={
-          checked ? "checked" : indeterminate ? "indeterminate" : "unchecked"
-        }
-        className={cn(
-          "inline-flex h-5 w-5 shrink-0 items-center justify-center rounded-md border-2 outline-none transition-colors duration-200",
-          "focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background",
-          "disabled:cursor-not-allowed disabled:opacity-60",
-          showMark
-            ? "border-primary bg-primary text-primary-foreground"
-            : "border-muted-foreground/50 bg-background hover:border-muted-foreground",
-        )}
-      >
-        <AnimatePresence initial={false}>
-          {showMark ? (
-            <motion.svg
-              key={indeterminate ? "indeterminate" : "checked"}
-              width="12"
-              height="12"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              strokeWidth={3}
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              initial={reduce ? { opacity: 1 } : { opacity: 0, scale: 0.5 }}
-              animate={reduce ? { opacity: 1 } : { opacity: 1, scale: 1 }}
-              exit={
-                reduce
-                  ? { opacity: 0 }
-                  : { opacity: 0, scale: 0.5, filter: "blur(4px)" }
-              }
-              transition={
-                reduce ? { duration: 0 } : { duration: 0.16, ease: EASE_OUT }
-              }
-              aria-hidden
-            >
-              <title>{indeterminate ? "Partially selected" : "Selected"}</title>
-              <motion.path
-                d={path}
-                initial={reduce ? { pathLength: 1 } : { pathLength: 0 }}
-                animate={{ pathLength: 1 }}
-                transition={
-                  reduce
-                    ? { duration: 0 }
-                    : {
-                        duration: indeterminate ? 0.2 : 0.3,
-                        ease: EASE_OUT,
-                        delay: 0.04,
-                      }
-                }
-              />
-            </motion.svg>
-          ) : null}
-        </AnimatePresence>
-      </motion.button>
-      {label ? (
-        <span className={cn("select-none text-sm text-foreground", disabled && "opacity-60")}>
-          {label}
-        </span>
-      ) : null}
-    </label>
-  );
-}
-121:["$","div","components/motion/checkbox.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"checkbox.tsx"}]]}]]}],["$","$L97",null,{"text":"$13c","eventLabel":"components/motion/checkbox.tsx"}]]}],"$L13d"]}]
-13e:Tea8,"use client";
-
-import { motion, useReducedMotion } from "motion/react";
-import { type ReactNode, useEffect, useRef, useState } from "react";
-import { createPortal } from "react-dom";
-import { SPRING_PANEL } from "@/lib/ease";
-import { cn } from "@/lib/utils";
-
-export type TableMenuItem = {
-  label: string;
-  icon?: ReactNode;
-  onSelect: () => void;
-  destructive?: boolean;
-};
-
-const MENU_WIDTH = 188;
-
-export function TableMenu({
-  items,
-  ariaLabel,
-  trigger,
-  triggerClassName,
-}: {
-  items: TableMenuItem[];
-  ariaLabel: string;
-  trigger: ReactNode;
-  triggerClassName?: string;
-}) {
-  const reduce = useReducedMotion();
-  const triggerRef = useRef<HTMLButtonElement>(null);
-  const [coords, setCoords] = useState<{ top: number; left: number } | null>(
-    null,
-  );
-  const open = coords !== null;
-
-  useEffect(() => {
-    if (!open) return;
-    const close = () => setCoords(null);
-    const onKey = (e: KeyboardEvent) => {
-      if (e.key === "Escape") close();
-    };
-    // Close on any scroll (the trigger moves) or resize; fixed coords go stale.
-    window.addEventListener("scroll", close, true);
-    window.addEventListener("resize", close);
-    window.addEventListener("keydown", onKey);
-    return () => {
-      window.removeEventListener("scroll", close, true);
-      window.removeEventListener("resize", close);
-      window.removeEventListener("keydown", onKey);
-    };
-  }, [open]);
-
-  const toggle = () => {
-    if (open) {
-      setCoords(null);
-      return;
-    }
-    const el = triggerRef.current;
-    if (!el) return;
-    const r = el.getBoundingClientRect();
-    setCoords({
-      top: r.bottom + 4,
-      left: Math.max(8, r.right - MENU_WIDTH),
-    });
-  };
-
-  return (
-    <>
-      <button
-        ref={triggerRef}
-        type="button"
-        aria-label={ariaLabel}
-        aria-haspopup="menu"
-        aria-expanded={open}
-        onClick={(e) => {
-          e.stopPropagation();
-          toggle();
-        }}
-        className={triggerClassName}
-      >
-        {trigger}
-      </button>
-      {open && typeof document !== "undefined"
-        ? createPortal(
-            <>
-              <div
-                className="fixed inset-0 z-40"
-                onPointerDown={() => setCoords(null)}
-              />
-              <motion.div
-                role="menu"
-                className="fixed z-50 overflow-hidden rounded-xl border border-border bg-background p-1 shadow-xl"
-                style={{ top: coords.top, left: coords.left, width: MENU_WIDTH }}
-                initial={
-                  reduce ? { opacity: 0 } : { opacity: 0, scale: 0.96, y: -4 }
-                }
-                animate={
-                  reduce ? { opacity: 1 } : { opacity: 1, scale: 1, y: 0 }
-                }
-                transition={reduce ? { duration: 0 } : SPRING_PANEL}
-              >
-                {items.map((item) => (
-                  <button
-                    key={item.label}
-                    type="button"
-                    role="menuitem"
-                    onClick={() => {
-                      setCoords(null);
-                      item.onSelect();
-                    }}
-                    className={cn(
-                      "flex w-full items-center gap-2.5 rounded-lg px-2.5 py-1.5 text-left text-sm transition-colors [&_svg]:h-4 [&_svg]:w-4",
-                      item.destructive
-                        ? "text-rose-500 hover:bg-rose-500/10"
-                        : "text-foreground hover:bg-muted",
-                    )}
-                  >
-                    {item.icon}
-                    {item.label}
-                  </button>
-                ))}
-              </motion.div>
-            </>,
-            document.body,
-          )
-        : null}
-    </>
-  );
-}
-122:["$","div","components/motion/table/table-menu.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion/table","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"table-menu.tsx"}]]}]]}],["$","$L97",null,{"text":"$13e","eventLabel":"components/motion/table/table-menu.tsx"}]]}],"$L13f"]}]
-140:Tbff,"use client";
-
-import { animate, motion, MotionConfig, useReducedMotion } from "motion/react";
-import { useEffect, useId, useRef, useState } from "react";
-import { cn } from "@/lib/utils";
-
-// Heavy, deliberate thumb — high mass keeps the travel weighty without wobble.
-const THUMB_SPRING = { type: "spring", stiffness: 800, damping: 80, mass: 4 } as const;
-
-export interface SwitchProps {
-  checked: boolean;
-  onCheckedChange: (checked: boolean) => void;
-  disabled?: boolean;
-  label?: string;
-  className?: string;
-}
-
-export function Switch({ checked, onCheckedChange, disabled, label, className }: SwitchProps) {
-  const id = useId();
-  const thumbRef = useRef<HTMLDivElement>(null);
-  const reduce = useReducedMotion();
-  const [isPressed, setIsPressed] = useState(false);
-  const [isPointer, setIsPointer] = useState(false);
-
-  // Disabled shake feedback when pressed.
-  useEffect(() => {
-    if (!thumbRef.current || reduce) return;
-    if (disabled && isPressed) {
-      animate(
-        thumbRef.current,
-        { x: [0, -2, 2, -1, 0] },
-        { delay: 0.2, duration: 0.6 },
-      );
-    }
-  }, [disabled, isPressed, reduce]);
-
-  const squish = !disabled && isPointer && isPressed && !reduce;
-
-  return (
-    <MotionConfig transition={reduce ? { duration: 0 } : THUMB_SPRING}>
-      <span className={cn("inline-flex items-center gap-3", className)}>
-        <motion.button
-          id={id}
-          type="button"
-          role="switch"
-          aria-checked={checked}
-          disabled={disabled}
-          onClick={() => !disabled && onCheckedChange(!checked)}
-          onPointerDown={(e) => {
-            setIsPressed(true);
-            setIsPointer(e.type.startsWith("pointer"));
-          }}
-          onPointerUp={() => setIsPressed(false)}
-          onPointerLeave={() => setIsPressed(false)}
-          initial={false}
-          data-state={checked ? "checked" : "unchecked"}
-          className={cn(
-            "group peer inline-flex h-7 w-12 shrink-0 cursor-pointer items-center px-1 rounded-full outline-none transition-colors duration-200",
-            "focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background",
-            "disabled:cursor-not-allowed disabled:opacity-60",
-            checked ? "justify-end bg-primary" : "justify-start bg-muted-foreground/60",
-          )}
-        >
-          <motion.div
-            ref={thumbRef}
-            layout
-            animate={{ scale: squish ? 0.9 : 1 }}
-            className="pointer-events-none block h-5 w-5 rounded-full bg-background shadow-md"
-          >
-            {/* Stretch toward the destination while active. */}
-            <div
-              className={cn(
-                "size-5",
-                squish && (checked ? "ml-1" : "mr-1"),
-              )}
-            />
-          </motion.div>
-        </motion.button>
-        {label ? (
-          <label htmlFor={id} className="cursor-pointer text-sm text-foreground">
-            {label}
-          </label>
-        ) : null}
-      </span>
-    </MotionConfig>
-  );
-}
-123:["$","div","components/motion/switch.tsx",{"className":"group relative overflow-hidden rounded-xl border border-border bg-card font-mono text-[13px]","children":[["$","div",null,{"className":"flex items-center justify-between gap-3 border-b border-border bg-background/60 px-4 py-2.5","children":[["$","div",null,{"className":"flex min-w-0 items-center gap-2 text-xs","children":[["$","span",null,{"className":"inline-flex h-5 shrink-0 items-center rounded border border-border bg-card px-1.5 font-mono text-[10px] font-semibold tracking-wider text-muted-foreground uppercase","children":"TSX"}],["$","$L12",null,{"ref":"$undefined","iconNode":"$37:props:children:0:props:children:0:props:children:1:props:iconNode","className":"lucide-file h-3.5 w-3.5 shrink-0 text-muted-foreground"}],["$","span",null,{"className":"truncate font-mono text-muted-foreground","children":[["$","span",null,{"className":"opacity-60","children":["components/motion","/"]}],["$","span",null,{"className":"text-foreground font-medium","children":"switch.tsx"}]]}]]}],["$","$L97",null,{"text":"$140","eventLabel":"components/motion/switch.tsx"}]]}],"$L141"]}]
+<span class="line"></span></code></pre>11b:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$141"}}]}]
 142:T193df,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// beui.dev/components/motion/table</span></span>
 <span class="line"></span>
@@ -11557,7 +11557,7 @@ export function Switch({ checked, onCheckedChange, disabled, label, className }:
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">div</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>128:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$142"}}]}]
+<span class="line"></span></code></pre>120:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$142"}}]}]
 143:T5575,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { ArrowDownToLine, ArrowUpToLine, MoreVertical, Trash2 } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "lucide-react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
@@ -11639,7 +11639,7 @@ export function Switch({ checked, onCheckedChange, disabled, label, className }:
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    document.body,</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>12b:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$143"}}]}]
+<span class="line"></span></code></pre>123:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$143"}}]}]
 144:T17fd3,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
@@ -11973,7 +11973,7 @@ export function Switch({ checked, onCheckedChange, disabled, label, className }:
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/></span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>12f:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$144"}}]}]
+<span class="line"></span></code></pre>127:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$144"}}]}]
 145:T7899,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { ReactNode } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> SortDirection</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "asc"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "desc"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
@@ -12060,7 +12060,7 @@ export function Switch({ checked, onCheckedChange, disabled, label, className }:
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> type</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> HeaderCellRefs</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
 <span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  current</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Record</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">HTMLTableCellElement</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>;</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">};</span></span>
-<span class="line"></span></code></pre>131:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$145"}}]}]
+<span class="line"></span></code></pre>129:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$145"}}]}]
 146:T8812,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> PointerEvent </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ReactPointerEvent,</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  useCallback,</span></span>
@@ -12167,7 +12167,7 @@ export function Switch({ checked, onCheckedChange, disabled, label, className }:
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    endReorder,</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  };</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>133:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$146"}}]}]
+<span class="line"></span></code></pre>12b:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$146"}}]}]
 147:T5665,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> PointerEvent </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ReactPointerEvent,</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  useCallback,</span></span>
@@ -12252,7 +12252,7 @@ export function Switch({ checked, onCheckedChange, disabled, label, className }:
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { widths, startResize, moveResize, endResize };</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>135:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$147"}}]}]
+<span class="line"></span></code></pre>12d:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$147"}}]}]
 148:T8ae6,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { AnimatePresence, motion, useReducedMotion } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "motion/react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
@@ -12372,7 +12372,7 @@ export function Switch({ checked, onCheckedChange, disabled, label, className }:
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">label</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>13d:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$148"}}]}]
+<span class="line"></span></code></pre>135:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$148"}}]}]
 149:T8cab,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { motion, useReducedMotion } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "motion/react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
@@ -12502,7 +12502,7 @@ export function Switch({ checked, onCheckedChange, disabled, label, className }:
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/></span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>13f:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$149"}}]}]
+<span class="line"></span></code></pre>137:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$149"}}]}]
 14a:T71a1,<pre class="shiki shiki-themes github-light github-dark" style="--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e" tabindex="0"><code><span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"use client"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">import</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { animate, motion, MotionConfig, useReducedMotion } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">from</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "motion/react"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
@@ -12590,4 +12590,4 @@ export function Switch({ checked, onCheckedChange, disabled, label, className }:
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">MotionConfig</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  );</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span>
-<span class="line"></span></code></pre>141:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$14a"}}]}]
+<span class="line"></span></code></pre>139:["$","$La4",null,{"children":["$","div",null,{"className":"relative px-0 py-4 text-[13px] leading-relaxed [&_pre]:!bg-transparent [&_pre]:!p-0 [&_code]:font-mono [&_code]:text-[13px] [&_.shiki]:bg-transparent [&_.line]:px-5 [&_.highlighted]:bg-foreground/[0.07] [&_.highlighted]:border-l-2 [&_.highlighted]:border-blue-500 [&_.highlighted]:!pl-[18px] [&_.diff.add]:bg-green-500/10 [&_.diff.add]:border-l-2 [&_.diff.add]:border-green-500 [&_.diff.add]:!pl-[18px] [&_.diff.remove]:bg-red-500/10 [&_.diff.remove]:border-l-2 [&_.diff.remove]:border-red-500 [&_.diff.remove]:!pl-[18px] [&_.focused]:opacity-100 [&_pre:has(.focused)_.line:not(.focused)]:opacity-30 [&_pre:has(.focused)_.line:not(.focused)]:transition-opacity","dangerouslySetInnerHTML":{"__html":"$14a"}}]}]

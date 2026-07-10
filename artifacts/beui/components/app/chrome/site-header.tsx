@@ -128,29 +128,11 @@ export function SiteHeader({
               Membership
               <ArrowUpRight className="h-3.5 w-3.5" />
             </Link>
-            <a
-              href="https://pro.beui.dev"
-              target="_blank"
-              rel="noreferrer noopener"
-              className="inline-flex items-center gap-1 rounded-md px-3 py-1.5 text-sm font-medium text-accent transition-colors hover:text-accent/80"
-            >
-              Pro
-              <ArrowUpRight className="h-3.5 w-3.5" />
-            </a>
           </nav>
         </div>
 
         <nav className="flex items-center gap-2">
           <SiteSearch className="w-9 justify-center px-0 sm:w-44 sm:justify-start sm:px-3 lg:w-56" />
-          <a
-            href="https://pro.beui.dev"
-            target="_blank"
-            rel="noreferrer noopener"
-            className="inline-flex items-center gap-1 rounded-2xl border border-border bg-card/20 px-3 py-2 text-xs font-medium text-accent transition-colors hover:border-(--color-border-strong) md:hidden"
-          >
-            Pro
-            <ArrowUpRight className="h-3.5 w-3.5" />
-          </a>
           <Tooltip content="Customize" side="bottom">
             <button
               type="button"
