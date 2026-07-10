@@ -11315,81 +11315,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/components/ai": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/components/[category]",
-      "dataRoute": "/components/ai.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/components/blocks": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/components/[category]",
-      "dataRoute": "/components/blocks.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/components/motion": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/components/[category]",
-      "dataRoute": "/components/motion.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/components/ai/agent-input": {
       "experimentalBypassFor": [
         {
@@ -12990,7 +12915,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/icons/animated": {
+    "/components/ai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -13004,8 +12929,8 @@
       ],
       "initialRevalidateSeconds": 3600,
       "initialExpireSeconds": 31536000,
-      "srcRoute": "/icons/[category]",
-      "dataRoute": "/icons/animated.rsc",
+      "srcRoute": "/components/[category]",
+      "dataRoute": "/components/ai.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -13015,7 +12940,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/icons/static": {
+    "/components/blocks": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -13029,8 +12954,33 @@
       ],
       "initialRevalidateSeconds": 3600,
       "initialExpireSeconds": 31536000,
-      "srcRoute": "/icons/[category]",
-      "dataRoute": "/icons/static.rsc",
+      "srcRoute": "/components/[category]",
+      "dataRoute": "/components/blocks.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/components/motion": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": 3600,
+      "initialExpireSeconds": 31536000,
+      "srcRoute": "/components/[category]",
+      "dataRoute": "/components/motion.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -13240,56 +13190,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/docs/motion-patterns": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/docs/motion-patterns",
-      "dataRoute": "/docs/motion-patterns.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/docs": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": 3600,
-      "initialExpireSeconds": 31536000,
-      "srcRoute": "/docs",
-      "dataRoute": "/docs.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/docs/installation": {
       "experimentalBypassFor": [
         {
@@ -13306,6 +13206,31 @@
       "initialExpireSeconds": 31536000,
       "srcRoute": "/docs/installation",
       "dataRoute": "/docs/installation.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/docs/motion-patterns": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": 3600,
+      "initialExpireSeconds": 31536000,
+      "srcRoute": "/docs/motion-patterns",
+      "dataRoute": "/docs/motion-patterns.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -13340,6 +13265,56 @@
         "x-next-revalidate-tag-token"
       ]
     },
+    "/docs/motion/springs": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": 3600,
+      "initialExpireSeconds": 31536000,
+      "srcRoute": "/docs/motion/springs",
+      "dataRoute": "/docs/motion/springs.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/docs": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": 3600,
+      "initialExpireSeconds": 31536000,
+      "srcRoute": "/docs",
+      "dataRoute": "/docs.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
     "/docs/theme": {
       "experimentalBypassFor": [
         {
@@ -13365,7 +13340,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/docs/motion/springs": {
+    "/icons/animated": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -13379,8 +13354,33 @@
       ],
       "initialRevalidateSeconds": 3600,
       "initialExpireSeconds": 31536000,
-      "srcRoute": "/docs/motion/springs",
-      "dataRoute": "/docs/motion/springs.rsc",
+      "srcRoute": "/icons/[category]",
+      "dataRoute": "/icons/animated.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/icons/static": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": 3600,
+      "initialExpireSeconds": 31536000,
+      "srcRoute": "/icons/[category]",
+      "dataRoute": "/icons/static.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -13467,31 +13467,6 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/components/[category]": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "routeRegex": "^/components/([^/]+?)(?:/)?$",
-      "dataRoute": "/components/[category].rsc",
-      "fallback": null,
-      "dataRouteRegex": "^/components/([^/]+?)\\.rsc$",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
     "/components/[category]/[slug]": {
       "experimentalBypassFor": [
         {
@@ -13508,6 +13483,31 @@
       "dataRoute": "/components/[category]/[slug].rsc",
       "fallback": false,
       "dataRouteRegex": "^/components/([^/]+?)/([^/]+?)\\.rsc$",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/components/[category]": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "routeRegex": "^/components/([^/]+?)(?:/)?$",
+      "dataRoute": "/components/[category].rsc",
+      "fallback": null,
+      "dataRouteRegex": "^/components/([^/]+?)\\.rsc$",
       "allowHeader": [
         "host",
         "x-matched-path",
