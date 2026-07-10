@@ -69,6 +69,7 @@ function PriceDisplay({ plan, billing }: { plan: Plan; billing: BillingCycle }) 
 }
 
 export function PlanCard({ plan, billing, index }: PlanCardProps) {
+  const ctaHref = plan.ctaHrefByBilling?.[billing] ?? plan.ctaHref;
   return (
     <motion.div
       initial={{ opacity: 0, y: 24 }}
@@ -115,9 +116,9 @@ export function PlanCard({ plan, billing, index }: PlanCardProps) {
 
       {/* CTA */}
       <PressLink
-        href={plan.ctaHref}
-        target={plan.ctaHref.startsWith("http") ? "_blank" : undefined}
-        rel={plan.ctaHref.startsWith("http") ? "noreferrer noopener" : undefined}
+        href={ctaHref}
+        target={ctaHref.startsWith("http") ? "_blank" : undefined}
+        rel={ctaHref.startsWith("http") ? "noreferrer noopener" : undefined}
         className={cn(
           "mb-6 inline-flex w-full items-center justify-center rounded-xl px-5 py-2.5 text-sm font-semibold transition-colors",
           plan.ctaVariant === "primary" &&

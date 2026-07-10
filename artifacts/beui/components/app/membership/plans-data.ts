@@ -18,6 +18,9 @@ export interface Plan {
   monthlyPrice: number | null;
   cta: string;
   ctaHref: string;
+  /** Optional per-billing-cycle checkout links. When present, these override
+   * `ctaHref` depending on the selected billing cycle. */
+  ctaHrefByBilling?: Record<BillingCycle, string>;
   ctaVariant: "ghost" | "primary" | "accent";
   featured: boolean;
   features: PlanFeature[];
@@ -65,7 +68,11 @@ export const PLANS: Plan[] = [
     description: "For developers who ship fast and want more.",
     monthlyPrice: 9,
     cta: "Start Pro",
-    ctaHref: "https://github.com/sponsors/starc007",
+    ctaHref: "https://test.checkout.dodopayments.com/buy/pdt_0NisPA8OgELo2FODPiitF",
+    ctaHrefByBilling: {
+      monthly: "https://test.checkout.dodopayments.com/buy/pdt_0NisPA8OgELo2FODPiitF",
+      yearly: "https://test.checkout.dodopayments.com/buy/pdt_0NisPLUZNTdTkfyMBr51H",
+    },
     ctaVariant: "primary",
     featured: true,
     features: [
@@ -85,7 +92,11 @@ export const PLANS: Plan[] = [
     description: "For teams and companies that rely on Kinetic UI.",
     monthlyPrice: 29,
     cta: "Become a Sponsor",
-    ctaHref: "https://github.com/sponsors/starc007",
+    ctaHref: "https://test.checkout.dodopayments.com/buy/pdt_0NisPaORuMuew52bzUTaJ",
+    ctaHrefByBilling: {
+      monthly: "https://test.checkout.dodopayments.com/buy/pdt_0NisPaORuMuew52bzUTaJ",
+      yearly: "https://test.checkout.dodopayments.com/buy/pdt_0NisPkILI491R5oduatsZ",
+    },
     ctaVariant: "accent",
     featured: false,
     features: [
