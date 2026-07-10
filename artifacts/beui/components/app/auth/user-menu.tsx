@@ -84,10 +84,31 @@ const STATUS_META: Record<
     badgeText: "text-amber-400",
   },
   offline: {
-    label: "Appear Offline",
+    label: "Offline",
     dot: "bg-zinc-500",
     badgeBg: "bg-zinc-500/15",
     badgeText: "text-zinc-400",
+  },
+};
+
+const PLAN_META: Record<
+  "free" | "pro" | "sponsor",
+  { label: string; badgeBg: string; badgeText: string }
+> = {
+  free: {
+    label: "Free",
+    badgeBg: "bg-zinc-500/15",
+    badgeText: "text-zinc-400",
+  },
+  pro: {
+    label: "Pro",
+    badgeBg: "bg-accent/15",
+    badgeText: "text-accent",
+  },
+  sponsor: {
+    label: "Sponsor",
+    badgeBg: "bg-amber-500/15",
+    badgeText: "text-amber-400",
   },
 };
 
@@ -211,6 +232,9 @@ export function UserMenu() {
 
   if (!user) return null;
 
+  const planKey: "free" | "pro" | "sponsor" =
+    user.plan === "pro" || user.plan === "sponsor" ? user.plan : "free";
+
   const alreadySaved = isAccountSaved(user.id);
   const canSaveMore = savedAccounts.length < MAX_SAVED_ACCOUNTS || alreadySaved;
 
@@ -307,6 +331,15 @@ export function UserMenu() {
               <span className={cn("h-1.5 w-1.5 rounded-full", STATUS_META[status ?? "online"].dot)} />
               {STATUS_META[status ?? "online"].label}
             </span>
+            <span
+              className={cn(
+                "inline-flex items-center rounded-full px-1.5 py-0.5 text-[10px] font-medium whitespace-nowrap",
+                PLAN_META[planKey].badgeBg,
+                PLAN_META[planKey].badgeText,
+              )}
+            >
+              {PLAN_META[planKey].label}
+            </span>
           </div>
           <p className="truncate text-xs text-muted-foreground">{user.email}</p>
         </div>
@@ -327,7 +360,7 @@ export function UserMenu() {
             {status === "focus"
               ? "Focus"
               : status === "offline"
-                ? "Appear Offline"
+                ? "Offline"
                 : "Update status"}
           </span>
           <ChevronRight className="h-3.5 w-3.5" />
@@ -361,7 +394,7 @@ export function UserMenu() {
                 className="flex w-full items-center gap-2.5 rounded-xl px-2.5 py-1.5 text-left text-sm text-foreground/80 transition-colors hover:bg-card hover:text-foreground"
               >
                 <UserRoundX className="h-4 w-4" />
-                <span className="flex-1 truncate">Appear Offline</span>
+                <span className="flex-1 truncate">Offline</span>
                 {status === "offline" && (
                   <span className={cn("h-1.5 w-1.5 shrink-0 rounded-full", STATUS_META.offline.dot)} />
                 )}

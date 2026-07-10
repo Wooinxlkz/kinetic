@@ -6,8 +6,8 @@
   "/auth/logout/route": "/auth/logout",
   "/auth/me/route": "/auth/me",
   "/auth/profile/route": "/auth/profile",
-  "/auth/signup/route": "/auth/signup",
   "/auth/switch/route": "/auth/switch",
+  "/auth/signup/route": "/auth/signup",
   "/icon-source/route": "/icon-source",
   "/manifest.webmanifest/route": "/manifest.webmanifest",
   "/robots.txt/route": "/robots.txt",
@@ -38,9 +38,9 @@
   "/docs/installation/page": "/docs/installation",
   "/docs/motion-patterns/page": "/docs/motion-patterns",
   "/docs/motion/easing/page": "/docs/motion/easing",
+  "/docs/motion/springs/page": "/docs/motion/springs",
   "/docs/page": "/docs",
   "/docs/theme/page": "/docs/theme",
-  "/docs/motion/springs/page": "/docs/motion/springs",
   "/api/og/route": "/api/og",
   "/opengraph-image/route": "/opengraph-image"
 }

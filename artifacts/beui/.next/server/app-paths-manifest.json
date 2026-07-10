@@ -6,8 +6,8 @@
   "/auth/logout/route": "app/auth/logout/route.js",
   "/auth/me/route": "app/auth/me/route.js",
   "/auth/profile/route": "app/auth/profile/route.js",
-  "/auth/signup/route": "app/auth/signup/route.js",
   "/auth/switch/route": "app/auth/switch/route.js",
+  "/auth/signup/route": "app/auth/signup/route.js",
   "/icon-source/route": "app/icon-source/route.js",
   "/manifest.webmanifest/route": "app/manifest.webmanifest/route.js",
   "/robots.txt/route": "app/robots.txt/route.js",
@@ -38,9 +38,9 @@
   "/docs/installation/page": "app/docs/installation/page.js",
   "/docs/motion-patterns/page": "app/docs/motion-patterns/page.js",
   "/docs/motion/easing/page": "app/docs/motion/easing/page.js",
+  "/docs/motion/springs/page": "app/docs/motion/springs/page.js",
   "/docs/page": "app/docs/page.js",
   "/docs/theme/page": "app/docs/theme/page.js",
-  "/docs/motion/springs/page": "app/docs/motion/springs/page.js",
   "/api/og/route": "app/api/og/route.js",
   "/opengraph-image/route": "app/opengraph-image/route.js"
 }

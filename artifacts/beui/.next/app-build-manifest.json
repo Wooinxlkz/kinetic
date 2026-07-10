@@ -29,7 +29,7 @@
       "static/chunks/4463-cf0c1e2a7be55eb1.js",
       "static/chunks/613-f3ffcc1f062928e2.js",
       "static/chunks/38-e0b89ae1566342a6.js",
-      "static/chunks/app/layout-4a7c6a413a27346a.js"
+      "static/chunks/app/layout-a427097475e7aa1f.js"
     ],
     "/api/webhooks/dodopayments/route": [
       "static/chunks/webpack-e3381b1fd687bbff.js",
@@ -73,19 +73,19 @@
       "static/chunks/main-app-34c2741a7cea2b4b.js",
       "static/chunks/app/auth/profile/route-e8b0285d86bfb621.js"
     ],
-    "/auth/signup/route": [
-      "static/chunks/webpack-e3381b1fd687bbff.js",
-      "static/chunks/b6759e9c-da1dbef7358b7e8c.js",
-      "static/chunks/3176-2b2d7841ec81dc3c.js",
-      "static/chunks/main-app-34c2741a7cea2b4b.js",
-      "static/chunks/app/auth/signup/route-e8b0285d86bfb621.js"
-    ],
     "/auth/switch/route": [
       "static/chunks/webpack-e3381b1fd687bbff.js",
       "static/chunks/b6759e9c-da1dbef7358b7e8c.js",
       "static/chunks/3176-2b2d7841ec81dc3c.js",
       "static/chunks/main-app-34c2741a7cea2b4b.js",
       "static/chunks/app/auth/switch/route-e8b0285d86bfb621.js"
+    ],
+    "/auth/signup/route": [
+      "static/chunks/webpack-e3381b1fd687bbff.js",
+      "static/chunks/b6759e9c-da1dbef7358b7e8c.js",
+      "static/chunks/3176-2b2d7841ec81dc3c.js",
+      "static/chunks/main-app-34c2741a7cea2b4b.js",
+      "static/chunks/app/auth/signup/route-e8b0285d86bfb621.js"
     ],
     "/icon-source/route": [
       "static/chunks/webpack-e3381b1fd687bbff.js",
@@ -379,6 +379,16 @@
       "static/chunks/613-f3ffcc1f062928e2.js",
       "static/chunks/app/docs/motion/easing/page-2ab5ee1bbc028ed4.js"
     ],
+    "/docs/motion/springs/page": [
+      "static/chunks/webpack-e3381b1fd687bbff.js",
+      "static/chunks/b6759e9c-da1dbef7358b7e8c.js",
+      "static/chunks/3176-2b2d7841ec81dc3c.js",
+      "static/chunks/main-app-34c2741a7cea2b4b.js",
+      "static/chunks/8466-6d72020e6b5c533f.js",
+      "static/chunks/5328-c764be5a3f217285.js",
+      "static/chunks/613-f3ffcc1f062928e2.js",
+      "static/chunks/app/docs/motion/springs/page-2ab5ee1bbc028ed4.js"
+    ],
     "/docs/page": [
       "static/chunks/webpack-e3381b1fd687bbff.js",
       "static/chunks/b6759e9c-da1dbef7358b7e8c.js",
@@ -397,16 +407,6 @@
       "static/chunks/9706-a4a23d353f619dcb.js",
       "static/chunks/613-f3ffcc1f062928e2.js",
       "static/chunks/app/docs/theme/page-54bbac4d93be8c16.js"
-    ],
-    "/docs/motion/springs/page": [
-      "static/chunks/webpack-e3381b1fd687bbff.js",
-      "static/chunks/b6759e9c-da1dbef7358b7e8c.js",
-      "static/chunks/3176-2b2d7841ec81dc3c.js",
-      "static/chunks/main-app-34c2741a7cea2b4b.js",
-      "static/chunks/8466-6d72020e6b5c533f.js",
-      "static/chunks/5328-c764be5a3f217285.js",
-      "static/chunks/613-f3ffcc1f062928e2.js",
-      "static/chunks/app/docs/motion/springs/page-2ab5ee1bbc028ed4.js"
     ],
     "/api/og/route": [
       "static/chunks/webpack-e3381b1fd687bbff.js",
