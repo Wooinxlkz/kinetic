@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     template: "%s · Kinetic UI",
   },
   description: SITE_DESCRIPTION,
-  authors: [{ name: AUTHOR, url: "https://github.com/starc007" }],
+  authors: [{ name: AUTHOR, url: "https://github.com/Wooinxlkz" }],
   creator: AUTHOR,
   publisher: SITE_NAME,
   category: "technology",

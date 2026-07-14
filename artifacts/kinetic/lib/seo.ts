@@ -12,7 +12,7 @@ export const SITE_NAME = "Kinetic UI";
 export const SITE_TAGLINE = "The UI component toolkit for React & Next.js";
 export const SITE_DESCRIPTION =
   "The UI component toolkit for React and Next.js. Free, open-source, shadcn-compatible components built on Framer Motion and Tailwind CSS. Copy-paste the source or install with the shadcn CLI.";
-export const AUTHOR = "Saurabh";
+export const AUTHOR = "Wooinxlkz";
 
 const abs = (path: string) => (path.startsWith("http") ? path : `${SITE}${path}`);
 
@@ -148,7 +148,7 @@ export function componentJsonLd(
       "@type": "SoftwareSourceCode",
       name: comp.name,
       description: comp.description,
-      codeRepository: "https://github.com/starc007/ui-components",
+      codeRepository: "https://github.com/Wooinxlkz/kinetic",
       programmingLanguage: "TypeScript",
       runtimePlatform: "React",
       codeSampleType: "full (compile ready)",

@@ -57,7 +57,7 @@ export default function MembershipPage() {
           Just want to say thanks?
         </p>
         <a
-          href="https://github.com/sponsors/starc007"
+          href="https://github.com/sponsors/Wooinxlkz"
           target="_blank"
           rel="noreferrer noopener"
           className="group inline-flex items-center gap-1.5 text-sm font-medium text-foreground underline-offset-4 hover:underline"
