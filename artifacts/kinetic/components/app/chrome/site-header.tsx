@@ -201,7 +201,7 @@ export function SiteHeader({
           )}
           {githubButtonVisibility === "visible" ? (
             <PressLink
-              href="https://github.com/Wooinxlkz"
+              href="https://github.com/Wooinxlkz/kinetic"
               target="_blank"
               rel="noreferrer noopener"
               className="group inline-flex items-center gap-1.5 rounded-2xl border border-border bg-card/20 px-3 py-2 text-xs font-medium text-foreground hover:border-(--color-border-strong)"

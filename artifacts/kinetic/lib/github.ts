@@ -1,4 +1,4 @@
-const GITHUB_REPO_API_URL = "https://api.github.com/repos/starc007/ui-components";
+const GITHUB_REPO_API_URL = "https://api.github.com/repos/Wooinxlkz/kinetic";
 
 export async function getGithubStarCount(): Promise<number | null> {
   try {
