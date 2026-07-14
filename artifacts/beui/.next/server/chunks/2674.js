@@ -1,1 +1,0 @@
-"use strict";exports.id=2674,exports.ids=[2674],exports.modules={82674:(a,b,c)=>{c.d(b,{A:()=>d});let d=(0,c(41323).A)("arrow-up",[["path",{d:"m5 12 7-7 7 7",key:"hav0vg"}],["path",{d:"M12 19V5",key:"x0mq9r"}]])}};

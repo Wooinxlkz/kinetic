@@ -2,7 +2,7 @@ import type { NextFunction, Request, Response } from "express";
 import { eq } from "drizzle-orm";
 import { db, sessionsTable, usersTable, type User } from "@workspace/db";
 
-/** Name of beui's httpOnly session cookie — see beui `lib/auth/constants.ts`. */
+/** Name of kinetic's httpOnly session cookie — see kinetic `lib/auth/constants.ts`. */
 const SESSION_COOKIE_NAME = "kinetic_session";
 
 declare global {
@@ -15,9 +15,9 @@ declare global {
 }
 
 /**
- * Resolves the beui session cookie against the shared `sessions`/`users`
+ * Resolves the kinetic session cookie against the shared `sessions`/`users`
  * tables. This app has its own homegrown email/password auth (not Replit
- * Auth or passport), so the API server reads the same cookie beui issues
+ * Auth or passport), so the API server reads the same cookie kinetic issues
  * instead of relying on `req.isAuthenticated()`.
  */
 export async function resolveSessionUser(req: Request): Promise<User | null> {
@@ -39,7 +39,7 @@ export async function resolveSessionUser(req: Request): Promise<User | null> {
   return user ?? null;
 }
 
-/** Requires a valid beui session; responds 401 and stops the chain if absent. */
+/** Requires a valid kinetic session; responds 401 and stops the chain if absent. */
 export async function requireSessionUser(req: Request, res: Response, next: NextFunction) {
   const user = await resolveSessionUser(req);
   if (!user) {

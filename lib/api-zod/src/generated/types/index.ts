@@ -6,7 +6,15 @@
  * OpenAPI spec version: 0.1.0
  */
 
+export * from './communityAuthor';
+export * from './communityCategory';
+export * from './communityComponent';
+export * from './communityComponentInput';
+export * from './communityComponentUpdate';
+export * from './communityQuota';
 export * from './errorEnvelope';
 export * from './healthStatus';
+export * from './listCommunityComponentsParams';
+export * from './listCommunityComponentsSort';
 export * from './uploadUrlRequest';
 export * from './uploadUrlResponse';

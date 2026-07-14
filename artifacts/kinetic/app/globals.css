@@ -1,0 +1,519 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+    /* Base palette (concrete values). */
+    --background: oklch(99% 0 0);
+    --foreground: oklch(15% 0 0);
+    --card: oklch(97% 0 0);
+    --muted-foreground: oklch(50% 0 0);
+    --border: oklch(15% 0 0 / 0.06);
+    /* Bg-tint base values — used by the tint effect to color-mix at runtime. */
+    --ui-bg: oklch(99% 0 0);
+    --ui-card: oklch(97% 0 0);
+    /* Kinetic extensions (no shadcn equivalent). */
+    --border-strong: oklch(15% 0 0 / 0.12);
+    --accent-fg: oklch(15% 0 0);
+    --neon: oklch(80% 0.22 145);
+    --violet: oklch(68% 0.22 295);
+    --danger: oklch(62% 0.22 25);
+    --success: oklch(70% 0.18 155);
+    --warning: oklch(78% 0.18 75);
+    --glass-bg: oklch(99% 0 0 / 0.55);
+    --glass-border: oklch(15% 0 0 / 0.08);
+    --glass-strong-bg: rgb(255 255 255 / 0.7);
+    --glass-thin-bg: rgb(255 255 255 / 0.45);
+    /* shadcn semantic tokens, mapped onto the base. */
+    --card-foreground: var(--foreground);
+    --popover: var(--card);
+    --popover-foreground: var(--foreground);
+    --primary: var(--foreground);
+    --primary-foreground: var(--background);
+    --secondary: var(--card);
+    --secondary-foreground: var(--foreground);
+    --muted: var(--card);
+    /* Mono default: true grayscale accent, matching foreground/primary. */
+    --accent: oklch(15% 0 0);
+    --accent-foreground: oklch(99% 0 0);
+    --destructive: var(--danger);
+    --input: var(--border);
+    --ring: var(--border-strong);
+}
+
+/* Dark mode overrides only the base; semantic tokens follow via var(). */
+.dark {
+    --background: #151515;
+    --foreground: oklch(96% 0 0);
+    --card: #1c1c1c;
+    --muted-foreground: oklch(62% 0 0);
+    --border: rgb(255 255 255 / 0.05);
+    --border-strong: rgb(255 255 255 / 0.1);
+    /* Mono default: true grayscale accent, matching foreground/primary. */
+    --accent: oklch(96% 0 0);
+    --accent-fg: #151515;
+    --glass-bg: rgb(28 28 28 / 0.55);
+    --glass-border: rgb(255 255 255 / 0.08);
+    --glass-strong-bg: rgb(28 28 28 / 0.6);
+    --glass-thin-bg: rgb(21 21 21 / 0.45);
+    /* Bg-tint base values for dark mode. */
+    --ui-bg: #151515;
+    --ui-card: #1c1c1c;
+}
+
+/* Color theme presets (full token sets) are injected at runtime from
+   lib/themes.ts via PreferencesProvider, keyed by data-theme on <html>. */
+
+@theme inline {
+    /* Strong easing curves shared across every component. */
+    --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+    --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+    --ease-drawer: cubic-bezier(0.32, 0.72, 0, 1);
+
+    --color-border: var(--border);
+    --color-border-strong: var(--border-strong);
+    --color-neon: var(--neon);
+    --color-violet: var(--violet);
+    --color-success: var(--success);
+    --color-warning: var(--warning);
+    --color-background: var(--background);
+    --color-foreground: var(--foreground);
+    --color-card: var(--card);
+    --color-card-foreground: var(--card-foreground);
+    --color-popover: var(--popover);
+    --color-popover-foreground: var(--popover-foreground);
+    --color-primary: var(--primary);
+    --color-primary-foreground: var(--primary-foreground);
+    --color-secondary: var(--secondary);
+    --color-secondary-foreground: var(--secondary-foreground);
+    --color-muted: var(--muted);
+    --color-muted-foreground: var(--muted-foreground);
+    --color-accent: var(--accent);
+    --color-accent-foreground: var(--accent-foreground);
+    --color-destructive: var(--destructive);
+    --color-input: var(--input);
+    --color-ring: var(--ring);
+
+    --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+    --font-mono: var(--font-mono), ui-monospace, monospace;
+    --font-pixel:
+        var(--font-geist-pixel-square), var(--font-mono), ui-monospace,
+        monospace;
+
+}
+
+/* Dynamic border-radius scale.
+   Kept in @theme (not inline) so Tailwind emits var(--radius-lg) in utilities
+   rather than a baked static value — required for runtime JS overrides to work.
+   JS sets --ui-radius on <html>; default 8px matches Tailwind v4's rounded-lg. */
+@theme {
+    --radius-sm: calc(var(--ui-radius, 8px) * 0.25);
+    --radius: calc(var(--ui-radius, 8px) * 0.5);
+    --radius-md: calc(var(--ui-radius, 8px) * 0.75);
+    --radius-lg: var(--ui-radius, 8px);
+    --radius-xl: calc(var(--ui-radius, 8px) * 1.5);
+    --radius-2xl: calc(var(--ui-radius, 8px) * 2);
+    --radius-3xl: calc(var(--ui-radius, 8px) * 3);
+    /* --radius-full is here (not inline) so rounded-full emits var(--radius-full).
+       JS overrides it to a small value on "sharp" preset so pill buttons
+       and full-rounded elements respect the radius scale too. */
+    --radius-full: 9999px;
+}
+
+@theme {
+    --animate-marquee: marquee 30s linear infinite;
+    --animate-marquee-vertical: marquee-vertical 30s linear infinite;
+    --animate-shimmer: shimmer 2.5s linear infinite;
+    --animate-action-send: action-send 520ms var(--ease-out) both;
+    --animate-action-copy: action-copy 520ms var(--ease-out) both;
+    --animate-action-download: action-download 540ms var(--ease-out) both;
+    --animate-action-archive: action-archive 520ms var(--ease-out) both;
+    --animate-action-bell: action-bell 680ms var(--ease-out) both;
+    --animate-action-settings: action-settings 720ms var(--ease-out) both;
+    --animate-rainbow-border: rainbow-border 4s linear infinite;
+
+    @keyframes rainbow-border {
+        from { background-position: 0% center; }
+        to   { background-position: 200% center; }
+    }
+
+    @keyframes marquee {
+        from {
+            transform: translateX(0);
+        }
+        to {
+            transform: translateX(calc(-100% - var(--gap, 1rem)));
+        }
+    }
+    @keyframes marquee-vertical {
+        from {
+            transform: translateY(0);
+        }
+        to {
+            transform: translateY(calc(-100% - var(--gap, 1rem)));
+        }
+    }
+    @keyframes shimmer {
+        from {
+            background-position: 200% 0;
+        }
+        to {
+            background-position: -200% 0;
+        }
+    }
+    @keyframes gradient-flow {
+        0%, 100% { background-position: 0% 50%; }
+        50%       { background-position: 100% 50%; }
+    }
+    @keyframes action-send {
+        0%,
+        100% {
+            transform: translate(0, 0);
+        }
+        45% {
+            transform: translate(2px, -2px);
+        }
+    }
+    @keyframes action-copy {
+        0%,
+        100% {
+            transform: translate(0, 0);
+        }
+        40% {
+            transform: translate(1.5px, -1.5px);
+        }
+        70% {
+            transform: translate(-1px, 1px);
+        }
+    }
+    @keyframes action-download {
+        0%,
+        100% {
+            transform: translateY(0);
+        }
+        42% {
+            transform: translateY(2.5px);
+        }
+    }
+    @keyframes action-archive {
+        0%,
+        100% {
+            transform: scale(1);
+        }
+        45% {
+            transform: scale(0.9);
+        }
+    }
+    @keyframes action-bell {
+        0%,
+        100% {
+            transform: rotate(0deg);
+        }
+        18% {
+            transform: rotate(14deg);
+        }
+        36% {
+            transform: rotate(-12deg);
+        }
+        54% {
+            transform: rotate(8deg);
+        }
+        72% {
+            transform: rotate(-5deg);
+        }
+    }
+    @keyframes action-settings {
+        0% {
+            transform: rotate(0deg);
+        }
+        100% {
+            transform: rotate(90deg);
+        }
+    }
+}
+
+@layer base {
+    button:not(:disabled),
+    [role="button"]:not(:disabled),
+    a {
+        cursor: pointer;
+    }
+    html {
+        /* Default to light; .dark below flips native elements (scrollbar, inputs)
+           to dark in sync with the CSS class — no JS or next-themes enableColorScheme needed. */
+        color-scheme: light;
+        overflow-x: clip;
+    }
+    html.dark {
+        color-scheme: dark;
+    }
+    body {
+        background: var(--background);
+        color: var(--foreground);
+        font-family: var(--ui-font-body, var(--font-sans));
+        overflow-x: clip;
+        -webkit-font-smoothing: antialiased;
+        text-rendering: optimizeLegibility;
+    }
+    /* Smooth color cross-fade on surface elements when the theme switches
+       WITHOUT a View Transition (reduced-motion, older browsers).
+       - Zero-specificity :where() means any element with its own transition wins.
+       - SVG, canvas, video, and img are excluded: they don't use background-color /
+         border-color / color for theme colors, and including them adds thousands of
+         extra selector matches on animation-heavy pages.
+       - When data-kinetic-vt is on <html>, the :not() kills every descendant match,
+         so transitions are suppressed during VT — no !important needed. */
+    html:not([data-kinetic-vt]) body {
+        transition: background-color 0.3s ease, color 0.3s ease;
+    }
+    /* Chain all :not() clauses directly — no whitespace, which would create
+       unintended descendant combinators and break the compound exclusion. */
+    *:where(:not([data-kinetic-vt] *):not(svg):not(svg *):not(canvas):not(video):not(img)) {
+        transition-property: background-color, border-color, color;
+        transition-duration: 0.3s;
+        transition-timing-function: ease;
+    }
+    ::selection {
+        background: color-mix(in oklch, var(--accent) 30%, transparent);
+        color: var(--foreground);
+    }
+}
+
+@layer utilities {
+    .text-balance {
+        text-wrap: balance;
+    }
+    .text-pretty {
+        text-wrap: pretty;
+    }
+
+    .grid-noise {
+        background-image:
+            linear-gradient(
+                to right,
+                color-mix(in oklch, var(--foreground) 6%, transparent) 1px,
+                transparent 1px
+            ),
+            linear-gradient(
+                to bottom,
+                color-mix(in oklch, var(--foreground) 6%, transparent) 1px,
+                transparent 1px
+            );
+        background-size: 32px 32px;
+    }
+
+    .scrollbar-hide::-webkit-scrollbar {
+        display: none;
+    }
+    .scrollbar-hide {
+        scrollbar-width: none;
+    }
+
+    .mask-radial-fade {
+        mask-image: radial-gradient(
+            ellipse at center,
+            black 40%,
+            transparent 75%
+        );
+    }
+    .mask-b-fade {
+        mask-image: linear-gradient(to bottom, black 60%, transparent);
+    }
+
+    .glass {
+        background: var(--glass-bg);
+        backdrop-filter: blur(20px) saturate(160%);
+        border: 1px solid var(--glass-border);
+        box-shadow:
+            0 1px 0 0 rgb(255 255 255 / 0.06) inset,
+            0 24px 60px -24px rgb(0 0 0 / 0.45);
+    }
+    .glass-strong {
+        background: var(--glass-strong-bg);
+        backdrop-filter: blur(16px);
+        /* -webkit-backdrop-filter: blur(16px); */
+    }
+    .glass-thin {
+        background: var(--glass-thin-bg);
+        backdrop-filter: blur(12px);
+        /* -webkit-backdrop-filter: blur(12px); */
+        border: 1px solid var(--glass-border);
+    }
+
+    .press {
+        transition: transform 120ms var(--ease-out);
+    }
+    .press:active {
+        transform: scale(0.97);
+    }
+}
+
+/* ── Motion speed overrides (data-speed on <html>) ───────────────────────── */
+html[data-speed="slow"] *:where(:not([data-kinetic-vt] *):not(svg):not(svg *):not(canvas):not(video):not(img)) {
+    transition-duration: 0.65s;
+}
+html[data-speed="fast"] *:where(:not([data-kinetic-vt] *):not(svg):not(svg *):not(canvas):not(video):not(img)) {
+    transition-duration: 0.08s;
+}
+
+/* ── Accent intensity (data-intensity on <html>) ─────────────────────────── */
+html[data-intensity="subtle"] body {
+    filter: saturate(0.55);
+}
+html[data-intensity="vivid"] body {
+    filter: saturate(1.5);
+}
+
+/* ── Thin, elegant scrollbars ─────────────────────────────────────────────── */
+::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+}
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    background: var(--border-strong);
+    border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: var(--muted-foreground);
+}
+/* Firefox */
+html {
+    scrollbar-width: thin;
+    scrollbar-color: var(--border-strong) transparent;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    /* Calm everything down.fewer + gentler, not zero. Keep opacity
+     and color transitions for comprehension; drop transform-based motion. */
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
+
+@layer base {
+    .shiki,
+    .shiki span {
+        color: var(--shiki-light);
+    }
+
+    .dark .shiki,
+    .dark .shiki span {
+        color: var(--shiki-dark);
+    }
+}
+
+/* ─── Color Orb ───────────────────────────────────────────────────────────────
+   CSS for the animated conic-gradient orb used in the AI morph panel.
+   Uses --orb-* custom properties set inline by <ColorOrb>; the gradient
+   accent values default to the app's theme tokens (neon / accent / violet).
+─────────────────────────────────────────────────────────────────────────────── */
+
+@property --orb-angle {
+    syntax: "<angle>";
+    inherits: false;
+    initial-value: 0deg;
+}
+
+@keyframes orb-spin {
+    to { --orb-angle: 360deg; }
+}
+
+.color-orb {
+    display: grid;
+    grid-template-areas: "stack";
+    overflow: hidden;
+    border-radius: 50%;
+    position: relative;
+    transform: scale(1.1);
+}
+
+.color-orb::before,
+.color-orb::after {
+    content: "";
+    display: block;
+    grid-area: stack;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    transform: translateZ(0);
+}
+
+.color-orb::before {
+    background:
+        conic-gradient(
+            from calc(var(--orb-angle) * 2) at 25% 70%,
+            var(--orb-accent3), transparent 20% 80%, var(--orb-accent3)
+        ),
+        conic-gradient(
+            from calc(var(--orb-angle) * 2) at 45% 75%,
+            var(--orb-accent2), transparent 30% 60%, var(--orb-accent2)
+        ),
+        conic-gradient(
+            from calc(var(--orb-angle) * -3) at 80% 20%,
+            var(--orb-accent1), transparent 40% 60%, var(--orb-accent1)
+        ),
+        conic-gradient(
+            from calc(var(--orb-angle) * 2) at 15% 5%,
+            var(--orb-accent2), transparent 10% 90%, var(--orb-accent2)
+        ),
+        conic-gradient(
+            from calc(var(--orb-angle) * 1) at 20% 80%,
+            var(--orb-accent1), transparent 10% 90%, var(--orb-accent1)
+        ),
+        conic-gradient(
+            from calc(var(--orb-angle) * -2) at 85% 10%,
+            var(--orb-accent3), transparent 20% 80%, var(--orb-accent3)
+        );
+    box-shadow: inset var(--orb-base) 0 0 var(--orb-shadow) calc(var(--orb-shadow) * 0.2);
+    filter: blur(var(--orb-blur)) contrast(var(--orb-contrast));
+    animation: orb-spin var(--orb-spin-duration) linear infinite;
+}
+
+.color-orb::after {
+    background-image: radial-gradient(
+        circle at center,
+        var(--orb-base) var(--orb-dot),
+        transparent var(--orb-dot)
+    );
+    background-size: calc(var(--orb-dot) * 2) calc(var(--orb-dot) * 2);
+    backdrop-filter: blur(calc(var(--orb-blur) * 2)) contrast(calc(var(--orb-contrast) * 2));
+    mix-blend-mode: overlay;
+    mask-image: radial-gradient(black var(--orb-mask), transparent 75%);
+}
+
+.color-orb[style*="--orb-mask: 0%"]::after {
+    mask-image: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .color-orb::before {
+        animation: none;
+    }
+}
+
+/* Ask AI panel — thin scrollbar for the message thread */
+.morph-messages {
+    scrollbar-width: thin;
+    scrollbar-color: var(--border) transparent;
+}
+
+.morph-messages::-webkit-scrollbar {
+    width: 3px;
+}
+
+.morph-messages::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.morph-messages::-webkit-scrollbar-thumb {
+    background: var(--border);
+    border-radius: 99px;
+}

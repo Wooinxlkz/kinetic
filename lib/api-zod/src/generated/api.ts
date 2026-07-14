@@ -60,3 +60,231 @@ export const GetStorageObjectParams = zod.object({
 export const GetStorageObjectResponse = zod.unknown()
 
 
+/**
+ * Returns published community submissions, newest first by default.
+ * Never includes the site's own curated registry components.
+ * @summary List published community components
+ */
+export const listCommunityComponentsQuerySortDefault = `newest`;
+
+export const ListCommunityComponentsQueryParams = zod.object({
+  "category": zod.enum(['component', 'block', 'pattern']).optional(),
+  "tag": zod.coerce.string().optional(),
+  "q": zod.coerce.string().optional().describe('Free-text search across name and description.'),
+  "sort": zod.enum(['newest', 'popular']).default(listCommunityComponentsQuerySortDefault)
+})
+
+export const ListCommunityComponentsResponseItem = zod.object({
+  "id": zod.number(),
+  "slug": zod.string(),
+  "name": zod.string(),
+  "description": zod.string(),
+  "category": zod.enum(['component', 'block', 'pattern']),
+  "tags": zod.array(zod.string()),
+  "code": zod.string().describe('The component source code — what users copy\/install into their project.\n'),
+  "demoCode": zod.string().nullish().describe('Optional standalone demo that imports and uses `code`. When present,\nthe preview sandbox merges both (stripping the demo\'s import of the\ncomponent file). When absent, `code` is rendered directly.\n'),
+  "views": zod.number(),
+  "createdAt": zod.coerce.date(),
+  "updatedAt": zod.coerce.date(),
+  "author": zod.object({
+  "id": zod.number(),
+  "name": zod.string(),
+  "username": zod.string(),
+  "avatarColor": zod.string(),
+  "avatarUrl": zod.string().nullable(),
+  "isDev": zod.boolean()
+})
+})
+export const ListCommunityComponentsResponse = zod.array(ListCommunityComponentsResponseItem)
+
+
+/**
+ * Publishes immediately (no review queue). Enforces the caller's
+ * plan-based publish quota (free 10 / pro 25 / sponsor 60 / lifetime
+ * unlimited) server-side.
+ * @summary Publish a new community component
+ */
+export const createCommunityComponentBodyNameMin = 2;
+export const createCommunityComponentBodyNameMax = 60;
+
+export const createCommunityComponentBodyDescriptionMax = 280;
+
+export const createCommunityComponentBodyTagsItemMax = 24;
+
+export const createCommunityComponentBodyTagsMax = 6;
+
+export const createCommunityComponentBodyCodeMax = 20000;
+
+export const createCommunityComponentBodyDemoCodeMax = 20000;
+
+
+
+export const CreateCommunityComponentBody = zod.object({
+  "name": zod.string().min(createCommunityComponentBodyNameMin).max(createCommunityComponentBodyNameMax),
+  "description": zod.string().min(1).max(createCommunityComponentBodyDescriptionMax),
+  "category": zod.enum(['component', 'block', 'pattern']),
+  "tags": zod.array(zod.string().max(createCommunityComponentBodyTagsItemMax)).max(createCommunityComponentBodyTagsMax).optional(),
+  "code": zod.string().min(1).max(createCommunityComponentBodyCodeMax),
+  "demoCode": zod.string().max(createCommunityComponentBodyDemoCodeMax).optional()
+})
+
+export const CreateCommunityComponentResponse = zod.object({
+  "id": zod.number(),
+  "slug": zod.string(),
+  "name": zod.string(),
+  "description": zod.string(),
+  "category": zod.enum(['component', 'block', 'pattern']),
+  "tags": zod.array(zod.string()),
+  "code": zod.string().describe('The component source code — what users copy\/install into their project.\n'),
+  "demoCode": zod.string().nullish().describe('Optional standalone demo that imports and uses `code`. When present,\nthe preview sandbox merges both (stripping the demo\'s import of the\ncomponent file). When absent, `code` is rendered directly.\n'),
+  "views": zod.number(),
+  "createdAt": zod.coerce.date(),
+  "updatedAt": zod.coerce.date(),
+  "author": zod.object({
+  "id": zod.number(),
+  "name": zod.string(),
+  "username": zod.string(),
+  "avatarColor": zod.string(),
+  "avatarUrl": zod.string().nullable(),
+  "isDev": zod.boolean()
+})
+})
+
+
+/**
+ * @summary Get a single community component
+ */
+export const GetCommunityComponentParams = zod.object({
+  "id": zod.coerce.number()
+})
+
+export const GetCommunityComponentResponse = zod.object({
+  "id": zod.number(),
+  "slug": zod.string(),
+  "name": zod.string(),
+  "description": zod.string(),
+  "category": zod.enum(['component', 'block', 'pattern']),
+  "tags": zod.array(zod.string()),
+  "code": zod.string().describe('The component source code — what users copy\/install into their project.\n'),
+  "demoCode": zod.string().nullish().describe('Optional standalone demo that imports and uses `code`. When present,\nthe preview sandbox merges both (stripping the demo\'s import of the\ncomponent file). When absent, `code` is rendered directly.\n'),
+  "views": zod.number(),
+  "createdAt": zod.coerce.date(),
+  "updatedAt": zod.coerce.date(),
+  "author": zod.object({
+  "id": zod.number(),
+  "name": zod.string(),
+  "username": zod.string(),
+  "avatarColor": zod.string(),
+  "avatarUrl": zod.string().nullable(),
+  "isDev": zod.boolean()
+})
+})
+
+
+/**
+ * @summary Update a community component (author only)
+ */
+export const UpdateCommunityComponentParams = zod.object({
+  "id": zod.coerce.number()
+})
+
+export const updateCommunityComponentBodyNameMin = 2;
+export const updateCommunityComponentBodyNameMax = 60;
+
+export const updateCommunityComponentBodyDescriptionMax = 280;
+
+export const updateCommunityComponentBodyTagsItemMax = 24;
+
+export const updateCommunityComponentBodyTagsMax = 6;
+
+export const updateCommunityComponentBodyCodeMax = 20000;
+
+export const updateCommunityComponentBodyDemoCodeMax = 20000;
+
+
+
+export const UpdateCommunityComponentBody = zod.object({
+  "name": zod.string().min(updateCommunityComponentBodyNameMin).max(updateCommunityComponentBodyNameMax).optional(),
+  "description": zod.string().min(1).max(updateCommunityComponentBodyDescriptionMax).optional(),
+  "category": zod.enum(['component', 'block', 'pattern']).optional(),
+  "tags": zod.array(zod.string().max(updateCommunityComponentBodyTagsItemMax)).max(updateCommunityComponentBodyTagsMax).optional(),
+  "code": zod.string().min(1).max(updateCommunityComponentBodyCodeMax).optional(),
+  "demoCode": zod.string().max(updateCommunityComponentBodyDemoCodeMax).optional()
+})
+
+export const UpdateCommunityComponentResponse = zod.object({
+  "id": zod.number(),
+  "slug": zod.string(),
+  "name": zod.string(),
+  "description": zod.string(),
+  "category": zod.enum(['component', 'block', 'pattern']),
+  "tags": zod.array(zod.string()),
+  "code": zod.string().describe('The component source code — what users copy\/install into their project.\n'),
+  "demoCode": zod.string().nullish().describe('Optional standalone demo that imports and uses `code`. When present,\nthe preview sandbox merges both (stripping the demo\'s import of the\ncomponent file). When absent, `code` is rendered directly.\n'),
+  "views": zod.number(),
+  "createdAt": zod.coerce.date(),
+  "updatedAt": zod.coerce.date(),
+  "author": zod.object({
+  "id": zod.number(),
+  "name": zod.string(),
+  "username": zod.string(),
+  "avatarColor": zod.string(),
+  "avatarUrl": zod.string().nullable(),
+  "isDev": zod.boolean()
+})
+})
+
+
+/**
+ * @summary Delete a community component (author or dev only)
+ */
+export const DeleteCommunityComponentParams = zod.object({
+  "id": zod.coerce.number()
+})
+
+export const DeleteCommunityComponentResponse = zod.void()
+
+
+/**
+ * Used on public profile pages to show a user's published work.
+ * @summary List a user's published community components
+ */
+export const ListUserCommunityComponentsParams = zod.object({
+  "username": zod.coerce.string()
+})
+
+export const ListUserCommunityComponentsResponseItem = zod.object({
+  "id": zod.number(),
+  "slug": zod.string(),
+  "name": zod.string(),
+  "description": zod.string(),
+  "category": zod.enum(['component', 'block', 'pattern']),
+  "tags": zod.array(zod.string()),
+  "code": zod.string().describe('The component source code — what users copy\/install into their project.\n'),
+  "demoCode": zod.string().nullish().describe('Optional standalone demo that imports and uses `code`. When present,\nthe preview sandbox merges both (stripping the demo\'s import of the\ncomponent file). When absent, `code` is rendered directly.\n'),
+  "views": zod.number(),
+  "createdAt": zod.coerce.date(),
+  "updatedAt": zod.coerce.date(),
+  "author": zod.object({
+  "id": zod.number(),
+  "name": zod.string(),
+  "username": zod.string(),
+  "avatarColor": zod.string(),
+  "avatarUrl": zod.string().nullable(),
+  "isDev": zod.boolean()
+})
+})
+export const ListUserCommunityComponentsResponse = zod.array(ListUserCommunityComponentsResponseItem)
+
+
+/**
+ * @summary Get the signed-in user's publish quota usage
+ */
+export const GetCommunityQuotaResponse = zod.object({
+  "plan": zod.string(),
+  "limit": zod.number().nullable().describe('Null means unlimited (lifetime plan).'),
+  "used": zod.number(),
+  "remaining": zod.number().nullable().describe('Null means unlimited.')
+})
+
+

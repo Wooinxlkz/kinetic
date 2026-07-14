@@ -20,8 +20,13 @@ import type {
 } from '@tanstack/react-query';
 
 import type {
+  CommunityComponent,
+  CommunityComponentInput,
+  CommunityComponentUpdate,
+  CommunityQuota,
   ErrorEnvelope,
   HealthStatus,
+  ListCommunityComponentsParams,
   UploadUrlRequest,
   UploadUrlResponse
 } from './api.schemas';
@@ -269,6 +274,538 @@ export function useGetStorageObject<TData = Awaited<ReturnType<typeof getStorage
  ):  UseQueryResult<TData, TError> & { queryKey: QueryKey } {
 
   const queryOptions = getGetStorageObjectQueryOptions(objectPath,options)
+
+  const query = useQuery(queryOptions) as  UseQueryResult<TData, TError> & { queryKey: QueryKey };
+
+  return withQueryKey(query, queryOptions.queryKey);
+}
+
+
+
+
+
+
+
+export const getListCommunityComponentsUrl = (params?: ListCommunityComponentsParams,) => {
+  const normalizedParams = new URLSearchParams();
+
+  Object.entries(params || {}).forEach(([key, value]) => {
+
+    if (value !== undefined) {
+      normalizedParams.append(key, value === null ? 'null' : String(value))
+    }
+  });
+
+  const stringifiedParams = normalizedParams.toString();
+
+  return stringifiedParams.length > 0 ? `/api/community/components?${stringifiedParams}` : `/api/community/components`
+}
+
+/**
+ * Returns published community submissions, newest first by default.
+ * Never includes the site's own curated registry components.
+ * @summary List published community components
+ */
+export const listCommunityComponents = async (params?: ListCommunityComponentsParams, options?: RequestInit): Promise<CommunityComponent[]> => {
+
+  return customFetch<CommunityComponent[]>(getListCommunityComponentsUrl(params),
+  {
+    ...options,
+    method: 'GET'
+
+
+  }
+);}
+
+
+
+
+
+export const getListCommunityComponentsQueryKey = (params?: ListCommunityComponentsParams,) => {
+    return [
+    `/api/community/components`, ...(params ? [params] : [])
+    ] as const;
+    }
+
+
+export const getListCommunityComponentsQueryOptions = <TData = Awaited<ReturnType<typeof listCommunityComponents>>, TError = ErrorType<unknown>>(params?: ListCommunityComponentsParams, options?: { query?:UseQueryOptions<Awaited<ReturnType<typeof listCommunityComponents>>, TError, TData>, request?: SecondParameter<typeof customFetch>}
+) => {
+
+const {query: queryOptions, request: requestOptions} = options ?? {};
+
+  const queryKey =  queryOptions?.queryKey ?? getListCommunityComponentsQueryKey(params);
+
+
+
+    const queryFn: QueryFunction<Awaited<ReturnType<typeof listCommunityComponents>>> = ({ signal }) => listCommunityComponents(params, { signal, ...requestOptions });
+
+
+
+
+
+   return  { queryKey, queryFn, ...queryOptions} as UseQueryOptions<Awaited<ReturnType<typeof listCommunityComponents>>, TError, TData> & { queryKey: QueryKey }
+}
+
+export type ListCommunityComponentsQueryResult = NonNullable<Awaited<ReturnType<typeof listCommunityComponents>>>
+export type ListCommunityComponentsQueryError = ErrorType<unknown>
+
+
+/**
+ * @summary List published community components
+ */
+
+export function useListCommunityComponents<TData = Awaited<ReturnType<typeof listCommunityComponents>>, TError = ErrorType<unknown>>(
+ params?: ListCommunityComponentsParams, options?: { query?:UseQueryOptions<Awaited<ReturnType<typeof listCommunityComponents>>, TError, TData>, request?: SecondParameter<typeof customFetch>}
+
+ ):  UseQueryResult<TData, TError> & { queryKey: QueryKey } {
+
+  const queryOptions = getListCommunityComponentsQueryOptions(params,options)
+
+  const query = useQuery(queryOptions) as  UseQueryResult<TData, TError> & { queryKey: QueryKey };
+
+  return withQueryKey(query, queryOptions.queryKey);
+}
+
+
+
+
+
+
+
+export const getCreateCommunityComponentUrl = () => {
+
+
+
+
+  return `/api/community/components`
+}
+
+/**
+ * Publishes immediately (no review queue). Enforces the caller's
+ * plan-based publish quota (free 10 / pro 25 / sponsor 60 / lifetime
+ * unlimited) server-side.
+ * @summary Publish a new community component
+ */
+export const createCommunityComponent = async (communityComponentInput: CommunityComponentInput, options?: RequestInit): Promise<CommunityComponent> => {
+
+  return customFetch<CommunityComponent>(getCreateCommunityComponentUrl(),
+  {
+    ...options,
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', ...options?.headers },
+    body: JSON.stringify(communityComponentInput)
+  }
+);}
+
+
+
+
+export const getCreateCommunityComponentMutationOptions = <TError = ErrorType<ErrorEnvelope>,
+    TContext = unknown>(options?: { mutation?:UseMutationOptions<Awaited<ReturnType<typeof createCommunityComponent>>, TError,{data: BodyType<CommunityComponentInput>}, TContext>, request?: SecondParameter<typeof customFetch>}
+): UseMutationOptions<Awaited<ReturnType<typeof createCommunityComponent>>, TError,{data: BodyType<CommunityComponentInput>}, TContext> => {
+
+const mutationKey = ['createCommunityComponent'];
+const {mutation: mutationOptions, request: requestOptions} = options ?
+      options.mutation && 'mutationKey' in options.mutation && options.mutation.mutationKey ?
+      options
+      : {...options, mutation: {...options.mutation, mutationKey}}
+      : {mutation: { mutationKey, }, request: undefined};
+
+
+
+
+      const mutationFn: MutationFunction<Awaited<ReturnType<typeof createCommunityComponent>>, {data: BodyType<CommunityComponentInput>}> = (props) => {
+          const {data} = props ?? {};
+
+          return  createCommunityComponent(data,requestOptions)
+        }
+
+
+
+
+
+
+  return  { mutationFn, ...mutationOptions }}
+
+    export type CreateCommunityComponentMutationResult = NonNullable<Awaited<ReturnType<typeof createCommunityComponent>>>
+    export type CreateCommunityComponentMutationBody = BodyType<CommunityComponentInput>
+    export type CreateCommunityComponentMutationError = ErrorType<ErrorEnvelope>
+
+    /**
+ * @summary Publish a new community component
+ */
+export const useCreateCommunityComponent = <TError = ErrorType<ErrorEnvelope>,
+    TContext = unknown>(options?: { mutation?:UseMutationOptions<Awaited<ReturnType<typeof createCommunityComponent>>, TError,{data: BodyType<CommunityComponentInput>}, TContext>, request?: SecondParameter<typeof customFetch>}
+ ): UseMutationResult<
+        Awaited<ReturnType<typeof createCommunityComponent>>,
+        TError,
+        {data: BodyType<CommunityComponentInput>},
+        TContext
+      > => {
+      return useMutation(getCreateCommunityComponentMutationOptions(options));
+    }
+
+export const getGetCommunityComponentUrl = (id: number,) => {
+
+
+
+
+  return `/api/community/components/${id}`
+}
+
+/**
+ * @summary Get a single community component
+ */
+export const getCommunityComponent = async (id: number, options?: RequestInit): Promise<CommunityComponent> => {
+
+  return customFetch<CommunityComponent>(getGetCommunityComponentUrl(id),
+  {
+    ...options,
+    method: 'GET'
+
+
+  }
+);}
+
+
+
+
+
+export const getGetCommunityComponentQueryKey = (id: number,) => {
+    return [
+    `/api/community/components/${id}`
+    ] as const;
+    }
+
+
+export const getGetCommunityComponentQueryOptions = <TData = Awaited<ReturnType<typeof getCommunityComponent>>, TError = ErrorType<ErrorEnvelope>>(id: number, options?: { query?:UseQueryOptions<Awaited<ReturnType<typeof getCommunityComponent>>, TError, TData>, request?: SecondParameter<typeof customFetch>}
+) => {
+
+const {query: queryOptions, request: requestOptions} = options ?? {};
+
+  const queryKey =  queryOptions?.queryKey ?? getGetCommunityComponentQueryKey(id);
+
+
+
+    const queryFn: QueryFunction<Awaited<ReturnType<typeof getCommunityComponent>>> = ({ signal }) => getCommunityComponent(id, { signal, ...requestOptions });
+
+
+
+
+
+   return  { queryKey, queryFn, enabled: id !== null && id !== undefined, ...queryOptions} as UseQueryOptions<Awaited<ReturnType<typeof getCommunityComponent>>, TError, TData> & { queryKey: QueryKey }
+}
+
+export type GetCommunityComponentQueryResult = NonNullable<Awaited<ReturnType<typeof getCommunityComponent>>>
+export type GetCommunityComponentQueryError = ErrorType<ErrorEnvelope>
+
+
+/**
+ * @summary Get a single community component
+ */
+
+export function useGetCommunityComponent<TData = Awaited<ReturnType<typeof getCommunityComponent>>, TError = ErrorType<ErrorEnvelope>>(
+ id: number, options?: { query?:UseQueryOptions<Awaited<ReturnType<typeof getCommunityComponent>>, TError, TData>, request?: SecondParameter<typeof customFetch>}
+
+ ):  UseQueryResult<TData, TError> & { queryKey: QueryKey } {
+
+  const queryOptions = getGetCommunityComponentQueryOptions(id,options)
+
+  const query = useQuery(queryOptions) as  UseQueryResult<TData, TError> & { queryKey: QueryKey };
+
+  return withQueryKey(query, queryOptions.queryKey);
+}
+
+
+
+
+
+
+
+export const getUpdateCommunityComponentUrl = (id: number,) => {
+
+
+
+
+  return `/api/community/components/${id}`
+}
+
+/**
+ * @summary Update a community component (author only)
+ */
+export const updateCommunityComponent = async (id: number,
+    communityComponentUpdate: CommunityComponentUpdate, options?: RequestInit): Promise<CommunityComponent> => {
+
+  return customFetch<CommunityComponent>(getUpdateCommunityComponentUrl(id),
+  {
+    ...options,
+    method: 'PATCH',
+    headers: { 'Content-Type': 'application/json', ...options?.headers },
+    body: JSON.stringify(communityComponentUpdate)
+  }
+);}
+
+
+
+
+export const getUpdateCommunityComponentMutationOptions = <TError = ErrorType<ErrorEnvelope>,
+    TContext = unknown>(options?: { mutation?:UseMutationOptions<Awaited<ReturnType<typeof updateCommunityComponent>>, TError,{id: number;data: BodyType<CommunityComponentUpdate>}, TContext>, request?: SecondParameter<typeof customFetch>}
+): UseMutationOptions<Awaited<ReturnType<typeof updateCommunityComponent>>, TError,{id: number;data: BodyType<CommunityComponentUpdate>}, TContext> => {
+
+const mutationKey = ['updateCommunityComponent'];
+const {mutation: mutationOptions, request: requestOptions} = options ?
+      options.mutation && 'mutationKey' in options.mutation && options.mutation.mutationKey ?
+      options
+      : {...options, mutation: {...options.mutation, mutationKey}}
+      : {mutation: { mutationKey, }, request: undefined};
+
+
+
+
+      const mutationFn: MutationFunction<Awaited<ReturnType<typeof updateCommunityComponent>>, {id: number;data: BodyType<CommunityComponentUpdate>}> = (props) => {
+          const {id,data} = props ?? {};
+
+          return  updateCommunityComponent(id,data,requestOptions)
+        }
+
+
+
+
+
+
+  return  { mutationFn, ...mutationOptions }}
+
+    export type UpdateCommunityComponentMutationResult = NonNullable<Awaited<ReturnType<typeof updateCommunityComponent>>>
+    export type UpdateCommunityComponentMutationBody = BodyType<CommunityComponentUpdate>
+    export type UpdateCommunityComponentMutationError = ErrorType<ErrorEnvelope>
+
+    /**
+ * @summary Update a community component (author only)
+ */
+export const useUpdateCommunityComponent = <TError = ErrorType<ErrorEnvelope>,
+    TContext = unknown>(options?: { mutation?:UseMutationOptions<Awaited<ReturnType<typeof updateCommunityComponent>>, TError,{id: number;data: BodyType<CommunityComponentUpdate>}, TContext>, request?: SecondParameter<typeof customFetch>}
+ ): UseMutationResult<
+        Awaited<ReturnType<typeof updateCommunityComponent>>,
+        TError,
+        {id: number;data: BodyType<CommunityComponentUpdate>},
+        TContext
+      > => {
+      return useMutation(getUpdateCommunityComponentMutationOptions(options));
+    }
+
+export const getDeleteCommunityComponentUrl = (id: number,) => {
+
+
+
+
+  return `/api/community/components/${id}`
+}
+
+/**
+ * @summary Delete a community component (author or dev only)
+ */
+export const deleteCommunityComponent = async (id: number, options?: RequestInit): Promise<void> => {
+
+  return customFetch<void>(getDeleteCommunityComponentUrl(id),
+  {
+    ...options,
+    method: 'DELETE'
+
+
+  }
+);}
+
+
+
+
+export const getDeleteCommunityComponentMutationOptions = <TError = ErrorType<ErrorEnvelope>,
+    TContext = unknown>(options?: { mutation?:UseMutationOptions<Awaited<ReturnType<typeof deleteCommunityComponent>>, TError,{id: number}, TContext>, request?: SecondParameter<typeof customFetch>}
+): UseMutationOptions<Awaited<ReturnType<typeof deleteCommunityComponent>>, TError,{id: number}, TContext> => {
+
+const mutationKey = ['deleteCommunityComponent'];
+const {mutation: mutationOptions, request: requestOptions} = options ?
+      options.mutation && 'mutationKey' in options.mutation && options.mutation.mutationKey ?
+      options
+      : {...options, mutation: {...options.mutation, mutationKey}}
+      : {mutation: { mutationKey, }, request: undefined};
+
+
+
+
+      const mutationFn: MutationFunction<Awaited<ReturnType<typeof deleteCommunityComponent>>, {id: number}> = (props) => {
+          const {id} = props ?? {};
+
+          return  deleteCommunityComponent(id,requestOptions)
+        }
+
+
+
+
+
+
+  return  { mutationFn, ...mutationOptions }}
+
+    export type DeleteCommunityComponentMutationResult = NonNullable<Awaited<ReturnType<typeof deleteCommunityComponent>>>
+
+    export type DeleteCommunityComponentMutationError = ErrorType<ErrorEnvelope>
+
+    /**
+ * @summary Delete a community component (author or dev only)
+ */
+export const useDeleteCommunityComponent = <TError = ErrorType<ErrorEnvelope>,
+    TContext = unknown>(options?: { mutation?:UseMutationOptions<Awaited<ReturnType<typeof deleteCommunityComponent>>, TError,{id: number}, TContext>, request?: SecondParameter<typeof customFetch>}
+ ): UseMutationResult<
+        Awaited<ReturnType<typeof deleteCommunityComponent>>,
+        TError,
+        {id: number},
+        TContext
+      > => {
+      return useMutation(getDeleteCommunityComponentMutationOptions(options));
+    }
+
+export const getListUserCommunityComponentsUrl = (username: string,) => {
+
+
+
+
+  return `/api/community/users/${username}/components`
+}
+
+/**
+ * Used on public profile pages to show a user's published work.
+ * @summary List a user's published community components
+ */
+export const listUserCommunityComponents = async (username: string, options?: RequestInit): Promise<CommunityComponent[]> => {
+
+  return customFetch<CommunityComponent[]>(getListUserCommunityComponentsUrl(username),
+  {
+    ...options,
+    method: 'GET'
+
+
+  }
+);}
+
+
+
+
+
+export const getListUserCommunityComponentsQueryKey = (username: string,) => {
+    return [
+    `/api/community/users/${username}/components`
+    ] as const;
+    }
+
+
+export const getListUserCommunityComponentsQueryOptions = <TData = Awaited<ReturnType<typeof listUserCommunityComponents>>, TError = ErrorType<ErrorEnvelope>>(username: string, options?: { query?:UseQueryOptions<Awaited<ReturnType<typeof listUserCommunityComponents>>, TError, TData>, request?: SecondParameter<typeof customFetch>}
+) => {
+
+const {query: queryOptions, request: requestOptions} = options ?? {};
+
+  const queryKey =  queryOptions?.queryKey ?? getListUserCommunityComponentsQueryKey(username);
+
+
+
+    const queryFn: QueryFunction<Awaited<ReturnType<typeof listUserCommunityComponents>>> = ({ signal }) => listUserCommunityComponents(username, { signal, ...requestOptions });
+
+
+
+
+
+   return  { queryKey, queryFn, enabled: username !== null && username !== undefined, ...queryOptions} as UseQueryOptions<Awaited<ReturnType<typeof listUserCommunityComponents>>, TError, TData> & { queryKey: QueryKey }
+}
+
+export type ListUserCommunityComponentsQueryResult = NonNullable<Awaited<ReturnType<typeof listUserCommunityComponents>>>
+export type ListUserCommunityComponentsQueryError = ErrorType<ErrorEnvelope>
+
+
+/**
+ * @summary List a user's published community components
+ */
+
+export function useListUserCommunityComponents<TData = Awaited<ReturnType<typeof listUserCommunityComponents>>, TError = ErrorType<ErrorEnvelope>>(
+ username: string, options?: { query?:UseQueryOptions<Awaited<ReturnType<typeof listUserCommunityComponents>>, TError, TData>, request?: SecondParameter<typeof customFetch>}
+
+ ):  UseQueryResult<TData, TError> & { queryKey: QueryKey } {
+
+  const queryOptions = getListUserCommunityComponentsQueryOptions(username,options)
+
+  const query = useQuery(queryOptions) as  UseQueryResult<TData, TError> & { queryKey: QueryKey };
+
+  return withQueryKey(query, queryOptions.queryKey);
+}
+
+
+
+
+
+
+
+export const getGetCommunityQuotaUrl = () => {
+
+
+
+
+  return `/api/community/quota`
+}
+
+/**
+ * @summary Get the signed-in user's publish quota usage
+ */
+export const getCommunityQuota = async ( options?: RequestInit): Promise<CommunityQuota> => {
+
+  return customFetch<CommunityQuota>(getGetCommunityQuotaUrl(),
+  {
+    ...options,
+    method: 'GET'
+
+
+  }
+);}
+
+
+
+
+
+export const getGetCommunityQuotaQueryKey = () => {
+    return [
+    `/api/community/quota`
+    ] as const;
+    }
+
+
+export const getGetCommunityQuotaQueryOptions = <TData = Awaited<ReturnType<typeof getCommunityQuota>>, TError = ErrorType<ErrorEnvelope>>( options?: { query?:UseQueryOptions<Awaited<ReturnType<typeof getCommunityQuota>>, TError, TData>, request?: SecondParameter<typeof customFetch>}
+) => {
+
+const {query: queryOptions, request: requestOptions} = options ?? {};
+
+  const queryKey =  queryOptions?.queryKey ?? getGetCommunityQuotaQueryKey();
+
+
+
+    const queryFn: QueryFunction<Awaited<ReturnType<typeof getCommunityQuota>>> = ({ signal }) => getCommunityQuota({ signal, ...requestOptions });
+
+
+
+
+
+   return  { queryKey, queryFn, ...queryOptions} as UseQueryOptions<Awaited<ReturnType<typeof getCommunityQuota>>, TError, TData> & { queryKey: QueryKey }
+}
+
+export type GetCommunityQuotaQueryResult = NonNullable<Awaited<ReturnType<typeof getCommunityQuota>>>
+export type GetCommunityQuotaQueryError = ErrorType<ErrorEnvelope>
+
+
+/**
+ * @summary Get the signed-in user's publish quota usage
+ */
+
+export function useGetCommunityQuota<TData = Awaited<ReturnType<typeof getCommunityQuota>>, TError = ErrorType<ErrorEnvelope>>(
+  options?: { query?:UseQueryOptions<Awaited<ReturnType<typeof getCommunityQuota>>, TError, TData>, request?: SecondParameter<typeof customFetch>}
+
+ ):  UseQueryResult<TData, TError> & { queryKey: QueryKey } {
+
+  const queryOptions = getGetCommunityQuotaQueryOptions(options)
 
   const query = useQuery(queryOptions) as  UseQueryResult<TData, TError> & { queryKey: QueryKey };
 

@@ -10,8 +10,11 @@ const objectStorageService = new ObjectStorageService();
 // Only static raster images may be uploaded (avatars/banners). This is an
 // allowlist, not a blocklist: anything else — including HTML/JS/SVG, which
 // could be rendered as active content if served back from this origin — is
-// rejected outright. GIF is reserved for a future membership tier.
+// rejected outright. GIF is gated separately below to Pro/Sponsor/Lifetime
+// plans rather than being blocked outright.
 const ALLOWED_CONTENT_TYPES = new Set(["image/png", "image/jpeg", "image/webp"]);
+const GIF_CONTENT_TYPE = "image/gif";
+const GIF_ALLOWED_PLANS = new Set(["pro", "sponsor", "lifetime"]);
 
 /**
  * POST /storage/uploads/request-url
@@ -28,13 +31,16 @@ router.post("/storage/uploads/request-url", requireSessionUser, async (req: Requ
   }
 
   const { name, size, contentType } = parsed.data;
+  const normalizedContentType = contentType.toLowerCase();
 
-  if (contentType.toLowerCase() === "image/gif") {
-    res.status(400).json({ error: "GIF uploads require a membership" });
-    return;
-  }
-  if (!ALLOWED_CONTENT_TYPES.has(contentType.toLowerCase())) {
-    res.status(400).json({ error: "Only PNG, JPEG, or WEBP images are supported" });
+  if (normalizedContentType === GIF_CONTENT_TYPE) {
+    const plan = req.sessionUser?.plan ?? "free";
+    if (!GIF_ALLOWED_PLANS.has(plan)) {
+      res.status(400).json({ error: "GIF uploads require a Pro, Sponsor, or Lifetime membership" });
+      return;
+    }
+  } else if (!ALLOWED_CONTENT_TYPES.has(normalizedContentType)) {
+    res.status(400).json({ error: "Only PNG, JPEG, WEBP, or GIF images are supported" });
     return;
   }
 
@@ -85,7 +91,11 @@ router.get("/storage/objects/*path", async (req: Request, res: Response) => {
       return;
     }
 
-    const response = await objectStorageService.downloadObject(objectFile);
+    // Profile media objects are content-addressed (random UUID per upload,
+    // never mutated in place), so it's safe to cache them for a long time —
+    // this avoids re-streaming the same avatar/banner through this server
+    // on every page view.
+    const response = await objectStorageService.downloadObject(objectFile, 31536000);
 
     res.status(response.status);
     response.headers.forEach((value, key) => res.setHeader(key, value));

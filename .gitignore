@@ -47,3 +47,21 @@ Thumbs.db
 # Replit
 .cache/
 .local/
+
+# Environment / secrets — NEVER commit these
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Build outputs — generated, do not commit
+.next/
+.expo/
+dist/
+out/
+build/
+
+# Internal workspace files — not relevant for GitHub
+attached_assets/
+screenshots/

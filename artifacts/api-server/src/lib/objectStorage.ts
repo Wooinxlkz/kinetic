@@ -102,7 +102,12 @@ export class ObjectStorageService {
     const headers: Record<string, string> = {
       'Content-Type':
         (metadata.contentType as string) || 'application/octet-stream',
-      'Cache-Control': `${isPublic ? 'public' : 'private'}, max-age=${cacheTtlSec}`,
+      // Each uploaded object lives at a unique randomUUID path and is never
+      // overwritten in place, so once fetched its bytes never change —
+      // `immutable` lets the browser skip revalidation entirely on repeat
+      // views (header avatar, profile page, etc.) instead of re-streaming
+      // through this server every time.
+      'Cache-Control': `${isPublic ? 'public' : 'private'}, max-age=${cacheTtlSec}, immutable`,
     };
     if (metadata.size) {
       headers['Content-Length'] = String(metadata.size);

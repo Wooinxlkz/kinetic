@@ -1,1 +1,5 @@
 - [pnpm + Next.js motion fix](pnpm-nextjs-motion.md) — motion@11 vendor chunks fail under pnpm symlinks; fix with transpilePackages + allowedDevOrigins.
+- [Hidden dev-login auth pattern](hidden-dev-login-auth.md) — shared-secret admin backdoors need reserved usernames, global (not per-IP) lockout, and every session-creation path checking suspension.
+- [Artifact directory migration](artifact-directory-migration.md) — no delete-artifact callback exists; changing an artifact's id/folder means creating a new one and migrating files, careful not to delete `.replit-artifact/`.
+- [Nested framer-motion height:"auto" races](framer-motion-nested-auto-height.md) — a wrapper animating to "auto" while a nested child also height-animates causes morph stutter; use fixed height constants instead.
+- [Sandboxed live JSX preview](sandboxed-live-jsx-preview.md) — render untrusted React+Tailwind code live via sandboxed iframe + import maps (esm.sh) + Babel Standalone, no bundler needed.

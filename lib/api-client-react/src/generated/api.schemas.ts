@@ -9,6 +9,114 @@ export interface HealthStatus {
   status: string;
 }
 
+export type CommunityCategory = typeof CommunityCategory[keyof typeof CommunityCategory];
+
+
+export const CommunityCategory = {
+  component: 'component',
+  block: 'block',
+  pattern: 'pattern',
+} as const;
+
+export interface CommunityAuthor {
+  id: number;
+  name: string;
+  username: string;
+  avatarColor: string;
+  /** @nullable */
+  avatarUrl: string | null;
+  isDev: boolean;
+}
+
+export interface CommunityComponent {
+  id: number;
+  slug: string;
+  name: string;
+  description: string;
+  category: CommunityCategory;
+  tags: string[];
+  /** The component source code — what users copy/install into their project. */
+  code: string;
+  /**
+     * Optional standalone demo that imports and uses `code`. When present,
+     * the preview sandbox merges both (stripping the demo's import of the
+     * component file). When absent, `code` is rendered directly.
+     * @nullable
+     */
+  demoCode?: string | null;
+  views: number;
+  createdAt: string;
+  updatedAt: string;
+  author: CommunityAuthor;
+}
+
+export interface CommunityComponentInput {
+  /**
+     * @minLength 2
+     * @maxLength 60
+     */
+  name: string;
+  /**
+     * @minLength 1
+     * @maxLength 280
+     */
+  description: string;
+  category: CommunityCategory;
+  /**
+     * @maxItems 6
+     * @items.maxLength 24
+     */
+  tags?: string[];
+  /**
+     * @minLength 1
+     * @maxLength 20000
+     */
+  code: string;
+  /** @maxLength 20000 */
+  demoCode?: string;
+}
+
+export interface CommunityComponentUpdate {
+  /**
+     * @minLength 2
+     * @maxLength 60
+     */
+  name?: string;
+  /**
+     * @minLength 1
+     * @maxLength 280
+     */
+  description?: string;
+  category?: CommunityCategory;
+  /**
+     * @maxItems 6
+     * @items.maxLength 24
+     */
+  tags?: string[];
+  /**
+     * @minLength 1
+     * @maxLength 20000
+     */
+  code?: string;
+  /** @maxLength 20000 */
+  demoCode?: string;
+}
+
+export interface CommunityQuota {
+  plan: string;
+  /**
+     * Null means unlimited (lifetime plan).
+     * @nullable
+     */
+  limit: number | null;
+  used: number;
+  /**
+     * Null means unlimited.
+     * @nullable
+     */
+  remaining: number | null;
+}
+
 export interface UploadUrlRequest {
   /**
      * Original file name.
@@ -38,4 +146,22 @@ export interface UploadUrlResponse {
 export interface ErrorEnvelope {
   error: string;
 }
+
+export type ListCommunityComponentsParams = {
+category?: CommunityCategory;
+tag?: string;
+/**
+ * Free-text search across name and description.
+ */
+q?: string;
+sort?: ListCommunityComponentsSort;
+};
+
+export type ListCommunityComponentsSort = typeof ListCommunityComponentsSort[keyof typeof ListCommunityComponentsSort];
+
+
+export const ListCommunityComponentsSort = {
+  newest: 'newest',
+  popular: 'popular',
+} as const;
 

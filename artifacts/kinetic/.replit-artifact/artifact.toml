@@ -1,0 +1,22 @@
+kind = "web"
+previewPath = "/"
+title = "Kinetic — UI Components"
+version = "1.0.0"
+id = "artifacts/kinetic"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18460
+
+[services.development]
+run = "pnpm --filter @workspace/kinetic run build && pnpm --filter @workspace/kinetic run start"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/kinetic", "run", "build" ]
+run = "pnpm --filter @workspace/kinetic run start"
+
+[services.env]
+PORT = "18460"
+BASE_PATH = "/"
