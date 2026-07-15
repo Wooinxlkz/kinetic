@@ -37,7 +37,7 @@ export function SiteDock() {
   const [itemSize, setItemSize] = useState(36);
   useEffect(() => {
     function update() {
-      setItemSize(window.innerWidth < 400 ? 30 : 36);
+      setItemSize(window.innerWidth < 400 ? 26 : 36);
     }
     update();
     window.addEventListener("resize", update);
