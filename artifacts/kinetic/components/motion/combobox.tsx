@@ -12,38 +12,26 @@ import {
   useId,
   useRef,
   useState,
-  type ReactNode,
 } from "react";
 import { Check, ChevronDown, Search, X } from "lucide-react";
 import { EASE_OUT, SPRING_PANEL } from "@/lib/ease";
 import { cn } from "@/lib/utils";
 
-// ─── Types ────────────────────────────────────────────────────────────────────
-
-export interface ComboboxOption {
+export interface ComboboxItem {
   value: string;
   label: string;
-  description?: string;
-  icon?: ReactNode;
-  disabled?: boolean;
 }
 
 export interface ComboboxProps {
-  options: ComboboxOption[];
+  items: ComboboxItem[];
   value?: string;
-  onValueChange?: (value: string) => void;
+  onChange?: (value: string) => void;
   placeholder?: string;
-  searchPlaceholder?: string;
-  emptyMessage?: string;
   className?: string;
-  disabled?: boolean;
-  dropdownWidth?: string;
 }
 
-// ─── Variants ────────────────────────────────────────────────────────────────
-
 const DROPDOWN_VARIANTS: Variants = {
-  initial: { opacity: 0, scale: 0.97, y: -6, filter: "blur(6px)" },
+  initial: { opacity: 0, scale: 0.97, y: -6, filter: "blur(4px)" },
   animate: {
     opacity: 1,
     scale: 1,
@@ -70,65 +58,50 @@ const REDUCED_DROPDOWN: Variants = {
   exit: { opacity: 0, transition: { duration: 0.08 } },
 };
 
-// ─── Component ───────────────────────────────────────────────────────────────
-
 export function Combobox({
-  options,
+  items,
   value,
-  onValueChange,
-  placeholder = "Select option…",
-  searchPlaceholder = "Search…",
-  emptyMessage = "No results found.",
+  onChange,
+  placeholder = "Select…",
   className,
-  disabled,
-  dropdownWidth = "w-full",
 }: ComboboxProps) {
   const [open, setOpen] = useState(false);
   const [query, setQuery] = useState("");
   const [activeIndex, setActiveIndex] = useState(-1);
   const reduce = useReducedMotion();
-  const triggerId = useId();
   const listId = useId();
+  const highlightId = useId();
   const inputRef = useRef<HTMLInputElement>(null);
   const containerRef = useRef<HTMLDivElement>(null);
   const listRef = useRef<HTMLDivElement>(null);
 
-  const selected = options.find((o) => o.value === value);
+  const selected = items.find((o) => o.value === value);
 
   const filtered = query.trim()
-    ? options.filter(
-        (o) =>
-          o.label.toLowerCase().includes(query.toLowerCase()) ||
-          o.description?.toLowerCase().includes(query.toLowerCase()),
-      )
-    : options;
+    ? items.filter((o) => o.label.toLowerCase().includes(query.toLowerCase()))
+    : items;
 
-  // Reset active index when filtered list changes
-  useEffect(() => { setActiveIndex(-1); }, [query]);
+  useEffect(() => {
+    setActiveIndex(-1);
+  }, [query]);
 
   const handleOpen = useCallback(() => {
-    if (disabled) return;
     setOpen(true);
     setQuery("");
     setActiveIndex(-1);
     requestAnimationFrame(() => inputRef.current?.focus());
-  }, [disabled]);
+  }, []);
 
   const handleSelect = useCallback(
-    (opt: ComboboxOption) => {
-      if (opt.disabled) return;
-      onValueChange?.(opt.value);
+    (item: ComboboxItem) => {
+      onChange?.(item.value);
       setOpen(false);
       setQuery("");
     },
-    [onValueChange],
+    [onChange],
   );
 
-  const handleClear = useCallback(() => {
-    onValueChange?.("");
-  }, [onValueChange]);
-
-  // Close on outside click / Esc
+  // Close on outside click
   useEffect(() => {
     if (!open) return;
     const handler = (e: MouseEvent) => {
@@ -140,7 +113,6 @@ export function Combobox({
     return () => document.removeEventListener("mousedown", handler);
   }, [open]);
 
-  // Keyboard navigation
   const handleKeyDown = useCallback(
     (e: React.KeyboardEvent) => {
       if (!open) {
@@ -150,28 +122,27 @@ export function Combobox({
         }
         return;
       }
-      const enabledFiltered = filtered.filter((o) => !o.disabled);
       if (e.key === "Escape") {
         e.preventDefault();
         setOpen(false);
       } else if (e.key === "ArrowDown") {
         e.preventDefault();
         setActiveIndex((i) => {
-          const next = i < enabledFiltered.length - 1 ? i + 1 : 0;
-          scrollOptionIntoView(listRef.current, next);
+          const next = i < filtered.length - 1 ? i + 1 : 0;
+          scrollIntoView(listRef.current, next);
           return next;
         });
       } else if (e.key === "ArrowUp") {
         e.preventDefault();
         setActiveIndex((i) => {
-          const next = i > 0 ? i - 1 : enabledFiltered.length - 1;
-          scrollOptionIntoView(listRef.current, next);
+          const next = i > 0 ? i - 1 : filtered.length - 1;
+          scrollIntoView(listRef.current, next);
           return next;
         });
       } else if (e.key === "Enter") {
         e.preventDefault();
-        if (activeIndex >= 0 && enabledFiltered[activeIndex]) {
-          handleSelect(enabledFiltered[activeIndex]);
+        if (activeIndex >= 0 && filtered[activeIndex]) {
+          handleSelect(filtered[activeIndex]);
         }
       } else if (e.key === "Tab") {
         setOpen(false);
@@ -182,37 +153,29 @@ export function Combobox({
 
   return (
     <div ref={containerRef} className={cn("relative w-full", className)}>
-      {/* Trigger — outer div avoids nested interactive element constraint */}
+      {/* Trigger */}
       <div
         role="combobox"
         aria-haspopup="listbox"
         aria-expanded={open}
         aria-controls={listId}
-        aria-owns={listId}
-        id={triggerId}
+        tabIndex={open ? -1 : 0}
         className={cn(
-          "flex w-full items-center gap-1.5 rounded-xl border border-input bg-background px-3 py-2.5 text-sm shadow-sm transition-colors",
-          !disabled && "cursor-pointer hover:bg-accent/40",
-          disabled && "cursor-not-allowed opacity-50",
+          "flex w-full cursor-pointer items-center gap-1.5 rounded-xl border border-input bg-background px-3 py-2.5 text-sm shadow-sm transition-colors hover:bg-accent/40",
         )}
         onClick={!open ? handleOpen : undefined}
         onKeyDown={handleKeyDown}
-        // Make focusable for keyboard users when closed
-        tabIndex={open ? -1 : 0}
       >
-        {selected?.icon && (
-          <span className="h-4 w-4 flex-shrink-0 text-muted-foreground">{selected.icon}</span>
-        )}
         <span className={cn("flex-1 truncate text-left select-none", !selected && "text-muted-foreground")}>
           {selected ? selected.label : placeholder}
         </span>
-        {selected && !disabled && (
+        {selected && (
           <button
             type="button"
             aria-label="Clear selection"
             tabIndex={0}
-            onClick={(e) => { e.stopPropagation(); handleClear(); }}
-            className="flex-shrink-0 rounded p-0.5 text-muted-foreground hover:text-foreground focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring"
+            onClick={(e) => { e.stopPropagation(); onChange?.(""); }}
+            className="flex-shrink-0 rounded p-0.5 text-muted-foreground hover:text-foreground focus-visible:outline-none"
           >
             <X className="h-3.5 w-3.5" />
           </button>
@@ -232,10 +195,7 @@ export function Combobox({
         {open && (
           <motion.div
             id={listId}
-            className={cn(
-              "absolute top-full z-50 mt-1.5 overflow-hidden rounded-xl border border-border bg-popover shadow-xl shadow-black/10",
-              dropdownWidth,
-            )}
+            className="absolute top-full z-50 mt-1.5 w-full overflow-hidden rounded-xl border border-border bg-popover shadow-xl shadow-black/10"
             variants={reduce ? REDUCED_DROPDOWN : DROPDOWN_VARIANTS}
             initial="initial"
             animate="animate"
@@ -247,14 +207,10 @@ export function Combobox({
               <input
                 ref={inputRef}
                 type="text"
-                role="searchbox"
-                aria-label="Search options"
-                aria-autocomplete="list"
-                aria-controls={listId}
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 onKeyDown={handleKeyDown}
-                placeholder={searchPlaceholder}
+                placeholder="Search…"
                 className="flex-1 bg-transparent text-sm text-foreground placeholder:text-muted-foreground focus:outline-none"
               />
               {query && (
@@ -269,51 +225,47 @@ export function Combobox({
               )}
             </div>
 
-            {/* Options */}
+            {/* Options list */}
             <div
               ref={listRef}
               role="listbox"
-              aria-label="Options"
-              className="max-h-64 overflow-y-auto p-1"
+              className="relative max-h-64 overflow-y-auto p-1"
             >
               {filtered.length === 0 ? (
-                <p className="px-3 py-6 text-center text-sm text-muted-foreground">{emptyMessage}</p>
+                <p className="px-3 py-6 text-center text-sm text-muted-foreground">No results found.</p>
               ) : (
-                filtered.map((opt, i) => {
-                  const isSelected = opt.value === value;
+                filtered.map((item, i) => {
+                  const isSelected = item.value === value;
                   const isActive = i === activeIndex;
                   return (
                     <div
-                      key={opt.value}
+                      key={item.value}
                       role="option"
                       aria-selected={isSelected}
-                      aria-disabled={opt.disabled}
                       data-option-index={i}
-                      onClick={() => !opt.disabled && handleSelect(opt)}
-                      className={cn(
-                        "flex cursor-default select-none items-center gap-2.5 rounded-lg px-2.5 py-2 text-left text-sm transition-colors",
-                        "hover:bg-accent hover:text-accent-foreground",
-                        isSelected && "bg-accent/50",
-                        isActive && "bg-accent text-accent-foreground",
-                        opt.disabled && "cursor-not-allowed opacity-40",
-                      )}
+                      onClick={() => handleSelect(item)}
+                      className="relative"
                     >
-                      <span className="flex h-4 w-4 flex-shrink-0 items-center justify-center">
-                        {isSelected && <Check className="h-4 w-4" />}
-                      </span>
-                      {opt.icon && (
-                        <span className="h-4 w-4 flex-shrink-0 text-muted-foreground" aria-hidden="true">
-                          {opt.icon}
-                        </span>
+                      {/* Animated highlight indicator */}
+                      {isActive && (
+                        <motion.div
+                          layoutId={highlightId}
+                          className="absolute inset-0 rounded-lg bg-accent"
+                          transition={{ type: "spring", stiffness: 360, damping: 32, mass: 0.6 }}
+                        />
                       )}
-                      <span className="flex-1 min-w-0">
-                        <span className="block truncate font-medium">{opt.label}</span>
-                        {opt.description && (
-                          <span className="block truncate text-xs text-muted-foreground">
-                            {opt.description}
-                          </span>
+                      <div
+                        className={cn(
+                          "relative flex cursor-default select-none items-center gap-2.5 rounded-lg px-2.5 py-2 text-sm transition-colors",
+                          !isActive && "hover:bg-accent/60",
+                          isSelected && !isActive && "bg-accent/40",
                         )}
-                      </span>
+                      >
+                        <span className="flex h-4 w-4 flex-shrink-0 items-center justify-center">
+                          {isSelected && <Check className="h-4 w-4" />}
+                        </span>
+                        <span className="flex-1 truncate font-medium">{item.label}</span>
+                      </div>
                     </div>
                   );
                 })
@@ -326,9 +278,7 @@ export function Combobox({
   );
 }
 
-// ─── Helpers ──────────────────────────────────────────────────────────────────
-
-function scrollOptionIntoView(list: HTMLElement | null, index: number) {
+function scrollIntoView(list: HTMLElement | null, index: number) {
   if (!list) return;
   const item = list.querySelector<HTMLElement>(`[data-option-index="${index}"]`);
   item?.scrollIntoView({ block: "nearest" });
