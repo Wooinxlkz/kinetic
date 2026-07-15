@@ -62,4 +62,13 @@ export const CATEGORY_TAG_SETS: Record<string, string[]> = {
     "interaction",
     "text",
   ],
+  templates: [
+    "display",
+    "layout",
+    "marketing",
+    "media",
+    "navigation",
+    "social",
+    "text",
+  ],
 };

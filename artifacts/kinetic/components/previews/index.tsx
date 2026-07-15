@@ -326,6 +326,82 @@ export const previews: Record<string, ComponentType> = {
   "motion/stagger-list": dynamic(() =>
     import("./motion/stagger-list.preview").then((m) => m.StaggerListPreview),
   ),
+  // --- New components (2026-07-15) ---
+  "motion/badge-group": dynamic(() =>
+    import("./motion/badge-group.preview").then((m) => m.BadgeGroupPreview),
+  ),
+  "motion/callout": dynamic(() =>
+    import("./motion/callout.preview").then((m) => m.CalloutPreview),
+  ),
+  "motion/kbd": dynamic(() =>
+    import("./motion/kbd.preview").then((m) => m.KbdPreview),
+  ),
+  "motion/empty-state": dynamic(() =>
+    import("./motion/empty-state.preview").then((m) => m.EmptyStatePreview),
+  ),
+  "motion/alert-banner": dynamic(() =>
+    import("./motion/alert-banner.preview").then((m) => m.AlertBannerPreview),
+  ),
+  "motion/segmented-control": dynamic(() =>
+    import("./motion/segmented-control.preview").then((m) => m.SegmentedControlPreview),
+  ),
+  "motion/flip-card": dynamic(() =>
+    import("./motion/flip-card.preview").then((m) => m.FlipCardPreview),
+  ),
+  "motion/stepper": dynamic(() =>
+    import("./motion/stepper.preview").then((m) => m.StepperPreview),
+  ),
+  "motion/counter-ring": dynamic(() =>
+    import("./motion/counter-ring.preview").then((m) => m.CounterRingPreview),
+  ),
+  "motion/drag-to-confirm": dynamic(() =>
+    import("./motion/drag-to-confirm.preview").then((m) => m.DragToConfirmPreview),
+  ),
+  "ai/suggestion-chips": dynamic(() =>
+    import("./ai/suggestion-chips.preview").then((m) => m.SuggestionChipsPreview),
+  ),
+  "ai/model-picker": dynamic(() =>
+    import("./ai/model-picker.preview").then((m) => m.ModelPickerPreview),
+  ),
+  "ai/thinking-indicator": dynamic(() =>
+    import("./ai/thinking-indicator.preview").then((m) => m.ThinkingIndicatorPreview),
+  ),
+  "ai/prompt-history": dynamic(() =>
+    import("./ai/prompt-history.preview").then((m) => m.PromptHistoryPreview),
+  ),
+  "ai/token-counter": dynamic(() =>
+    import("./ai/token-counter.preview").then((m) => m.TokenCounterPreview),
+  ),
+  "blocks/login-form": dynamic(() =>
+    import("./blocks/login-form.preview").then((m) => m.LoginFormPreview),
+  ),
+  "blocks/notification-center": dynamic(() =>
+    import("./blocks/notification-center.preview").then((m) => m.NotificationCenterPreview),
+  ),
+  "blocks/user-profile-card": dynamic(() =>
+    import("./blocks/user-profile-card.preview").then((m) => m.UserProfileCardPreview),
+  ),
+  "blocks/stats-row": dynamic(() =>
+    import("./blocks/stats-row.preview").then((m) => m.StatsRowPreview),
+  ),
+  "blocks/activity-feed": dynamic(() =>
+    import("./blocks/activity-feed.preview").then((m) => m.ActivityFeedPreview),
+  ),
+  "templates/hero-section": dynamic(() =>
+    import("./templates/hero-section.preview").then((m) => m.HeroSectionPreview),
+  ),
+  "templates/pricing-section": dynamic(() =>
+    import("./templates/pricing-section.preview").then((m) => m.PricingSectionPreview),
+  ),
+  "templates/features-section": dynamic(() =>
+    import("./templates/features-section.preview").then((m) => m.FeaturesSectionPreview),
+  ),
+  "templates/testimonials-section": dynamic(() =>
+    import("./templates/testimonials-section.preview").then((m) => m.TestimonialsSectionPreview),
+  ),
+  "templates/cta-section": dynamic(() =>
+    import("./templates/cta-section.preview").then((m) => m.CtaSectionPreview),
+  ),
 };
 
 export function getPreview(category: string, slug: string) {
