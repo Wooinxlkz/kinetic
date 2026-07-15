@@ -311,9 +311,7 @@ export const previews: Record<string, ComponentType> = {
   "motion/globe": dynamic(() =>
     import("./motion/globe.preview").then((m) => m.GlobePreview),
   ),
-  "motion/spotlight": dynamic(() =>
-    import("./motion/spotlight.preview").then((m) => m.SpotlightPreview),
-  ),
+
   "motion/typewriter": dynamic(() =>
     import("./motion/typewriter.preview").then((m) => m.TypewriterPreview),
   ),

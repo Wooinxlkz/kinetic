@@ -105,7 +105,7 @@ export function ModelPicker({
                             key={i}
                             className={cn(
                               "h-2.5 w-2.5",
-                              i < model.speed! ? "text-amber-400" : "text-muted/40",
+                              i < model.speed! ? "text-amber-400" : "text-foreground/20",
                             )}
                           />
                         ))}

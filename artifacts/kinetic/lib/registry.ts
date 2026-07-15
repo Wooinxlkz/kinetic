@@ -964,24 +964,7 @@ export const registry: CategoryEntry[] = [
           "dot globe react",
         ],
       },
-      {
-        slug: "spotlight",
-        name: "Spotlight",
-        group: "Card",
-        description:
-          "SpotlightCard wraps any content and tracks the cursor with a spring-animated radial gradient glow. Spotlight is a static SVG variant for full-bleed hero sections.",
-        file: "components/motion/spotlight.tsx",
-        badge: "new",
-        launchedAt: "2026-07-12",
-        tags: ["visual", "hover", "card", "marketing"],
-        keywords: [
-          "spotlight effect react",
-          "cursor spotlight card react",
-          "mouse tracking glow react",
-          "radial gradient hover react",
-          "card spotlight react",
-        ],
-      },
+
       {
         slug: "typewriter",
         name: "Typewriter",
