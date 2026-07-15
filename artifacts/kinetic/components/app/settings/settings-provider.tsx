@@ -11,7 +11,8 @@ interface SettingsContextValue {
 const SettingsContext = createContext<SettingsContextValue | null>(null);
 
 export function SettingsProvider({ children }: { children: ReactNode }) {
-  const [open, setOpen] = useState(false);
+  const debugOpen = typeof window !== "undefined" && window.location.search.includes("debugSettingsOpen");
+  const [open, setOpen] = useState(debugOpen);
   return (
     <SettingsContext.Provider
       value={{
