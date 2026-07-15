@@ -34,8 +34,15 @@ export function SiteDock() {
 
   // On mobile the extra 4 icons don't fit beside the dock, so they pop up
   // above it instead of expanding sideways (see isMobile / mobile tray below).
-  // Item size itself stays the same as desktop.
-  const itemSize = 36;
+  // Slightly smaller items on mobile for a less bulky feel.
+  const getItemSize = () => typeof window !== "undefined" && window.matchMedia("(max-width: 639px)").matches ? 30 : 36;
+  const [itemSize, setItemSize] = useState(getItemSize);
+  useEffect(() => {
+    const update = () => setItemSize(getItemSize());
+    update();
+    window.addEventListener("resize", update);
+    return () => window.removeEventListener("resize", update);
+  }, []);
   const getIsMobile = () => typeof window !== "undefined" && !!window.matchMedia?.("(max-width: 639px)").matches;
   const [isMobile, setIsMobile] = useState(getIsMobile);
   useEffect(() => {
