@@ -272,7 +272,7 @@ export function SiteDock() {
                   animate={{ width: EXPANDED_WIDTH, opacity: 1 }}
                   exit={{ width: 0, opacity: 0 }}
                   transition={{ type: "spring", stiffness: 380, damping: 30 }}
-                  className="flex"
+                  className="flex gap-1.5"
                   style={{ overflow: expandClipping ? "hidden" : "visible" }}
                   onAnimationComplete={() => { if (expanded) setExpandClipping(false); }}
                 >
