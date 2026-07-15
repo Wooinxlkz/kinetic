@@ -253,7 +253,7 @@ export function SiteDock() {
               setExpanded((o) => !o);
             }}
             className={[
-              "flex w-6 items-center justify-center self-stretch",
+              "flex w-5 items-center justify-center self-stretch sm:w-6",
               "rounded-r-2xl border border-l-0 border-foreground/5",
               "bg-card/80 shadow-2xl backdrop-blur-xl",
               "transition-colors hover:bg-muted/50 active:scale-95",
@@ -265,7 +265,7 @@ export function SiteDock() {
               transition={{ type: "spring", stiffness: 400, damping: 28 }}
               className="flex"
             >
-              <ChevronRight className="h-2.5 w-2.5" />
+              <ChevronRight className="h-2 w-2 sm:h-2.5 sm:w-2.5" />
             </motion.span>
           </button>
         </Tooltip>
