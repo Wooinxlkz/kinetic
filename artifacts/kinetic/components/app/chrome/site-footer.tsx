@@ -27,7 +27,7 @@ export function SiteFooter() {
             <p className="mt-5 text-xs text-muted-foreground">
               Created by{" "}
               <Link
-                href="https://x.com/syncinitstation"
+                href="https://nulltrace--nqck540xvc.replit.app/"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="font-medium text-foreground underline-offset-2 hover:underline"
@@ -202,6 +202,14 @@ export function SiteFooter() {
                   className="text-sm text-muted-foreground transition-colors hover:text-foreground"
                 >
                   Membership
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/discover"
+                  className="text-sm text-muted-foreground transition-colors hover:text-foreground"
+                >
+                  Community
                 </Link>
               </li>
             </ul>
