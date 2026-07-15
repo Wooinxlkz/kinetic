@@ -430,6 +430,43 @@ export const previews: Record<string, ComponentType> = {
   "ai/file-attachment": dynamic(() =>
     import("./ai/file-attachment.preview").then((m) => m.FileAttachmentPreview),
   ),
+  // --- New components batch 2 (2026-07-15) ---
+  "motion/color-picker": dynamic(() =>
+    import("./motion/color-picker.preview").then((m) => m.ColorPickerPreview),
+  ),
+  "motion/context-menu": dynamic(() =>
+    import("./motion/context-menu.preview").then((m) => m.ContextMenuPreview),
+  ),
+  "motion/timeline": dynamic(() =>
+    import("./motion/timeline.preview").then((m) => m.TimelinePreview),
+  ),
+  "motion/tag-input": dynamic(() =>
+    import("./motion/tag-input.preview").then((m) => m.TagInputPreview),
+  ),
+  "motion/rating": dynamic(() =>
+    import("./motion/rating.preview").then((m) => m.RatingPreview),
+  ),
+  "motion/date-picker": dynamic(() =>
+    import("./motion/date-picker.preview").then((m) => m.DatePickerPreview),
+  ),
+  "ai/voice-input": dynamic(() =>
+    import("./ai/voice-input.preview").then((m) => m.VoiceInputPreview),
+  ),
+  "ai/response-rating": dynamic(() =>
+    import("./ai/response-rating.preview").then((m) => m.ResponseRatingPreview),
+  ),
+  "ai/agent-timeline": dynamic(() =>
+    import("./ai/agent-timeline.preview").then((m) => m.AgentTimelinePreview),
+  ),
+  "ai/context-memory": dynamic(() =>
+    import("./ai/context-memory.preview").then((m) => m.ContextMemoryPreview),
+  ),
+  "ai/conversation-starter": dynamic(() =>
+    import("./ai/conversation-starter.preview").then((m) => m.ConversationStarterPreview),
+  ),
+  "ai/ai-code-block": dynamic(() =>
+    import("./ai/ai-code-block.preview").then((m) => m.AiCodeBlockPreview),
+  ),
 };
 
 export function getPreview(category: string, slug: string) {
