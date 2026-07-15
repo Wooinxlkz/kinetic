@@ -61,8 +61,6 @@ export const registry: CategoryEntry[] = [
         group: "Data",
         description: "Plain KPI card with a label, value and an up/down trend chip. No motion.",
         file: "components/static/stat-card.tsx",
-        badge: "new",
-        launchedAt: "2026-07-14",
         tags: ["data", "display"],
       },
       {
@@ -71,8 +69,6 @@ export const registry: CategoryEntry[] = [
         group: "Marketing",
         description: "Plain quote card with star rating, avatar and byline. No motion.",
         file: "components/static/testimonial-card.tsx",
-        badge: "new",
-        launchedAt: "2026-07-14",
         tags: ["marketing", "display", "social"],
       },
       {
@@ -608,8 +604,6 @@ export const registry: CategoryEntry[] = [
         slug: "popover-morph",
         name: "Morph Popover",
         group: "Overlay",
-        badge: "new",
-        launchedAt: "2026-07-11",
         description:
           "A popover panel that morphs open from the nearest trigger corner via a clip-path spring — no separate entrance animation, just the shape unclipping. Supports a glass backdrop-blur variant, optional caret arrow, and controlled or uncontrolled state.",
         file: "components/motion/popover-morph.tsx",
@@ -626,8 +620,6 @@ export const registry: CategoryEntry[] = [
         slug: "preview-rail",
         name: "Preview Rail",
         group: "Navigation",
-        badge: "new",
-        launchedAt: "2026-07-11",
         description:
           "Vertical or horizontal navigation rail where items are lines that magnify on hover. Hovering a line reveals a preview panel with a blur fade transition. Controlled or uncontrolled with a custom renderPreview slot.",
         file: "components/motion/preview-rail.tsx",
@@ -644,8 +636,6 @@ export const registry: CategoryEntry[] = [
         slug: "rainbow-cta",
         name: "Rainbow CTA",
         group: "Marketing",
-        badge: "new",
-        launchedAt: "2026-07-11",
         description:
           "A link or button wrapped in an infinitely animating rainbow gradient border. Supports rounded and pill shapes, any children, and respects prefers-reduced-motion by pausing the animation.",
         file: "components/motion/rainbow-cta.tsx",
@@ -662,8 +652,6 @@ export const registry: CategoryEntry[] = [
         slug: "page-nav",
         name: "Page Nav",
         group: "Navigation",
-        badge: "new",
-        launchedAt: "2026-07-11",
         description:
           "Scroll-spy table of contents that uses IntersectionObserver to track which section is in view and highlights it with an animated sliding bar. Supports three depth levels for indentation. Click-to-scroll built in.",
         file: "components/motion/page-nav.tsx",
@@ -683,8 +671,6 @@ export const registry: CategoryEntry[] = [
         description:
           "Characters scramble through random symbols before resolving to the target string — left-to-right reveal with configurable charset, speed, and delay. Supports mount and hover triggers.",
         file: "components/motion/text-scramble.tsx",
-        badge: "new",
-        launchedAt: "2026-07-12",
         tags: ["text", "display", "animation"],
         keywords: [
           "text scramble react",
@@ -701,8 +687,6 @@ export const registry: CategoryEntry[] = [
         description:
           "Renders any list of items with a configurable staggered entrance animation. Items slide in from any direction with eased motion, delay, and per-item stagger.",
         file: "components/motion/stagger-list.tsx",
-        badge: "new",
-        launchedAt: "2026-07-12",
         tags: ["animation", "display", "list"],
         keywords: [
           "stagger animation react",
@@ -863,8 +847,6 @@ export const registry: CategoryEntry[] = [
         description:
           "Elements orbit a center point at configurable radii, speeds, and phase offsets. Multiple items stay upright throughout via counter-rotation.",
         file: "components/motion/orbiting-circles.tsx",
-        badge: "new",
-        launchedAt: "2026-06-20",
         tags: ["visual", "display", "animation"],
         keywords: [
           "orbiting circles react",
@@ -881,8 +863,6 @@ export const registry: CategoryEntry[] = [
         description:
           "Canvas particle burst (circles, squares, ribbons) fired from any screen position. Exposes a fireConfetti() function and a ConfettiButton convenience wrapper. Respects prefers-reduced-motion.",
         file: "components/motion/confetti.tsx",
-        badge: "new",
-        launchedAt: "2026-06-22",
         tags: ["interaction", "feedback", "display"],
         keywords: [
           "confetti react",
@@ -899,8 +879,6 @@ export const registry: CategoryEntry[] = [
         description:
           "SVG beam that connects two DOM elements with an animated traveling spot of light along a static dim track. Supports bezier curvature, reverse direction, and multiple beams.",
         file: "components/motion/animated-beam.tsx",
-        badge: "new",
-        launchedAt: "2026-06-25",
         tags: ["visual", "display", "data"],
         keywords: [
           "animated beam react",
@@ -917,8 +895,6 @@ export const registry: CategoryEntry[] = [
         description:
           "Canvas grid where each cell independently and randomly updates its opacity, creating a living breathing background texture. Lightweight and customizable.",
         file: "components/motion/flickering-grid.tsx",
-        badge: "new",
-        launchedAt: "2026-06-27",
         tags: ["visual", "display", "background"],
         keywords: [
           "flickering grid react",
@@ -935,8 +911,6 @@ export const registry: CategoryEntry[] = [
         description:
           "iOS-style 3D cylinder picker with physics-based flick, touch drag, mouse drag, trackpad wheel, and keyboard navigation. Controlled and uncontrolled. Reduced-motion safe.",
         file: "components/motion/wheel-picker.tsx",
-        badge: "new",
-        launchedAt: "2026-07-09",
         tags: ["form", "input", "mobile", "interaction"],
         keywords: [
           "ios wheel picker react",
@@ -953,8 +927,6 @@ export const registry: CategoryEntry[] = [
         description:
           "Canvas-rendered rotating sphere with a fibonacci-distributed dot lattice, depth-cued opacity, and animated great-circle arcs. Zero dependencies beyond the canvas API.",
         file: "components/motion/globe.tsx",
-        badge: "new",
-        launchedAt: "2026-07-12",
         tags: ["visual", "display", "background", "marketing"],
         keywords: [
           "globe animation react",
@@ -972,8 +944,6 @@ export const registry: CategoryEntry[] = [
         description:
           "Types a word character-by-character, pauses, deletes, and cycles through an array of strings. Blinking cursor rendered with motion/react. Configurable speed and pause duration.",
         file: "components/motion/typewriter.tsx",
-        badge: "new",
-        launchedAt: "2026-07-12",
         tags: ["text", "animation", "display"],
         keywords: [
           "typewriter effect react",
@@ -990,8 +960,6 @@ export const registry: CategoryEntry[] = [
         description:
           "Stacked overlapping avatar ring with image or fallback initials, configurable max count, and an animated +N overflow badge. Three sizes.",
         file: "components/motion/avatar-circles.tsx",
-        badge: "new",
-        launchedAt: "2026-07-12",
         tags: ["display", "avatar", "social", "marketing"],
         keywords: [
           "avatar stack react",
@@ -1007,8 +975,6 @@ export const registry: CategoryEntry[] = [
         group: "Badge",
         description: "Semantic pill badges in six variants (default, success, warning, error, info, secondary) with optional icon slot. No motion.",
         file: "components/static/badge-group.tsx",
-        badge: "new",
-        launchedAt: "2026-07-15",
         tags: ["display", "feedback", "status"],
       },
       {
@@ -1017,8 +983,6 @@ export const registry: CategoryEntry[] = [
         group: "Display",
         description: "Contextual callout with a left accent border in five variants: info, success, warning, error, and tip. No motion.",
         file: "components/static/callout.tsx",
-        badge: "new",
-        launchedAt: "2026-07-15",
         tags: ["display", "feedback"],
       },
       {
@@ -1027,8 +991,6 @@ export const registry: CategoryEntry[] = [
         group: "Display",
         description: "Keyboard key pill with a bevel shadow, plus a KbdShortcut wrapper for multi-key combos like ⌘K. No motion.",
         file: "components/static/kbd.tsx",
-        badge: "new",
-        launchedAt: "2026-07-15",
         tags: ["display", "text"],
       },
       {
@@ -1037,8 +999,6 @@ export const registry: CategoryEntry[] = [
         group: "Display",
         description: "Empty state card with dashed border, optional icon, title, description, and CTA action slot. No motion.",
         file: "components/static/empty-state.tsx",
-        badge: "new",
-        launchedAt: "2026-07-15",
         tags: ["display", "feedback", "layout"],
       },
       {
@@ -1047,8 +1007,6 @@ export const registry: CategoryEntry[] = [
         group: "Display",
         description: "Inline alert in four variants (info, success, warning, error) with an optional dismiss button. Static — no motion.",
         file: "components/static/alert-banner.tsx",
-        badge: "new",
-        launchedAt: "2026-07-15",
         tags: ["display", "feedback", "notification"],
       },
       {
@@ -1057,8 +1015,6 @@ export const registry: CategoryEntry[] = [
         group: "Form",
         description: "iOS-style segmented picker with a spring-animated selection pill. Supports icons, disabled options, sm/md sizes, and controlled/uncontrolled usage.",
         file: "components/motion/segmented-control.tsx",
-        badge: "new",
-        launchedAt: "2026-07-15",
         tags: ["form", "input", "interaction", "toggle"],
       },
       {
@@ -1067,8 +1023,6 @@ export const registry: CategoryEntry[] = [
         group: "Card",
         description: "3D CSS perspective flip card with composable front and back slots. Supports hover and click triggers with a spring rotation.",
         file: "components/motion/flip-card.tsx",
-        badge: "new",
-        launchedAt: "2026-07-15",
         tags: ["interaction", "hover", "card", "display"],
       },
       {
@@ -1077,8 +1031,6 @@ export const registry: CategoryEntry[] = [
         group: "Navigation",
         description: "Multi-step progress indicator with spring-animated active marker, animated check on completion, and a progress connector line. Works horizontally or vertically.",
         file: "components/motion/stepper.tsx",
-        badge: "new",
-        launchedAt: "2026-07-15",
         tags: ["navigation", "layout", "feedback"],
       },
       {
@@ -1087,8 +1039,6 @@ export const registry: CategoryEntry[] = [
         group: "Data",
         description: "Circular SVG progress ring with a spring count-up number that triggers on viewport entry. Configurable color, size, stroke, and suffix.",
         file: "components/motion/counter-ring.tsx",
-        badge: "new",
-        launchedAt: "2026-07-15",
         tags: ["display", "data", "counter", "animation"],
       },
       {
@@ -1097,8 +1047,6 @@ export const registry: CategoryEntry[] = [
         group: "Interaction",
         description: "Drag the handle to the end to confirm an action. Springs back if not completed; shows a success state when done. Tap confirmed state to reset.",
         file: "components/motion/drag-to-confirm.tsx",
-        badge: "new",
-        launchedAt: "2026-07-15",
         tags: ["interaction", "drag", "form", "mobile"],
       },
     ],
@@ -1114,8 +1062,6 @@ export const registry: CategoryEntry[] = [
         group: "Marketing",
         description: "Plain pricing card with a feature checklist and CTA. No motion.",
         file: "components/static/pricing-card.tsx",
-        badge: "new",
-        launchedAt: "2026-07-14",
         tags: ["marketing", "display"],
       },
       {
@@ -1124,8 +1070,6 @@ export const registry: CategoryEntry[] = [
         group: "Marketing",
         description: "Plain responsive grid of icon, title and description tiles. No motion.",
         file: "components/static/feature-grid.tsx",
-        badge: "new",
-        launchedAt: "2026-07-14",
         tags: ["marketing", "layout", "display"],
       },
       {
@@ -1206,8 +1150,6 @@ export const registry: CategoryEntry[] = [
         group: "Data",
         description: "Google-style tournament bracket that pages one round at a time, with spring-animated card reflow, CSS bracket connectors, country flag chips and shootout scores.",
         file: "components/motion/knockout-bracket.tsx",
-        badge: "new",
-        launchedAt: "2026-07-12",
         tags: ["data", "display"],
         keywords: [
           "tournament bracket react",
@@ -1223,8 +1165,6 @@ export const registry: CategoryEntry[] = [
         group: "Finance",
         description: "Wallet overview card with an account switcher and search that morph open from their triggers, a cascading balance with a live change pill and privacy toggle, copy-address, and Send / Deposit / Swap / Buy actions.",
         file: "components/motion/wallet-card/index.tsx",
-        badge: "new",
-        launchedAt: "2026-07-01",
         tags: ["data", "display"],
         keywords: [
           "wallet card react",
@@ -1248,8 +1188,6 @@ export const registry: CategoryEntry[] = [
         group: "Navigation",
         description: "A button that morphs open into a menu and blooms iris-out from the center, the grid revealing in every direction with radially staggered items.",
         file: "components/motion/bloom-menu.tsx",
-        badge: "new",
-        launchedAt: "2026-07-03",
         tags: ["navigation", "overlay", "interaction"],
       },
       {
@@ -1258,8 +1196,6 @@ export const registry: CategoryEntry[] = [
         group: "Form",
         description: "Corner trigger that morphs open into a feedback popup with message entry and animated sending, success and retry states.",
         file: "components/motion/feedback-widget.tsx",
-        badge: "new",
-        launchedAt: "2026-07-05",
         tags: ["form", "overlay", "feedback"],
         keywords: [
           "react feedback widget",
@@ -1341,8 +1277,6 @@ export const registry: CategoryEntry[] = [
         slug: "pro-card",
         name: "Pro Card",
         group: "Marketing",
-        badge: "new",
-        launchedAt: "2026-07-11",
         description:
           "An upgrade / plan upsell card with an animated rainbow gradient border, badge, title, feature list, price display, and a RainbowCta button. Drop it in a sidebar or any narrow column.",
         file: "components/motion/pro-card.tsx",
@@ -1359,8 +1293,6 @@ export const registry: CategoryEntry[] = [
         slug: "availability-scheduler",
         name: "Availability Scheduler",
         group: "Form",
-        badge: "new",
-        launchedAt: "2026-07-11",
         description:
           "Weekly availability picker with per-day time slots, animated add/remove ranges, a copy-to-days morph popover, quick presets (Weekdays, Every day, Weekends, Clear), per-day hours display, and a visual weekly overview bar chart.",
         file: "components/motion/availability-scheduler/index.tsx",
@@ -1387,8 +1319,6 @@ export const registry: CategoryEntry[] = [
         description:
           "Thumbnail with an animated play button that opens a fullscreen video dialog. Supports YouTube / Vimeo embed URLs or direct video files. Six configurable entry animations.",
         file: "components/motion/hero-video-dialog.tsx",
-        badge: "new",
-        launchedAt: "2026-07-06",
         tags: ["media", "overlay", "display"],
         keywords: [
           "hero video react",
@@ -1404,8 +1334,6 @@ export const registry: CategoryEntry[] = [
         group: "Auth",
         description: "Polished sign-in card with email/password fields, show-password toggle, error shake, loading state, and success state. Spring-animated throughout.",
         file: "components/motion/login-form.tsx",
-        badge: "new",
-        launchedAt: "2026-07-15",
         tags: ["form", "input", "interaction"],
       },
       {
@@ -1414,8 +1342,6 @@ export const registry: CategoryEntry[] = [
         group: "Notification",
         description: "Notification list with read/unread states, unread count badge, per-item dismiss, and mark-all-read. Items animate in and slide out on dismiss.",
         file: "components/motion/notification-center.tsx",
-        badge: "new",
-        launchedAt: "2026-07-15",
         tags: ["notification", "display", "feedback"],
       },
       {
@@ -1424,8 +1350,6 @@ export const registry: CategoryEntry[] = [
         group: "Social",
         description: "Rich profile card with banner gradient, avatar, bio, location and website meta links, a follow button, and an animated stat row.",
         file: "components/motion/user-profile-card.tsx",
-        badge: "new",
-        launchedAt: "2026-07-15",
         tags: ["display", "marketing", "social", "layout"],
       },
       {
@@ -1455,8 +1379,6 @@ export const registry: CategoryEntry[] = [
         description:
           "CSS-grid bento layout with staggered card entrance, subtle scale-up hover, a metric tile, and an inline bar-chart tile — no charting library required.",
         file: "components/motion/bento-grid.tsx",
-        badge: "new",
-        launchedAt: "2026-07-12",
         tags: ["layout", "display", "marketing"],
         keywords: [
           "bento grid react",
@@ -1479,8 +1401,6 @@ export const registry: CategoryEntry[] = [
         group: "Input",
         description: "Auto-resizing chat input with send / stop states, suggestion chips, and staged file attachments — wires directly into any AI SDK.",
         file: "components/ai/agent-input.tsx",
-        badge: "new",
-        launchedAt: "2026-07-04",
         tags: ["form", "input", "interaction"],
         keywords: [
           "ai chat input",
@@ -1496,8 +1416,6 @@ export const registry: CategoryEntry[] = [
         group: "Chat",
         description: "Animated user and assistant message bubbles with a spring entry, typing indicator, and a composable MessageList for full conversation threads.",
         file: "components/ai/chat-bubble.tsx",
-        badge: "new",
-        launchedAt: "2026-07-04",
         tags: ["display", "feedback", "text"],
         keywords: [
           "chat bubble react",
@@ -1513,8 +1431,6 @@ export const registry: CategoryEntry[] = [
         group: "Text",
         description: "Character-by-character text reveal that tracks append-only target strings — simulates live token streaming. Includes a blinking cursor and a word-level TokenStream variant.",
         file: "components/ai/streaming-text.tsx",
-        badge: "new",
-        launchedAt: "2026-07-04",
         tags: ["display", "text", "animation"],
         keywords: [
           "streaming text react",
@@ -1530,8 +1446,6 @@ export const registry: CategoryEntry[] = [
         group: "Display",
         description: "Collapsible card for AI tool invocations — shows the tool name, status (running / done / error) with spring-animated icon transitions, and an expandable input / output body.",
         file: "components/ai/tool-card.tsx",
-        badge: "new",
-        launchedAt: "2026-07-04",
         tags: ["display", "data", "feedback"],
         keywords: [
           "ai tool card react",
