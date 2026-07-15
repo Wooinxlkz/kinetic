@@ -385,20 +385,20 @@ export const previews: Record<string, ComponentType> = {
   "blocks/activity-feed": dynamic(() =>
     import("./blocks/activity-feed.preview").then((m) => m.ActivityFeedPreview),
   ),
-  "templates/hero-section": dynamic(() =>
-    import("./templates/hero-section.preview").then((m) => m.HeroSectionPreview),
+  "templates/saas-landing": dynamic(() =>
+    import("./templates/saas-landing.preview").then((m) => m.SaasLandingPreview),
   ),
-  "templates/pricing-section": dynamic(() =>
-    import("./templates/pricing-section.preview").then((m) => m.PricingSectionPreview),
+  "templates/auth-split": dynamic(() =>
+    import("./templates/auth-split.preview").then((m) => m.AuthSplitPreview),
   ),
-  "templates/features-section": dynamic(() =>
-    import("./templates/features-section.preview").then((m) => m.FeaturesSectionPreview),
+  "templates/pricing-page": dynamic(() =>
+    import("./templates/pricing-page.preview").then((m) => m.PricingPagePreview),
   ),
-  "templates/testimonials-section": dynamic(() =>
-    import("./templates/testimonials-section.preview").then((m) => m.TestimonialsSectionPreview),
+  "templates/waitlist": dynamic(() =>
+    import("./templates/waitlist.preview").then((m) => m.WaitlistPreview),
   ),
-  "templates/cta-section": dynamic(() =>
-    import("./templates/cta-section.preview").then((m) => m.CtaSectionPreview),
+  "templates/app-onboarding": dynamic(() =>
+    import("./templates/app-onboarding.preview").then((m) => m.AppOnboardingPreview),
   ),
 };
 
