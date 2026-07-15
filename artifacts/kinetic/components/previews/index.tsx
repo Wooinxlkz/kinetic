@@ -400,6 +400,36 @@ export const previews: Record<string, ComponentType> = {
   "templates/app-onboarding": dynamic(() =>
     import("./templates/app-onboarding.preview").then((m) => m.AppOnboardingPreview),
   ),
+  "motion/number-flow": dynamic(() =>
+    import("./motion/number-flow.preview").then((m) => m.NumberFlowPreview),
+  ),
+  "motion/spotlight-card": dynamic(() =>
+    import("./motion/spotlight-card.preview").then((m) => m.SpotlightCardPreview),
+  ),
+  "motion/toast": dynamic(() =>
+    import("./motion/toast.preview").then((m) => m.ToastPreview),
+  ),
+  "motion/reveal-text": dynamic(() =>
+    import("./motion/reveal-text.preview").then((m) => m.RevealTextPreview),
+  ),
+  "blocks/kanban-board": dynamic(() =>
+    import("./blocks/kanban-board.preview").then((m) => m.KanbanBoardPreview),
+  ),
+  "blocks/data-table": dynamic(() =>
+    import("./blocks/data-table.preview").then((m) => m.DataTablePreview),
+  ),
+  "blocks/media-gallery": dynamic(() =>
+    import("./blocks/media-gallery.preview").then((m) => m.MediaGalleryPreview),
+  ),
+  "ai/reasoning-steps": dynamic(() =>
+    import("./ai/reasoning-steps.preview").then((m) => m.ReasoningStepsPreview),
+  ),
+  "ai/source-citations": dynamic(() =>
+    import("./ai/source-citations.preview").then((m) => m.SourceCitationsPreview),
+  ),
+  "ai/file-attachment": dynamic(() =>
+    import("./ai/file-attachment.preview").then((m) => m.FileAttachmentPreview),
+  ),
 };
 
 export function getPreview(category: string, slug: string) {
