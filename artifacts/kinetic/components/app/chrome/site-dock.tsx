@@ -32,18 +32,17 @@ export function SiteDock() {
     setVtVariant(Math.random() < 0.5 ? "rectangle" : "circle");
   }, [isDark]);
 
-  // Slightly smaller dock items on narrow screens. On mobile the extra
-  // 4 icons don't fit beside the dock, so they pop up above it instead
-  // of expanding sideways (see isMobile / mobile tray below).
+  // On mobile the extra 4 icons don't fit beside the dock, so they pop up
+  // above it instead of expanding sideways (see isMobile / mobile tray below).
+  // Item size itself stays the same as desktop.
+  const itemSize = 36;
   const getIsMobile = () => typeof window !== "undefined" && !!window.matchMedia?.("(max-width: 639px)").matches;
-  const [itemSize, setItemSize] = useState(() => (getIsMobile() ? 30 : 36));
   const [isMobile, setIsMobile] = useState(getIsMobile);
   useEffect(() => {
     if (!window.matchMedia) return;
     const mq = window.matchMedia("(max-width: 639px)");
     function update() {
       setIsMobile(mq.matches);
-      setItemSize(window.innerWidth < 400 ? 26 : mq.matches ? 30 : 36);
     }
     update();
     mq.addEventListener?.("change", update);
@@ -290,7 +289,7 @@ export function SiteDock() {
               setExpanded((o) => !o);
             }}
             className={[
-              "flex w-5 items-center justify-center self-stretch sm:w-6",
+              "flex w-6 items-center justify-center self-stretch",
               "rounded-r-2xl border border-l-0 border-foreground/5",
               "bg-card/80 shadow-2xl backdrop-blur-xl",
               "transition-colors hover:bg-muted/50 active:scale-95",
@@ -302,7 +301,7 @@ export function SiteDock() {
               transition={{ type: "spring", stiffness: 400, damping: 28 }}
               className="flex"
             >
-              <ChevronRight className="h-2 w-2 sm:h-2.5 sm:w-2.5" />
+              <ChevronRight className="h-2.5 w-2.5" />
             </motion.span>
           </button>
         </Tooltip>
