@@ -13,6 +13,7 @@ import { ActionSwapIcon } from "@/components/motion/action-swap";
 import { ThemeToggle, useThemeToggle } from "@/components/motion/theme-toggle";
 import { Tooltip } from "@/components/motion/tooltip";
 import { useSettings } from "@/components/app/settings/settings-provider";
+import { cn } from "@/lib/utils";
 
 export function SiteDock() {
   const pathname = usePathname();
@@ -157,7 +158,7 @@ export function SiteDock() {
   }
 
   return (
-    <div className="pointer-events-none fixed inset-x-0 bottom-4 z-40 flex flex-col items-center gap-2 px-3 sm:bottom-6 sm:px-4">
+    <div className={cn("pointer-events-none fixed inset-x-0 bottom-4 flex flex-col items-center gap-2 px-3 sm:bottom-6 sm:px-4", isMobile && expanded ? "z-50" : "z-40")}>
       {/* ── Mobile: extra items pop up above the dock instead of expanding sideways ──
           A flex column sibling (not a descendant of the scrollable dock row below),
           so it can't get clipped by that row's overflow-x-auto. */}
@@ -169,7 +170,7 @@ export function SiteDock() {
             animate={{ opacity: 1, y: 0, scale: 1 }}
             exit={{ opacity: 0, y: 8, scale: 0.95 }}
             transition={{ type: "spring", stiffness: 380, damping: 30 }}
-            className="pointer-events-auto"
+            className="pointer-events-auto relative z-50"
           >
             <Dock size={itemSize} className="gap-1 px-1.5 py-1">
               <ExtraDockItems />
