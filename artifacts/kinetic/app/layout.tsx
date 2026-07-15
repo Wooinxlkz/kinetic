@@ -143,8 +143,9 @@ export default async function RootLayout({ children }: { children: React.ReactNo
                   <SiteFrame>{children}</SiteFrame>
                 </main>
                 <SiteDock />
-                {/* Kinetic AI panel — fixed bottom-right, independent of the dock */}
-                <div className="pointer-events-none fixed bottom-6 right-6 z-40 flex flex-col items-end justify-end">
+                {/* Kinetic AI panel — fixed bottom-right, independent of the dock.
+                    Sits higher on small screens so it clears the dock instead of stacking on it. */}
+                <div className="pointer-events-none fixed inset-x-4 bottom-24 z-40 flex flex-col items-end justify-end sm:inset-x-auto sm:bottom-6 sm:right-6">
                   <div className="pointer-events-auto">
                     <MorphPanel />
                   </div>

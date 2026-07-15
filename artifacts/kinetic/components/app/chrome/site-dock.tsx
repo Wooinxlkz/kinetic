@@ -32,6 +32,18 @@ export function SiteDock() {
     setVtVariant(Math.random() < 0.5 ? "rectangle" : "circle");
   }, [isDark]);
 
+  // Slightly smaller dock items on narrow screens so the expanded state
+  // (which adds 4 more icons) never overflows the viewport width.
+  const [itemSize, setItemSize] = useState(36);
+  useEffect(() => {
+    function update() {
+      setItemSize(window.innerWidth < 400 ? 30 : 36);
+    }
+    update();
+    window.addEventListener("resize", update);
+    return () => window.removeEventListener("resize", update);
+  }, []);
+
   // Close on click-outside
   useEffect(() => {
     if (!expanded) return;
@@ -52,21 +64,25 @@ export function SiteDock() {
   const isResume     = pathname === "/resume";
   const isDocs       = pathname.startsWith("/docs");
 
-  // 4 expanded items × size 32 = 128 px
-  const EXPANDED_WIDTH = 144;
+  // 4 expanded items, sized to match the main dock's items + their gaps,
+  // so the dock never overflows the viewport width when expanded.
+  const EXPANDED_WIDTH = itemSize * 4 + 18;
 
   return (
-    <div className="pointer-events-none fixed inset-x-0 bottom-6 z-40 flex justify-center px-4">
+    <div className="pointer-events-none fixed inset-x-0 bottom-4 z-40 flex justify-center px-3 sm:bottom-6 sm:px-4">
       {/*
         Split-pill: Dock (right edge open) + expand tab (left edge open).
         They share the same border/bg/height — look like one connected bar.
       */}
-      <div className="pointer-events-auto flex items-stretch" ref={containerRef}>
+      <div
+        className="pointer-events-auto flex max-w-full items-stretch overflow-x-auto rounded-2xl [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
+        ref={containerRef}
+      >
 
-        {/* ── Main dock — size 32, tight padding ── */}
+        {/* ── Main dock — tight padding ── */}
         <Dock
-          size={36}
-          className="gap-0 rounded-r-none border-r-0 border-foreground/5 pl-1.5 pr-0.5"
+          size={itemSize}
+          className="shrink-0 gap-0 rounded-r-none border-r-0 border-foreground/5 pl-1.5 pr-0.5"
         >
           <DockItem aria-label="Home" active={isHome}>
             <Tooltip content="Home" side="top" wrapperClassName="h-full w-full items-center justify-center">

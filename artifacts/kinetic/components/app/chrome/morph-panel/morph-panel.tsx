@@ -16,7 +16,7 @@ import { findAnswer, SUGGESTIONS, getFollowUps } from "@/components/kinetic";
 // form's *opacity* animates. This means there is exactly one thing
 // computing size on every frame (the outer spring), so nothing can race.
 
-const FORM_WIDTH        = 360;
+const FORM_WIDTH_MAX    = 360;
 const FORM_HEIGHT_EMPTY = 200;  // no conversation yet
 const FORM_HEIGHT_CHAT  = 460;  // conversation in progress
 const CHAR_DELAY        = 8;    // ms per character typewriter
@@ -72,6 +72,18 @@ export function MorphPanel() {
 
   const hasMessages = messages.length > 0;
   const formHeight  = hasMessages ? FORM_HEIGHT_CHAT : FORM_HEIGHT_EMPTY;
+
+  // Cap the panel width to the viewport so it never overflows small screens
+  // (the wrapper is inset-x-4 on mobile, so leave room for that gutter).
+  const [formWidth, setFormWidth] = React.useState(FORM_WIDTH_MAX);
+  React.useEffect(() => {
+    function update() {
+      setFormWidth(Math.min(FORM_WIDTH_MAX, window.innerWidth - 32));
+    }
+    update();
+    window.addEventListener("resize", update);
+    return () => window.removeEventListener("resize", update);
+  }, []);
 
   const triggerClose = React.useCallback(() => {
     setShowForm(false);
@@ -172,7 +184,7 @@ export function MorphPanel() {
         className="relative flex flex-col items-center overflow-hidden border border-foreground/8 bg-background/20 shadow-lg backdrop-blur-md"
         initial={false}
         animate={{
-          width:        showForm ? FORM_WIDTH : "auto",
+          width:        showForm ? formWidth : "auto",
           height:       showForm ? formHeight : 44,
           borderRadius: showForm ? 14 : 20,
         }}
@@ -182,6 +194,7 @@ export function MorphPanel() {
         <InputForm
           ref={textareaRef}
           bottomRef={bottomRef}
+          formWidth={formWidth}
           formHeight={formHeight}
           messages={messages}
           isThinking={isThinking}
@@ -241,6 +254,7 @@ function DockBar() {
 
 interface InputFormProps {
   bottomRef: React.RefObject<HTMLDivElement | null>;
+  formWidth: number;
   formHeight: number;
   messages: Message[];
   isThinking: boolean;
@@ -250,7 +264,7 @@ interface InputFormProps {
 }
 
 const InputForm = React.forwardRef<HTMLTextAreaElement, InputFormProps>(
-  function InputForm({ bottomRef, formHeight, messages, isThinking, followUps, onAsk, onClear }, ref) {
+  function InputForm({ bottomRef, formWidth, formHeight, messages, isThinking, followUps, onAsk, onClear }, ref) {
     const { showForm, triggerClose } = useFormContext();
     const btnRef = React.useRef<HTMLButtonElement>(null);
     const [dropdownOpen, setDropdownOpen] = React.useState(false);
@@ -294,7 +308,7 @@ const InputForm = React.forwardRef<HTMLTextAreaElement, InputFormProps>(
         onSubmit={handleSubmit}
         className="absolute bottom-0"
         style={{
-          width: FORM_WIDTH,
+          width: formWidth,
           height: formHeight,
           pointerEvents: showForm ? "all" : "none",
         }}

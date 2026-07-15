@@ -204,7 +204,7 @@ export function SiteHeader({
               href="https://github.com/Wooinxlkz/kinetic"
               target="_blank"
               rel="noreferrer noopener"
-              className="group inline-flex items-center gap-1.5 rounded-2xl border border-border bg-card/20 px-3 py-2 text-xs font-medium text-foreground hover:border-(--color-border-strong)"
+              className="group hidden items-center gap-1.5 rounded-2xl border border-border bg-card/20 px-3 py-2 text-xs font-medium text-foreground hover:border-(--color-border-strong) sm:inline-flex"
               aria-label={
                 formattedStarCount
                   ? `Star on GitHub, ${formattedStarCount} stars`
