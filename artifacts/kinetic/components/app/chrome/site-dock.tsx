@@ -32,16 +32,26 @@ export function SiteDock() {
     setVtVariant(Math.random() < 0.5 ? "rectangle" : "circle");
   }, [isDark]);
 
-  // Slightly smaller dock items on narrow screens so the expanded state
-  // (which adds 4 more icons) never overflows the viewport width.
-  const [itemSize, setItemSize] = useState(36);
+  // Slightly smaller dock items on narrow screens. On mobile the extra
+  // 4 icons don't fit beside the dock, so they pop up above it instead
+  // of expanding sideways (see isMobile / mobile tray below).
+  const getIsMobile = () => typeof window !== "undefined" && !!window.matchMedia?.("(max-width: 639px)").matches;
+  const [itemSize, setItemSize] = useState(() => (getIsMobile() ? 30 : 36));
+  const [isMobile, setIsMobile] = useState(getIsMobile);
   useEffect(() => {
+    if (!window.matchMedia) return;
+    const mq = window.matchMedia("(max-width: 639px)");
     function update() {
-      setItemSize(window.innerWidth < 400 ? 26 : 36);
+      setIsMobile(mq.matches);
+      setItemSize(window.innerWidth < 400 ? 26 : mq.matches ? 30 : 36);
     }
     update();
+    mq.addEventListener?.("change", update);
     window.addEventListener("resize", update);
-    return () => window.removeEventListener("resize", update);
+    return () => {
+      mq.removeEventListener?.("change", update);
+      window.removeEventListener("resize", update);
+    };
   }, []);
 
   // Close on click-outside
@@ -65,11 +75,103 @@ export function SiteDock() {
   const isDocs       = pathname.startsWith("/docs");
 
   // 4 expanded items, sized to match the main dock's items + their gaps,
-  // so the dock never overflows the viewport width when expanded.
+  // so the dock never overflows the viewport width when expanded (desktop only).
   const EXPANDED_WIDTH = itemSize * 4 + 18;
 
+  // Icons, Playground, Email, Settings — shared between the desktop inline
+  // expand and the mobile pop-up tray.
+  function ExtraDockItems() {
+    return (
+      <>
+        <DockItem aria-label="Icons" active={isIcons}>
+          <Tooltip content="Icons" side="top" wrapperClassName="h-full w-full items-center justify-center">
+            <Link href="/icons" aria-label="Icons" className="flex h-full w-full items-center justify-center">
+              <Shapes className="h-4 w-4" />
+            </Link>
+          </Tooltip>
+        </DockItem>
+
+        <DockItem aria-label="Playground" active={isPlayground}>
+          <Tooltip content="Playground" side="top" wrapperClassName="h-full w-full items-center justify-center">
+            <Link href="/playground" aria-label="Playground" className="flex h-full w-full items-center justify-center">
+              <Wand2 className="h-4 w-4" />
+            </Link>
+          </Tooltip>
+        </DockItem>
+
+        <DockItem aria-label="Copy email">
+          <Tooltip
+            content={emailCopied ? "Copied!" : "karimsc01t@gmail.com"}
+            side="top"
+            wrapperClassName="h-full w-full items-center justify-center"
+          >
+            <button
+              type="button"
+              aria-label="Copy email"
+              className="flex h-full w-full items-center justify-center"
+              onPointerEnter={() => setEmailHovered(true)}
+              onPointerLeave={() => setEmailHovered(false)}
+              onClick={() => {
+                navigator.clipboard.writeText("karimsc01t@gmail.com");
+                setEmailCopied(true);
+                setTimeout(() => setEmailCopied(false), 2000);
+              }}
+            >
+              <ActionSwapIcon
+                value={emailCopied ? "check" : emailHovered ? "copy" : "mail"}
+                animation="roll"
+                className="h-4 w-4"
+              >
+                {emailCopied ? (
+                  <Check className="h-4 w-4" />
+                ) : emailHovered ? (
+                  <Copy className="h-4 w-4" />
+                ) : (
+                  <Mail className="h-4 w-4" />
+                )}
+              </ActionSwapIcon>
+            </button>
+          </Tooltip>
+        </DockItem>
+
+        <DockItem aria-label="Settings">
+          <Tooltip content="Settings" side="top" wrapperClassName="h-full w-full items-center justify-center">
+            <button
+              type="button"
+              aria-label="Settings"
+              className="flex h-full w-full items-center justify-center"
+              onClick={() => { openSettings(); setExpanded(false); }}
+            >
+              <Settings className="h-4 w-4" />
+            </button>
+          </Tooltip>
+        </DockItem>
+      </>
+    );
+  }
+
   return (
-    <div className="pointer-events-none fixed inset-x-0 bottom-4 z-40 flex justify-center px-3 sm:bottom-6 sm:px-4">
+    <div className="pointer-events-none fixed inset-x-0 bottom-4 z-40 flex flex-col items-center gap-2 px-3 sm:bottom-6 sm:px-4">
+      {/* ── Mobile: extra items pop up above the dock instead of expanding sideways ──
+          A flex column sibling (not a descendant of the scrollable dock row below),
+          so it can't get clipped by that row's overflow-x-auto. */}
+      <AnimatePresence>
+        {isMobile && expanded && (
+          <motion.div
+            key="mobile-tray"
+            initial={{ opacity: 0, y: 8, scale: 0.95 }}
+            animate={{ opacity: 1, y: 0, scale: 1 }}
+            exit={{ opacity: 0, y: 8, scale: 0.95 }}
+            transition={{ type: "spring", stiffness: 380, damping: 30 }}
+            className="pointer-events-auto"
+          >
+            <Dock size={itemSize} className="gap-1 px-1.5 py-1">
+              <ExtraDockItems />
+            </Dock>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
       {/*
         Split-pill: Dock (right edge open) + expand tab (left edge open).
         They share the same border/bg/height — look like one connected bar.
@@ -78,7 +180,6 @@ export function SiteDock() {
         className="pointer-events-auto flex max-w-full items-stretch overflow-x-auto rounded-2xl [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
         ref={containerRef}
       >
-
         {/* ── Main dock — tight padding ── */}
         <Dock
           size={itemSize}
@@ -154,89 +255,25 @@ export function SiteDock() {
             </Tooltip>
           </DockItem>
 
-          {/* ── Inline expanded items: Icons, Playground, Email, Settings ── */}
-          <AnimatePresence initial={false}>
-            {expanded && (
-              <motion.div
-                key="extra-slots"
-                initial={{ width: 0, opacity: 0 }}
-                animate={{ width: EXPANDED_WIDTH, opacity: 1 }}
-                exit={{ width: 0, opacity: 0 }}
-                transition={{ type: "spring", stiffness: 380, damping: 30 }}
-                className="flex"
-                style={{ overflow: expandClipping ? "hidden" : "visible" }}
-                onAnimationComplete={() => { if (expanded) setExpandClipping(false); }}
-              >
-                {/* Icons */}
-                <DockItem aria-label="Icons" active={isIcons}>
-                  <Tooltip content="Icons" side="top" wrapperClassName="h-full w-full items-center justify-center">
-                    <Link href="/icons" aria-label="Icons" className="flex h-full w-full items-center justify-center">
-                      <Shapes className="h-4 w-4" />
-                    </Link>
-                  </Tooltip>
-                </DockItem>
-
-                {/* Playground */}
-                <DockItem aria-label="Playground" active={isPlayground}>
-                  <Tooltip content="Playground" side="top" wrapperClassName="h-full w-full items-center justify-center">
-                    <Link href="/playground" aria-label="Playground" className="flex h-full w-full items-center justify-center">
-                      <Wand2 className="h-4 w-4" />
-                    </Link>
-                  </Tooltip>
-                </DockItem>
-
-                {/* Email */}
-                <DockItem aria-label="Copy email">
-                  <Tooltip
-                    content={emailCopied ? "Copied!" : "karimsc01t@gmail.com"}
-                    side="top"
-                    wrapperClassName="h-full w-full items-center justify-center"
-                  >
-                    <button
-                      type="button"
-                      aria-label="Copy email"
-                      className="flex h-full w-full items-center justify-center"
-                      onPointerEnter={() => setEmailHovered(true)}
-                      onPointerLeave={() => setEmailHovered(false)}
-                      onClick={() => {
-                        navigator.clipboard.writeText("karimsc01t@gmail.com");
-                        setEmailCopied(true);
-                        setTimeout(() => setEmailCopied(false), 2000);
-                      }}
-                    >
-                      <ActionSwapIcon
-                        value={emailCopied ? "check" : emailHovered ? "copy" : "mail"}
-                        animation="roll"
-                        className="h-4 w-4"
-                      >
-                        {emailCopied ? (
-                          <Check className="h-4 w-4" />
-                        ) : emailHovered ? (
-                          <Copy className="h-4 w-4" />
-                        ) : (
-                          <Mail className="h-4 w-4" />
-                        )}
-                      </ActionSwapIcon>
-                    </button>
-                  </Tooltip>
-                </DockItem>
-
-                {/* Settings */}
-                <DockItem aria-label="Settings">
-                  <Tooltip content="Settings" side="top" wrapperClassName="h-full w-full items-center justify-center">
-                    <button
-                      type="button"
-                      aria-label="Settings"
-                      className="flex h-full w-full items-center justify-center"
-                      onClick={() => { openSettings(); setExpanded(false); }}
-                    >
-                      <Settings className="h-4 w-4" />
-                    </button>
-                  </Tooltip>
-                </DockItem>
-              </motion.div>
-            )}
-          </AnimatePresence>
+          {/* ── Desktop only: inline expand. Mobile uses the pop-up tray above instead. ── */}
+          {!isMobile && (
+            <AnimatePresence initial={false}>
+              {expanded && (
+                <motion.div
+                  key="extra-slots"
+                  initial={{ width: 0, opacity: 0 }}
+                  animate={{ width: EXPANDED_WIDTH, opacity: 1 }}
+                  exit={{ width: 0, opacity: 0 }}
+                  transition={{ type: "spring", stiffness: 380, damping: 30 }}
+                  className="flex"
+                  style={{ overflow: expandClipping ? "hidden" : "visible" }}
+                  onAnimationComplete={() => { if (expanded) setExpandClipping(false); }}
+                >
+                  <ExtraDockItems />
+                </motion.div>
+              )}
+            </AnimatePresence>
+          )}
         </Dock>
 
         {/*
