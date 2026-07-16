@@ -406,6 +406,9 @@ export const previews: Record<string, ComponentType> = {
   "motion/marker": dynamic(() =>
     import("./motion/marker.preview").then((m) => m.MarkerPreview),
   ),
+  "motion/avatar-ring": dynamic(() =>
+    import("./motion/avatar-ring.preview").then((m) => m.AvatarRingPreview),
+  ),
   "motion/toast": dynamic(() =>
     import("./motion/toast.preview").then((m) => m.ToastPreview),
   ),

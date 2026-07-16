@@ -113,21 +113,43 @@ export function Marker({
         )}
 
         {variant === "circle" && (
+          /*
+           * Organic hand-drawn oval — a <path> is used (not <ellipse>) so
+           * pathLength animation works correctly and the stroke "draws in"
+           * like a real marker stroke. The path is in a fixed viewBox and
+           * deliberately slightly imperfect for an authentic feel.
+           */
           <svg
             className="absolute inset-0 h-full w-full overflow-visible"
+            viewBox="0 0 100 38"
             preserveAspectRatio="none"
+            style={{ transform: "rotate(-2deg)", transformOrigin: "center" }}
           >
-            <motion.ellipse
-              cx="50%" cy="52%"
-              rx="51%" ry="44%"
+            {/* Faint fill so the highlight reads even before hover */}
+            <ellipse cx="50" cy="19" rx="52" ry="20" fill={fill} />
+            {/* The animated stroke that draws in */}
+            <motion.path
+              d="M 50,2 C 88,-4 106,9 102,19 C 98,31 76,40 50,38 C 24,40 2,31 -2,19 C -6,9 12,-4 50,2"
               fill="none"
               stroke={stroke}
-              strokeWidth="2.5"
+              strokeWidth="3"
               strokeLinecap="round"
-              initial={reduced ? { pathLength: 1, rotate: -90 } : { pathLength: 0, rotate: -90 }}
-              animate={{ pathLength: 1, rotate: -90 }}
-              style={{ transformOrigin: "center" }}
-              transition={{ duration: duration * 1.4, delay, ease: [0.16, 1, 0.3, 1] }}
+              strokeLinejoin="round"
+              initial={reduced ? { pathLength: 1 } : { pathLength: 0 }}
+              animate={{ pathLength: 1 }}
+              transition={{ duration: duration * 1.5, delay, ease: [0.16, 1, 0.3, 1] }}
+            />
+            {/* Tiny overlap tail for the "closed loop" marker look */}
+            <motion.path
+              d="M 50,2 C 62,-1 72,0 78,3"
+              fill="none"
+              stroke={stroke}
+              strokeWidth="3"
+              strokeLinecap="round"
+              opacity={0.6}
+              initial={reduced ? { pathLength: 1 } : { pathLength: 0 }}
+              animate={{ pathLength: 1 }}
+              transition={{ duration: 0.2, delay: delay + duration * 1.5, ease: [0.16, 1, 0.3, 1] }}
             />
           </svg>
         )}

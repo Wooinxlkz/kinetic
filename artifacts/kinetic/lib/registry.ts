@@ -761,6 +761,24 @@ export const registry: CategoryEntry[] = [
         ],
       },
       {
+        slug: "avatar-ring",
+        name: "Avatar Ring",
+        group: "Avatar",
+        description:
+          "Avatar with an animated ring that signals context: rotating story gradient, pulsing live indicator with badge, solid active accent, or dashed typing ring with bouncing dots.",
+        file: "components/motion/avatar-ring.tsx",
+        badge: "new",
+        launchedAt: "2026-07-16",
+        tags: ["display", "avatar", "animation", "interaction"],
+        keywords: [
+          "avatar ring react",
+          "story ring avatar",
+          "instagram avatar react",
+          "live indicator avatar",
+          "animated avatar react",
+        ],
+      },
+      {
         slug: "combobox",
         name: "Combobox",
         group: "Form",
