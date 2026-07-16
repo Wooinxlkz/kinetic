@@ -88,12 +88,15 @@ export function AvatarRing({
 
     if (ring === "typing") {
       return (
-        <motion.div
-          aria-hidden
-          className="absolute inset-0 rounded-full bg-muted-foreground/30"
-          animate={reduced ? {} : { opacity: [0.4, 0.9, 0.4] }}
-          transition={{ duration: 1.6, repeat: Infinity, ease: "easeInOut" }}
-        />
+        <>
+          <motion.div
+            aria-hidden
+            className="absolute inset-0 rounded-full bg-blue-500"
+            animate={reduced ? {} : { scale: [1, 1.14, 1], opacity: [0.9, 0.5, 0.9] }}
+            transition={{ duration: 1.3, repeat: Infinity, ease: "easeInOut" }}
+          />
+          <div aria-hidden className="absolute inset-0 rounded-full bg-blue-500" />
+        </>
       );
     }
 
