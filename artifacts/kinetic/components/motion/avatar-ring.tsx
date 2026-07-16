@@ -88,15 +88,12 @@ export function AvatarRing({
 
     if (ring === "typing") {
       return (
-        <>
-          <motion.div
-            aria-hidden
-            className="absolute inset-0 rounded-full bg-blue-500"
-            animate={reduced ? {} : { scale: [1, 1.14, 1], opacity: [0.9, 0.5, 0.9] }}
-            transition={{ duration: 1.3, repeat: Infinity, ease: "easeInOut" }}
-          />
-          <div aria-hidden className="absolute inset-0 rounded-full bg-blue-500" />
-        </>
+        <motion.div
+          aria-hidden
+          className="absolute inset-0 rounded-full bg-muted-foreground/30"
+          animate={reduced ? {} : { opacity: [0.4, 0.9, 0.4] }}
+          transition={{ duration: 1.6, repeat: Infinity, ease: "easeInOut" }}
+        />
       );
     }
 
@@ -146,9 +143,9 @@ export function AvatarRing({
         )}
       </button>
 
-      {/* ── Typing bubble badge ── */}
+      {/* ── Typing dots badge — same position as LIVE badge ── */}
       {ring === "typing" && (
-        <div className="absolute -bottom-1 -right-1 flex items-center gap-[3px] rounded-full bg-card px-2 py-1 shadow-md ring-1 ring-border">
+        <div className="absolute -bottom-1.5 left-1/2 -translate-x-1/2 flex items-center gap-[3px] rounded-full bg-card px-2 py-1 shadow-md ring-1 ring-border">
           {[0, 0.18, 0.36].map((delay, i) => (
             <motion.span
               key={i}
