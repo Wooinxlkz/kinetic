@@ -1071,13 +1071,13 @@ export const registry: CategoryEntry[] = [
       },
       {
         slug: "spotlight-card",
-        name: "Spotlight Card",
+        name: "Holographic Card",
         group: "Card",
-        description: "Card with a cursor-tracked radial spotlight that follows the pointer and fades out on leave. Composable — accepts any children.",
+        description: "Holographic foil card with spring-physics 3-D tilt, prismatic rainbow shimmer, cursor-tracked glare, and pulsing sparkle dots — all driven by mouse position. Accepts any children.",
         file: "components/motion/spotlight-card.tsx",
         badge: "new",
         launchedAt: "2026-07-15",
-        tags: ["interaction", "hover", "card", "display"],
+        tags: ["interaction", "hover", "card", "display", "3d"],
       },
       {
         slug: "combobox",
