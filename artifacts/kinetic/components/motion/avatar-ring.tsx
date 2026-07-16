@@ -88,9 +88,11 @@ export function AvatarRing({
 
     if (ring === "typing") {
       return (
-        <div
+        <motion.div
           aria-hidden
-          className="absolute inset-0 rounded-full border-[3px] border-dashed border-muted-foreground/40"
+          className="absolute inset-0 rounded-full bg-muted-foreground/30"
+          animate={reduced ? {} : { opacity: [0.4, 0.9, 0.4] }}
+          transition={{ duration: 1.6, repeat: Infinity, ease: "easeInOut" }}
         />
       );
     }
@@ -141,15 +143,15 @@ export function AvatarRing({
         )}
       </button>
 
-      {/* ── Typing dots ── */}
+      {/* ── Typing bubble badge ── */}
       {ring === "typing" && (
-        <div className="flex items-center gap-1" aria-label="typing">
-          {[0, 0.15, 0.3].map((delay, i) => (
+        <div className="absolute -bottom-1 -right-1 flex items-center gap-[3px] rounded-full bg-card px-2 py-1 shadow-md ring-1 ring-border">
+          {[0, 0.18, 0.36].map((delay, i) => (
             <motion.span
               key={i}
-              className="h-1.5 w-1.5 rounded-full bg-muted-foreground/60"
-              animate={reduced ? {} : { y: [0, -5, 0] }}
-              transition={{ duration: 0.55, delay, repeat: Infinity, ease: "easeInOut" }}
+              className="h-[5px] w-[5px] rounded-full bg-muted-foreground"
+              animate={reduced ? {} : { y: [0, -3, 0], opacity: [0.4, 1, 0.4] }}
+              transition={{ duration: 0.6, delay, repeat: Infinity, ease: "easeInOut" }}
             />
           ))}
         </div>
