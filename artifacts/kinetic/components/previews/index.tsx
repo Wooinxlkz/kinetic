@@ -467,6 +467,22 @@ export const previews: Record<string, ComponentType> = {
   "ai/ai-code-block": dynamic(() =>
     import("./ai/ai-code-block.preview").then((m) => m.AiCodeBlockPreview),
   ),
+  // --- New components batch 3 (2026-07-15) ---
+  "motion/magnetic-button": dynamic(() =>
+    import("./motion/magnetic-button.preview").then((m) => m.MagneticButtonPreview),
+  ),
+  "motion/elastic-slider": dynamic(() =>
+    import("./motion/elastic-slider.preview").then((m) => m.ElasticSliderPreview),
+  ),
+  "blocks/receipt": dynamic(() =>
+    import("./blocks/receipt.preview").then((m) => m.ReceiptPreview),
+  ),
+  "ai/confidence-meter": dynamic(() =>
+    import("./ai/confidence-meter.preview").then((m) => m.ConfidenceMeterPreview),
+  ),
+  "ai/diff-viewer": dynamic(() =>
+    import("./ai/diff-viewer.preview").then((m) => m.DiffViewerPreview),
+  ),
 };
 
 export function getPreview(category: string, slug: string) {
