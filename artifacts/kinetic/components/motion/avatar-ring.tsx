@@ -145,7 +145,7 @@ export function AvatarRing({
 
       {/* ── Typing dots badge — same position as LIVE badge ── */}
       {ring === "typing" && (
-        <div className="absolute -bottom-1 -right-1 flex items-center gap-[3px] rounded-full bg-card px-2 py-1 shadow-md ring-1 ring-border">
+        <div className="absolute -bottom-1.5 left-1/2 -translate-x-1/2 flex items-center gap-[3px] rounded-full bg-card px-2 py-1 shadow-md ring-1 ring-border">
           {[0, 0.18, 0.36].map((delay, i) => (
             <motion.span
               key={i}
