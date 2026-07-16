@@ -403,8 +403,8 @@ export const previews: Record<string, ComponentType> = {
   "motion/number-flow": dynamic(() =>
     import("./motion/number-flow.preview").then((m) => m.NumberFlowPreview),
   ),
-  "motion/spotlight-card": dynamic(() =>
-    import("./motion/spotlight-card.preview").then((m) => m.SpotlightCardPreview),
+  "motion/marker": dynamic(() =>
+    import("./motion/marker.preview").then((m) => m.MarkerPreview),
   ),
   "motion/toast": dynamic(() =>
     import("./motion/toast.preview").then((m) => m.ToastPreview),
