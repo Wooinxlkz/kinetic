@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "motion/react";
-import { ArrowRight, ArrowUpRight, Sparkles } from "lucide-react";
+import { ArrowRight, ArrowUpRight, Flame } from "lucide-react";
 import { EASE_OUT } from "@/lib/ease";
 import { PressLink } from "@/components/app/press-link";
 import { TextReveal } from "@/components/motion/text-reveal";
@@ -32,7 +32,7 @@ export function Hero() {
           rel="noreferrer noopener"
           className="group mb-7 inline-flex min-h-9 items-center gap-2 rounded-full border border-border bg-card px-3 text-xs font-medium text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent"
         >
-          <Sparkles className="h-3 w-3 text-accent" />
+          <Flame className="h-3 w-3 text-accent" />
           {INSTALLABLE_COUNT} components · {ICON_COUNT} icons · Tailwind 4 + React 19
           <ArrowUpRight className="h-3 w-3 text-muted-foreground transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
         </PressLink>
