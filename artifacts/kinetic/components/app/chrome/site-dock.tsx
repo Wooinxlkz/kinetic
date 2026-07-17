@@ -4,7 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import {
   BookOpen, Check, ChevronRight, Copy, Home, Mail,
-  ScrollText, VenetianMask, Blocks, Shapes, Wand2, Settings, Globe,
+  ScrollText, Blocks, Shapes, Wand2, Settings, Globe,
 } from "lucide-react";
 import { useEffect, useRef, useState } from "react";
 import { AnimatePresence, motion } from "motion/react";
@@ -217,19 +217,6 @@ export function SiteDock() {
           </DockItem>
 
           <DockSeparator className="mx-0.5 h-4" />
-
-          <DockItem aria-label="Portfolio">
-            <Tooltip content="Portfolio" side="top" wrapperClassName="h-full w-full items-center justify-center">
-              <Link
-                href="https://nulltrace--nqck540xvc.replit.app/"
-                target="_blank" rel="noreferrer noopener"
-                aria-label="Portfolio"
-                className="flex h-full w-full items-center justify-center"
-              >
-                <VenetianMask className="h-4 w-4" />
-              </Link>
-            </Tooltip>
-          </DockItem>
 
           <DockItem aria-label="Resume" active={isResume}>
             <Tooltip content="Resume" side="top" wrapperClassName="h-full w-full items-center justify-center">

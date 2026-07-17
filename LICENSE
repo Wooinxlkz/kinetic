@@ -1,78 +1,51 @@
-PolyForm Noncommercial License 1.0.0
-
+Kinetic Source License
 Copyright (c) 2025 Nulltrace Team — Kinetic
 https://github.com/Wooinxlkz/kinetic
 
-Acceptance
+────────────────────────────────────────────────────────────────────────────────
+PERSONAL USE
+────────────────────────────────────────────────────────────────────────────────
 
-In order to get any license under these terms, you must agree to
-them as both strict obligations and conditions to all your licenses.
+You are granted a free, non-exclusive, non-transferable license to use, copy,
+and modify this software solely for personal, non-commercial purposes, including:
 
-Copyright License
+  - Personal side projects with no revenue or clients
+  - Learning, research, and evaluation
+  - Open-source projects that are entirely free and generate no income
 
-The licensor grants you a copyright license for the software to do
-everything you might do with the software for noncommercial purposes
-that doesn't conflict with these terms. However, the licensor grants
-you no license for the software under any patent claims the licensor
-can license, or you need to make, under 35 U.S.C. § 271(b) or (c).
+This personal-use grant is conditioned on the following:
+  - You must retain this license and copyright notice in all copies.
+  - You may not sublicense or re-sell this software or any derivative works.
 
-Noncommercial Purposes
+────────────────────────────────────────────────────────────────────────────────
+COMMERCIAL USE — REQUIRES A LICENSE
+────────────────────────────────────────────────────────────────────────────────
 
-Any noncommercial purpose is permitted. Examples of noncommercial
-purposes include research, evaluation, personal projects, and free
-open source projects.
-
-Commercial Use
-
-Commercial use of this software is not permitted under this license.
+Any use that does not qualify as personal use above is commercial use.
 Commercial use includes, but is not limited to:
-  - Using this software to provide services to others for payment
-  - Incorporating this software into a product or service sold or
-    licensed for a fee
-  - Using this software in the course of professional services
 
-If you wish to use this software for commercial purposes, you must
-obtain a separate commercial license from the licensor by contacting:
+  - Using this software in a product or service that generates revenue
+  - Offering this software (or a derivative) to clients or customers
+  - Embedding it in a SaaS product, paid template, theme, or UI kit
+  - Using it in agency or freelance work delivered to a third party
+  - Any use within a company or organization, whether for-profit or not
 
-  karimsc01t@gmail.com
+To use this software commercially, you must obtain a paid commercial license
+OR receive explicit written permission from the copyright holder.
 
-Notices
+  Contact: karimsc01t@gmail.com
 
-You must ensure that anyone who gets a copy of any part of the
-software from you also gets a copy of these terms or the URL for
-them above, as well as copies of any plain-text lines beginning with
-"Required Notice:" that the licensor provides with the software.
+Unauthorized commercial use is a violation of this license and applicable
+copyright law.
 
-No Other Rights
+────────────────────────────────────────────────────────────────────────────────
+NO WARRANTY
+────────────────────────────────────────────────────────────────────────────────
 
-These terms do not allow you to sublicense or transfer any of your
-licenses to anyone else, or prevent the licensor from granting
-licenses to anyone else.
-
-Patent Defense
-
-If you make any written claim that the software infringes or
-contributes to infringement of any patent, your license for the
-software granted under these terms ends immediately. If your employer
-makes such a claim, your license ends immediately for work on behalf
-of your employer.
-
-Violations
-
-The first time you are notified in writing that you have violated any
-of these terms, or done anything with the software not covered by
-your licenses, the violation is automatically remedied provided you
-also:
-  - make a reasonable effort to stop the violation
-  - remedy all harm caused by the violation
-
-Warranty Disclaimer
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
-BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
-ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.

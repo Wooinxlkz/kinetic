@@ -27,7 +27,7 @@ export function SiteFooter() {
             <p className="mt-5 text-xs text-muted-foreground">
               Created by{" "}
               <Link
-                href="https://nulltrace--nqck540xvc.replit.app/"
+                href="https://github.com/Wooinxlkz"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="font-medium text-foreground underline-offset-2 hover:underline"
